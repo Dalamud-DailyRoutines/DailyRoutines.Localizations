@@ -1333,5 +1333,6 @@
     "Module": "Module",
     "ReloadModules": "Reload Modules",
     "LocalModules": "Local Modules",
-    "Path": "Path"
+    "Path": "Path",
+    "Settings-AddLocalModuleHelp": "Absolute Path Only"
 }
