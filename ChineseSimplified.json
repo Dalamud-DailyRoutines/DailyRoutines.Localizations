@@ -1338,5 +1338,17 @@
     "AutoPelotonTitle":"自动速行",
     "AutoPelotonDescription":"若当前为远程敏捷职业, 则在移动时自动使用速行技能",
     "AutoPeloton-OnlyInDuty":"仅在副本内自动使用",
-    "AutoPeloton-DisableInWalk":"行走模式下自动禁用"
+    "AutoPeloton-DisableInWalk":"行走模式下自动禁用",
+    "RecordGameTimeLeft": "记录剩余游戏时间",
+    "RecordGameTimeLeftDesc": "自动记录剩余时间，可选在服务器信息栏显示到期时间。",
+    "RecordGameTimeLeft-CommandHelp": "开启/关闭 服务器栏显示",
+    "RecordGameTimeLeft-ReferOnly": "仅供参考，实际时间会有分钟级误差。",
+    "RecordGameTimeLeft-MonthSubscribe": "已购买月卡，无法获取剩余时间。",
+    "RecordGameTimeLeft-LastRecordTime": "上次记录：",
+    "RecordGameTimeLeft-TimeTill": "时间至：",
+    "RecordGameTimeLeft-NoData": "暂无数据。请重新登录游戏。",
+    "RecordGameTimeLeft-DisplayOnBar": "在信息栏显示",
+    "RecordGameTimeLeft-DisplayOn": "已开启信息栏显示",
+    "RecordGameTimeLeft-DisplayOff": "已关闭信息栏显示",
+    "RecordGameTimeLeft-Reset": "重置记录"
 }
