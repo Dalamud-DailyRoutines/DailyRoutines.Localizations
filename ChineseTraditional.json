@@ -1334,5 +1334,16 @@
     "ReloadModules": "重載模塊",
     "LocalModules": "本地模塊",
     "Path": "路徑",
-    "Settings-AddLocalModuleHelp": "請填寫目標本地模塊的絕對路徑"
+    "Settings-AddLocalModuleHelp": "請填寫目標本地模塊的絕對路徑",
+    "AutoPelotonTitle": "自動速行",
+    "AutoPelotonDescription": "若當前為遠程敏捷職業, 則在移動時自動使用速行技能",
+    "AutoPeloton-OnlyInDuty": "僅在副本內自動使用",
+    "AutoPeloton-DisableInWalk": "行走模式下自動禁用",
+    "AutoRecordSubTimeLeftTitle": "自動記錄剩餘點卡時間",
+    "AutoRecordSubTimeLeftDescription": "登錄時, 自動記錄保存當前賬號剩餘的點卡時間, 並顯示在服務器信息欄",
+    "AutoRecordSubTimeLeft-MonthSubscribe": "當前賬號已購買月卡, 無法顯示剩餘點卡時間",
+    "AutoRecordSubTimeLeft-LastRecordTime": "上次記錄",
+    "AutoRecordSubTimeLeft-TimeTill": "剩餘時間",
+    "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
+    "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄"
 }

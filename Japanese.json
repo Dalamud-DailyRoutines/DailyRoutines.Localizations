@@ -37,7 +37,7 @@
     "AutoGardensWork-AutoGather": "自動収穫",
     "AutoGardensWork-AutoPlant": "自動種蒔き",
     "AutoGardensWork-AutoTend": "自動手入れ",
-    "AutoGardensWork-Fertilizer": "ひりょう",
+    "AutoGardensWork-Fertilizer": "肥料",
     "AutoGardensWork-Seed": "種",
     "AutoGardensWork-Soil": "土",
     "AutoGardensWorkDescription": "栽培関連の作業を自動か半自動的に処理します（種蒔き、収穫、肥料やり、手入れなど）",
