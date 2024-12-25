@@ -443,6 +443,7 @@
     "AutoSwitchIMEWhenInput-InadequateIMEHelp": "オペレーティングシステムに2つ以上の異なる言語の入力方法がインストールされている場合にのみ有効です",
     "None": "なし",
     "AutoLeveQuests-NoLevesHelp": "現在のエリアには利用可能なリーヴがありません",
+    "AutoCheckFoodUsage-SendNotice": "",
     "Food": "調理品",
     "Settings-ModuleConfiguration": "モジュール設定",
     "Settings-ResetModule": "モジュールリセット",
@@ -549,17 +550,5 @@
     "ExpandActionRange-ExpandRange": "アクション範囲拡大",
     "Settings-Auth-ExpireNotification": "認証タイプ：{0}\n有効期限：{1}\n残り時間：{2} 日",
     "Settings-Auth-FailContactingServer": "オンライン認証情報の取得に失敗しました、ローカルネットワーク設定を確認してください",
-    "Settings-Auth-OnlineAuthInfo": "オンライン認証情報",
-    "AutoSortItemsTitle": "アイテム自動整頓",
-    "AutoSortItemsDescription": "マップ切り替え時に、兵装庫を含むアイテムを自動整頓します",
-    "Asc": "昇順",
-    "Desc": "降順",
-    "Gear": "兵装",
-    "Tab": "タブ分け",
-    "UnTab": "タブ分けしない",
-    "AutoSortItems-ArmouryCategoryDesc": "降順の場合は生産職が先、戦闘職が後に並びます",
-    "AutoSortItems-InventoryCategoryDesc": "降順の場合は生産素材が石より前、食べ物や薬は花火や幻カードより前に並びます",
-    "AutoSortItems-InventoryTabDesc": "タブ分けする場合、装備は最初のページに、それ以外のアイテムは後続のページに表示されます",
-    "AutoSortItems-SendSortMessage": "整理完了時の通知を送信するかどうか",
-    "AutoSortItems-SortMessage": "アイテムの自動整頓が完了しました"
+    "Settings-Auth-OnlineAuthInfo": "オンライン認証情報"
 }

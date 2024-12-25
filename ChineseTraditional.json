@@ -1347,20 +1347,5 @@
     "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
     "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄",
     "AutoVerEasyQuestBattleTitle": "自動任務戰鬥非常簡單",
-    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
-    "FixedPetPositionTitle": "固定召喚物位置",
-    "FixedPetPositionDescription": "進入八人副本後，若當前場上存在自身召喚物，則自動將召喚物固定於指定位置",
-    "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)",
-    "AutoSortItemsTitle":"自動整理物品",
-    "AutoSortItemsDescription":"切換地圖時自動整理物品，包括兵裝庫",
-    "Asc":"升序",
-    "Desc":"降序",
-    "Gear":"兵裝",
-    "Tab":"分頁",
-    "UnTab":"不分頁",
-    "AutoSortItems-ArmouryCategoryDesc":"降序的話，生產在前，戰職在後",
-    "AutoSortItems-InventoryCategoryDesc":"降序的話，生產素材會在石頭之前，食物和藥會在煙花幻卡之前",
-    "AutoSortItems-InventoryTabDesc":"分頁的話，裝備會在第一頁，其他物品會在後面幾頁",
-    "AutoSortItems-SendSortMessage":"是否發送整理通知",
-    "AutoSortItems-SortMessage":"自動整理物品完成"
+    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單"
 }

@@ -1334,17 +1334,5 @@
     "ReloadModules": "Reload Modules",
     "LocalModules": "Local Modules",
     "Path": "Path",
-    "Settings-AddLocalModuleHelp": "Absolute Path Only",
-    "AutoSortItemsTitle": "Auto Sort Items",
-    "AutoSortItemsDescription": "Automatically sort items (including the Armoury) when switching maps",
-    "Asc": "Ascending",
-    "Desc": "Descending",
-    "Gear": "Gear",
-    "Tab": "Tab",
-    "UnTab": "No Tab",
-    "AutoSortItems-ArmouryCategoryDesc": "If descending, crafting classes come first, followed by battle classes",
-    "AutoSortItems-InventoryCategoryDesc": "If descending, crafting materials appear before stones, and food and potions appear before fireworks or illusions",
-    "AutoSortItems-InventoryTabDesc": "If tabbed, equipment goes on the first page, and other items go on the following pages",
-    "AutoSortItems-SendSortMessage": "Whether to send a notification after sorting",
-    "AutoSortItems-SortMessage": "Auto sort of items completed"
+    "Settings-AddLocalModuleHelp": "Absolute Path Only"
 }
