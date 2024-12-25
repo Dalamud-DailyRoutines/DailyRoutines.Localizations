@@ -1350,6 +1350,5 @@
     "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
     "FixedPetPositionTitle": "固定召喚物位置",
     "FixedPetPositionDescription": "進入八人副本後，若當前場上存在自身召喚物，則自動將召喚物固定於指定位置",
-    "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)",
-    "FixedPetPosition-Config": "配置副本與召喚物移動時間點："
+    "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)"
 }
