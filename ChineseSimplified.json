@@ -1362,5 +1362,8 @@
     "AutoSortItems-InventoryTabDesc":"分页情况下: 装备单独成页, 其他物品单独成页",
     "AutoSortItems-SortMessage":"自动整理物品完成",
     "AutoSortItems-Splited": "分栏",
-    "AutoSortItems-Merged": "不分栏"
+    "AutoSortItems-Merged": "不分栏",
+    "FriendlistTeleporterTitle": "好友列表右键传送",
+    "FriendlistTeleporterDescription": "允许右键好友列表中同服好友, 传送到好友所在区域",
+    "FriendlistTeleporter-MenuItemTeleport": "传送到好友所在区域"
 }
