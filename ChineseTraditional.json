@@ -1347,5 +1347,20 @@
     "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
     "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄",
     "AutoVerEasyQuestBattleTitle": "自動任務戰鬥非常簡單",
-    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單"
+    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
+    "AutoMovePetPositionTitle": "自動移動召喚物位置",
+    "AutoMovePetPositionDescription": "配置完成並進入八人副本後, 若當前場上存在自身召喚物, 則根據設定時間軸自動將召喚物移動至指定位置",
+    "AutoMovePetPosition-Delay": "戰鬥開始後時間",
+    "AutoMovePetPosition-GetCurrent": "獲取玩家當前位置",
+    "AutoMovePetPosition-GetMouseHelp": "單擊後, 請用鼠標指向目標位置，按 Ctrl + Alt 確定",
+    "AutoSortItemsTitle": "自動整理物品",
+    "AutoSortItemsDescription": "配置完成後, 在切換區域時自動按照預設規則整理背包與兵裝庫",
+    "Ascending": "升序",
+    "Descending": "降序",
+    "AutoSortItems-ArmouryCategoryDesc": "降序情況下: 生產採集裝備在前, 戰鬥裝備在後",
+    "AutoSortItems-InventoryCategoryDesc": "降序情況下: 生產採集素材 > 魔晶石 > 食藥 > 雜貨",
+    "AutoSortItems-InventoryTabDesc": "分頁情況下: 裝備單獨成頁, 其他物品單獨成頁",
+    "AutoSortItems-SortMessage": "自動整理物品完成",
+    "AutoSortItems-Splited": "分欄",
+    "AutoSortItems-Merged": "不分欄"
 }
