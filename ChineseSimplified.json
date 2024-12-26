@@ -1365,5 +1365,6 @@
     "AutoSortItems-Merged": "不分栏",
     "FriendlistTeleporterTitle": "好友列表右键传送",
     "FriendlistTeleporterDescription": "允许右键好友列表中同服好友, 传送到好友所在区域",
-    "FriendlistTeleporter-MenuItemTeleport": "传送到好友所在区域"
+    "FriendlistTeleporter-MenuItemTeleport": "传送到好友所在区域",
+    "FriendlistTeleporter-MenuItemCrossWorld": "传送到好友所在服务器"
 }
