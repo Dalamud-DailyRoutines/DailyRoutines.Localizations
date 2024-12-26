@@ -1386,5 +1386,7 @@
     "FriendlistTeleporterTitle": "好友列表右键传送",
     "FriendlistTeleporterDescription": "允许右键好友列表中的好友, 传送到好友所在区域, 或跨界传送到好友所在服务器",
     "FriendlistTeleporter-MenuItemTeleport": "传送到好友所在区域",
-    "FriendlistTeleporter-MenuItemCrossWorld": "传送到好友所在服务器"
+    "FriendlistTeleporter-MenuItemCrossWorld": "传送到好友所在服务器",
+    "ShowStatusRemainingTimeTitle": "显示长时增益效果的具体结束时间",
+    "ShowStatusRemainingTimeDescription": "以小时:分钟的格式代替原先的 X 小时"
 }
