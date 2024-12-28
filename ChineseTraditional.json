@@ -1386,5 +1386,8 @@
     "FriendlistTeleporterTitle": "好友列表右鍵傳送",
     "FriendlistTeleporterDescription": "允許右鍵好友列表中的好友, 傳送到好友所在區域, 或跨界傳送到好友所在服務器",
     "FriendlistTeleporter-MenuItemTeleport": "傳送到好友所在區域",
-    "FriendlistTeleporter-MenuItemCrossWorld": "傳送到好友所在服務器"
+    "FriendlistTeleporter-MenuItemCrossWorld": "傳送到好友所在服務器",
+    "Notification": "通知",
+    "Show": "顯示",
+    "Mark": "標記"
 }
