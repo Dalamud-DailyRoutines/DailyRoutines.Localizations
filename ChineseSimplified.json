@@ -1392,6 +1392,6 @@
     "Mark": "标记",
     "AutoLucidDreamingTitle": "自动醒梦",
     "AutoLucidDreamingDescription": "使用法系职业时，当蓝量低于设定值，自动尝试释放醒梦",
-    "AutoLucidDreaming-Threshold": "蓝量阈值",
+    "AutoLucidDreaming-LucidDreamingThreshold": "蓝量阈值",
     "AutoLucidDreaming-OnlyInCombat": "仅在战斗中自动使用"
 }
