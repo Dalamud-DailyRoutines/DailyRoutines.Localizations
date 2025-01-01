@@ -1391,5 +1391,8 @@
     "Show": "顯示",
     "Mark": "標記",
     "IgnoreTurnAndLookAtWaitTitle": "自動取消 NPC 轉身及視線調整等待",
-    "IgnoreTurnAndLookAtWaitDescription": "自動取消交互 NPC 時, 若不在其正面一定角度範圍內, 則需要等待其轉身及調整視線的等待時間"
+    "IgnoreTurnAndLookAtWaitDescription": "自動取消交互 NPC 時, 若不在其正面一定角度範圍內, 則需要等待其轉身及調整視線的等待時間",
+    "RealQueuePosition-ETA": "當前等待時間: {0} / 預計剩餘時間: {1}",
+    "IgnoreTransparencyWaitTitle": "自動取消 NPC 淡入淡出等待",
+    "IgnoreTransparencyWaitDescription": "自動取消與 NPC 對話時, 對方因淡入淡出演出所產生的等待時間"
 }
