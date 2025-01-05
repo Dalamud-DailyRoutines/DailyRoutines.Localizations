@@ -1341,7 +1341,6 @@
     "AutoPeloton-DisableInWalk": "行走模式下自動禁用",
     "AutoRecordSubTimeLeftTitle": "自動記錄剩餘點卡時間",
     "AutoRecordSubTimeLeftDescription": "登錄時, 自動記錄保存當前賬號剩餘的點卡時間, 並顯示在服務器信息欄",
-    "AutoRecordSubTimeLeft-MonthSubscribe": "當前賬號已購買月卡, 無法顯示剩餘點卡時間",
     "AutoRecordSubTimeLeft-LastRecordTime": "上次記錄",
     "AutoRecordSubTimeLeft-TimeTill": "剩餘時間",
     "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
