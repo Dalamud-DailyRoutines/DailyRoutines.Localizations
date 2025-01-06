@@ -1345,6 +1345,8 @@
     "AutoRecordSubTimeLeft-TimeTill": "剩餘時間",
     "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
     "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄",
+    "AutoRecordSubTimeLeft-MonthSub": "月卡",
+    "AutoRecordSubTimeLeft-TimeSub": "點卡",
     "AutoVerEasyQuestBattleTitle": "自動任務戰鬥非常簡單",
     "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
     "AutoMovePetPositionTitle": "自動移動召喚物位置",
