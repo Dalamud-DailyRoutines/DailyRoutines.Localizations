@@ -1402,6 +1402,5 @@
     "IgnoreTransparencyWaitDescription": "自動取消與 NPC 對話時, 對方因淡入淡出演出所產生的等待時間",
     "AutoCancelNPCEmoteTitle": "自動取消 NPC 情感動作播放",
     "AutoCancelNPCEmoteDescription": "自動取消交互與過場劇情播放時, NPC 的情感動作播放及其產生的等待時間",
-    "Settings-TrayOverlay": "托盤懸浮窗",
-    "Commands-CommandHelp-Reload": "重載全部模塊"
+    "Settings-TrayOverlay": "托盤懸浮窗"
 }
