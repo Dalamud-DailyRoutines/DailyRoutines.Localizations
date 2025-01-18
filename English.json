@@ -1334,5 +1334,6 @@
     "ReloadModules": "Reload Modules",
     "LocalModules": "Local Modules",
     "Path": "Path",
-    "Settings-AddLocalModuleHelp": "Absolute Path Only"
+    "Settings-AddLocalModuleHelp": "Absolute Path Only",
+    "AutoPelotonTitle": ""
 }
