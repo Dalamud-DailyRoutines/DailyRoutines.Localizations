@@ -1406,5 +1406,9 @@
     "Commands-CommandHelp-ReloadAll": "すべてのモジュールを再読み込み",
     "BetterStatusTimeDisplayTitle": "ステータス効果時間表示の改善",
     "BetterStatusTimeDisplayDescription": "有効後、選択したフォーマットで長時間ステータス効果の具体的な残り時間を表示します",
-    "BetterStatusTimeDisplay-ChooseTimeFormat": "時間表示フォーマット"
+    "BetterStatusTimeDisplay-ChooseTimeFormat": "時間表示フォーマット",
+    "AutoAddTextToChatTitle": "チャットにテキストを自動追加する",
+    "AutoAddTextToChatDescription": "あらかじめ設定されたテキストを、送信待ちのチャットテキストに自動的に追加します。ただし、コマンドやマクロには影響を与えません。",
+    "Prefix": "接頭辞(プレフィックス)",
+    "Suffix": "接尾辞(サフィックス)"
 }
