@@ -1347,6 +1347,9 @@
     "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄",
     "AutoRecordSubTimeLeft-MonthSub": "月卡",
     "AutoRecordSubTimeLeft-TimeSub": "點卡",
+    "AutoCountBlacklistedTitle": "自動顯示周邊黑名單玩家數量",
+    "AutoCountBlacklistedDescription": "以服務器信息欄的形式, 顯示設置範圍內黑名單玩家的數量",
+    "AutoCountBlacks-DtrEntry-Text": "周邊黑名單: {0}",
     "AutoVerEasyQuestBattleTitle": "自動任務戰鬥非常簡單",
     "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
     "AutoMovePetPositionTitle": "自動移動召喚物位置",
@@ -1402,5 +1405,14 @@
     "IgnoreTransparencyWaitDescription": "自動取消與 NPC 對話時, 對方因淡入淡出演出所產生的等待時間",
     "AutoCancelNPCEmoteTitle": "自動取消 NPC 情感動作播放",
     "AutoCancelNPCEmoteDescription": "自動取消交互與過場劇情播放時, NPC 的情感動作播放及其產生的等待時間",
-    "Settings-TrayOverlay": "托盤懸浮窗"
+    "Settings-TrayOverlay": "托盤懸浮窗",
+    "Commands-CommandHelp-ReloadAll": "重載全部模塊",
+    "BetterStatusTimeDisplayTitle": "更好的狀態效果時間顯示",
+    "BetterStatusTimeDisplayDescription": "配置完成後, 使用選定的格式顯示長時間狀態效果的具體剩餘時間",
+    "BetterStatusTimeDisplay-ChooseTimeFormat": "時間格式",
+    "AutoAddChatPrefixSuffixTitle": "自動添加聊天信息前綴後綴",
+    "AutoAddChatPrefixSuffixDescription": "配置完畢後, 在發送普通聊天消息時自動為其加上特定的前綴或後綴",
+    "Prefix": "前綴",
+    "Suffix": "後綴",
+    "Range": "範圍"
 }
