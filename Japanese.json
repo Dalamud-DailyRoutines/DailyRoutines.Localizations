@@ -1119,6 +1119,7 @@
     "FastTeleportPanel-Abort": "転送を中止する",
     "FastTeleportPanel-CommandHelp-Abort": "現在のすべての転送タスクを中止する",
     "FastTeleportPanel-CommandHelp-Ground": "上下の地面を検出し、その地面の位置に転送を試みる",
+    "FastTeleportPanel-CommandHelp-Aetheryte": "近くにある利用可能なエーテライト、または都市内エーテライトのどれかと自動的に相互作用を試みます。",
     "AutoMarksFinder-RelayInstanceDisplay": "{0}  ライン",
     "DailyModuleBase-Exported": "設定が正常にクリップボードにエクスポートされました",
     "DailyModuleBase-ExportError": "設定をクリップボードにエクスポートしようとした際にエラーが発生しました",
