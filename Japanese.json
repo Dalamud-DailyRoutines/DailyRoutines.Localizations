@@ -1415,5 +1415,7 @@
     "AutoAddChatPrefixSuffixDescription": "設定完了後、通常のチャットメッセージを送信する際に、自動的に特定の接頭辞(プレフィックス)や接尾辞(サフィックス)を追加します。",
     "Prefix": "接頭辞(プレフィックス)",
     "Suffix": "接尾辞(サフィックス)",
-    "Range": "範囲"
+    "Range": "範囲",
+    "FastBLUSpellbookSearchBarTitle": "青魔道書クイック検索ボックス",
+    "FastBLUSpellbookSearchBarDescription": "青魔道書のUI左上に新しいクイック検索用のオーバレイを追加し、スキル名に基づいて即時検索を実行できるようにします。"
 }
