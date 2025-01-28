@@ -1417,5 +1417,8 @@
     "Suffix": "接尾辞(サフィックス)",
     "Range": "範囲",
     "FastBLUSpellbookSearchBarTitle": "青魔道書クイック検索ボックス",
-    "FastBLUSpellbookSearchBarDescription": "青魔道書のUI左上に新しいクイック検索用のオーバレイを追加し、スキル名に基づいて即時検索を実行できるようにします。"
+    "FastBLUSpellbookSearchBarDescription": "青魔道書のUI左上に新しいクイック検索用のオーバレイを追加し、スキル名に基づいて即時検索を実行できるようにします。",
+    "ChineseNumericalNotationTitle": "中国風の数字表示モード",
+    "ChineseNumericalNotationDescription": "ゲーム内の数字を中国の慣習に従い、「万」「億」を基本単位として表示し、残りの数字の桁区切りを千単位から万単位に変更します。",
+    "ChineseNumericalNotation-NoChineseUnit": "中国語の単位を使用しない"
 }
