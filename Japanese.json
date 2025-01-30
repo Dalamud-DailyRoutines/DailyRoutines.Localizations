@@ -1424,5 +1424,9 @@
     "Dye": "染色",
     "ChineseNumericalNotation-ColorMinus": "マイナス記号の色",
     "ChineseNumericalNotation-ColorUnit": "ユニットカラー",
-    "ChineseNumericalNotation-ColorTable": "カラーチャート"
+    "ChineseNumericalNotation-ColorTable": "カラーチャート",
+    "AutoRemoveWalkableCastingActionSpeedPenaltyTitle": "自動で歩行詠唱スキルの移動速度ペナルティを解除",
+    "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "詠唱を許可するスキルを発動中、歩行移動が可能な場合、そのスキルによる移動速度低下のペナルティを自動で解除する。",
+    "AutoBlockMisdirectionStateTitle": "方向錯乱状態の効果を自動で無効化する",
+    "AutoBlockMisdirectionStateDescription": "自身が方向制御制限状態に陥る効果（回転移動、混乱など）を自動で無効化し、関連する処理ロジックを無効にする。"
 }
