@@ -1428,5 +1428,11 @@
     "AutoRemoveWalkableCastingActionSpeedPenaltyTitle": "自動で歩行詠唱スキルの移動速度ペナルティを解除",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "詠唱を許可するスキルを発動中、歩行移動が可能な場合、そのスキルによる移動速度低下のペナルティを自動で解除する。",
     "AutoBlockMisdirectionStateTitle": "方向錯乱状態の効果を自動で無効化する",
-    "AutoBlockMisdirectionStateDescription": "自身が方向制御制限状態に陥る効果（回転移動、混乱など）を自動で無効化し、関連する処理ロジックを無効にする。"
+    "AutoBlockMisdirectionStateDescription": "自身が方向制御制限状態に陥る効果（回転移動、混乱など）を自動で無効化し、関連する処理ロジックを無効にする。",
+    "AutoImmunizeJumpRestrictionTitle": "ジャンプ禁止の制限を自動的に無効化",
+    "AutoImmunizeJumpRestrictionDescription": "自身が状態異常やフィールド効果によってジャンプ禁止の制限を受けた際、自動的に無効化し、関連する制限を解除する。",
+    "AutoImmunizeThinIceTitle": "氷上移動状態を自動的に無効化",
+    "AutoImmunizeThinIceDescription": "自身が状態異常やフィールド効果によって氷上のような移動状態になった際、自動的に無効化し、その効果を解除する。",
+    "AutoRemoveStatusSpeedPenaltyTitle": "状態異常による移動速度低下を自動的に無効化",
+    "AutoRemoveStatusSpeedPenaltyDescription": "自身の移動速度が低下する状態異常を受けた際、自動的にその移動速度低下の効果を無効化する。"
 }
