@@ -1434,5 +1434,7 @@
     "AutoImmunizeThinIceTitle": "氷上移動状態を無効化",
     "AutoImmunizeThinIceDescription": "自身がデバフやフィールド効果によって氷上を滑るような移動状態になった際、自動的に無効化しその効果を解除する。",
     "AutoRemoveStatusSpeedPenaltyTitle": "デバフによる移動速度低下を無効化",
-    "AutoRemoveStatusSpeedPenaltyDescription": "自身の移動速度が低下するデバフを受けた際、自動的にその移動速度低下の効果を無効化する。"
+    "AutoRemoveStatusSpeedPenaltyDescription": "自身の移動速度が低下するデバフを受けた際、自動的にその移動速度低下の効果を無効化する。",
+    "OptimizedLongCastTimeActionTitle": "長詠唱スキルの最適化",
+    "OptimizedLongCastTimeActionDescription": "スキルの詠唱時間がその再詠唱時間以上の場合、自動的に詠唱時間を{0}秒短縮する。"
 }
