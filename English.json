@@ -493,7 +493,6 @@
     "AutoCheckFoodUsage-NoticeMessage": "Auto ate {0} ({1})",
     "AutoCheckFoodUsage-RefreshThreshold": "Refresh Threshold (s)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "Automatically consume food when the Well Fed status is missing or its remaining time is below the refresh threshold",
-    "AutoCheckFoodUsage-SendNotice": "Send Notifications",
     "AutoCheckFoodUsage-ZoneRestrictions": "Zone Restrictions",
     "PartyFinderFilterTitle": "Party Finder Filter",
     "PartyFinderFilterDescription": "Detect recruiter name or recruitment description based on preset regex to filter specific recruitments and automatically exclude duplicates. Does not apply when the recruitment page is password-protected",

@@ -493,7 +493,6 @@
     "AutoCheckFoodUsage-NoticeMessage": "自動食用了 {0} ({1})",
     "AutoCheckFoodUsage-RefreshThreshold": "刷新閾值 (秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "當無 進食 狀態或其剩餘時間低於刷新閾值時, 則自動食用一次食物",
-    "AutoCheckFoodUsage-SendNotice": "發送提示資訊",
     "AutoCheckFoodUsage-ZoneRestrictions": "區域限制",
     "PartyFinderFilterTitle": "招募過濾器",
     "PartyFinderFilterDescription": "根據正則預設檢測招募人名稱或招募描述以過濾特定招募, 並自動排除重複招募。招募頁處於帶密碼分類時則不生效",
