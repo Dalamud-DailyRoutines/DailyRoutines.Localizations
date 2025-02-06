@@ -255,8 +255,6 @@
     "QuickChatPanel-GameItems": "Game items",
     "AutoHolmgangSelfDescription": "When using the Warrior action Holmgang, force target self.",
     "AutoHolmgangSelfTitle": "Auto Holmgang Self",
-    "NoAttackWrongMandragorasDescription": "In Treasure Dungeons, if the Mandragora are present, prevent selecting Mandragoras that do not match the current kill order",
-    "NoAttackWrongMandragorasTitle": "Force Sequential Kill of Mandragoras",
     "ClipboardMultiLineToOneLineDescription": "When pasting text in-game, forcibly convert multi-line text into a single line to facilitate in-game editing and sending",
     "ClipboardMultiLineToOneLineTitle": "Force Paste Multi-line to Single Line",
     "BetterFollowTitle": "Better Auto Follow",
