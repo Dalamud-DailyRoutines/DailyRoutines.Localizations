@@ -1438,5 +1438,6 @@
     "AutoNotifyBonusFateTitle": "追加報酬付きFATEの自動通知",
     "AutoNotifyBonusFateDescription": "バージョン 4.0 以上のオープンフィールドに入ると、追加報酬付きFATEが発生した際に自動で通知を送信します。",
     "AutoNotifyBonusFate-Notification": "追加報酬付きFATE発生:\n{0} (進行度: {1}%)",
-    "AutoNotifyBonusFate-Chat": "追加報酬付きFATE発生:\n{0} (進行度: {1}% / 座標: {2})"
+    "AutoNotifyBonusFate-Chat": "追加報酬付きFATE発生:\n{0} (進行度: {1}% / 座標: {2})",
+    "Settings-MultiMessagesReceived": "新規受信MSG: {0} 件"
 }
