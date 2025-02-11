@@ -538,7 +538,6 @@
     "AutoConfirmMateriaWorkDescription": "マテリアの嵌め込み/回収/委託を自動で確認し、マテリアの嵌め込み時の前後のモーション制限を解除する",
     "AutoConfirmMateriaWorkTitle": "マテリアの嵌め込みと回収を自動で確認する",
     "Settings-DefaultHomePage": "デフォルトページ",
-    "Settings-InterfaceFontSize": "UIのフォントサイズ",
     "DisableGroundActionAutoFaceDescription": "GTアクション（アサイラム、アーサリースターなど）を使用する際、現在のキャラ向きのまま使用する",
     "DisableGroundActionAutoFaceTitle": "GTアクションによるキャラ向きの変更させない",
     "InstantLogoutDescription": "すべてのログアウト/ゲーム終了制限を解除し、強制的にタイトル画面に戻る/ゲームを終了する",
@@ -575,7 +574,6 @@
     "Enabled": "有効モジュール一覧",
     "AutoJoinExitDuty-AlreadyInParty": "パーティを組んだ状態では使用できません",
     "AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted": "これを基に新しい設定を作成する",
-    "Settings-FontSelect": "UI のフォント",
     "Settings-UnknownFont": "不明なフォント",
     "Settings-LeftTabWidth": "左側サイドバーの幅",
     "AutoLeveQuests-NoDelayHelp": "注：モジュール実行中はターゲット選択やモデル回転データのサーバーへのアップロードが自動で遮断されるため、遅延調整オプションはありません",
@@ -1449,5 +1447,8 @@
     "EdgeColor": "縁取りの色",
     "BackgroundColor": "背景色",
     "AutoBlockShutdownFromLobbyErrorTitle": "ロビーエラーによるゲームの強制終了を自動で防止",
-    "AutoBlockShutdownFromLobbyErrorDescription": "ゲームがロビーサーバーエラーに遭遇した際、自動でゲームの強制終了を防ぎ、ログイン画面に戻るようにします。"
+    "AutoBlockShutdownFromLobbyErrorDescription": "ゲームがロビーサーバーエラーに遭遇した際、自動でゲームの強制終了を防ぎ、ログイン画面に戻るようにします。",
+    "FontSize": "フォントサイズ",
+    "Font": "フォント",
+    "Style": "スタイル"
 }

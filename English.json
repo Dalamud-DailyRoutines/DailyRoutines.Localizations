@@ -538,7 +538,6 @@
     "AutoConfirmMateriaWorkDescription": "Auto confirm Materia melding/retrieval/meld request and remove delay restrictions before and after melding",
     "AutoConfirmMateriaWorkTitle": "Auto Confirm Materia Meld & Retrieval",
     "Settings-DefaultHomePage": "Default home page",
-    "Settings-InterfaceFontSize": "Interface font size",
     "DisableGroundActionAutoFaceDescription": "Using ground-targeted actions (e.g., Asylum, Earthly Star) will no longer change the current facing direction",
     "DisableGroundActionAutoFaceTitle": "Disable Facing Direction Change for Ground-Targeted Actions",
     "InstantLogoutDescription": "Remove all logout/exit restrictions and force return to the title screen/exit the game",
@@ -575,7 +574,6 @@
     "Enabled": "Enabled",
     "AutoJoinExitDuty-AlreadyInParty": "Error: Already in a party",
     "AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted": "Create a new config based on this",
-    "Settings-FontSelect": "Font Select",
     "Settings-UnknownFont": "Unknown font",
     "Settings-LeftTabWidth": "Left Sidebar Width",
     "AutoLeveQuests-NoDelayHelp": "Note: While the module is running, target selection and model rotation data are automatically blocked from being uploaded to the server, so there are no delay options",
@@ -1339,6 +1337,7 @@
     "AutoSortItemsDescription": "After configurations, the items in the inventory and armoury will be automatically sorted according to the preset rules while switching zones.",
     "ASTHelperTitle": "Astrologian Helper",
     "ASTHelperDescription": "After configurations, if the current job is Astrologer, some actions would be optimized according to the settings.",
+    "IconOffset": "Icon Offset",
     "FriendlistTeleporterTitle": "Right-click to teleport in Friend List",
     "FriendlistTeleporterDescription": "Right-click a friend in Friend List to quickly teleport to the zone or the server the friend is currently in by a menu option.",
     "IgnoreTurnAndLookAtWaitTitle": "Auto cancel waiting of NPC turn and look",
@@ -1347,6 +1346,7 @@
     "IgnoreTransparencyWaitDescription": "Cancel the waiting time of NPC fading in and fading out while talking with NPCs.",
     "AutoCancelNPCEmoteTitle": "Auto cancel NPC emotes",
     "AutoCancelNPCEmoteDescription": "Auto cancel NPC emotes and the waiting time they caused during cutscenes.",
+    "Commands-CommandHelp-ReloadAll": "Reload all the modules",
     "BetterStatusTimeDisplayTitle": "Display the status time better",
     "BetterStatusTimeDisplayDescription": "After configurations, the remaining time of status with long durations will be displayed in the selected format.",
     "AutoAddChatPrefixSuffixTitle": "Auto add chat prefixes and suffixes",
@@ -1374,5 +1374,7 @@
     "OptimiziedEnemyListTitle": "Optimize enmity list",
     "OptimiziedEnemyListDescription": "Optimize the enmity list, so that it could display more information of enemy targets like HP, enmity and cast in the form of original game elements.",
     "AutoBlockShutdownFromLobbyErrorTitle": "Auto prevent game exiting from lobby errors",
-    "AutoBlockShutdownFromLobbyErrorDescription": "While encountering a lobby error, the module will automatically prevent game exiting. Instead, it will return to the login page."
+    "AutoBlockShutdownFromLobbyErrorDescription": "While encountering a lobby error, the module will automatically prevent game exiting. Instead, it will return to the login page.",
+    "FontSize": "Font size",
+    "Style": "Style"
 }
