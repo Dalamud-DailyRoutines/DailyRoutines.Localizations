@@ -755,7 +755,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "ブラックリスト内のプレイヤーを自動で無視",
     "AutoPlayerCommend-AssignPlayerCommend": "最適なチームメンバーに指定",
     "AutoPlayerCommend-AssignPlayerCommendMessage": "{0}@{1} をこの試合の最適なチームメンバーに指定しました。",
-    "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "自動最優隊員の推薦に失敗しました。ゲームデータにエラーまたは破損があります。",
+    "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "自動MIPに失敗しました。ゲームデータにエラーまたは破損があります。",
     "ExpandPlayerMenuSearch-SearchLalachievements": "検索: Lalachievements",
     "ExpandItemMenuSearch-SearchLodestoneDB": "検索: Lodestone",
     "ExpandItemMenuSearch-SearchGamerEscapeWiki": "検索: Gamer Escape Wiki (EN)",
