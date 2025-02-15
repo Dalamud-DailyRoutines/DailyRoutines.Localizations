@@ -339,8 +339,6 @@
     "AutoFCWSDeliverTitle": "Auto FC Workshop Deliver Items",
     "QuickChatPanel-SystemSound": "System sound",
     "QuickChatPanel-SystemSoundHelp": "Left-click to preview, right-click to send",
-    "AutoCutsceneSkip-ProhibitSkippingUnseenCutscene": "Disable skipping unseen cutscenes",
-    "AutoCutsceneSkip-ProhibitSkippingUnseenCutsceneHelp": "The client only records a small portion of cutscene viewing history, so this module's accuracy is limited",
     "Example": "e.g.",
     "Job": "Job",
     "Level": "Level",
