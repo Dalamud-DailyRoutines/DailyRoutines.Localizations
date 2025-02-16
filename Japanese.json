@@ -569,7 +569,7 @@
     "Settings-TipMessage3": "3. ゲームがクラッシュした場合、まずはインストールしている他のプラグインやソフトウェアを確認してください。フィードバックを行う前に、関連する状況が『Daily Routines』のみが有効な状態で安定して再現できることを必ず確認してください",
     "FastRidePillionDescription": "右クリックで現在複数人用の乗り物に乗っている仲間に対して、自動で相乗りを行う",
     "FastRidePillionTitle": "迅速な相乗りする",
-    "Enabled": "有効モジュール一覧",
+    "Enabled": "有効機能一覧",
     "AutoJoinExitDuty-AlreadyInParty": "パーティを組んだ状態では使用できません",
     "AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted": "これを基に新しい設定を作成する",
     "Settings-UnknownFont": "不明なフォント",
