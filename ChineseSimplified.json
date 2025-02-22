@@ -1484,5 +1484,11 @@
     "AutoAttireItemsDescription": "打开投影台并点击开始后, 自动取出投影台内所有可以存储为套装的物品, 并在 套装幻影化 界面出现时自动选择可用装备并存为套装",
     "AutoAttireItems-OnlyTakeOutCompleteSet": "仅取出已成套的装备",
     "AutoAttireItems-SkipWhenDyed": "忽略已染色的装备",
-    "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})"
+    "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})",
+    "AutoCheckgysahl_greensUsageTitle":"自动召唤搭档",
+    "AutoCheckgysahl_greensUsageDescription":"在野外，自动使用基萨尔野菜召唤陆行鸟搭档",
+    "gysahl_greensSetting":"自动使用陆行鸟粮设置",
+    "gysahl_greensTime":"搭档剩余时间少于多少秒自动吃菜:"
+    "gysahl_greensTime":"发送通知:"
+
 }
