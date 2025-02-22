@@ -1487,6 +1487,8 @@
     "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})",
     "AutoGysahlGreensTitle": "自动使用基萨尔野菜",
     "AutoGysahlGreensDescription": "在野外时，如果陆行鸟未被召唤，自动使用基萨尔野菜",
-    "AutoGysahlGreens-Changedelay": "更改检测延迟/秒",
-    "AutoGysahlGreens-ChangedelayText": "当前检测延迟/秒"
+    "AutoGysahlGreens-NotificationInterval": "更改通知延迟/秒",
+    "AutoGysahlGreens-NotificationIntervalText": "当前通知延迟/秒",
+    "AutoGysahlGreens-NotificationMessage": "未检测背包内有基萨尔野菜，请补充",
+    "AutoGysahlGreens-Second": "秒"
 }
