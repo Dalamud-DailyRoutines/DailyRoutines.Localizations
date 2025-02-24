@@ -1493,6 +1493,6 @@
     "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "自动插言替换下踢",
     "AutoReplaceLowBlowWithInterjectDescription": "若当前目标正在咏唱可打断的技能, 且 插言 处于可用状态, 则在热键栏中用 插言 替换 下踢",
-    "AutoGysahlGreens-NoBattleCheckBox": "非战斗职业使用基萨尔野菜",
-    "AutoGysahlGreens-NoBattleTooltipHover": "关闭此选项后，只有战斗职业会自动使用基萨尔野菜"
+    "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业使用基萨尔野菜",
+    "AutoGysahlGreens-NotBattleJobUsingGysTooltipHover": "开启此选项后，非战斗职业也会自动使用基萨尔野菜"
 }
