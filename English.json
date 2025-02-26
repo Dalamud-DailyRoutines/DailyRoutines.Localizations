@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "Switch to",
     "AutoCheckFoodUsage-Checkpoint": "Check when",
     "AutoCheckFoodUsage-JobRestrictions": "Job Restrictions",
-    "AutoCheckFoodUsage-NoticeMessage": "Auto ate {0} ({1})",
+    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "Refresh Threshold (s)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "Automatically consume food when the Well Fed status is missing or its remaining time is below the refresh threshold",
     "AutoCheckFoodUsage-ZoneRestrictions": "Zone Restrictions",
@@ -1492,5 +1492,10 @@
     "AutoUseCrafterGathererManualDescription": "If the current job is crafter and gatherer, is not at max level, holds any valid survival science/engineering manual, and does not have the corresponding experience bonus effect, the corresponding manual item will be automatically used",
     "AutoUseCrafterGathererManual-Notification": "Manual item automatically used: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "Replace LowBlow with Interject",
-    "AutoReplaceLowBlowWithInterjectDescription": "If the current target is chanting an interruptible skill and Interject is available, replace Low Blow with Interject in the Hotbar."
+    "AutoReplaceLowBlowWithInterjectDescription": "If the current target is chanting an interruptible skill and Interject is available, replace Low Blow with Interject in the Hotbar.",
+    "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
+    "TargetDashActionNoMoveTitle": "Charge skill movement disabled",
+    "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
+    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
+    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
 }

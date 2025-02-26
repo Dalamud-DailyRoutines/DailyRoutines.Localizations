@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "切り替える",
     "AutoCheckFoodUsage-Checkpoint": "チェックのタイミング『エリア切替時/リスタート時/条件指定』",
     "AutoCheckFoodUsage-JobRestrictions": "ジョブ制限",
-    "AutoCheckFoodUsage-NoticeMessage": "自動で {0} ({1}) を食べました",
+    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "更新閾値(秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "食事バフがない場合、または残り効果時間が更新閾値を下回った場合、食事を自動的に使用する。",
     "AutoCheckFoodUsage-ZoneRestrictions": "エリア制限",
@@ -1492,5 +1492,10 @@
     "AutoUseCrafterGathererManualDescription": "クラフター/ギャザラーで、レベルが最大でなく、有効なサバイバルマニュアルまたはエンジニアマニュアルを所持し、経験値ボーナスがない場合、自動で使用する。",
     "AutoUseCrafterGathererManual-Notification": "マニュアルを自動で使用しました: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "【タンク】詠唱中断スキルへの置き換え",
-    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換える"
+    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換える",
+    "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでもギサールの野菜を使用",
+    "TargetDashActionNoMoveTitle": "突進スキルの移動無効",
+    "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
+    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
+    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
 }
