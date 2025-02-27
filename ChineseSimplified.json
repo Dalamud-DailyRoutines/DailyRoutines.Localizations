@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "扫描点",
     "AutoMarksFinder-UpdateSpawnPointsRet": "已更新 {0} 个扫描点位",
     "AutoMarksFinder-DetectPowerfulMark": "发现 {0} 级恶名精英: {1} 于 {2:F2}",
-    "InstantDismount-Notice-NoGroundDetect": "未在下方检测到任何可降落地面",
+    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
     "InstantDismountDescription": "在尝试下坐骑时, 立刻来到下方地面并取消骑乘坐骑",
     "InstantDismountTitle": "即刻下坐骑",
     "PartyFinderSettingRecordTitle": "自动保存招募编辑信息",
@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "对敌对列表界面进行优化, 使其能够以游戏原生元素的方式显示对应敌对目标的体力、仇恨与咏唱的具体信息",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "使用自定义文本信息",
     "OptimiziedEnemyList-UseCustomColor": "使用自定义文本颜色",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "颜色",
     "EdgeColor": "描边颜色",
     "BackgroundColor": "背景颜色",
@@ -1503,4 +1505,5 @@
     "FauxHollowsAssist-HighlightBestStep": "高亮最佳拼图",
     "FauxHollowsAssist-PrioritizeSwords": "优先选中大剑",
     "FauxHollowsAssist-PrioritizeSwordsOverlay": "运行幻巧拼图时显示大剑优先级设置窗口"
+    "Settings-CopyModuleInternalName": "复制模块内部名称"
 }

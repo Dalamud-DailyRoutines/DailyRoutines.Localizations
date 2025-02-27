@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "切り替える",
     "AutoCheckFoodUsage-Checkpoint": "チェックのタイミング『エリア切替時/リスタート時/条件指定』",
     "AutoCheckFoodUsage-JobRestrictions": "ジョブ制限",
-    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
+    "AutoCheckFoodUsage-NoticeMessage": "自動で {0} を食べました",
     "AutoCheckFoodUsage-RefreshThreshold": "更新閾値(秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "食事バフがない場合、または残り効果時間が更新閾値を下回った場合、食事を自動的に使用する。",
     "AutoCheckFoodUsage-ZoneRestrictions": "エリア制限",
@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "スキャンポイント:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "{0} 個のスキャンポイントが更新されました",
     "AutoMarksFinder-DetectPowerfulMark": "{0} レベルのリスキーモブを発見: {1} は {2:F2} にいます",
-    "InstantDismount-Notice-NoGroundDetect": "下方に着陸可能な地面が検出されていません",
+    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
     "InstantDismountDescription": "騎乗を解除しようとした際、即座に下方の地面に降りて騎乗をキャンセルする",
     "InstantDismountTitle": "即マウントから降りる",
     "PartyFinderSettingRecordTitle": "PT募集内容編集の情報を自動保存",
@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "敵対リスト画面を最適化し、ゲームの標準要素を使用して、敵対ターゲットのHP、ヘイト、および詠唱進行状況を表示できるようにしました。",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "カスタムテキスト情報を使用",
     "OptimiziedEnemyList-UseCustomColor": "カスタムテキストカラーを使用",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "色",
     "EdgeColor": "縁取りの色",
     "BackgroundColor": "背景色",
@@ -1496,6 +1498,7 @@
     "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでもギサールの野菜を使用",
     "TargetDashActionNoMoveTitle": "突進スキルの移動無効",
     "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
-    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
-    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
+    "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
+    "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
+    "Settings-CopyModuleInternalName": "复制模块内部名称"
 }

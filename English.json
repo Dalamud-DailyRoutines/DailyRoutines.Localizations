@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "Switch to",
     "AutoCheckFoodUsage-Checkpoint": "Check when",
     "AutoCheckFoodUsage-JobRestrictions": "Job Restrictions",
-    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
+    "AutoCheckFoodUsage-NoticeMessage": "Auto ate {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "Refresh Threshold (s)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "Automatically consume food when the Well Fed status is missing or its remaining time is below the refresh threshold",
     "AutoCheckFoodUsage-ZoneRestrictions": "Zone Restrictions",
@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "Scan Points:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "Updated {0} Scanned Points",
     "AutoMarksFinder-DetectPowerfulMark": "Found Lv.{0} Notorious Monster: {1} at location {2:F2}",
-    "InstantDismount-Notice-NoGroundDetect": "No landable surfaces detected underneath.",
+    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
     "InstantDismountDescription": "Upon attempting to dismount, immediately step down to the ground.",
     "InstantDismountTitle": "Instant Dismount",
     "PartyFinderSettingRecordTitle": "Auto Save Recruitment Edit Info",
@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "Optimize the enmity list, so that it could display more information of enemy targets like HP, enmity and cast in the form of original game elements.",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "Use custom text message",
     "OptimiziedEnemyList-UseCustomColor": "Use custom text color",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "Color",
     "EdgeColor": " Edge Color",
     "BackgroundColor": "Background Color",
@@ -1496,6 +1498,7 @@
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
     "TargetDashActionNoMoveTitle": "Charge skill movement disabled",
     "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
-    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
-    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
+    "WeeklyBingoClickToOpenTitle": "Open the Duty Finder compatible with Wondrous Tails",
+    "WeeklyBingoClickToOpenDescription": "When you open the Wondrous Tails and click on the square of the content you want to complete, the Duty Finder for the first content among the corresponding content will open.",
+    "Settings-CopyModuleInternalName": "复制模块内部名称"
 }
