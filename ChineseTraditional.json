@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "切換為",
     "AutoCheckFoodUsage-Checkpoint": "檢查時機",
     "AutoCheckFoodUsage-JobRestrictions": "職業限制",
-    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
+    "AutoCheckFoodUsage-NoticeMessage": "自動食用了 {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "刷新閾值 (秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "當無 進食 狀態或其剩餘時間低於刷新閾值時, 則自動食用一次食物",
     "AutoCheckFoodUsage-ZoneRestrictions": "區域限制",
@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "掃描點:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "已更新 {0} 個掃描點位",
     "AutoMarksFinder-DetectPowerfulMark": "發現 {0} 級惡名精英: {1} 於 {2:F2}",
-    "InstantDismount-Notice-NoGroundDetect": "未在下方檢測到任何可降落地面",
+    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
     "InstantDismountDescription": "在嘗試下坐騎時, 立刻來到下方地面並取消騎乘坐騎",
     "InstantDismountTitle": "即刻下坐騎",
     "PartyFinderSettingRecordTitle": "自動保存招募編輯信息",
@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "對敵對列表界面進行優化, 使其能夠以遊戲原生元素的方式顯示對應敵對目標的體力、仇恨與詠唱的具體信息",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "使用自定義文本信息",
     "OptimiziedEnemyList-UseCustomColor": "使用自定義文本顏色",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "顏色",
     "EdgeColor": "描邊顏色",
     "BackgroundColor": "背景顏色",
@@ -1497,5 +1499,6 @@
     "TargetDashActionNoMoveTitle": "目標衝鋒技能不位移",
     "TargetDashActionNoMoveDescription": "在發動需要以任一敵方為目標的位移技能時, 自動移除其產生的位移效果",
     "WeeklyBingoClickToOpenTitle": "天書奇談快捷打開副本",
-    "WeeklyBingoClickToOpenDescription": "打開 天書奇談 界面, 點擊任務方格時, 自動在 任務搜索器 內打開首個對應的副本任務"
+    "WeeklyBingoClickToOpenDescription": "打開 天書奇談 界面, 點擊任務方格時, 自動在 任務搜索器 內打開首個對應的副本任務",
+    "Settings-CopyModuleInternalName": "复制模块内部名称"
 }
