@@ -1503,5 +1503,11 @@
     "Settings-CopyModuleInternalName": "复制模块内部名称",
     "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
     "AutoRecommendFauxHollowsDescription": "打开 幻巧拼图 界面后, 自动根据设置高亮当前最优解\n(高亮颜色: 蓝色 → 双剑 / 粉色 → 宝箱、礼箱 / 金色 → 宗长)",
-    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑"
+    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑",
+    "ReuseEmoteTitle":"重复使用表情",
+    "ReuseEmoteDescription":"通过字命令 reuseemote 重复使用某个表情\n 例如(/pdr reuseemote 跳舞 2000) 每个2000毫秒使用表情跳舞",
+    "ReuseEmote-CommandHelp":"添加 /pdr reuseemote 表情 时间(毫秒) 指令 每隔时间使用表情跳舞 不添加时间使用默认",
+    "ReuseEmote-Notice-Start":"开始使用表情",
+    "ReuseEmote-Notice-Stop":"停止使用表情",
+    "ReuseEmote-Notice-notexist":"表情不存在"
 }
