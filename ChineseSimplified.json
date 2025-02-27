@@ -1500,10 +1500,13 @@
     "TargetDashActionNoMoveDescription": "在发动需要以任一敌方为目标的位移技能时, 自动移除其产生的位移效果",
     "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
     "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务",
+    "Settings-CopyModuleInternalName": "复制模块内部名称",
     "FauxHollowsAssistTitle": "自动高亮幻巧拼图最优解",
     "FauxHollowsAssistDescription": "自动高亮最优解，蓝色是大剑，粉色是宝箱/礼物盒，金色是宗长",
     "FauxHollowsAssist-HighlightBestStep": "高亮最佳拼图",
     "FauxHollowsAssist-PrioritizeSwords": "优先选中大剑",
-    "FauxHollowsAssist-PrioritizeSwordsOverlay": "运行幻巧拼图时显示大剑优先级设置窗口"
-    "Settings-CopyModuleInternalName": "复制模块内部名称"
+    "FauxHollowsAssist-PrioritizeSwordsOverlay": "运行幻巧拼图时显示大剑优先级设置窗口",
+    "FauxHollowsAssist-WindowSetting": "幻巧拼图设置",
+    "FauxHollowsAssist-PrioritizeSwordsCheckBox": "优先寻找大剑",
+    "FauxHollowsAssist-PrioritizeSwordsHelpMarker": "选中此选项后将优先寻找大剑"
 }
