@@ -1480,5 +1480,9 @@
     "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)",
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退队加入招募",
     "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增一个按钮, 点击以一键退出当前队伍并加入目标招募",
-    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入"
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入",
+    "AutoPVPUseEarthReplyTitle" : "自动使用金刚转轮",
+    "AutoPVPUseEarthReplyDescription" : "使用武僧在PVP区域时，自动在时间结束前使用你的金刚转轮。",
+    "AutoPVPUseEarthReplyIsRunningUse" : "疾跑时也触发",
+    "AutoPVPUseEarthReplyIsDefendingUse" : "防御时也触发"
 }
