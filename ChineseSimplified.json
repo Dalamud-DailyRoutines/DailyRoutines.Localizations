@@ -1483,6 +1483,6 @@
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入",
     "AutoPVPUseEarthReplyTitle" : "自动使用金刚转轮",
     "AutoPVPUseEarthReplyDescription" : "使用武僧在PVP区域时，自动在时间结束前使用你的金刚转轮。",
-    "AutoPVPUseEarthReplyIsRunningUse" : "疾跑时也触发",
-    "AutoPVPUseEarthReplyIsDefendingUse" : "防御时也触发"
+    "AutoPVPUseEarthReply-IsRunningUse" : "疾跑时也触发",
+    "AutoPVPUseEarthReply-IsDefendingUse" : "防御时也触发"
 }
