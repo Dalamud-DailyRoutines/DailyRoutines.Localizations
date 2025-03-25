@@ -1374,7 +1374,7 @@
     "Scale": "缩放",
     "ScrollableTabsTitle": "可滚动标签页",
     "ScrollableTabsDescription": "允许在部分界面上使用滚轮来切换标签页",
-    "ScrollableTabsConfigInvert": "反转滚动行为",
+    "ScrollableTabs-Invert": "反转滚动行为",
     "Search": "搜索",
     "SearchResult": "搜索结果",
     "SendChat": "发送聊天信息",
