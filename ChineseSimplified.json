@@ -224,6 +224,7 @@
     "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
     "AutoGysahlGreensDescription": "若当前在野外区域, 且自身陆行鸟搭档尚未被召唤/剩余时间低于 5 分钟, 则自动使用基萨尔野菜",
     "AutoGysahlGreensTitle": "自动使用基萨尔野菜",
+    "AutoGysahlGreens-StabledMessage": "检测到陆行鸟寄存于鸟房，模块自动注销，请在取回陆行鸟后重新勾选此模块",
     "AutoHideNeedlessPopupsDescription": "自动隐藏诸如接近达成的成就、同好会通知、资讯中心、推荐任务、新手指南等不必要的弹出窗口",
     "AutoHideNeedlessPopupsTitle": "自动隐藏不必要弹出窗口",
     "AutoHighlightFlagMarker-ConstantlyUpdate": "持续更新高亮光柱位置",
