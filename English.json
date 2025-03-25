@@ -1496,5 +1496,7 @@
     "WorldTravelCommandDescription": "Add /pdr worldtravel <world> (case insensitive/partial match) command for quick World Travel from any location within the three main cities",
     "WorldTravelCommandTitle": "Quick World Travel Command",
     "Yes": "Yes",
-    "Zone": "Zone"
+    "Zone": "Zone",
+    "AutoConvertMapLinkTitle": "自动转换地图链接",
+    "AutoConvertMapLinkDescription": "在发送坐标文本时, 将文本转换为可以点击的地图链接"
 }

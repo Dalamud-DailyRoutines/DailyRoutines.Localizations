@@ -1496,5 +1496,7 @@
     "WorldTravelCommandDescription": "/pdr worldtravel <サーバー> (大文字小文字の区別なし/部分一致) コマンドを追加し、三大都市内の任意の場所へのクイックワールド間テレポを実行する",
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
     "Yes": "はい",
-    "Zone": "ゾーン"
+    "Zone": "ゾーン",
+    "AutoConvertMapLinkTitle": "座標をマップリンクへ自動変換",
+    "AutoConvertMapLinkDescription": "座標テキスト送信時に、クリック可能なマップリンクへ自動変換"
 }

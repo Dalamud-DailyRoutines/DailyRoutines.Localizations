@@ -1499,5 +1499,7 @@
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <服务器> (不区分大小写/部分匹配) 指令,\n用于在三主城内的任意位置进行快捷跨界传送",
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
-    "Zone": "区域"
+    "Zone": "区域",
+    "AutoConvertMapLinkTitle": "自动转换地图链接",
+    "AutoConvertMapLinkDescription": "在发送坐标文本时, 将文本转换为可以点击的地图链接"
 }
