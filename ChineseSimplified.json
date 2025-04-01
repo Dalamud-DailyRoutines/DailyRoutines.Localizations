@@ -1483,5 +1483,11 @@
     "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)",
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退队加入招募",
     "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增一个按钮, 点击以一键退出当前队伍并加入目标招募",
-    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入"
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入",
+    "AutoRaise-UseWhiteMageThinAir": "使用无中生有(白魔)",
+    "AutoRaise-RaiseTargetType": "复活目标类型",
+    "AutoRaise-RaiseAll": "复活所有人",
+    "AutoRaise-RaiseOnlyHealers": "仅复活治疗",
+    "AutoRaise-RaiseOnlyTanks": "仅复活坦克",
+    "AutoRaise-ForceRaiseMode": "强制复活模式"
 }
