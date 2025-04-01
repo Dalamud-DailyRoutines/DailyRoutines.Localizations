@@ -1484,6 +1484,8 @@
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退队加入招募",
     "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增一个按钮, 点击以一键退出当前队伍并加入目标招募",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入",
+    "AutoRaiseTitle": "自动复活",
+    "AutoRaiseDescription": "战斗中检测到队友死亡时自动使用复活技能",
     "AutoRaise-UseWhiteMageThinAir": "使用无中生有(白魔)",
     "AutoRaise-RaiseTargetType": "复活目标类型",
     "AutoRaise-RaiseAll": "复活所有人",
