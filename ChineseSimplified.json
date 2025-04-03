@@ -1224,6 +1224,7 @@
     "MitigationCounter-AdditiveDescription": "更符合自然语言直觉",
     "MitigationCounter-MultiplicativeTitle": "乘法模式",
     "MitigationCounter-MultiplicativeDescription": "游戏实际的伤害减免计算方式",
+    "MitigationCounter-OnlyInCombat": "仅在战斗中显示",
     "Mode": "模式",
     "Module": "模块",
     "ModuleConfig": "模块配置",
