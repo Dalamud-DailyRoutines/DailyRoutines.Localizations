@@ -1512,5 +1512,7 @@
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <服务器> (不区分大小写/部分匹配) 指令,\n用于在三主城内的任意位置进行快捷跨界传送",
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
-    "Zone": "区域"
+    "Zone": "区域",
+    "BetterPartyFinderSortTitle": "更好的招募排序",
+    "BetterPartyFinderSortDescription": "解决了游戏原生自带的排序功能不会根据剩余时间进行排序的问题"
 }
