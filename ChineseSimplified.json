@@ -350,7 +350,7 @@
     "AutoMarksFinderDescription": "配置完成后, 自动扫描对应区域内的恶名精英信息, 整理成列表数据",
     "AutoMarksFinderTitle": "自动恶名精英扫描器",
     "AutoAetherialReductionTitle": "自动精选",
-    "AutoAetherialReductionDescription": "打开精选界面并点击开始后，自动精选所有物品",
+    "AutoAetherialReductionDescription": "打开精选界面并点击开始，自动精选所有物品",
     "AutoMaterialize-AutoExtractAll": "自动精制所有装备",
     "AutoMaterialize-AutoExtractAllHelp": "勾选后, 当前尝试精制单一装备时, 将一并精制所有精炼值已满装备的魔晶石",
     "AutoMaterialize-ExtractAll": "精制所有",
