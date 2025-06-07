@@ -1040,7 +1040,6 @@
     "DelayLogout-EstimatedExecutionTime": "预计执行时间",
     "DelayLogout-CancelLogout": "取消登出计划",
     "DelayLogout-CancelShutdown": "取消退出计划",
-    "DelayLogout-SoonExecution": "即将执行",
     "DelayLogoutDescription": "配置完成后 自动延迟指定时间后再执行登出/退出操作",
     "DelayLogoutTitle": "延时登出",
     "Delete": "删除",
