@@ -1356,6 +1356,8 @@
     "GlamourPlateApplyCommand-CommandHelp": "应用指定的投影模板",
     "GlamourPlateApplyCommandDescription": "添加 /pdr gpapply <编号> (从 1 开始) 指令, 允许使用指令快捷切换游戏原生保存的各投影模板",
     "GlamourPlateApplyCommandTitle": "投影模板切换指令",
+    "GlamourSwitchToCurrentJobTitle": "投影自动切换成当前职业",
+    "GlamourSwitchToCurrentJobDescription": "使用投影台时，自动切换为当前职业装备",
     "GoldSaucer": "金碟",
     "HealerHelper-AutoPlayCard-AdvanceDescription": "根据小队成员 FFLogs 记录的 nDPS 高低",
     "HealerHelper-AutoPlayCard-AdvanceFallback": "无法连接到 FFLogs, 回退到常规模式",
