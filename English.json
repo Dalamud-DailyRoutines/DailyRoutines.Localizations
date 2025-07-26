@@ -1356,8 +1356,6 @@
     "GlamourPlateApplyCommand-CommandHelp": "Apply the specified Glamour Plate",
     "GlamourPlateApplyCommandDescription": "Add the /pdr gpapply <number> (starting from 1) command to quickly switch between the saved Glamour Plates",
     "GlamourPlateApplyCommandTitle": "Glamour Plate Switch Command",
-    "GlamourSwitchToCurrentJobTitle": "Glamour Switch to Current Job",
-    "GlamourSwitchToCurrentJobDescription": "Switch to current job gears on opening glamour",
     "GoldSaucer": "Gold Saucer",
     "HealerHelper-AutoPlayCard-AdvanceDescription": "Based on nDPS recorded by party members in FFlogs",
     "HealerHelper-AutoPlayCard-AdvanceFallback": "Failed to connect to FFLogs. Switching to normal mode.",
