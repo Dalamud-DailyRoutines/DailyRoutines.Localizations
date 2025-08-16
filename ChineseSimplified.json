@@ -337,6 +337,8 @@
     "AutoHighlightFlagMarker-ConstantlyUpdate": "持续更新高亮光柱位置",
     "AutoHighlightFlagMarkerDescription": "当放置地图标点时, 自动使用场景标记组成光柱以在游戏内高亮标点目的地",
     "AutoHighlightFlagMarkerTitle": "自动高亮地图标点",
+    "AutoHighlightStatusAction-Countdown": "触发高亮状态剩余时间",
+    "AutoHighlightStatusAction-Renew": "状态消失后保持技能高亮",
     "AutoHighlightStatusAction-ThresholdHelp": "如果为连击内技能, 则会计算对应技能前所剩余的连击技能数, 以该值乘以设定阈值成为提醒时间",
     "AutoHighlightStatusActionDescription": "配置完毕后, 当技能对应的状态效果即将失效时, 自动高亮对应的技能图标",
     "AutoHighlightStatusActionTitle": "自动高亮状态效果对应技能",
@@ -1951,4 +1953,5 @@
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
     "Zone": "区域"
+
 }
