@@ -768,6 +768,7 @@
     "AutoReplyChatBot-WorldBookEntryName": "词条名",
     "AutoReplyChatBotDescription": "配置完毕后, 自动使用指定的大语言模型与提示词回复指定频道的聊天消息",
     "AutoReplyChatBotTitle": "自动回复聊天信息",
+    "AutoReplyChatBot-APISelection": "API选择",
     "AutoRequestItemSubmit-SubmitHQItem": "递交优质道具",
     "AutoRequestItemSubmitDescription": "在递交物品时, 自动选择物品并完成递交",
     "AutoRequestItemSubmitTitle": "自动选择并递交物品",
