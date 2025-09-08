@@ -1742,6 +1742,7 @@
     "OptimizedFreeShop-FastClaim": "无需确认, 直接领取",
     "OptimizedFreeShopDescription": "对报酬界面进行优化, 支持无需确认对话框快捷领取其中物品与批量领取某一职业的全部装备",
     "OptimizedFreeShopTitle": "报酬界面优化",
+    "OptimizedFriendList-AddonPlane-SearchTypeSetting":  "修改搜索类型",
     "OptimizedFriendList-ContextMenu-NicknameAndRemark": "昵称与备注",
     "OptimizedFriendList-ContextMenu-TeleportToFriendWorld": "传送到所在服务器",
     "OptimizedFriendList-ContextMenu-TeleportToFriendZone": "传送到所在区域",
