@@ -514,6 +514,8 @@
     "AutoMateriaTransmutation-OpenUI": "打开合成界面",
     "AutoMateriaTransmutationDescription": "打开魔晶石合成界面, 并点击开始后, 自动选择并合成魔晶石",
     "AutoMateriaTransmutationTitle": "自动合成魔晶石",
+    "AutoMaximiseWindowDescription": "开启模块时自动最大化游戏窗口一次",
+    "AutoMaximiseWindowTitle": "自动最大化窗口",
     "AutoMessageScheduler-RepeatTimes": "重复次数",
     "AutoMessageScheduler-TimeMode": "时间基准",
     "AutoMessageSchedulerDescription": "配置完毕后, 自动在指定的时间点以特定间隔发送特定的聊天消息或文本指令特定次数",
@@ -2068,4 +2070,5 @@
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
     "Zone": "区域"
+
 }
