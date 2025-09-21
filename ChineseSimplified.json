@@ -1007,6 +1007,8 @@
     "AutoVeryEasyQuestBattleTitle": "自动任务战斗非常简单",
     "AutoWoofDescription": "若当前骑乘坐骑为大大柴, 则持续使用其坐骑技能吼叫",
     "AutoWoofTitle": "自动大大柴吼叫",
+    "AvailableInCombatMiniTalkPlayerTitle": "战斗中可用聊天气泡",
+    "AvailableInCombatMiniTalkPlayerDescription": "移除系统限制,战斗中依旧可使用聊天气泡",
     "BackgroundColor": "背景颜色",
     "BaitSwitchCommand-CommandHelp": "<物品 ID / 物品名 / 物品名拼音> 切换至指定的钓饵",
     "BaitSwitchCommand-CommandHelpDetailed": "如想换至钓饵 万能拟饵, 可以发送命令:\n\n/pdr bait 29717 (物品ID)\n/pdr bait 万能拟饵/万能 (物品名)\n/pdr bait wannengnier/wanneng (拼音)\n\n注: 除 物品 ID 外, 均以客户端当前语言为准",
