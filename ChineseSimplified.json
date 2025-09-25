@@ -2091,5 +2091,5 @@
     "BetterMountRoulette-PvpAreaTab": "PvP 区域",
     "BetterMountRoulette-NormalMountsHeader": "常规坐骑随机池 (用于野外、住宅区等)",
     "BetterMountRoulette-PvpMountsHeader": "PvP 坐骑随机池 (用于战场)",
-    "BetterMountRoulette-ListEmptyError": "/e 请先在“更好的随机坐骑”设置中为当前情景（常规/PvP）添加坐骑。"
+    "BetterMountRoulette-ListEmptyError": "请先在“更好的随机坐骑”设置中为当前情景（常规/PvP）添加坐骑。"
 }
