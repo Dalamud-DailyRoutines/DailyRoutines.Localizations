@@ -2086,5 +2086,14 @@
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <服务器> (不区分大小写/部分匹配) 指令,\n用于在三主城内的任意位置进行快捷跨界传送",
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
-    "Zone": "区域"
-}
+    "Zone": "区域",
+    "AutoPreventGuardInterruptTitle": "自动防止打断防御",
+    "AutoPreventGuardInterruptDescription": "在PVP中，防止其他技能打断“防御”技能。",
+    "AutoPreventGuardInterrupt-EnableHelp": "启用此模块以防止打断“防御”。",
+    "AutoPreventGuardInterrupt-InterruptThreshold": "可打断阈值",
+    "AutoPreventGuardInterrupt-InterruptThresholdHelp": "当“防御”的剩余时间低于此值时，允许打断它。",
+    "AutoPreventGuardInterrupt-WhitelistHelp": "此列表中的技能在“防御”生效时不会被阻止。请添加技能ID来自定义。",
+    "AutoPreventGuardInterrupt-PreventedNotification": "为防止打断防御，已阻止技能 “{0}”",
+    "Remove": "移除",
+    "UnknownAction": "未知技能"
+    }
