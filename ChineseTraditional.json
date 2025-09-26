@@ -323,6 +323,8 @@
     "AutoGysahlGreensTitle": "自動使用基薩爾野菜",
     "AutoHandleTeleportStuckDescription": "當遭遇 \"{0}\" 的特殊傳送狀態時, 自動執行上一次傳送以脫離",
     "AutoHandleTeleportStuckTitle": "自動處理無法傳送狀態",
+    "AutoHideBannersDescription": "配置完毕后, 自动阻止对应的游戏横幅与音效弹出",
+    "AutoHideBannersTitle": "自动隐藏横幅",
     "AutoHideExpBarDescription": "若當前職業等級已滿, 則自動隱藏經驗值欄",
     "AutoHideExpBarTitle": "自動隱藏經驗值欄",
     "AutoHideGameObjects-HideChocobo": "隱藏陸行鳥",
