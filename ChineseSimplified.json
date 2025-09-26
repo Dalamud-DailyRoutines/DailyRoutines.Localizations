@@ -2084,12 +2084,10 @@
     "Yes": "是",
     "Zone": "区域",
     "BetterMountRouletteTitle": "更好的随机坐骑",
-    "BetterMountRouletteDescription": "取代原版的随机坐骑，解除了30个坐骑的随机上限，并允许您为常规区域和PvP区域分别创建自定义的随机坐骑池。",
+    "BetterMountRouletteDescription": "取代原版的随机坐骑，解除了30个坐骑的随机上限，并允许为常规区域和PvP区域分别创建自定义的随机坐骑池。",
     "BetterMountRoulette-HelpText": "请为您在常规区域和PvP区域随机的坐骑进行分组。当您按下“随机坐骑”技能时，插件会自动根据当前情景选择对应的分组。",
-    "BetterMountRoulette-Loading": "正在加载坐骑列表...",
     "BetterMountRoulette-NormalAreaTab": "常规区域",
-    "BetterMountRoulette-PvpAreaTab": "PvP 区域",
+    "BetterMountRoulette-PVPAreaTab": "PvP 区域",
     "BetterMountRoulette-NormalMountsHeader": "常规坐骑随机池 (用于野外、住宅区等)",
-    "BetterMountRoulette-PvpMountsHeader": "PvP 坐骑随机池 (用于战场)",
-    "BetterMountRoulette-ListEmptyError": "请先在“更好的随机坐骑”设置中为当前情景（常规/PvP）添加坐骑。"
+    "BetterMountRoulette-PVPMountsHeader": "PvP 坐骑随机池 (用于战场)"
 }
