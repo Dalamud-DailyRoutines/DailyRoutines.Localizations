@@ -1002,6 +1002,8 @@
     "AutoUseItemStacks-MenuItem": "打开全部",
     "AutoUseItemStacksDescription": "若目标堆叠物品可被使用, 则为其右键菜单中新增项, 以批量使用该物品",
     "AutoUseItemStacksTitle": "自动使用堆叠物品",
+    "AutoUseMountActionDescription": "配置完毕后, 骑乘特定坐骑时, 自动重复使用指定的坐骑技能",
+    "AutoUseMountActionTitle": "自动使用坐骑技能",
     "AutoVeryEasyQuestBattle-Notification": "已自动将任务战斗难度修改为 \"非常简单\"",
     "AutoVeryEasyQuestBattleDescription": "在进入单人任务战斗时, 自动将其难度修改为 非常简单",
     "AutoVeryEasyQuestBattleTitle": "自动任务战斗非常简单",
