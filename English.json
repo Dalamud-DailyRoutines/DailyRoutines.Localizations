@@ -1002,6 +1002,8 @@
     "AutoUseItemStacks-MenuItem": "Open All",
     "AutoUseItemStacksDescription": "Add right-click menu option for batch-using stackable items if they are usable",
     "AutoUseItemStacksTitle": "Auto Use Stackable Items",
+    "AutoUseMountActionDescription": "配置完毕后, 骑乘特定坐骑时, 自动重复使用指定的坐骑技能",
+    "AutoUseMountActionTitle": "自动使用坐骑技能",
     "AutoVeryEasyQuestBattle-Notification": "The difficulty has been set to \"Very Easy\".",
     "AutoVeryEasyQuestBattleDescription": "Automatically set the difficulty of single player quest battles to \"Very Easy\" before commencing.",
     "AutoVeryEasyQuestBattleTitle": "Auto Commence Very Easy Battles",
