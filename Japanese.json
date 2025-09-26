@@ -1002,6 +1002,8 @@
     "AutoUseItemStacks-MenuItem": "すべて開く",
     "AutoUseItemStacksDescription": "ターゲットのスタックアイテムが使用可能な場合、その右クリックメニューに項目を追加し、アイテムを一括で使用できるようにする",
     "AutoUseItemStacksTitle": "スタックアイテムを自動的に使用",
+    "AutoUseMountActionDescription": "配置完毕后, 骑乘特定坐骑时, 自动重复使用指定的坐骑技能",
+    "AutoUseMountActionTitle": "自动使用坐骑技能",
     "AutoVeryEasyQuestBattle-Notification": "クエストの戦闘難易度が「Very Easy」に変更されました。",
     "AutoVeryEasyQuestBattleDescription": "ソロバトルコンテンツに突入する際、難易度を「Very Easy」に変更します。",
     "AutoVeryEasyQuestBattleTitle": "クエストバトルをVery Easyに設定",
