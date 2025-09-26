@@ -323,6 +323,8 @@
     "AutoGysahlGreensTitle": "ギサールの野菜を自動使用",
     "AutoHandleTeleportStuckDescription": "「{0}」が発生した際、最後に行使されたテレポを実行します。",
     "AutoHandleTeleportStuckTitle": "テレポ重複時の自動処理",
+    "AutoHideBannersDescription": "設定完了後、対応するゲームのバナーと効果音のポップアップを自動でブロックします。",
+    "AutoHideBannersTitle": "バナーを自動で非表示",
     "AutoHideExpBarDescription": "現在のジョブがレベル上限に達している場合、経験値バーを非表示にします。",
     "AutoHideExpBarTitle": "経験値バーの非表示",
     "AutoHideGameObjects-HideChocobo": "チョコボを非表示にする",
