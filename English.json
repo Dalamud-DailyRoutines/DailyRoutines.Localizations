@@ -323,6 +323,8 @@
     "AutoGysahlGreensTitle": "Auto Use Gysahl Greens",
     "AutoHandleTeleportStuckDescription": "Automatically execute the teleportation last time if users get stuck in teleportation with the message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Auto Clear Teleportation Stuck",
+    "AutoHideBannersDescription": "配置完毕后, 自动阻止对应的游戏横幅与音效弹出",
+    "AutoHideBannersTitle": "自动隐藏横幅",
     "AutoHideExpBarDescription": "Automatically hide the experience bar if the current job reaches its full level.",
     "AutoHideExpBarTitle": "Auto Hide Exp Bar",
     "AutoHideGameObjects-HideChocobo": "Hide Chocobos",
