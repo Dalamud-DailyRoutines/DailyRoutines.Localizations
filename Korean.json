@@ -1002,6 +1002,8 @@
     "AutoUseItemStacks-MenuItem": "모두 열기",
     "AutoUseItemStacksDescription": "중첩 아이템이 사용 가능한 경우, 우클릭 메뉴에 항목을 추가해 아이템을 일괄 사용 가능하게 합니다.",
     "AutoUseItemStacksTitle": "중첩 아이템 자동 사용",
+    "AutoUseMountActionDescription": "配置完毕后, 骑乘特定坐骑时, 自动重复使用指定的坐骑技能",
+    "AutoUseMountActionTitle": "自动使用坐骑技能",
     "AutoVeryEasyQuestBattle-Notification": "퀘스트 전투 난이도가 '매우 쉬움'으로 변경되었습니다.",
     "AutoVeryEasyQuestBattleDescription": "단독 전투 콘텐츠에 돌입할 때 난이도를 '매우 쉬움'으로 변경합니다.",
     "AutoVeryEasyQuestBattleTitle": "퀘스트 전투 매우 쉬움 설정",
