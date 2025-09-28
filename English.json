@@ -559,7 +559,7 @@
     "AutoMoveGearsNotInSetDescription": "Automatically retrieve all gears not included in any valid set from the Armory Chest after use",
     "AutoMoveGearsNotInSetTitle": "Auto Retrieve Gears Not In Sets",
     "AutoMovePetCenterDescription": "After summoning a creature in a duty or after entering a duty, automatically move the Pet to the center of the current zone.",
-    "AutoMovePetCenterTitle": "Auto move the Pet to the center",
+    "AutoMovePetCenterTitle": "Auto Move Pet To Center",
     "AutoMovePetPosition-Delay": "Time since battle started",
     "AutoMovePetPosition-GetCurrent": "Fetch player's current position",
     "AutoMovePetPosition-GetMouseHelp": "After clicking, move the mouse to the target position and confirm with Ctrl + Alt.",
