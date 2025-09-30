@@ -891,6 +891,7 @@
     "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
     "AutoSnipeQuestDescription": "在游戏尝试开始观察任务时, 自动阻止并将其标记为已完成",
     "AutoSnipeQuestTitle": "自动完成观察任务",
+    "AutoSortItems-SortNow": "手动整理",
     "AutoSortItems-ArmouryCategoryDesc": "降序情况下: 生产采集装备在前, 战斗装备在后",
     "AutoSortItems-InventoryCategoryDesc": "降序情况下: 生产采集素材 > 魔晶石 > 食药 > 杂货",
     "AutoSortItems-InventoryTabDesc": "分页情况下: 装备单独成页, 其他物品单独成页",
@@ -2096,4 +2097,5 @@
     "WorldTravelCommandTitle": "快捷跨界传送指令",
     "Yes": "是",
     "Zone": "区域"
+
 }
