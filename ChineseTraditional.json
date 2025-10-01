@@ -1109,6 +1109,8 @@
     "BetterMarketBoard-TravelToWorld": "前往目標伺服器",
     "BetterMarketBoardDescription": "添加 /pdr {0} 指令用以打開模組提供的遠程市場布告板界面, 可在其中快速查價、購買並設定價格監控",
     "BetterMarketBoardTitle": "更好的市場布告板",
+    "BetterMountRouletteDescription": "提供新的随机坐骑系统, 允许为不同类型区域指定不同的随机坐骑待选列表, 且列表可保存无限个坐骑",
+    "BetterMountRouletteTitle": "更好的随机坐骑",
     "BetterPartyFinderSortDescription": "讓隊員招募界面內的 升序/降序排列 功能精準按照各招募剩餘時間多少排序顯示結果",
     "BetterPartyFinderSortTitle": "更好的隊員招募升降排序",
     "BetterStatusTimeDisplay-ChooseTimeFormat": "時間格式",
