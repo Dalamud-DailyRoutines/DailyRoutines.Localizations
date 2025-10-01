@@ -1109,6 +1109,8 @@
     "BetterMarketBoard-TravelToWorld": "Travel To World",
     "BetterMarketBoardDescription": "New command /pdr {0} to pop up the better market board provided by the module, for better price inquiries, purchasing and price monitoring.",
     "BetterMarketBoardTitle": "Better Market Board",
+    "BetterMountRouletteDescription": "提供新的随机坐骑系统, 允许为不同类型区域指定不同的随机坐骑待选列表, 且列表可保存无限个坐骑",
+    "BetterMountRouletteTitle": "更好的随机坐骑",
     "BetterPartyFinderSortDescription": "Let the recruitments in Party Finder be sorted by the exact value of the remaining time.",
     "BetterPartyFinderSortTitle": "Better Party Finder Sorting",
     "BetterStatusTimeDisplay-ChooseTimeFormat": "Time format",
