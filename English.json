@@ -908,7 +908,7 @@
     "AutoSpearfishDescription": "Automatically spearfish and provide detailed information of the current teeming water on the spearfishing interface after proper configurations.",
     "AutoSpearfishTitle": "Auto Spearfish",
     "AutoSpeedMultiplier-CommandHelp": "<​Speed Multiplier​> to temporarily adjust the speed multiplier at the moment. (A value less than or equal to 0 to clear changes before)",
-    "AutoSpeedMultiplier-EnterLimitedArea": "Entered speed detection area: {0} ({1})",
+    "AutoSpeedMultiplier-EnterLimitedArea": "Entering a speed detection area: {0} ({1})",
     "AutoSpeedMultiplier-LeaveLimitedArea": "Left the speed detection area",
     "AutoSpeedMultiplier-Multiplier": "Speed Multiplier",
     "AutoSpeedMultiplier-Multiplier-InCombat": "In Combat",
