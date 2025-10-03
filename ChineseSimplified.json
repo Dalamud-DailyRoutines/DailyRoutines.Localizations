@@ -1729,6 +1729,8 @@
     "OpenFolder": "打开文件夹",
     "OpenMap": "打开地图",
     "Operation": "操作",
+    "OptimizedBorderlessWindowDescription": "对窗口全屏模式进行优化, 当游戏位于后台, 使用 Windows 右键菜单时游戏窗口不再会被强制唤出至前台",
+    "OptimizedBorderlessWindowTitle": "窗口全屏模式优化",
     "OptimizedCameraSettingDescription": "对集体动作设置界面进行优化, 使部分选项可以进行更加方便地进行精细化调节",
     "OptimizedCameraSettingTitle": "集体动作设置界面优化",
     "OptimizedCastBar-HideCastTime": "隐藏咏唱时间",
