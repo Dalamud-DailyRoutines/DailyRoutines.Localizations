@@ -1729,6 +1729,8 @@
     "OpenFolder": "Open folder",
     "OpenMap": "Open Map",
     "Operation": "Operation",
+    "OptimizedBorderlessWindowDescription": "对窗口全屏模式进行优化, 当游戏位于后台, 使用 Windows 右键菜单时游戏窗口不再会被强制唤出至前台",
+    "OptimizedBorderlessWindowTitle": "窗口全屏模式优化",
     "OptimizedCameraSettingDescription": "Optimize the setting interface of Group Pose and provide more refined and detailed options.",
     "OptimizedCameraSettingTitle": "Better G-pose Setting Interface",
     "OptimizedCastBar-HideCastTime": "Hide Cast Time",
