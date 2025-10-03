@@ -1729,6 +1729,8 @@
     "OpenFolder": "フォルダを開く",
     "OpenMap": "マップを開く",
     "Operation": "操作",
+    "OptimizedBorderlessWindowDescription": "对窗口全屏模式进行优化, 当游戏位于后台, 使用 Windows 右键菜单时游戏窗口不再会被强制唤出至前台",
+    "OptimizedBorderlessWindowTitle": "窗口全屏模式优化",
     "OptimizedCameraSettingDescription": "グループポーズの設定画面が調整され、一部の演出オプションがより細かく設定できるようになりました。",
     "OptimizedCameraSettingTitle": "グループポーズ設定の最適化",
     "OptimizedCastBar-HideCastTime": "詠唱時間を非表示",
