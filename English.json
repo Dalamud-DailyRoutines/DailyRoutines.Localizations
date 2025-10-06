@@ -2066,6 +2066,8 @@
     "TextToTalk-Speed": "Talk Speed",
     "TextToTalk-TestText": "Test Text",
     "TextToTalk-Volume": "Volume",
+    "TheCuffOfTheFatherHelperDescription": "进入副本 亚历山大机神城 启动之章2 后, 若当前未骑乘 7号哥布林战车, 则禁止选中 炸弹, 避免误攻击, 并对其高亮显示",
+    "TheCuffOfTheFatherHelperTitle": "亚历山大机神城启动之章2助手",
     "ThePraetoriumHelperDescription": "After entering the duty \"The Praetorium\" and mounting the magitek reapers, the module will shot the Magitek Cannon towards the optimal AOE position nearby.",
     "ThePraetoriumHelperTitle": "The Praetorium Helper",
     "Threshold": "Threshold",
