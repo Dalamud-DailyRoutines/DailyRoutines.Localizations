@@ -2066,6 +2066,8 @@
     "TextToTalk-Speed": "읽기 속도",
     "TextToTalk-TestText": "테스트용 텍스트",
     "TextToTalk-Volume": "음량",
+    "TheCuffOfTheFatherHelperDescription": "进入副本 亚历山大机神城 启动之章2 后, 若当前未骑乘 7号哥布林战车, 则禁止选中 炸弹, 避免误攻击, 并对其高亮显示",
+    "TheCuffOfTheFatherHelperTitle": "亚历山大机神城启动之章2助手",
     "ThePraetoriumHelperDescription": "'마도성 프라이토리움'에서 마도 아머에 탑승했을 때, 주변 최적 대상에게 자동으로 마도 캐논포를 사용합니다.",
     "ThePraetoriumHelperTitle": "'마도성 프라이토리움' 도우미",
     "Threshold": "임계값",
