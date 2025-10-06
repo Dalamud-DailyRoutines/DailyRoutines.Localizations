@@ -2066,6 +2066,8 @@
     "TextToTalk-Speed": "語速",
     "TextToTalk-TestText": "測試文本",
     "TextToTalk-Volume": "音量",
+    "TheCuffOfTheFatherHelperDescription": "进入副本 亚历山大机神城 启动之章2 后, 若当前未骑乘 7号哥布林战车, 则禁止选中 炸弹, 避免误攻击, 并对其高亮显示",
+    "TheCuffOfTheFatherHelperTitle": "亚历山大机神城启动之章2助手",
     "ThePraetoriumHelperDescription": "進入副本 最終決戰天幕魔導城 並騎乘上 魔導裝甲 後, 自動朝著附近最佳 AOE 目標所在處使用技能 魔導加農炮",
     "ThePraetoriumHelperTitle": "最終決戰天幕魔導城助手",
     "Threshold": "閾值",
