@@ -1792,7 +1792,7 @@
     "OptimizedLetter-DeleteMails": "删除邮件",
     "OptimizedLetter-DeleteMails-ExceptPlayers": "非玩家",
     "OptimizedLetterDescription": "对莫古邮件界面进行优化, 使其可以一键领取/删除邮件, 支持发送邮件时搜索好友, 并移除\"请求特典与商城道具\"按钮的操作锁",
-    "OptimizedLetterTitle": "莫古邮件界面优化",
+    "OptimizedLetterTitle": "Better Letters",
     "OptimizedLongCastTimeActionDescription": "If the cast time of an action is greater than or equal to its recast time, automatically shorten the cast time by {0} seconds.",
     "OptimizedLongCastTimeActionTitle": "Optimize Actions With Long Cast Time",
     "OptimizedRecipeNote-AddonTitle": "Solution Step(s)",
