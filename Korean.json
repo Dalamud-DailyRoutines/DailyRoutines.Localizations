@@ -1790,7 +1790,7 @@
     "OptimizedInteractionTitle": "상호작용 방식 최적화",
     "OptimizedLetter-ClaimMails": "우편 받기",
     "OptimizedLetter-DeleteMails": "우편 삭제",
-    "OptimizedLetter-DeleteMails-ExceptPlayers": "미접속 플레이어",
+    "OptimizedLetter-DeleteMails-ExceptPlayers": "NPC",
     "OptimizedLetterDescription": "모그루 모그 우편함 UI를 개선하여, 한번의 클릭으로 우편 받기/삭제가 가능하도록 하고, 편지 쓰기할 시 친구 검색 기능을 지원하며, '특전 및 상점 아이템 요청' 버튼의 조작 제한을 제거합니다.",
     "OptimizedLetterTitle": "모그루 모그 우편함 UI 최적화",
     "OptimizedLongCastTimeActionDescription": "스킬의 시전 시간이 재사용 대기 시간 이상일 경우 자동으로 시전 시간을 {0} 초 단축합니다.",
