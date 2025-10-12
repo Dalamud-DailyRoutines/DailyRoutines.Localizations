@@ -181,8 +181,6 @@
     "AutoCutsceneSkipTitle": "カットシーンスキップ",
     "AutoDanceDescription": "踊り子でスタンダード/テクニカルステップを使用すると、自動的に対応するステップ踏みます。",
     "AutoDanceTitle": "【DNC】自動ステップ",
-    "AutoDeleteLettersDescription": "モグレターの画面を開き、指定したカテゴリに移動し、「スタート」をクリックすると、一括削除します。",
-    "AutoDeleteLettersTitle": "モグレターの一括削除",
     "AutoDesynthesizeItems-SkipHQ": "HQアイテムを分解しない",
     "AutoDesynthesizeItemsDescription": "分解画面を開き、「スタート」をクリックすると、自動的にすべてのアイテムを分解します。",
     "AutoDesynthesizeItemsTitle": "自動アイテム分解",
