@@ -1653,7 +1653,7 @@
     "Notification": "Notification",
     "NotUnlocked": "Locked",
     "NoUIFadeDescription": "Disable in-game black screens and fade-ins/outs used for transitions to reduce unnecessary waiting time during loading",
-    "NoUIFadeTitle": "No Loading Black Screes",
+    "NoUIFadeTitle": "No Black Screen While Loading",
     "Number": "Number",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-DistanceTo-Help": "The character will travel normally if the distance to any basic conveyance unit or occult aetheryte is less than or equal to the distance threshold here.",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-Help": "Prioritize to travel normally to basic conveyance units or occult aetherytes instead of instantly moving via Occult Return.\n(It requires the vnavmesh plugin)",
