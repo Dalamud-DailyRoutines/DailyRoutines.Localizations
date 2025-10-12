@@ -181,8 +181,6 @@
     "AutoCutsceneSkipTitle": "Auto Skip Cutscenes",
     "AutoDanceDescription": "When using dancer action Standard/Technical Step, the corresponding dance step actions will be automatically used.",
     "AutoDanceTitle": "Auto Dance",
-    "AutoDeleteLettersDescription": "Open the Moogle Delivery interface, delete all letters in selected category when select a category and click start button.",
-    "AutoDeleteLettersTitle": "Auto Letters Delete",
     "AutoDesynthesizeItems-SkipHQ": "Skip HQ items",
     "AutoDesynthesizeItemsDescription": "Auto confirm when the desynthesis interface opened;\nOpen the desynthesis interface and click start, it'll desynthesis all",
     "AutoDesynthesizeItemsTitle": "Auto Item Desynthesis",
