@@ -181,8 +181,6 @@
     "AutoCutsceneSkipTitle": "自动跳过过场动画",
     "AutoDanceDescription": "使用舞者技能标准/技巧舞步时, 自动使用对应的舞步技能",
     "AutoDanceTitle": "自动跳舞",
-    "AutoDeleteLettersDescription": "打开莫古邮件界面, 切换到指定类别并点击开始后, 即会批量删除该类别下所有的邮件",
-    "AutoDeleteLettersTitle": "自动批量删除邮件",
     "AutoDesynthesizeItems-SkipHQ": "跳过 HQ 物品",
     "AutoDesynthesizeItemsDescription": "道具分解界面出现后, 自动点击确认\n打开道具分解列表, 并点击开始后, 自动分解所有道具",
     "AutoDesynthesizeItemsTitle": "自动道具分解",
