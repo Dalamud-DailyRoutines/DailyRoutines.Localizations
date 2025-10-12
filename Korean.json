@@ -181,8 +181,6 @@
     "AutoCutsceneSkipTitle": "스킵 제한 영상 강제 스킵",
     "AutoDanceDescription": "무도가로 정석 무도/기교 무도를 사용하면, 해당 스텝을 자동으로 밟습니다.",
     "AutoDanceTitle": "【무도가】 자동 무도",
-    "AutoDeleteLettersDescription": "모그레터 화면을 열고 지정한 카테고리로 이동한 뒤 '시작'을 누르면 일괄 삭제합니다.",
-    "AutoDeleteLettersTitle": "모그레터 일괄 삭제",
     "AutoDesynthesizeItems-SkipHQ": "HQ 아이템은 분해하지 않음",
     "AutoDesynthesizeItemsDescription": "분해 화면을 열고 '시작'을 누르면, 모든 아이템을 자동 분해합니다.",
     "AutoDesynthesizeItemsTitle": "자동 아이템 분해",
