@@ -1341,7 +1341,7 @@
     "FastObjectInteract-BlacklistKeysList": "キーワードブラックリスト",
     "FastObjectInteract-BlacklistKeysListAmount": "{0} 個のキーワードがすでに存在します",
     "FastObjectInteract-BlacklistKeysListInputHelp": "キーワードを入力してください。完全一致でなければなりませんのでご注意ください。",
-    "FastObjectInteract-InstanceAreaChange": "コンテンツエリアへ移動 {0}",
+    "FastObjectInteract-InstanceAreaChange": "インスタンスエリア {0} へ移動",
     "FastObjectInteract-LockWindow": "ウィンドウをロックする",
     "FastObjectInteract-MaxButtonWidth": "ボタンの最大幅",
     "FastObjectInteract-MaxDisplayAmount": "同時に表示できる最大個数",
