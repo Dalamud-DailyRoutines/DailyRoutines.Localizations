@@ -540,7 +540,7 @@
     "AutoMJIGather-PointNotFound": "採集ポイントが見つかりませんでした。座標を再配置しようとしています",
     "AutoMJIGather-ReachCapsMessage": "無人島素材容量が上限に達したため、自動採集を終了します",
     "AutoMJIGather-StopWhenReachCaps": "ストック上限に到達時採集を停止し、通知を送信します",
-    "AutoMJIGatherDescription": "「スタート」をクリックすると、設定した無人島素材を自動的にループ採集します。",
+    "AutoMJIGatherDescription": "「スタート」をクリックすると、設定した無人島素材をワープしながらループ採集します。",
     "AutoMJIGatherTitle": "無人島自動採集",
     "AutoMode": "自動モード",
     "AutoMonsterToss-StartingGame": "ゲーム開始、投球5回",
