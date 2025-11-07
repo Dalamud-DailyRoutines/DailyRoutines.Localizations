@@ -1763,7 +1763,7 @@
     "OptimizedChatBubbleTitle": "채팅 말풍선 UI 최적화",
     "OptimizedDutyFinderSettingDescription": "임무 찾기 도구의 각 설정을 직접 누를 수 있는 버튼 형태로 상단에 표시하여, 서브 창을 열지 않고도 조작할 수 있게 합니다.",
     "OptimizedDutyFinderSettingTitle": "임무 찾기 도구 설정 최적화",
-    "OptimizedEnemyList-ShowCastInfo": "显示咏唱信息",
+    "OptimizedEnemyList-ShowCastInfo": "노래 정보 표시",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklist": "시전 표시 블랙리스트",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklistHelp": "대상 이름을 입력하세요. 완전히 일치해야 합니다.",
     "OptimizedEnemyList-UseCustomColor": "사용자 지정 글자색 사용",
