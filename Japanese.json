@@ -1763,6 +1763,7 @@
     "OptimizedChatBubbleTitle": "チャットバブル UI の最適化",
     "OptimizedDutyFinderSettingDescription": "クエスト検索ツールの各設定を、直接操作可能なボタン形式で画面上部に表示し、サブウィンドウを開かずに設定を操作できるようにします。",
     "OptimizedDutyFinderSettingTitle": "クエスト検索ツール設定の最適化",
+    "OptimizedEnemyList-ShowCastInfo": "显示咏唱信息",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklist": "詠唱表示ブラックリスト",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklistHelp": "ターゲット名を入力してください、完全一致が必要です",
     "OptimizedEnemyList-UseCustomColor": "ユーザー定義の文字色を使う",
