@@ -2018,6 +2018,8 @@
     "Settings-Report": "反饋",
     "Settings-ResetModule": "重設模組",
     "Settings-ResetModuleSuccessNotice": "重設 {0} 模組完成",
+    "Settings-SemaphoreMaxCount": "最大同时加载模块数量",
+    "Settings-SemaphoreMaxCount-Help": "修改后需要重新加载插件才能生效",
     "Settings-ShowOverlayConfig": "顯示配置懸浮窗",
     "Settings-SupportAuthor": "支持作者",
     "Settings-SupportTeam": "支持團隊",
