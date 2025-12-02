@@ -2018,6 +2018,8 @@
     "Settings-Report": "Report",
     "Settings-ResetModule": "Reset Module",
     "Settings-ResetModuleSuccessNotice": "Module {0} Reset Completes",
+    "Settings-SemaphoreMaxCount": "最大同时加载模块数量",
+    "Settings-SemaphoreMaxCount-Help": "修改后需要重新加载插件才能生效",
     "Settings-ShowOverlayConfig": "Show Config Overlay",
     "Settings-SupportAuthor": "Support Author",
     "Settings-SupportTeam": "Support Team",
