@@ -2018,6 +2018,8 @@
     "Settings-Report": "피드백",
     "Settings-ResetModule": "모듈 리셋",
     "Settings-ResetModuleSuccessNotice": "{0} 모듈 리셋을 완료했습니다.",
+    "Settings-SemaphoreMaxCount": "最大同时加载模块数量",
+    "Settings-SemaphoreMaxCount-Help": "修改后需要重新加载插件才能生效",
     "Settings-ShowOverlayConfig": "설정의 팝업 윈도우를 표시합니다.",
     "Settings-SupportAuthor": "모듈 제작자 지원하기",
     "Settings-SupportTeam": "서포트 팀",
