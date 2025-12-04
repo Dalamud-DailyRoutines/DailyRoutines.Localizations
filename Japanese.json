@@ -2042,7 +2042,7 @@
     "Settings-TranslationUpdatedMessage": "クラウドから翻訳ファイルをダウンロードし、更新しました。",
     "Settings-TrayOverlay": "トレーオーバレイ",
     "Settings-TrayOverlay-Help": "有効化すると、メイン画面を閉じたときにトレイ用のフローティングウィンドウを表示し、メイン画面を素早く開けるようにします。\n（トレイのフローティングウィンドウを右クリックすると、位置をドラッグして変更可能）",
-    "Settings-TTS": "文本转语音 (TTS)",
+    "Settings-TTS": "テキスト読み上げ（TTS）",
     "Settings-UnknownFont": "不明なフォント",
     "Settings-UpdateTranslation": "翻訳を更新",
     "Settings-UsefulLinks": "関連リンク",
