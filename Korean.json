@@ -2029,7 +2029,7 @@
     "Settings-TodayRecommendModules": "오늘의 추천",
     "Settings-TranslationUpdatedMessage": "클라우드에서 번역 파일을 다운로드해 갱신했습니다.",
     "Settings-TrayOverlay": "트레이 오버레이",
-    "Settings-TrayOverlay-Help": "활성화하면, 메인 화면이 닫혔을 때 작업 표시줄 아이콘으로 표시되며, 이를 통해 메인 화면을 빠르게 열 수 있습니다.\n(작업 표시줄 아이콘을 우클릭하면 드래그로 위치를 조정할 수 있습니다)",
+    "Settings-TrayOverlay-Help": "활성화하면 메인 창을 닫았을 때 화면 위에 떠 있는 작은 창이 표시되어 메인 창을 빠르게 열 수 있습니다.\n(이 작은 창을 우클릭하면 드래그로 원하는 위치로 옮길 수 있습니다.)",
     "Settings-TTS": "텍스트 음성 변환 (TTS)",
     "Settings-UnknownFont": "알 수 없는 폰트",
     "Settings-UpdateTranslation": "번역 업데이트",
