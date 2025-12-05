@@ -2002,8 +2002,6 @@
     "Settings-AddLocalModuleHelp": "Absolute Path Only",
     "Settings-Auth-ExpireNotification": "Credential: {0}\nExpire Time: {1}\nRemaining Time Until Expire: {2} days",
     "Settings-Auth-FailContactingServer": "Failed to get auth info. Please check your local network settings.",
-    "Settings-Auth-Help": "About Auth",
-    "Settings-Auth-HelpContent": "Daily Routines is a free plugin, and no features require payment.\n\nHowever, some features/modules (about one-third) need to be opened through regular and free online verification. At the same time, if you want to get our support or help, you also need to pass at least one online verification.\n\nTo complete the verification, please join our Discord server (there is a relevant jump button in the upper left corner of the main interface), and follow the instructions to send a private message to the robot to complete it by yourself.",
     "Settings-Auth-OnlineAuthInfo": "Authentication Information",
     "Settings-Auth-OnlineAuthInfo-Help": "A chat message including related information will be sent if there's any valid credential every time refreshing the authentication after enabling.",
     "Settings-AuthToken": "Token",
