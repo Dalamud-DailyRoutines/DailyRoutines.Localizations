@@ -2002,8 +2002,6 @@
     "Settings-AddLocalModuleHelp": "请填写目标本地模块的绝对路径",
     "Settings-Auth-ExpireNotification": "凭证类型: {0}\n过期时间: {1}\n剩余时间: {2} 天",
     "Settings-Auth-FailContactingServer": "获取在线验证信息失败, 请检查你的本地网络设置",
-    "Settings-Auth-Help": "验证帮助",
-    "Settings-Auth-HelpContent": "Daily Routines 是免费插件, 没有任何功能需要收费获取\n\n但部分功能/模块 (约三分之一) 需要通过定期且免费的在线验证来开放, 同时, 如果你希望获得我们的支持或帮助, 也需要至少通过一次在线验证\n\n要完成验证, 请先加入我们的 Discord 服务器 (主界面左上角有相关跳转按钮), 并根据其中指引私信机器人自助完成",
     "Settings-Auth-OnlineAuthInfo": "在线验证消息",
     "Settings-Auth-OnlineAuthInfo-Help": "启用后, 若存在任一已激活凭证信息, 则在每次刷新认证信息后, 发送一条包含相关信息的聊天消息",
     "Settings-AuthToken": "自助验证口令",
