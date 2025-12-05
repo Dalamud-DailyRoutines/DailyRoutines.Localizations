@@ -1880,6 +1880,8 @@
     "PFPageSizeCustomize-DisplayAmount": "ページごと表示件数",
     "PFPageSizeCustomizeDescription": "PT募集で、1ページに表示できる件数をカスタマイズする。上限は1ページあたり100件です。",
     "PFPageSizeCustomizeTitle": "PT募集表示件数カスタマイズ",
+    "PlaceFurnitureAnywhereDescription": "自动取消家具/庭具位置调整过程中的本地位置摆放限制",
+    "PlaceFurnitureAnywhereTitle": "自动取消家具/庭具摆放限制",
     "Plan": "プラン",
     "PlayerTargetInfoExpand-AvailablePayload": "利用可能な負荷",
     "PlayerTargetInfoExpand-FocusTarget": "フォーカスターゲット",
