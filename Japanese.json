@@ -2002,8 +2002,6 @@
     "Settings-AddLocalModuleHelp": "ターゲットのローカルモジュールの絶対パスを入力してください",
     "Settings-Auth-ExpireNotification": "認証タイプ：{0}\n有効期限：{1}\n残り時間：{2} 日",
     "Settings-Auth-FailContactingServer": "オンライン認証情報の取得に失敗しました、ローカルネットワーク設定を確認してください",
-    "Settings-Auth-Help": "認証サポート",
-    "Settings-Auth-HelpContent": "Daily Routines は無料のプラグインであり、すべての機能を無料で利用できます。\n\nただし、一部の機能やモジュール（約3分の1）は、定期的かつ無料のオンライン認証を行うことで利用可能になります。また、私たちのサポートやヘルプを受けたい場合も、少なくとも一度はオンライン認証を完了する必要があります。\n\n認証を完了するには、まず Discord サーバーに参加してください（メイン画面の左上に関連するジャンプボタンがあります）。その後、サーバー内の案内に従い、ボットにダイレクトメッセージを送信してセルフサービス認証を行ってください。",
     "Settings-Auth-OnlineAuthInfo": "オンライン認証情報",
     "Settings-Auth-OnlineAuthInfo-Help": "有効化すると、いずれかのアクティベート済み認証情報が存在する場合、認証情報を更新するたびに、関連情報を含むチャットメッセージを送信します。",
     "Settings-AuthToken": "セルフ認証コード",
