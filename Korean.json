@@ -1427,7 +1427,7 @@
     "FrontlinePlayerRadar-HideFriendlyCharacters": "아군 캐릭터 정보 숨기기",
     "FrontlinePlayerRadar-OnlyDisplayDot": "캐릭터 판정 포인트만 표시",
     "FrontlinePlayerRadar-ValidOutsideFrontline": "전장 외에서도 표시",
-    "FrontlinePlayerRadar2D-DotRadius": "点半径",
+    "FrontlinePlayerRadar2D-DotRadius": "점의 반경",
     "FrontlinePlayerRadar2D-HideFriendlyCharacters": "파티원 캐릭터 정보를 숨김",
     "FrontlinePlayerRadar2D-HideLoadingRange": "가시 범위 표시 비활성화",
     "FrontlinePlayerRadar2D-HighlightJobsInPVP": "직업 아이콘 표시",
