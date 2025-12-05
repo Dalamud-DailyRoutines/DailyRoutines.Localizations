@@ -1880,6 +1880,8 @@
     "PFPageSizeCustomize-DisplayAmount": "페이지별 표시 건수",
     "PFPageSizeCustomizeDescription": "파티 모집에서 한 페이지에 표시되는 건수를 조정할 수 있습니다. 최대 1페이지당 100건입니다.",
     "PFPageSizeCustomizeTitle": "파티 모집 표시 건수 조정",
+    "PlaceFurnitureAnywhereDescription": "自动取消家具/庭具位置调整过程中的本地位置摆放限制",
+    "PlaceFurnitureAnywhereTitle": "自动取消家具/庭具摆放限制",
     "Plan": "플랜",
     "PlayerTargetInfoExpand-AvailablePayload": "사용 가능한 데이터",
     "PlayerTargetInfoExpand-FocusTarget": "주시 대상",
