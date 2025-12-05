@@ -2002,8 +2002,6 @@
     "Settings-AddLocalModuleHelp": "대상 로컬 모듈의 절대 경로를 입력해주세요.",
     "Settings-Auth-ExpireNotification": "인증 타입：{0}\n유효 기한：{1}\n남은 시간：{2} 일",
     "Settings-Auth-FailContactingServer": "온라인 인증 정보를 가져오지 못했습니다. 네트워크 설정을 확인해주세요.",
-    "Settings-Auth-Help": "인증 서포트",
-    "Settings-Auth-HelpContent": "Daily Routines는 무료 플러그인으로, 모든 기능을 무료로 이용할 수 있습니다.\n\n단, 일부 기능이나 모듈(약 3분의 1)은 무료 온라인 인증을 정기적으로 받아야 사용 가능합니다. 또한 저희의 지원이나 도움을 원하신다면, 최소 한 번은 온라인 인증을 완료해야 합니다.\n\n인증을 완료하려면 먼저 Discord 서버에 참여하세요. (메인 화면 왼쪽 상단에 버튼이 있습니다.) 이후, 서버 안내에 따라 봇에게 다이렉트 메시지를 보내 셀프 인증을 진행하세요.",
     "Settings-Auth-OnlineAuthInfo": "온라인 인증 메시지",
     "Settings-Auth-OnlineAuthInfo-Help": "활성화하면, 활성화된 인증 정보가 있을 경우 인증 정보가 갱신될 때마다 관련 내용을 담은 채팅 메시지를 보냅니다.",
     "Settings-AuthToken": "셀프 인증 코드",
