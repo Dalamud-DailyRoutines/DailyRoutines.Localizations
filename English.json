@@ -1880,6 +1880,8 @@
     "PFPageSizeCustomize-DisplayAmount": "Page Size",
     "PFPageSizeCustomizeDescription": "Allows customization of the number of listings per page in Party Finder, with a maximum of 100 listings per page",
     "PFPageSizeCustomizeTitle": "Customize Party Finder Page Size",
+    "PlaceFurnitureAnywhereDescription": "自动取消家具/庭具位置调整过程中的本地位置摆放限制",
+    "PlaceFurnitureAnywhereTitle": "自动取消家具/庭具摆放限制",
     "Plan": "Plan",
     "PlayerTargetInfoExpand-AvailablePayload": "Available payload",
     "PlayerTargetInfoExpand-FocusTarget": "Focus Target",
