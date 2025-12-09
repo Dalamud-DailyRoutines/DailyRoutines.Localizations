@@ -395,7 +395,6 @@
     "AutoLeaveDuty-ForceToLeave": "退出制限無視",
     "AutoLeaveDuty-NoLeaveHighEndDuties": "高難度ダンジョンから自動的に退出しない",
     "AutoLeaveDuty-NoLeaveHighEndDutiesHelp": "現在のゲームバージョンで'高難度コンテンツ'として分類されるすべてのダンジョン",
-    "AutoLeaveDuty-Note": "注: 戦闘状態が解除されない問題を防ぐため、追加の方法を呼び出してダンジョン退出を補助します。その際に表示される通知は無視してください。",
     "AutoLeaveDutyDescription": "ブラックリストで選択したコンテンツでは自動退出しない。",
     "AutoLeaveDutyTitle": "コンテンツから自動退出する",
     "AutoLeveQuests-CompleteHelp": "リーヴの一括処理が完了しました",
