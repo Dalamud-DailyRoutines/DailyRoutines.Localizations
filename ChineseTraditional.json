@@ -395,7 +395,6 @@
     "AutoLeaveDuty-ForceToLeave": "強制退本",
     "AutoLeaveDuty-NoLeaveHighEndDuties": "不自動退出現版本高難副本",
     "AutoLeaveDuty-NoLeaveHighEndDutiesHelp": "即在當前版本會被隊員招募分類為\"高難度任務\"的所有副本",
-    "AutoLeaveDuty-Note": "註: 為防止卡戰鬥狀態, 會調用額外方法輔助退本, 請忽略其產生的提示資訊",
     "AutoLeaveDutyDescription": "在非黑名單副本完成時自動退出",
     "AutoLeaveDutyTitle": "自動退出副本",
     "AutoLeveQuests-CompleteHelp": "批次提交理符任務已完成",
