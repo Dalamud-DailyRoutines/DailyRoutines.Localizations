@@ -395,7 +395,6 @@
     "AutoLeaveDuty-ForceToLeave": "퇴장 제한 무시",
     "AutoLeaveDuty-NoLeaveHighEndDuties": "고난도 컨텐츠에서는 자동 퇴장하지 않음",
     "AutoLeaveDuty-NoLeaveHighEndDutiesHelp": "현재 버전에서 '고난도 컨텐츠'로 분류된 모든 던전",
-    "AutoLeaveDuty-Note": "주의: 전투 종료가 안 되는 문제 방지를 위해 추가적인 퇴장 처리를 합니다. 표시되는 알림은 무시해주세요.",
     "AutoLeaveDutyDescription": "블랙리스트에 등록된 콘텐츠에서는 자동으로 퇴장하지 않습니다.",
     "AutoLeaveDutyTitle": "컨텐츠 자동 퇴장",
     "AutoLeveQuests-CompleteHelp": "수주권 일괄 처리 완료",
