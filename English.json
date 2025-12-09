@@ -395,7 +395,6 @@
     "AutoLeaveDuty-ForceToLeave": "Force leave duties",
     "AutoLeaveDuty-NoLeaveHighEndDuties": "Don't auto leave raids of the current version",
     "AutoLeaveDuty-NoLeaveHighEndDutiesHelp": "All duties classified as \"High-End Duty\" in current party finder categories",
-    "AutoLeaveDuty-Note": "Note: To prevent being stuck in combat, additional methods will be called to assist in exiting. Please ignore the resulting messages",
     "AutoLeaveDutyDescription": "Auto exit upon completion of non-blacklisted duties",
     "AutoLeaveDutyTitle": "Auto Leave Duty",
     "AutoLeveQuests-CompleteHelp": "Batch Levequest Submission Complete",
