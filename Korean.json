@@ -1120,6 +1120,8 @@
     "BetterStatusTimeDisplayTitle": "상태 효과 시간 표시 개선",
     "BetterTeleport-CommandHelp": "<에테라이트명 / 도시 내 에테라이트명 (대소문자 구분 없음) > 을 입력하면, 해당 에테라이트 / 도시 내 에테라이트로 직접 텔레포합니다.",
     "BetterTeleport-HideAethernetInParty": "파티 중인 경우 도시 내 에테라이트 숨기기",
+    "BetterTeleport-MapHint-Pin": "按下打断热键以固定",
+    "BetterTeleport-MapHint-Zoom": "滚动鼠标滚轮以调节缩放",
     "BetterTeleport-Notification": "텔레포 중: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "현재 좌표로 재지정",
     "BetterTeleportDescription": "게임의 기본 텔레포 화면을 모듈형 인터페이스로 대체하여, 효율적인 검색 기능과 목적지 미리보기를 제공합니다. 또한, 도시 내 임의의 에테라이트로 직접 텔레포하는 것도 가능합니다.",
