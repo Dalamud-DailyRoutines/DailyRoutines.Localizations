@@ -1120,7 +1120,7 @@
     "BetterStatusTimeDisplayTitle": "ステータス効果時間表示の改善",
     "BetterTeleport-CommandHelp": "<エーテライト名 / 都市内エーテライト名 (大文字・小文字は区別されません) > を入力すると、対応するエーテライト / 都市内エーテライトへ直接テレポートします。",
     "BetterTeleport-HideAethernetInParty": "PT中の場合、都市内のエーテライトを非表示にする",
-    "BetterTeleport-MapHint-Pin": "按下打断热键以固定",
+    "BetterTeleport-MapHint-Pin": "割り込みホットキーを押して固定する",
     "BetterTeleport-MapHint-Zoom": "マウスホイールを回してズームを調整",
     "BetterTeleport-Notification": "テレポート中: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "現在の座標へリダイレクト",
