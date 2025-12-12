@@ -1124,6 +1124,7 @@
     "BetterTeleport-MapHint-Zoom": "滚动鼠标滚轮以调节缩放",
     "BetterTeleport-Notification": "텔레포 중: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "현재 좌표로 재지정",
+    "BetterTeleport-TeleportToThisPosition": "传送至此位置",
     "BetterTeleportDescription": "게임의 기본 텔레포 화면을 모듈형 인터페이스로 대체하여, 효율적인 검색 기능과 목적지 미리보기를 제공합니다. 또한, 도시 내 임의의 에테라이트로 직접 텔레포하는 것도 가능합니다.",
     "BetterTeleportTitle": "텔레포 UI 최적화",
     "BetterWaitCommandDescription": "'wait' 명령어 사용 시, 기본 최대 대기 시간과 시간 단위 제한이 해제됩니다.",
