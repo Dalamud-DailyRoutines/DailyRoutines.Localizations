@@ -1124,7 +1124,7 @@
     "BetterTeleport-MapHint-Zoom": "Scroll to scale",
     "BetterTeleport-Notification": "Now teleporting to: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "Redirect to the current position",
-    "BetterTeleport-TeleportToThisPosition": "传送至此位置",
+    "BetterTeleport-TeleportToThisPosition": "Teleport to here",
     "BetterTeleportDescription": "Replace the vanilla teleportation interface with a Daily Routines one, which provides better searching, navigation and destination previews and allows players to directly teleport to any aethernet shard in the city.",
     "BetterTeleportTitle": "Better Teleportation",
     "BetterWaitCommandDescription": "Remove native time and precision limits for \"wait\" in text commands",
