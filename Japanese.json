@@ -1124,6 +1124,7 @@
     "BetterTeleport-MapHint-Zoom": "滚动鼠标滚轮以调节缩放",
     "BetterTeleport-Notification": "テレポート中: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "現在の座標へリダイレクト",
+    "BetterTeleport-TeleportToThisPosition": "传送至此位置",
     "BetterTeleportDescription": "ゲームの標準テレポ画面をモジュール式インターフェースに置き換え、効率的な検索機能や目的地プレビューを提供します。また、都市内の任意のエーテライトへ直接テレポートすることも可能です。",
     "BetterTeleportTitle": "テレポUI最適化",
     "BetterWaitCommandDescription": "テキストコマンドで「wait」を有効にすると、ネイティブの最大時間制限と時間精度の制限が解除されます",
