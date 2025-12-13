@@ -2029,7 +2029,7 @@
     "Settings-Movement-CorrectEnvironment": "Behavior-environment Consistency",
     "Settings-Movement-CorrectEnvironment-Help": "启用后, 若游戏人物意外进入陆地区域与潜水区域中间的切换区域时, 自动发送环境切换指令, 以避免人物卡死在当前状态无法操作或被服务器传送至区域默认位置\n\n(若你并非开发者, 建议启用)",
     "Settings-Movement-CorrectJump": "Jump Correction",
-    "Settings-Movement-CorrectJump-Help": "启用后, 若游戏人物意外在无任何碰撞箱的非法区域起跳时, 自动修正起跳坐标至最近可到达地面处, 以避免人物卡死在跳跃状态无法移动\n\n(若你并非开发者或并未尝试前往正常非可及区域, 建议启用)",
+    "Settings-Movement-CorrectJump-Help": "Automatically correct illegal jump actions occurred in the areas without viable hitboxes to somewhere legal nearby if enabled, in order to prevent getting stuck.\n(It's recommended to enable the option if you're not a developer or you're not trying to navigate to illegal areas.)",
     "Settings-MultiMessagesReceived": "{0} messages received",
     "Settings-NeedConnectToAuthServer": "Please connect to the authentication server first",
     "Settings-Needed": "Required",
