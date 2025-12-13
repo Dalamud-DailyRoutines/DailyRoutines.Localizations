@@ -2030,7 +2030,7 @@
     "Settings-Movement-CorrectEnvironment-Help": "활성화 후, 게임 캐릭터가 육지 지역과 잠수 지역 사이의 전환 구역에 의도치 않게 들어갔을 때, 자동으로 환경 전환 명령을 전송하여 캐릭터가 현재 상태에서 갇히거나 서버에 의해 기본 위치로 이동되는 상황을 방지합니다.\n\n(개발자가 아니면 활성화하는 것을 추천합니다.)",
     "Settings-Movement-CorrectJump": "점프 상태 수정",
     "Settings-Movement-CorrectJump-Help": "활성화 후, 게임 캐릭터가 아무런 충돌 박스가 없는 비정상(불법) 영역에서 의도치 않게 점프를 시작할 경우, 자동으로 점프 시작 좌표를 가장 가까운 도달 가능한 지면으로 보정하여 캐릭터가 점프 상태에 갇혀 이동할 수 없게 되는 상황을 방지합니다.\n\n(개발자가 아니거나 정상적으로 접근할 수 없는 영역에 들어가려는 시도를 하지 않는 경우, 활성화하는 것을 권장합니다.)",
-    "Settings-MultiMessagesReceived": "신규 수신MSG: {0} 件",
+    "Settings-MultiMessagesReceived": "새 메시지 {0}개를 받았습니다",
     "Settings-NeedConnectToAuthServer": "인증 서버에 접속해주세요.",
     "Settings-Needed": "필요",
     "Settings-NeedLoginToAnyCharacter": "임의의 게임 캐릭터로 로그인해주세요.",
