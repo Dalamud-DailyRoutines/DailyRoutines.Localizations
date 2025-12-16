@@ -2036,6 +2036,8 @@
     "Settings-CharacterCode": "캐릭터 식별 증명서",
     "Settings-CopyModuleInternalName": "모듈 내부 이름 복사",
     "Settings-Credits": "제작자 크레딧",
+    "Settings-DefaultEnableModules": "默认启用推荐模块",
+    "Settings-DefaultEnableModules-Help": "启用后, 当本地首次初始化任一\"推荐模块\"时, 将其设置为启用状态\n\n推荐模块: 由开发组筛选，能改善大多数玩家体验, 且不会过多改变日常游玩方式的模块",
     "Settings-DefaultHomePage": "기본 페이지",
     "Settings-DevTeam": "개발팀",
     "Settings-ExpiredTime": "유효 기한",
