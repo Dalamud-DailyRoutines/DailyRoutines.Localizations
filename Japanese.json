@@ -1434,7 +1434,7 @@
     "FastWorldTravel-AutoLeaveParty": "クロスワールドパーティ以外のパーティから自動で離脱する",
     "FastWorldTravel-AutoLeavePartyHelp": "ワールド間テレポの実行時、クロスワールドパーティ以外のパーティから自動で離脱する",
     "FastWorldTravel-CommandHelp": "ワールド間テレポ・クイックメニューの表示状態を切り替える\n/pdr worldtravel <サーバー名> (大文字小文字を区別しない/部分一致)",
-    "FastWorldTravel-DtrEntryTooltip": "点击打开快捷跨界菜单",
+    "FastWorldTravel-DtrEntryTooltip": "クリックしてワールド間テレポ・クイックメニューを開く",
     "FastWorldTravel-Notice-InvalidEnv": "当前处于非法环境中, 无法进行跨界传送",
     "FastWorldTravel-Notice-InvalidInput": "输入参数非法, 请检查后再试",
     "FastWorldTravel-Notice-SameWorld": "目标服务器与当前服务器一致, 无法进行跨界传送",
