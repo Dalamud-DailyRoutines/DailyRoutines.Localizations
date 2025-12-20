@@ -1720,7 +1720,7 @@
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime": "CEの残り時間の閾値（秒）",
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime-Help": "目標の CEまでの残り時間が、ここで設定した閾値以上の場合にのみ移動を試みる。それ以外の場合は、直接「ワープ」で対象エリアに瞬間移動する。",
     "OccultCrescentHelper-CEManager-SpecialRewards": "特別報酬",
-    "OccultCrescentHelper-Command-PBuff-Help": "サポートナイト、サポートモンク、サポート吟遊詩人それぞれの長時間効果バフスキルを自動で使用します。",
+    "OccultCrescentHelper-Command-PBuff-Help": "自动使用辅助骑士、辅助武僧、辅助吟游诗人和辅助舞者各自的长效增益效果技能",
     "OccultCrescentHelper-Command-PCE-Help": "(<abort>) クレセントアイル内のクリティカルエンカウントへ移動する / 移動を放棄する",
     "OccultCrescentHelper-Command-PFate-Help": "(<abort>) クレセントアイル内で現在進行度が最も低いF.A.T.E.へ移動する / 移動を中止する",
     "OccultCrescentHelper-Command-PJob-Help": "<ID / 名称 (大文字小文字を区別せず、一部一致でも可)> により、対応するサポートクラスへ切り替えます。",
