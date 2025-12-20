@@ -1720,7 +1720,7 @@
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime": "CE 剩餘時間閾值 (秒)",
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime-Help": "若目標 緊急遭遇戰 (CE) 距離開始剩餘時間 ≥ 此處設置時, 才嘗試移動, 否則直接通過 亞返回 瞬移至目標區域內",
     "OccultCrescentHelper-CEManager-SpecialRewards": "特殊獎勵",
-    "OccultCrescentHelper-Command-PBuff-Help": "自動使用 輔助騎士、輔助武僧和輔助吟遊詩人 各自的長效增益效果技能",
+    "OccultCrescentHelper-Command-PBuff-Help": "自动使用辅助骑士、辅助武僧、辅助吟游诗人和辅助舞者各自的长效增益效果技能",
     "OccultCrescentHelper-Command-PCE-Help": "(<abort>) 前往新月島區域內的緊急遭遇戰 / 放棄前往",
     "OccultCrescentHelper-Command-PFate-Help": "(<abort>) 前往新月島區域內當前完成進度最低的危命任務 / 放棄前往",
     "OccultCrescentHelper-Command-PJob-Help": "<ID / 名稱 (大小寫不敏感, 部分包含)> 切換至對應的輔助職業",
