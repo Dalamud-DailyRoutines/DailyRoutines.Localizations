@@ -1720,7 +1720,7 @@
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime": "CE Joining Time Threshold",
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime-Help": "The character will travel normally if the time left until CE begins is greater than or equal to the time threshold here, otherwise the character will be moved instantly to CE via Occult Return.",
     "OccultCrescentHelper-CEManager-SpecialRewards": "Special Rewards",
-    "OccultCrescentHelper-Command-PBuff-Help": "Automatically execute actions belong to Phantom Knight, Phantom Monk and Phantom Bard which provide durable buffs.",
+    "OccultCrescentHelper-Command-PBuff-Help": "自动使用辅助骑士、辅助武僧、辅助吟游诗人和辅助舞者各自的长效增益效果技能",
     "OccultCrescentHelper-Command-PCE-Help": "( <abort​> ) to go to the CE with the least progress in the current instance or abort an ongoing process.",
     "OccultCrescentHelper-Command-PFate-Help": "( <abort​> ) to go to the FATE with the least progress in the current instance or abort an ongoing process.",
     "OccultCrescentHelper-Command-PJob-Help": "< ID / name (case insensitive, partial inclusive) > to switch to the specified phantom job.",
