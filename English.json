@@ -1353,7 +1353,7 @@
     "FastInstanceZoneChange-SwitchInstance": "切换至 {0} 线",
     "FastInstanceZoneChange-TeleportIfNotNearAetheryte": "若附近无可用以太之光则先传送至最近的以太之光",
     "FastInstanceZoneChangeDescription": "快速切换副本区并显示副本区信息, 支持自动重试、自动上下坐骑与自动传送等, 通过 /pdr {0} 指令快捷切换或点击服务器信息栏条目打开界面交互切换",
-    "FastInstanceZoneChangeTitle": "快捷副本区切换指令",
+    "FastInstanceZoneChangeTitle": "快捷副本区切换",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "Leave Current Party And Join",
     "FastJoinAnotherPartyRecruitmentDescription": "A button will be added to the party recruitment details interface that allows you to leave your current party and join the target recruitment with one click.",
     "FastJoinAnotherPartyRecruitmentTitle": "Leave Current Party And Join Another",
