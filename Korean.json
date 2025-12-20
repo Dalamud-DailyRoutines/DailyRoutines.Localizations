@@ -1720,7 +1720,7 @@
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime": "비상 조우 남은 시간 임계치(초)",
     "OccultCrescentHelper-CEManager-PrioritizeMoveTo-LeftTime-Help": "목표 비상 조우의 남은 시간이 여기 설정한 임계치 이상일 때만 이동을 시도합니다. 그 외에는 직접 '순간이동'으로 대상 지역을 향해 이동합니다.",
     "OccultCrescentHelper-CEManager-SpecialRewards": "특별 보상",
-    "OccultCrescentHelper-Command-PBuff-Help": "서포트 나이트/서포트 몽크/서포트 음유시인의 장시간 버프 스킬을 자동으로 사용합니다.",
+    "OccultCrescentHelper-Command-PBuff-Help": "自动使用辅助骑士、辅助武僧、辅助吟游诗人和辅助舞者各自的长效增益效果技能",
     "OccultCrescentHelper-Command-PCE-Help": "(<abort>) 초승달 섬의 비상 조우로 이동/이동 취소",
     "OccultCrescentHelper-Command-PFate-Help": "(<abort>) 초승달 섬 지역 내 진행도가 가장 낮은 돌발 임무로 이동/이동 취소",
     "OccultCrescentHelper-Command-PJob-Help": "<ID / 이름(대소문자 구분 없음, 부분 일치 가능)> 으로 해당 서포트 잡으로 전환합니다.",
