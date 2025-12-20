@@ -1353,7 +1353,7 @@
     "FastInstanceZoneChange-SwitchInstance": "切換至 {0} 線",
     "FastInstanceZoneChange-TeleportIfNotNearAetheryte": "若附近無可用以太之光則先傳送至最近的以太之光",
     "FastInstanceZoneChangeDescription": "快速切換副本區並顯示副本區資訊, 支持自動重試、自動上下坐騎與自動傳送等, 通過 /pdr {0} 指令快捷切換或點擊伺服器資訊欄條目打開界面互動切換",
-    "FastInstanceZoneChangeTitle": "快捷副本區切換指令",
+    "FastInstanceZoneChangeTitle": "快捷副本区切换",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退隊並參加",
     "FastJoinAnotherPartyRecruitmentDescription": "為招募詳情界面新增一個按鈕, 點擊以一鍵退出當前隊伍並加入目標招募",
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退隊加入招募",
