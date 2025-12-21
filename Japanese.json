@@ -1353,7 +1353,7 @@
     "FastInstanceZoneChange-SwitchInstance": "インスタンス {0} へ切り替え",
     "FastInstanceZoneChange-TeleportIfNotNearAetheryte": "付近に利用可能なエーテライトがない場合、まず最寄りのエーテライトへテレポする",
     "FastInstanceZoneChangeDescription": "インスタンスを素早く切り替え、情報を表示します。 自動リトライ、マウントの自動昇降、自動テレポなどの機能をサポート。 コマンド {0} によるクイック切り替え、またはサーバー情報欄の項目をクリックして開くメニューからインタラクティブに切り替えが可能です。",
-    "FastInstanceZoneChangeTitle": "快捷副本区切换",
+    "FastInstanceZoneChangeTitle": "インスタンス切替",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "現在のPTを抜けて参加",
     "FastJoinAnotherPartyRecruitmentDescription": "募集詳細画面に新しいボタンを追加し、クリックすると現在のPTから即座に抜けて目標の募集に参加できるようにします。",
     "FastJoinAnotherPartyRecruitmentTitle": "迅速にPTを抜けて募集に参加",
