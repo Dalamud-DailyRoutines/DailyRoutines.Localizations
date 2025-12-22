@@ -703,6 +703,8 @@
     "AutoRemoveArmoireItemsFromDresserTitle": "Auto Remove Armoire Items From Glamour Dresser",
     "AutoRemoveDuplicateGlamoursDescription": "Automatically retrieve duplicate items after clicking start while accessing Glamour Dresser.",
     "AutoRemoveDuplicateGlamoursTitle": "Auto Retrieve Duplicates In Glamour Dresser",
+    "AutoRemoveDuplicateModelGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复模型装备",
+    "AutoRemoveDuplicateModelGlamoursTitle": "自动取出投影台中重复模型装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "When the user is given a status which could slow the user down, the module will automatically make the user immune to the speed penalties caused by the status.",
     "AutoRemoveStatusSpeedPenaltyTitle": "Auto Remove Speed Penalties From Status",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "Remove the speed reduction while executing the actions which allow players to walk during casting the actions.",
