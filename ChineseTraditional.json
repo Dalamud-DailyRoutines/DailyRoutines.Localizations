@@ -703,6 +703,8 @@
     "AutoRemoveArmoireItemsFromDresserTitle": "自動取出投影台中可放入收藏櫃裝備",
     "AutoRemoveDuplicateGlamoursDescription": "打開投影台界面, 並點擊開始後, 自動取出投影台中重複裝備",
     "AutoRemoveDuplicateGlamoursTitle": "自動取出投影台中重複裝備",
+    "AutoRemoveDuplicateModelGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复模型装备",
+    "AutoRemoveDuplicateModelGlamoursTitle": "自动取出投影台中重复模型装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "當獲得會降低自身移動速度的狀態效果時, 自動免疫其帶來的移動速度降低懲罰",
     "AutoRemoveStatusSpeedPenaltyTitle": "自動免疫狀態效果移速懲罰",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "在發動允許詠唱過程中步行移動的技能時, 自動移除其帶來的移動速度降低懲罰",
