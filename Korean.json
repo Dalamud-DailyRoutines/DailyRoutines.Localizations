@@ -703,6 +703,8 @@
     "AutoRemoveArmoireItemsFromDresserTitle": "추억의 보관함 보관 가능 장비 자동 꺼내기",
     "AutoRemoveDuplicateGlamoursDescription": "환영화 장비창을 열고 '시작'을 클릭하면 옷장 내 중복 장비를 꺼냅니다.",
     "AutoRemoveDuplicateGlamoursTitle": "환상의 옷장 중복 장비 꺼내기",
+    "AutoRemoveDuplicateModelGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复模型装备",
+    "AutoRemoveDuplicateModelGlamoursTitle": "自动取出投影台中重复模型装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "자신이 이동 속도 저하 디버프를 받았을 때 자동으로 그 효과를 무효화합니다.",
     "AutoRemoveStatusSpeedPenaltyTitle": "이동 속도 저하 디버프 무효화",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "시전 중 이동 가능한 스킬을 발동할 때 자동으로 이동 속도 저하 페널티를 해제합니다.",
