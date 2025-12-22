@@ -703,6 +703,8 @@
     "AutoRemoveArmoireItemsFromDresserTitle": "愛蔵品キャビネット収納可能装備自動取り出し",
     "AutoRemoveDuplicateGlamoursDescription": "ミラージュプリズム台の画面を開き、「スタート」をクリックすると、ミラージュドレッサー内の重複装備を取り出します。",
     "AutoRemoveDuplicateGlamoursTitle": "ミラージュドレッサー内の重複装備の取出",
+    "AutoRemoveDuplicateModelGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复模型装备",
+    "AutoRemoveDuplicateModelGlamoursTitle": "自动取出投影台中重复模型装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "自身の移動速度が低下するデバフを受けた際、自動的にその移動速度低下の効果を無効化する。",
     "AutoRemoveStatusSpeedPenaltyTitle": "デバフによる移動速度低下を無効化",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "詠唱中に歩行移動が可能なスキルを発動する際、自動で移動速度低下のペナルティを解除します。",
