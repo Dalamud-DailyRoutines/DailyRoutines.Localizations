@@ -347,7 +347,7 @@
     "AutoHighlightCursor-IconBrowser-Help": "60000번 이후부터 원하는 아이콘을 찾아보는 것을 권장합니다.",
     "AutoHighlightCursor-PlayAnimation": "애니메이션 재생",
     "AutoHighlightCursor-PlayAnimation-Help": "마우스 위치를 더욱 강조하기 위해 배경 하이라이트 아이콘에 애니메이션 효과를 추가합니다.",
-    "AutoHighlightCursorDescription": "현재 마우스 위치에 배경 하이라이트 아이콘을 자동으로 표시하여 강조하고, 마우스 위치를 강조하고 찾기 쉽게 합니다.",
+    "AutoHighlightCursorDescription": "마우스 위치에 자동으로 배경 하이라이트 아이콘을 표시하여, 마우스를 쉽게 찾고 강조할 수 있습니다.",
     "AutoHighlightCursorTitle": "마우스 자동 하이라이트 표시",
     "AutoHighlightFlagMarker-ConstantlyUpdate": "하이라이트된 지면 표식 위치를 계속 갱신",
     "AutoHighlightFlagMarkerDescription": "좌표 깃발을 배치할 때 자동으로 지면 표식을 사용해 빛의 탑을 형성하고, 해당 위치를 하이라이트합니다.",
