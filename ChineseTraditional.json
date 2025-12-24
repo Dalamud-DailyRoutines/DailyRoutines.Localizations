@@ -1854,7 +1854,7 @@
     "OptimizedLetterTitle": "莫古郵件界面最佳化",
     "OptimizedLongCastTimeActionDescription": "當技能的詠唱時間大於等於其復唱時間時, 自動將其詠唱時間縮短 {0} 秒",
     "OptimizedLongCastTimeActionTitle": "長詠唱技能優化",
-    "OptimizedQuickPanel-CommandArgs": "<页码>",
+    "OptimizedQuickPanel-CommandArgs": "页码",
     "OptimizedQuickPanel-CommandArgs-Help": "打开指定页的快捷面板",
     "OptimizedQuickPanelDescription": "对快捷面板界面进行优化, 添加锁定按钮, 使其不会被 Esc 键 / 区域切换 / 进入交互状态等情况意外关闭, 与热键栏界面逻辑保持一致; 并使原本的 {0} 与 {1} 指令支持传入页码参数, 以打开面板指定页",
     "OptimizedQuickPanelTitle": "快捷面板界面优化",
