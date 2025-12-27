@@ -2041,7 +2041,7 @@
     "ServerType-TC": "台湾版",
     "Settings": "設定",
     "Settings-About": "概要",
-    "SelectedXItems": "已选中 {0} 项",
+    "SelectedXItems": "{0} 件選択済み",
     "Settings-AccountCode": "アカウント識別証明書",
     "Settings-AddLocalModuleHelp": "ターゲットのローカルモジュールの絶対パスを入力してください",
     "Settings-Auth-ExpireNotification": "認証タイプ：{0}\n有効期限：{1}\n残り時間：{2} 日",
