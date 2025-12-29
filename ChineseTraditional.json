@@ -657,7 +657,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "自動忽略黑名單內玩家",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "未能完成自動最優隊員推薦, 遊戲數據存在錯誤或損壞",
     "AutoPlayerCommend-GiveNobodyCommendMessage": "已設定本局不自動給予最優隊員推薦",
-    "AutoPlayerCommend-NoticeMessage": "已給予 {0}{1} {2} 最優隊員推薦",
+    "AutoPlayerCommend-NoticeMessage": "已给予 {0} ({1}{2}) 最优队员推荐",
     "AutoPlayerCommendDescription": "副本完成時, 自動給予對位隊友最優隊員推薦",
     "AutoPlayerCommendTitle": "自動最優隊員推薦",
     "AutoPreserveCollectableDescription": "當出現確認是否將採集道具收為收藏品界面時, 自動點擊確認",
