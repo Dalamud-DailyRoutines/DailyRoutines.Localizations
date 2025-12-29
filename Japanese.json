@@ -657,7 +657,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "ブラックリスト内のプレイヤー無視する",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "自動MIPに失敗しました。ゲームデータにエラーまたは破損があります。",
     "AutoPlayerCommend-GiveNobodyCommendMessage": "この周回では最適メンバーの自動MIPをしないよう設定されています。",
-    "AutoPlayerCommend-NoticeMessage": "{0}{1} {2} にMIPをあげました",
+    "AutoPlayerCommend-NoticeMessage": "已给予 {0} ({1}{2}) 最优队员推荐",
     "AutoPlayerCommendDescription": "コンテンツ完了時、自動的にパーティーメンバーにMIP",
     "AutoPlayerCommendTitle": "自動MIP",
     "AutoPreserveCollectableDescription": "収集アイテムをコレクションに追加するか確認する画面が表示された際、自動的に確認ボタンをクリックする",
