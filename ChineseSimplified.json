@@ -657,7 +657,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "自动忽略黑名单内玩家",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "未能完成自动最优队员推荐, 游戏数据存在错误或损坏",
     "AutoPlayerCommend-GiveNobodyCommendMessage": "已设定本局不自动给予最优队员推荐",
-    "AutoPlayerCommend-NoticeMessage": "已给予 {0}{1} {2} 最优队员推荐",
+    "AutoPlayerCommend-NoticeMessage": "已给予 {0} ({1}{2}) 最优队员推荐",
     "AutoPlayerCommendDescription": "副本完成时, 自动给予对位队友最优队员推荐",
     "AutoPlayerCommendTitle": "自动最优队员推荐",
     "AutoPreserveCollectableDescription": "当出现确认是否将采集道具收为收藏品界面时, 自动点击确认",
