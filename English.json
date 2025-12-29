@@ -657,7 +657,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "Ignore players in the blacklist",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "Unable to auto give commendation, game data is incorrect or corrupted",
     "AutoPlayerCommend-GiveNobodyCommendMessage": "No commendation to party members after the run.",
-    "AutoPlayerCommend-NoticeMessage": "Has given a commendation to {0}{1} the{2}",
+    "AutoPlayerCommend-NoticeMessage": "已给予 {0} ({1}{2}) 最优队员推荐",
     "AutoPlayerCommendDescription": "Give a commendation to the party member who has the same role or is a tank(healer) when you are a  healer(tank) in dungeons  automatically when the duty has ended.",
     "AutoPlayerCommendTitle": "Auto Commend Party Members",
     "AutoPreserveCollectableDescription": "When the confirmation window for gathering items as Collectables appears, auto click confirm",
