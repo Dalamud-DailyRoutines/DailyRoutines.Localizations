@@ -657,7 +657,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "차단 목록 내 플레이어 무시",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "자동 플레이어 추천 실패. 게임 데이터 오류 또는 손상",
     "AutoPlayerCommend-GiveNobodyCommendMessage": "이번 판에서는 플레이어 추천을 자동으로 하지 않도록 설정되어 있습니다.",
-    "AutoPlayerCommend-NoticeMessage": "{0}{1} {2} 님에게 플레이어 추천을 보냈습니다!",
+    "AutoPlayerCommend-NoticeMessage": "已给予 {0} ({1}{2}) 最优队员推荐",
     "AutoPlayerCommendDescription": "콘텐츠 완료 시 자동으로 파티원에게 플레이어 추천을 줍니다.",
     "AutoPlayerCommendTitle": "자동 플레이어 추천",
     "AutoPreserveCollectableDescription": "수집품을 컬렉션에 추가할지 확인하는 창이 뜨면 자동으로 확인 버튼을 누릅니다.",
