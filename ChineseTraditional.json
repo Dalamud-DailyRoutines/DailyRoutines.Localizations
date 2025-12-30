@@ -1345,7 +1345,7 @@
     "FastInstanceZoneChangeDescription": "快速切換副本區並顯示副本區資訊, 支持自動重試、自動上下坐騎與自動傳送等, 通過 /pdr {0} 指令快捷切換或點擊伺服器資訊欄條目打開界面互動切換",
     "FastInstanceZoneChangeTitle": "快捷副本區切換",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退隊並參加",
-    "FastJoinAnotherPartyRecruitmentDescription": "為招募詳情界面新增一個按鈕, 點擊以一鍵退出當前隊伍並加入目標招募",
+    "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增按钮, 点击以一键退出当前队伍并加入目标招募",
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退隊加入招募",
     "FastMinimizeWindow-AlwaysAddTrayIcon": "始终创建托盘图标",
     "FastMinimizeWindow-AlwaysAddTrayIcon-Help": "当游戏最小化至托盘栏时, 自动创建托盘图标, 可通过点击托盘图标重新打开游戏窗口\n启用本项后, 即使游戏未在最小化状态, 也创建相应的托盘图标",
