@@ -1380,7 +1380,7 @@
     "FastRetainerStoreTitle": "Better Retainer Storage",
     "FastRidePillionDescription": "Auto ride pillion when you right-click a party member that is riding a multi-seat mount",
     "FastRidePillionTitle": "Fast Ride Pillion",
-    "FastSetWeatherTime-Addon-ModifyTime": "修改时间",
+    "FastSetWeatherTime-Addon-ModifyTime": "Adjust Time",
     "FastSetWeatherTime-CommandHelp": "Open Time And Weather Panel",
     "FastSetWeatherTime-Notification-Cleard": "The combination of time and weather in the current area has been cleared.",
     "FastSetWeatherTime-Notification-Saved": "The combination of time and weather has been saved.\n\nArea: {0} ({1})\nWeather: {2}\nTime: {3}\n\nThe combination will be automatically applied every time while entering the area.",
