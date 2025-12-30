@@ -542,7 +542,7 @@
     "AutoMode": "Automatic Mode",
     "AutoMonsterToss-StartingGame": "Game started with 5 shot puts",
     "AutoMonsterToss-WaitingForResult": "Waiting for the game to end\nRemaining Time: {0} second(s)",
-    "AutoMonsterTossDescription": "Auto Monster Toss",
+    "AutoMonsterTossDescription": "Automatically farm Monster Toss repeatedly after clicking start in Gold Saucer or interacting with relevant machines.",
     "AutoMonsterTossTitle": "Automatically farm Monster Toss repeatedly after clicking start in Gold Saucer or interacting with relevant machines.",
     "AutoMount-MountWhenCombatEnd": "When combat ends",
     "AutoMount-MountWhenGatherEnd": "When gathering ends",
