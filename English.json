@@ -1172,7 +1172,7 @@
     "ConflictModules": "Conflict Modules",
     "Connected": "Connected",
     "Content": "Duty",
-    "ContentFinderCommand-ArgsHelp": "Except for <​duty type​>, all parameters support using \"|\" as separator to combine multiple options\nExample: /pdrduty n Tribute|Emanation unrest|minil\nMeans: Queue for The Pool of Tribute and Emanation with unrestricted party and minimum item level",
+    "ContentFinderCommand-ArgsHelp": "\"|\" could be used as separators in all the parameters except for <​duty type​>, in order to select several duties or apply multiple Duty Finder settings.\nFor example, /pdrduty n Tribute|Emanation unrest|minil\nThat is, to register on Duty Finder with these two duty selected, \"The Pool of Tribute\" and \"Emanation\", enabling the Duty Finder settings \"Unrestricted Party\" and \"Minimum IL\".",
     "ContentFinderCommand-CommandHelp": "<​duty type​> <​duty ID/duty name​> (<​Duty Finder settings​>)",
     "ContentFinderCommand-DutyType": "Duty Type",
     "ContentFinderCommand-DutyType-Normal": "Normal Duty",
