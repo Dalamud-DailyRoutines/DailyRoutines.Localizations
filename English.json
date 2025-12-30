@@ -71,7 +71,7 @@
     "AutoAttireItems-Message": "Outfits taken out: {0} ({1}/{2})",
     "AutoAttireItems-OnlyTakeOutCompleteSet": "Only take out Outfits equipment",
     "AutoAttireItems-SkipWhenDyed": "Ignore dyed gear",
-    "AutoAttireItemsDescription": "After opening the Glamour Dresser and clicking Start, all items in the Glamour Dresser that can be stored as a set will be automatically taken out, and when the Outfit Glamour interface appears, the available equipment will be automatically selected and saved as a set.",
+    "AutoAttireItemsDescription": "Automatically retrieve all the gears which could be stored as a set from Glamour Dresser and save these gears as sets while accessing the Outfit Glamour interface. The module requires manual start.",
     "AutoAttireItemsTitle": "Auto Process Items In Gear Sets",
     "AutoBlockMisdirectionStateDescription": "Automatically block the status with limited direction controls (like Temporary Misdirection or Spinning) and invalidate related processing logic.",
     "AutoBlockMisdirectionStateTitle": "Auto Block Misdirection Status",
