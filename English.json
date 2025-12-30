@@ -573,7 +573,7 @@
     "AutoNotifyCountdown-NotificationTitle": "Countdown Start",
     "AutoNotifyCountdownDescription": "Auto notifies when countdown starts",
     "AutoNotifyCountdownTitle": "Auto Countdown Notification",
-    "AutoNotifyCutsceneEnd-NotificationMessage": "所有队友的过场动画均已结束",
+    "AutoNotifyCutsceneEnd-NotificationMessage": "All the party members have finished their cutscenes.",
     "AutoNotifyCutsceneEnd-NotificationMessage-WaitSeconds": "(Time Elapsed: {0} s)",
     "AutoNotifyCutsceneEndDescription": "Automatically send a notification after all the party members finish their cutscenes in duty. The module would only work if at least one party member watches the cutscene for more than 5 seconds.",
     "AutoNotifyCutsceneEndTitle": "Auto Cutscene End Notification",
