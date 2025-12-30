@@ -1385,7 +1385,7 @@
     "FastSetWeatherTime-Notification-Cleard": "The combination of time and weather in the current area has been cleared.",
     "FastSetWeatherTime-Notification-Saved": "The combination of time and weather has been saved.\n\nArea: {0} ({1})\nWeather: {2}\nTime: {3}\n\nThe combination will be automatically applied every time while entering the area.",
     "FastSetWeatherTime-OperationHelp-ClickNaviMap": "Click the weather icon on the minimap.",
-    "FastSetWeatherTimeDescription": "提供游戏原生风格的快捷天气时间设置界面, 并允许保存为区域设置自动应用, 通过交互导向地图界面天气或使用 /pdr {0} 打开",
+    "FastSetWeatherTimeDescription": "Provide a dedicated interface composed of vanilla game assets which allows users to set time and weather as wish. Combinations of time and weather based on areas could be saved for auto application purposes. The interface could be accessed by clicking the weather icon on the minimap or executing the command /pdr {0}.",
     "FastSetWeatherTimeTitle": "Set Time And Weather As Wish",
     "FastTeleportPanel-Abort": "Abort Teleport",
     "FastTeleportPanel-AddToBlacklist": "Add to Blacklist",
