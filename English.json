@@ -1572,7 +1572,7 @@
     "InstantReturn-IgnoreCooldown": "Remove the cooldown",
     "InstantReturnDescription": "Remove the cast time and cooldown from Return.",
     "InstantReturnTitle": "Infinite Return",
-    "InstantSprintDescription": "Remove sprint cooldown.",
+    "InstantSprintDescription": "Remove the cooldown from Sprint.",
     "InstantSprintTitle": "Infinite Sprint",
     "InstantTeleportDescription": "Make teleport instant, no cast time",
     "InstantTeleportTitle": "Instant Teleport",
