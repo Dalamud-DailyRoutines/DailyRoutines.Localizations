@@ -1327,7 +1327,7 @@
     "FastGrandCompanyExchange-CommandHelp": "<Item name (case insensitive)> (< Quantity >) Exchange the specified quantity of the specified item in the Company Seals　Exchange (If the item name is \"default\", the relevant configuration in the floating window is used directly, and there is no need to enter the quantity)",
     "FastGrandCompanyExchangeDescription": "Added a quick exchange floating window in the Company Seals Exchange interface, so you can instantly exchange it for the corresponding item by entering the item name directly.",
     "FastGrandCompanyExchangeTitle": "Quickly Exchange Seals For Items",
-    "FastInstanceZoneChange-AddDtrEntry": "在服务器信息栏添加快捷副本区切换菜单入口",
+    "FastInstanceZoneChange-AddDtrEntry": "Instance switching shortcut in Server Info Bar",
     "FastInstanceZoneChange-CloseAfterUsage": "使用菜单后自动关闭菜单",
     "FastInstanceZoneChange-CommandHelp": "切换快捷副本区切换菜单的显示状态\n/pdr insc <副本区编号> → 切换至指定副本区 (从 1 开始)\n/pdr insc abort → 放弃当前的副本区切换任务",
     "FastInstanceZoneChange-ConstantlyTry": "若切换失败则重复尝试至切换成功",
