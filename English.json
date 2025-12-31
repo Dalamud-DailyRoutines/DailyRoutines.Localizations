@@ -1850,7 +1850,7 @@
     "OptimizedLongCastTimeActionDescription": "If the cast time of an action is greater than or equal to its recast time, automatically shorten the cast time by {0} seconds.",
     "OptimizedLongCastTimeActionTitle": "Optimize Actions With Long Cast Time",
     "OptimizedQuickPanel-CommandArgs": "page number",
-    "OptimizedQuickPanel-CommandArgs-Help": "打开指定页的快捷面板",
+    "OptimizedQuickPanel-CommandArgs-Help": "Access a specific page on Command Panel",
     "OptimizedQuickPanelDescription": "Provide a better Command Panel and Command Panel commands. A lock button would be introduced in order to pin Command Panel on the screen, so that the panel would adopt the same interaction logic as Hotbar and never be hidden due to ESC input, area switching or interactions. The commands {0} and {1} could also take a page number as the parameter for direct access of a specific page.",
     "OptimizedQuickPanelTitle": "Better Command Panel",
     "OptimizedRecipeNote-AddonTitle": "Solution Step(s)",
