@@ -1474,7 +1474,7 @@
     "FrontlineMapRadar-ShowHealthPercent": "显示生命值百分比",
     "FrontlineMapRadar-ShowJobIcons": "职业图标",
     "FrontlineMapRadar-ValidOutsideFrontline": "纷争前线外仍显示",
-    "FrontlineMapRadarDescription": "进入纷争前线后, 自动在游戏地图上标注当前可接收到的周围所有玩家的位置信息, 同时标注地图上元素的倒计时、生命值百分比和据点分数信息",
+    "FrontlineMapRadarDescription": "进入纷争前线后, 自动在游戏地图上标注当前可接收到的周围所有玩家的位置信息, 同时标注相关对象的倒计时、体力与据点分数等信息",
     "FrontlineMapRadarTitle": "纷争前线地图雷达",
     "FrontlinePlayerRadar-DotRaidus": "点半径",
     "FrontlinePlayerRadar-HideFriendlyCharacters": "不显示友方角色信息",
