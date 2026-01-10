@@ -310,7 +310,7 @@
     "AutoGatherDiadem-Notification-RoundEnd": "Gathering has lasted for {0} minutes, so now going to exit the duty, count the materials, then re-join for a new gathering round.",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "Have get stuck in the gathering interface for unexpected long time. Now trying to re-login and continue.",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "Have started gathering already, but no gathering interface has been acquired for unexpected long time. Now trying to re-login and continue.",
-    "AutoGatherDiadem-Notification-StuckInPathMove": "The wayfinding seems to be timed out, now trying to escape via more direct means.",
+    "AutoGatherDiadem-Notification-StuckInPathMove": "等待寻路开始时间过长, 退出云冠群岛, 稍等片刻后会自动重新进入并开始采集",
     "AutoGatherDiadem-PreCondition-ClssJobs": "The current job is Miner or Botanist.",
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "The Dalamud plugin vnavmesh is installed and enabled.",
     "AutoGatherDiadem-UseCordial": "Use cordial",
