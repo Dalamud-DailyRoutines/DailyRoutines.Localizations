@@ -310,7 +310,7 @@
     "AutoGatherDiadem-Notification-RoundEnd": "已採集 {0} 分鐘, 退出副本並檢測材料, 而後進入副本開始新一輪採集",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滯留在採集界面過久, 自動登出遊戲, 自動登入後將重新開始採集",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "已進入採集狀態, 但長時間未出現採集界面, 自動登出遊戲, 自動登入後將重新開始採集",
-    "AutoGatherDiadem-Notification-StuckInPathMove": "等待尋路開始時間過長, 嘗試直接脫困",
+    "AutoGatherDiadem-Notification-StuckInPathMove": "等待寻路开始时间过长, 退出云冠群岛, 稍等片刻后会自动重新进入并开始采集",
     "AutoGatherDiadem-PreCondition-ClssJobs": "當前職業為 採礦工/園藝工",
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "安裝並啟用了 vnavmesh 插件",
     "AutoGatherDiadem-UseCordial": "使用強心劑",
