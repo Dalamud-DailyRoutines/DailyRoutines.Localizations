@@ -310,7 +310,7 @@
     "AutoGatherDiadem-Notification-RoundEnd": "{0} 分間採集しました。エリアから退出して材料を確認し、その後再度エリアに入り新たに採集を開始してください。",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "採集画面に長時間とどまっているため、自動的にログアウトします。再ログイン後、採集を再開します。",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "採集モードに入っていますが、採集画面が長時間表示されないため、自動的にログアウトします。再ログイン後は、採集を再開します。",
-    "AutoGatherDiadem-Notification-StuckInPathMove": "等待寻路开始时间过长, 退出云冠群岛, 稍等片刻后会自动重新进入并开始采集",
+    "AutoGatherDiadem-Notification-StuckInPathMove": "ルート検索の開始待ち時間が長すぎる場合、一度ディアデム諸島から退出します。少し時間を置いた後、自動的に再入場して採集を開始します。",
     "AutoGatherDiadem-PreCondition-ClssJobs": "現在のジョブが 採鉱工/園芸工",
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "プラグイン『vnavmesh』をインストールし、有効にする",
     "AutoGatherDiadem-UseCordial": "コーディアルを使用する",
