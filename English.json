@@ -2015,7 +2015,7 @@
     "Search": "Search",
     "SearchResult": "Search result",
     "Second": "second",
-    "SelectableRecruitmentTextDescription": "Make the recruitment text be selectable to facilitate copying precisely and provide link parsing, jumping and other life quality functions.",
+    "SelectableRecruitmentTextDescription": "使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑",
     "SelectableRecruitmentTextTitle": "Selectable Recruitment Texts",
     "SelectedXItems": "{0} item(s) has been selected.",
     "SendChat": "Send Chat Message",
