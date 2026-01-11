@@ -1843,6 +1843,7 @@
     "OptimizedMacro-ConfirmBeforeOverwrite": "覆盖预设前需要二次确认",
     "OptimizedMacro-Notification-Deleted": "已删除宏指令预设 \"{0}\"",
     "OptimizedMacro-Notification-DeleteError": "尝试删除宏指令预设 \"{0}\" 时发生错误",
+    "OptimizedMacro-Notification-Loaded": "已读取并加载宏指令预设 \"{0}\"",
     "OptimizedMacro-Notification-LoadError": "尝试读取宏指令预设 \"{0}\" 时发生错误",
     "OptimizedMacro-Notification-Overwritten": "已使用当前全部宏指令覆盖 \"{0}\" 预设",
     "OptimizedMacro-Notification-Saved": "已保存当前全部宏指令为 \"{0}\" 预设",
