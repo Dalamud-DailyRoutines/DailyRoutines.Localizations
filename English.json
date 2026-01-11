@@ -1843,7 +1843,7 @@
     "OptimizedMacro-ConfirmBeforeOverwrite": "Double confirm before overwriting a preset.",
     "OptimizedMacro-Notification-Deleted": "The macro preset \"{0}\" has been deleted.",
     "OptimizedMacro-Notification-DeleteError": "An exception occurred while attempting to delete the macro preset \"{0}\".",
-    "OptimizedMacro-Notification-Loaded": "已读取并加载宏指令预设 \"{0}\"",
+    "OptimizedMacro-Notification-Loaded": "The macro preset \"{0}\" has been applied.",
     "OptimizedMacro-Notification-LoadError": "An exception occurred while attempting to read the macro preset \"{0}\".",
     "OptimizedMacro-Notification-Overwritten": "The macro preset \"{0}\" has been overwritten by all the current macros.",
     "OptimizedMacro-Notification-Saved": "All the current macros have been saved as the macro preset \"{0}\".",
