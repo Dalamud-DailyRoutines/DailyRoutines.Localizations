@@ -313,7 +313,7 @@
     "AutoGatherDiadem-Notification-StuckInPathMove": "The wayfinding process has timed out. Now leaving The Diadem and re-join later shortly. The gathering process would start automatically after the re-join.",
     "AutoGatherDiadem-PreCondition-ClssJobs": "The current job is Miner or Botanist.",
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "The Dalamud plugin vnavmesh is installed and enabled.",
-    "AutoGatherDiadem-UseCordial": "Use cordial",
+    "AutoGatherDiadem-UseCordial": "Use Cordial",
     "AutoGatherDiadem-UseCordialHelp": "Cordial would be consumed according this priority if checked: hi-cordial > cordial > watered cordial and high quality > normal quality while minimizing the overkill GP amount.",
     "AutoGatherDiademDescription": "Automatically gather specified materials for skyward score or leveling up after configurations and clicking start in The Diadem.",
     "AutoGatherDiademTitle": "Auto Gather In The Diadem",
