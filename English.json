@@ -994,8 +994,6 @@
     "AutoVeryEasyQuestBattle-Notification": "The difficulty has been set to \"Very Easy\".",
     "AutoVeryEasyQuestBattleDescription": "Automatically set the difficulty of single player quest battles to \"Very Easy\" before commencing.",
     "AutoVeryEasyQuestBattleTitle": "Auto Commence Very Easy Battles",
-    "AutoWoofDescription": "Auto constantly Bark when mounted on Megashiba",
-    "AutoWoofTitle": "Auto Megashiba Bark",
     "Background": "Background",
     "BackgroundColor": "Background Colour",
     "BaitSwitchCommand-CommandHelp": "<Item ID / Item Name / Item Name Chinese Pinyin> Switch to the specified bait",
