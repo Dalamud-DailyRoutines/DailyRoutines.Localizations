@@ -284,8 +284,6 @@
     "AutoGardensWork-AutoTend": "Auto Tend",
     "AutoGardensWorkDescription": "Auto or semi-auto finish garden related operations, including planting, harvesting, fertilization, care, etc",
     "AutoGardensWorkTitle": "Auto Gardening",
-    "AutoGatherDiadem-AlwaysPathFind": "Always Wayfinding",
-    "AutoGatherDiadem-AlwaysPathFindHelp": "If checked, the module will never perform instant movement, unless the character gets stuck in the terrain.\nIf not checked, instant movement will be performed when the distance to the next destination is greater than or equal to 150 and no available windmire around.",
     "AutoGatherDiadem-AutoDiscardGroupName": "Config group name from the module `Auto Discard Items`",
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "If you'd like to clean up the inventory after counting materials, please configure a config group in the module `Auto Discard Items`, then put the config group name here. Cleaning up will be disbaled if left blank.",
     "AutoGatherDiadem-BlacklistMonsters": "Aetheromatic Auger Blacklist",
