@@ -994,8 +994,6 @@
     "AutoVeryEasyQuestBattle-Notification": "퀘스트 전투 난이도가 '매우 쉬움'으로 변경되었습니다.",
     "AutoVeryEasyQuestBattleDescription": "단독 전투 콘텐츠에 돌입할 때 난이도를 '매우 쉬움'으로 변경합니다.",
     "AutoVeryEasyQuestBattleTitle": "퀘스트 전투 매우 쉬움 설정",
-    "AutoWoofDescription": "현재 탑승한 탈것이 거대시바일 경우, 탈것 스킬 '짖기'를 계속해서 사용합니다.",
-    "AutoWoofTitle": "거대시바 짖기 자동화",
     "Background": "백그라운드",
     "BackgroundColor": "배경색",
     "BaitSwitchCommand-CommandHelp": "<아이템 ID / 아이템명 / 아이템명의 병음>으로 지정된 미끼로 전환",
