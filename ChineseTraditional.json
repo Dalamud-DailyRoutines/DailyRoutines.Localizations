@@ -638,7 +638,7 @@
     "AutoOpenTreasuresDescription": "進入副本後, 自動嘗試開啟周圍所有可用的寶箱",
     "AutoOpenTreasuresTitle": "自動開啟寶箱",
     "AutoOutOnALimb-CurrentRound": "當前回合",
-    "AutoOutOnALimb-WaitForResult": "等待獎勵結算中",
+    "AutoOutOnALimb-WaitForResult": "等待奖励结算中......\n(剩余 {0} 秒)",
     "AutoOutOnALimbDescription": "在陸行鳥廣場點擊開始時, 自動開始重複遊玩孤樹無援",
     "AutoOutOnALimbTitle": "自動遊玩孤樹無援",
     "AutoPeloton-DisableInWalk": "行走模式下自動禁用",
