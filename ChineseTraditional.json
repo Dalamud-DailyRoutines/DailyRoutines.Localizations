@@ -265,7 +265,7 @@
     "AutoFate-TeleportDistance": "自動傳送距離",
     "AutoFate-TeleportDistanceHelp": "若自身距離下一個臨危受命任務超出此閾值, 則會考慮傳送至以太之光以縮短路程",
     "AutoFateDescription": "配置完成並點擊開始後, 自動按照預設目標循環完成指定區域的臨危受命 (FATE) 任務",
-    "AutoFateStart-StartNotice": "已自動開始臨危受命任務:",
+    "AutoFateStart-StartNotice": "已自动开始临危受命任务:\n     {0}",
     "AutoFateStartDescription": "若附近存在需要對話才能開始的臨危受命任務, 自動令其開始",
     "AutoFateStartTitle": "自動開始臨危受命任務",
     "AutoFateSync-AutoTankStance": "當自身為防護職業時自動開啟盾姿",
