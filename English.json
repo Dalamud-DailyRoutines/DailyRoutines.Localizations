@@ -265,7 +265,7 @@
     "AutoFate-TeleportDistance": "Distance To Execute Teleportation",
     "AutoFate-TeleportDistanceHelp": "If the distance to the next FATE exceeds the given threshold, teleportation will be considered instead of travelling directly.",
     "AutoFateDescription": "Auto completely FATEs in specified areas according to presets made by the user after proper configurations and clicking start.",
-    "AutoFateStart-StartNotice": "Auto start FATE: {0} ({1})",
+    "AutoFateStart-StartNotice": "已自动开始临危受命任务:\n     {0}",
     "AutoFateStartDescription": "If there is a nearby FATE that requires dialogue to start, automatically initiate it.",
     "AutoFateStartTitle": "Auto Start FATE",
     "AutoFateSync-AutoTankStance": "Activate defence stance when the job is a tank",
