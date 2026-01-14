@@ -994,8 +994,6 @@
     "AutoVeryEasyQuestBattle-Notification": "已自动将任务战斗难度修改为 \"非常简单\"",
     "AutoVeryEasyQuestBattleDescription": "在进入单人任务战斗时, 自动将其难度修改为 非常简单",
     "AutoVeryEasyQuestBattleTitle": "自动任务战斗非常简单",
-    "AutoWoofDescription": "若当前骑乘坐骑为大大柴, 则持续使用其坐骑技能吼叫",
-    "AutoWoofTitle": "自动大大柴吼叫",
     "Background": "背景",
     "BackgroundColor": "背景颜色",
     "BaitSwitchCommand-CommandHelp": "<物品 ID / 物品名 / 物品名拼音> 切换至指定的钓饵",
