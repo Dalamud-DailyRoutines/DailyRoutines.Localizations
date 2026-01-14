@@ -994,8 +994,6 @@
     "AutoVeryEasyQuestBattle-Notification": "クエストの戦闘難易度が「Very Easy」に変更されました。",
     "AutoVeryEasyQuestBattleDescription": "ソロバトルコンテンツに突入する際、難易度を「Very Easy」に変更します。",
     "AutoVeryEasyQuestBattleTitle": "クエストバトルをVery Easyに設定",
-    "AutoWoofDescription": "現在の騎乗マウントが大柴犬の場合、マウントスキル『吠える』を継続的に使用する",
-    "AutoWoofTitle": "大柴犬の『吠える』を自動化する",
     "Background": "背景",
     "BackgroundColor": "背景色",
     "BaitSwitchCommand-CommandHelp": "<アイテム ID / アイテム名 / アイテム名のピンイン> を指定された餌に切り替える",
