@@ -638,7 +638,7 @@
     "AutoOpenTreasuresDescription": "던전 입장 시, 열 수 있는 보물상자를 자동으로 엽니다.",
     "AutoOpenTreasuresTitle": "보물상자 자동 열기",
     "AutoOutOnALimb-CurrentRound": "현재 라운드",
-    "AutoOutOnALimb-WaitForResult": "等待奖励结算中......\n(剩余 {0} 秒)",
+    "AutoOutOnALimb-WaitForResult": "보상 정산 대기 중......\n(남은 시간 {0}초)",
     "AutoOutOnALimbDescription": "초코보 광장에서 '시작'을 클릭하면 자동으로 도끼 찍기를 반복 플레이합니다.",
     "AutoOutOnALimbTitle": "도끼 찍기 자동 플레이",
     "AutoPeloton-DisableInWalk": "걷기 모드에서는 자동으로 비활성화",
