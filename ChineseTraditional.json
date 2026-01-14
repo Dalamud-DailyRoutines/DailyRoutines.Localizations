@@ -284,8 +284,6 @@
     "AutoGardensWork-AutoTend": "自動護理",
     "AutoGardensWorkDescription": "自動或半自動完成園圃相關作業, 包含種植, 收穫, 施肥, 護理等",
     "AutoGardensWorkTitle": "自動園圃作業",
-    "AutoGatherDiadem-AlwaysPathFind": "始終尋路",
-    "AutoGatherDiadem-AlwaysPathFindHelp": "若勾選本項, 除了卡地形脫困外, 不會使用任何遠距離瞬移, 但會使用風渦與副本內 返回 技能\n若不勾選本項, 則會在目標距離 ≥ 150 且附近無可用風渦時, 直接使用遠距離瞬移到達目標點",
     "AutoGatherDiadem-AutoDiscardGroupName": "自動丟棄配置組名稱",
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "如果你希望在檢測材料後自動清理背包, 請前往 \"自動丟棄物品\" 模組配置完成後, 將相關配置組名稱填入此處, 留空以禁用",
     "AutoGatherDiadem-BlacklistMonsters": "以太鑽孔機目標黑名單",
