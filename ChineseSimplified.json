@@ -638,7 +638,7 @@
     "AutoOpenTreasuresDescription": "进入副本后, 自动尝试开启周围所有可用的宝箱",
     "AutoOpenTreasuresTitle": "自动开启宝箱",
     "AutoOutOnALimb-CurrentRound": "当前回合",
-    "AutoOutOnALimb-WaitForResult": "等待奖励结算中",
+    "AutoOutOnALimb-WaitForResult": "等待奖励结算中......\n(剩余 {0} 秒)",
     "AutoOutOnALimbDescription": "在陆行鸟广场点击开始时, 自动开始重复游玩孤树无援",
     "AutoOutOnALimbTitle": "自动游玩孤树无援",
     "AutoPeloton-DisableInWalk": "行走模式下自动禁用",
