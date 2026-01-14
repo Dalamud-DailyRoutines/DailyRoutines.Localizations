@@ -284,8 +284,6 @@
     "AutoGardensWork-AutoTend": "自動手入れ",
     "AutoGardensWorkDescription": "栽培関連の作業を自動か半自動的に処理します (種蒔き、収穫、肥料やり、手入れなど)",
     "AutoGardensWorkTitle": "自動栽培",
-    "AutoGatherDiadem-AlwaysPathFind": "常にルート探索",
-    "AutoGatherDiadem-AlwaysPathFindHelp": "このオプションを選択すると、地形スタックによる脱出を除いて長距離ワープ移動は使わず、代わりに風の渦やダンジョン内の「デジョン」スキルを使用します。\n選択しない場合、目標地点までの距離が150以上で、近くに風の渦がない場合は、長距離ワープ移動で直接目標地点に移動します。",
     "AutoGatherDiadem-AutoDiscardGroupName": "自動破棄設定グループ名",
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "材料を検出した後にバッグを自動で整理したい場合は、「アイテムの自動廃棄/売却」モジュールにて設定を行い、その後関連する設定グループ名をここに入力してください。空欄にすると無効になります。",
     "AutoGatherDiadem-BlacklistMonsters": "エーテルオーガーブラックリスト",
