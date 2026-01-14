@@ -284,8 +284,6 @@
     "AutoGardensWork-AutoTend": "자동 관리",
     "AutoGardensWorkDescription": "재배 관련 작업을 자동/반자동으로 처리합니다. (씨앗 심기, 수확, 비료, 관리 등)",
     "AutoGardensWorkTitle": "자동 재배",
-    "AutoGatherDiadem-AlwaysPathFind": "항상 경로 탐색",
-    "AutoGatherDiadem-AlwaysPathFindHelp": "이 옵션을 켜면, 지형 끼임 탈출을 제외하고는 장거리 순간이동을 쓰지 않고, 대신 소용돌이나 던전 내 '데존'을 사용합니다.\n선택하지 않은 경우, 목표 지점까지 거리가 150 이상이고 근처에 소용돌이가 없을 때 장거리 순간이동을 통해 직접 목표 지점으로 이동합니다.",
     "AutoGatherDiadem-AutoDiscardGroupName": "자동 폐기 설정 그룹명",
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "재료 감지 후 가방을 자동 정리하고 싶다면 '아이템 자동 폐기/판매' 모듈에서 설정한 뒤, 해당 그룹명을 여기 입력하세요. 비워두면 비활성화됩니다.",
     "AutoGatherDiadem-BlacklistMonsters": "에테르 착암기 블랙리스트",
