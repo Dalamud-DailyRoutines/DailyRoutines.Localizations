@@ -265,7 +265,7 @@
     "AutoFate-TeleportDistance": "自動テレポ距離",
     "AutoFate-TeleportDistanceHelp": "自身が次のF.A.T.E.までの距離がこの閾値を超えた場合、移動距離を短縮するためにエーテライトへのテレポを検討します。",
     "AutoFateDescription": "「スタート」をクリックすると、あらかじめ設定した目標に従って指定エリア内のF.A.T.E.を自動で繰り返し完了します。",
-    "AutoFateStart-StartNotice": "F.A.T.E.が自動で開始されました: {0} ({1})",
+    "AutoFateStart-StartNotice": "已自动开始临危受命任务:\n     {0}",
     "AutoFateStartDescription": "近くに対話が必要なF.A.T.E.が存在する場合、自動的にその任務を開始する",
     "AutoFateStartTitle": "自動的にF.A.T.E.を開始する",
     "AutoFateSync-AutoTankStance": "自身のロールがタンクの場合、自動でスタンスを使う",
