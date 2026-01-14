@@ -638,7 +638,7 @@
     "AutoOpenTreasuresDescription": "After entering a duty, try to open all the available treasure coffers around automatically.",
     "AutoOpenTreasuresTitle": "Auto Open Treasure Coffers",
     "AutoOutOnALimb-CurrentRound": "Current Round",
-    "AutoOutOnALimb-WaitForResult": "Waiting for the result",
+    "AutoOutOnALimb-WaitForResult": "等待奖励结算中......\n(剩余 {0} 秒)",
     "AutoOutOnALimbDescription": "Automatically farm Out on a Limb repeatedly after clicking start in Chocobo Square.",
     "AutoOutOnALimbTitle": "Auto Out On A Limb",
     "AutoPeloton-DisableInWalk": "Disable while walking",
