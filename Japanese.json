@@ -638,7 +638,7 @@
     "AutoOpenTreasuresDescription": "IDに突入後、自動で周囲の開けられる宝箱を開ける",
     "AutoOpenTreasuresTitle": "宝箱を自動で開ける",
     "AutoOutOnALimb-CurrentRound": "現在のラウンド",
-    "AutoOutOnALimb-WaitForResult": "報酬精算を待っています",
+    "AutoOutOnALimb-WaitForResult": "等待奖励结算中......\n(剩余 {0} 秒)",
     "AutoOutOnALimbDescription": "チョコボ広場で「スタート」をクリックすると、アウト・オン・ア・リムを繰り返して自動プレイします",
     "AutoOutOnALimbTitle": "アウト・オン・ア・リム自動プレイ",
     "AutoPeloton-DisableInWalk": "歩行モードでは自動的に無効にする",
