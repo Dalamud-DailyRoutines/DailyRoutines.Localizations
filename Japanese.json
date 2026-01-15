@@ -623,7 +623,7 @@
     "AutoOpenMapLinks-AlreadyAddedPlayerCount": "{0} 人のターゲットプレイヤーを追加しました",
     "AutoOpenMapLinks-AlreadyExistedInList": "すでにそのプレイヤーの情報は追加されています",
     "AutoOpenMapLinks-AutoFocusFlag": "マーカーのみを配置し、マップをリフレッシュしない",
-    "AutoOpenMapLinks-ClickMenu": "送信された地図リンクを自動的に開く",
+    "AutoOpenMapLinks-ClickMenu": "订阅地图链接",
     "AutoOpenMapLinks-TargetPlayer": "ターゲットプレイヤー",
     "AutoOpenMapLinks-WhitelistChannels": "ターゲットメッセージタイプ",
     "AutoOpenMapLinksDescription": "指定されたプレイヤーが送信するか、指定されたチャットタイプで地図リンクが送信された際に、自動的にそれを開く",
