@@ -162,8 +162,6 @@
     "AutoCosmicFortune-Pull": "Roll {0} times",
     "AutoCosmicFortuneDescription": "A floating window will be displayed below Cosmic Exploration Exotablet for rolling Cosmic Fortune if the current amount of Lunar Credits is enough for at least one roll. A command /pdr {0} for the same purpose will also be provided. Rolls could also be performed after the given credit threshold is reached.",
     "AutoCosmicFortuneTitle": "Auto Cosmic Fortune",
-    "AutoCountBlacklistedDescription": "Number of Blacklist players within the range in Server Info Bar",
-    "AutoCountBlacklistedTitle": "Auto Count Players In Blacklist Nearby",
     "AutoCountBlacks-DtrEntry-Text": "Players in blacklist around: {0}",
     "AutoCountPlayers-DisplayLineWhenTargetingMe": "Draw a line while someone is targeting you",
     "AutoCountPlayers-Notification-SomeoneTargetingMe": "Somone is targeting you",
