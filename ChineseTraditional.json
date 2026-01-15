@@ -623,7 +623,7 @@
     "AutoOpenMapLinks-AlreadyAddedPlayerCount": "已添加 {0} 個目標玩家",
     "AutoOpenMapLinks-AlreadyExistedInList": "已經添加過該玩家的信息了",
     "AutoOpenMapLinks-AutoFocusFlag": "僅放置標記，不刷新地圖",
-    "AutoOpenMapLinks-ClickMenu": "自動打開其發送的地圖鏈接",
+    "AutoOpenMapLinks-ClickMenu": "订阅地图链接",
     "AutoOpenMapLinks-TargetPlayer": "目標玩家",
     "AutoOpenMapLinks-WhitelistChannels": "目標消息類型",
     "AutoOpenMapLinksDescription": "配置完成後, 指定的玩家發送或指定的聊天類型傳入地圖鏈接時, 自動將其打開",
