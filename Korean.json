@@ -623,7 +623,7 @@
     "AutoOpenMapLinks-AlreadyAddedPlayerCount": "{0} 명의 대상 플레이어를 추가했습니다.",
     "AutoOpenMapLinks-AlreadyExistedInList": "이미 그 플레이어의 정보가 추가되어 있습니다.",
     "AutoOpenMapLinks-AutoFocusFlag": "표식만 배치하고 맵은 새로고침하지 않음",
-    "AutoOpenMapLinks-ClickMenu": "전송된 지도 링크를 자동으로 엽니다.",
+    "AutoOpenMapLinks-ClickMenu": "订阅地图链接",
     "AutoOpenMapLinks-TargetPlayer": "대상 플레이어",
     "AutoOpenMapLinks-WhitelistChannels": "대상 메시지 타입",
     "AutoOpenMapLinksDescription": "지정된 플레이어가 보냈거나 지정된 채팅 형식으로 지도 링크가 전송되면 자동으로 엽니다.",
