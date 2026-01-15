@@ -623,7 +623,7 @@
     "AutoOpenMapLinks-AlreadyAddedPlayerCount": "{0} Players Added",
     "AutoOpenMapLinks-AlreadyExistedInList": "Player info already existed",
     "AutoOpenMapLinks-AutoFocusFlag": "Place the flag only, no map refreshing",
-    "AutoOpenMapLinks-ClickMenu": "Auto open the map link sent by this",
+    "AutoOpenMapLinks-ClickMenu": "订阅地图链接",
     "AutoOpenMapLinks-TargetPlayer": "Target Player",
     "AutoOpenMapLinks-WhitelistChannels": "Target Message Kinds",
     "AutoOpenMapLinksDescription": "After configuration, automatically open the map link when the specified player sends or the specified chat type receives it",
