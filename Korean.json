@@ -162,8 +162,6 @@
     "AutoCosmicFortune-Pull": "{0} 회 추첨 실행",
     "AutoCosmicFortuneDescription": "달 화폐가 1회 이상 추첨 가능할 때 우주 개척 패널 하단에 빠른 추첨 창이 뜨며, 같은 조작을 수행하는 /pdr {0} 명령을 제공하며, 설정한 한도에 도달하면 자동 반복 추출을 지원합니다.",
     "AutoCosmicFortuneTitle": "자동 우주 복권",
-    "AutoCountBlacklistedDescription": "서버 정보 바에 범위 내 차단 목록 등록 플레이어 수를 표시합니다.",
-    "AutoCountBlacklistedTitle": "주변 차단 목록 등록 인원 자동 표시",
     "AutoCountBlacks-DtrEntry-Text": "주변 차단 인물: {0}",
     "AutoCountPlayers-DisplayLineWhenTargetingMe": "누군가 나를 타겟하면 선으로 표시합니다.",
     "AutoCountPlayers-Notification-SomeoneTargetingMe": "타겟되었습니다.",
