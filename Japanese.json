@@ -162,8 +162,6 @@
     "AutoCosmicFortune-Pull": "{0} 回抽選を行う",
     "AutoCosmicFortuneDescription": "所持しているクレジットが少なくとも 1 回『コスモフォーチュン』を引けるだけ貯まった場合、自動的にコスモエクスプローラーパネル画面の下部にショートカット用のフローティングウィンドウを表示します。また、コマンド /pdr {0} を使って同じ操作を実行することも可能です。設定した上限に達した場合は自動抽選もサポートしています。",
     "AutoCosmicFortuneTitle": "自動コスモフォーチュン",
-    "AutoCountBlacklistedDescription": "サーバー情報バーの形式で、設定範囲内のブラックリストに登録されたプレイヤーの数を表示する",
-    "AutoCountBlacklistedTitle": "自動的に周辺のブラックリストに登録されたプレイヤーの数を表示する",
     "AutoCountBlacks-DtrEntry-Text": "周囲のBL者: {0}",
     "AutoCountPlayers-DisplayLineWhenTargetingMe": "誰かにターゲットされた際、ラインを表示する",
     "AutoCountPlayers-Notification-SomeoneTargetingMe": "タゲられています",
