@@ -265,7 +265,7 @@
     "AutoFate-TeleportDistance": "텔레포 거리",
     "AutoFate-TeleportDistanceHelp": "다음 돌발 임무까지 거리가 이 기준치를 넘으면, 이동 거리를 줄이기 위해 에테라이트로의 텔레포를 고려합니다.",
     "AutoFateDescription": "'시작'을 클릭하면, 미리 설정한 목표에 따라 지정 지역의 돌발 임무를 자동으로 반복 완료합니다.",
-    "AutoFateStart-StartNotice": "已自动开始临危受命任务:\n     {0}",
+    "AutoFateStart-StartNotice": "돌발 임무를 시작합니다:\n     {0}",
     "AutoFateStartDescription": "근처에 상호작용이 필요한 돌발 임무가 있으면 자동으로 해당 임무를 시작합니다.",
     "AutoFateStartTitle": "자동 돌발 임무",
     "AutoFateSync-AutoTankStance": "자신의 직업이 탱커일 때 자동으로 스탠스를 사용",
