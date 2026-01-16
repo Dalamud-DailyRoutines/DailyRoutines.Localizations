@@ -1388,6 +1388,7 @@
     "FastTeleportPanel-CommandHelp-Pos": "<x> <y> <z> 传送至指定坐标",
     "FastTeleportPanel-CommandHelp-PosOffset": "<x/y/z> <偏移量> 在指定坐标轴上偏移指定距离",
     "FastTeleportPanel-CommandHelp-Quest": "<任务索引> 传送并交互指定索引的任务目标",
+    "FastTeleportPanel-CommandHelp-Target": "传送至当前目标所在位置",
     "FastTeleportPanel-CorrectPosition": "坐标修正",
     "FastTeleportPanel-CurrentFlagMarker": "当前标点",
     "FastTeleportPanel-CurrentYPos": "当前 Y 轴",
