@@ -672,7 +672,7 @@
     "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
     "AutoRedirectActionTarget-RedirectEnemyAction": "重定向敌对目标技能",
     "AutoRedirectActionTarget-RedirectMemberAction": "重定向友方目标技能",
-    "AutoRedirectActionTargetDescription": "配置完成后, 若要使用技能无法在当前目标释放, 则自动尝试重定向至先前可用目标",
+    "AutoRedirectActionTargetDescription": "配置完成后, 若待使用技能无法对当前目标释放, 则自动尝试重定向至先前可用目标",
     "AutoRedirectActionTargetTitle": "自动重定向技能目标",
     "AutoRedirectDashActionsDescription": "使用部分位移技能时, 自动将其目的地重定向至当前鼠标所指位置",
     "AutoRedirectDashActionsTitle": "自动重定向位移技能",
