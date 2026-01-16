@@ -924,7 +924,7 @@
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "非戦闘職の状態でもギサールの野菜を使用する",
     "AutoSummonBuddyChocobo-NotificationMessage": "ギサールの野菜の数が不足しています。早めに補充してください。",
     "AutoSummonBuddyChocoboDescription": "フィールドエリアに滞在中で、バディチョコボが未召喚、または残り時間が5分未満の場合、ギサールの野菜を使用して自動的にバディを召喚します。",
-    "AutoSummonBuddyChocoboTitle": "自动召唤搭档陆行鸟",
+    "AutoSummonBuddyChocoboTitle": "バディチョコボの自動召喚",
     "AutoSummonPetDescription": "現在のジョブが、召喚師/学者/巴術士の場合、コンテンツに進入・リスタート時に自動的にカーバンクル/エオスを召喚します",
     "AutoSummonPetTitle": "【SMN/SCH/ACN】カーバンクル/エオスを自動召喚",
     "AutoSwitchGlamourJobCategoryDescription": "ミラージュプリズム開いた際、現在のジョブに対応するカテゴリへ自動で切り替える",
