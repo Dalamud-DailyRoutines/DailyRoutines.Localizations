@@ -1,5 +1,5 @@
 {
-    "Action": "액션",
+    "Action": "기능",
     "Activated": "인증 완료",
     "Add": "추가",
     "AddCommand": "{0} 명령어를 추가합니다.",
@@ -2134,7 +2134,7 @@
     "Text": "텍스트",
     "TextColor": "문자 색",
     "TextToSpeech-OutputDevice": "출력 장치",
-    "TextToSpeech-Pitch": "음정",
+    "TextToSpeech-Pitch": "억양",
     "TextToSpeech-ReadOut": "낭독",
     "TextToSpeech-Speed": "말하는 속도",
     "TextToSpeech-TestText": "텍스트 테스트",
