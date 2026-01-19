@@ -1614,7 +1614,6 @@
     "LiveAnonymousMode-NameObfuscationMethod": "이름 셔플 방식",
     "LiveAnonymousMode-NoObfuscation": "난독화 안 함",
     "LiveAnonymousMode-ObfuscateDamageNumber": "데미지 수치 숨김",
-    "LiveAnonymousMode-ObfuscateTime": "시간 표시 난독화",
     "LiveAnonymousMode-PartyListUpdateHelp": "게임 내 파티 모집 목록은 자동으로 갱신되지 않습니다. 표시를 갱신하려면 모집을 열거나 참가했다가 닫거나, 파티에서 나와 수동으로 새로고침해야 하며, 그 후 난독화된 플레이어 이름이 표시됩니다.",
     "LiveAnonymousMode-RandomLetters": "무작위 문자",
     "LiveAnonymousMode-RandomNPCName": "무작위 NPC 이름",
