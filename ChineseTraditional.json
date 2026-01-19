@@ -1614,7 +1614,6 @@
     "LiveAnonymousMode-NameObfuscationMethod": "名稱混淆方式",
     "LiveAnonymousMode-NoObfuscation": "不混淆",
     "LiveAnonymousMode-ObfuscateDamageNumber": "混淆傷害數字",
-    "LiveAnonymousMode-ObfuscateTime": "混淆時間顯示",
     "LiveAnonymousMode-PartyListUpdateHelp": "由於遊戲內小隊列表界面為懶載入形式, 你可以採取開啟/進入一個招募然後關閉/退出的方法手動觸發一次刷新, 以顯示混淆後的玩家名稱",
     "LiveAnonymousMode-RandomLetters": "隨機字母",
     "LiveAnonymousMode-RandomNPCName": "隨機 NPC 名",
