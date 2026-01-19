@@ -1614,7 +1614,6 @@
     "LiveAnonymousMode-NameObfuscationMethod": "名前のシャッフル方式",
     "LiveAnonymousMode-NoObfuscation": "暗号化しない",
     "LiveAnonymousMode-ObfuscateDamageNumber": "ダメージ数値の秘匿化",
-    "LiveAnonymousMode-ObfuscateTime": "時間表示の暗号化",
     "LiveAnonymousMode-PartyListUpdateHelp": "ゲーム内のPTリスト画面は遅延読み込み形式のため、表示を更新するには、一度募集を開始・参加してから閉じる・退出することで手動でリフレッシュを行い、混同されたプレイヤー名を表示させることができます。",
     "LiveAnonymousMode-RandomLetters": "ランダム文字",
     "LiveAnonymousMode-RandomNPCName": "ランダムなNPC名",
