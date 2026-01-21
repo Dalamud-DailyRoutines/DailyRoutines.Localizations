@@ -638,6 +638,8 @@
     "AutoOpenMapLinks-WhitelistChannels": "目標消息類型",
     "AutoOpenMapLinksDescription": "配置完成後, 指定的玩家發送或指定的聊天類型傳入地圖鏈接時, 自動將其打開",
     "AutoOpenMapLinksTitle": "自動打開地圖鏈接",
+    "AutoOpenNeedGreedDescription": "当新获得需要掷骰的战利品时, 自动打开战利品界面",
+    "AutoOpenNeedGreedTitle": "自动打开战利品界面",
     "AutoOpenTreasuresDescription": "進入副本後, 自動嘗試開啟周圍所有可用的寶箱",
     "AutoOpenTreasuresTitle": "自動開啟寶箱",
     "AutoOutOnALimb-CurrentRound": "當前回合",
