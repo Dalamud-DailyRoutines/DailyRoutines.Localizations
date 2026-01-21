@@ -1622,7 +1622,7 @@
     "LiveAnonymousMode-ModelObfuscationMethod": "Model Obfuscation",
     "LiveAnonymousMode-NameObfuscationMethod": "Name Obfuscation",
     "LiveAnonymousMode-NoObfuscation": "No Obfuscate",
-    "LiveAnonymousMode-ObfuscateDamageNumber": "Hide damage values",
+    "LiveAnonymousMode-ObfuscateDamageNumber": "Damage Obfuscation",
     "LiveAnonymousMode-PartyListUpdateHelp": "The in-game party list screen is lazy-loaded, so you can manually trigger the display of anonymized player names by opening the party finder and joining, or closing it and leaving.",
     "LiveAnonymousMode-RandomLetters": "Random Letters",
     "LiveAnonymousMode-RandomNPCName": "Random NPC Name",
