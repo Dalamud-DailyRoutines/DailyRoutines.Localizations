@@ -645,7 +645,7 @@
     "AutoOpenNeedGreedDescription": "Automatically pop up the loot interface when there's a new loot available.",
     "AutoOpenNeedGreedTitle": "Auto Pop Up Loot Interface",
     "AutoOpenTreasuresDescription": "After entering a duty, try to open all the available treasure coffers around automatically.",
-    "AutoOpenTreasuresTitle": "Auto Open Treasure Coffers",
+    "AutoOpenTreasuresTitle": "Auto Open Treasure Coffer",
     "AutoOutOnALimb-CurrentRound": "Current Round",
     "AutoOutOnALimb-WaitForResult": "Waiting for the result...... ({0} second(s) remaining)",
     "AutoOutOnALimbDescription": "Automatically farm Out on a Limb repeatedly after clicking start in Chocobo Square.",
