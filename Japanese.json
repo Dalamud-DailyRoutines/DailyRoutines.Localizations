@@ -638,6 +638,8 @@
     "AutoOpenMapLinks-WhitelistChannels": "ターゲットメッセージタイプ",
     "AutoOpenMapLinksDescription": "指定されたプレイヤーが送信するか、指定されたチャットタイプで地図リンクが送信された際に、自動的にそれを開く",
     "AutoOpenMapLinksTitle": "地図リンクを自動で開く",
+    "AutoOpenNeedGreedDescription": "当新获得需要掷骰的战利品时, 自动打开战利品界面",
+    "AutoOpenNeedGreedTitle": "自动打开战利品界面",
     "AutoOpenTreasuresDescription": "IDに突入後、自動で周囲の開けられる宝箱を開ける",
     "AutoOpenTreasuresTitle": "宝箱を自動で開ける",
     "AutoOutOnALimb-CurrentRound": "現在のラウンド",
