@@ -638,6 +638,8 @@
     "AutoOpenMapLinks-WhitelistChannels": "Target Message Kinds",
     "AutoOpenMapLinksDescription": "After configuration, automatically open the map link when the specified player sends or the specified chat type receives it",
     "AutoOpenMapLinksTitle": "Auto Open Map Link in Chat",
+    "AutoOpenNeedGreedDescription": "当新获得需要掷骰的战利品时, 自动打开战利品界面",
+    "AutoOpenNeedGreedTitle": "自动打开战利品界面",
     "AutoOpenTreasuresDescription": "After entering a duty, try to open all the available treasure coffers around automatically.",
     "AutoOpenTreasuresTitle": "Auto Open Treasure Coffers",
     "AutoOutOnALimb-CurrentRound": "Current Round",
