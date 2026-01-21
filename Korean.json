@@ -638,6 +638,8 @@
     "AutoOpenMapLinks-WhitelistChannels": "대상 메시지 타입",
     "AutoOpenMapLinksDescription": "지정된 플레이어가 보냈거나 지정된 채팅 형식으로 지도 링크가 전송되면 자동으로 엽니다.",
     "AutoOpenMapLinksTitle": "지도 링크 자동 열기",
+    "AutoOpenNeedGreedDescription": "当新获得需要掷骰的战利品时, 自动打开战利品界面",
+    "AutoOpenNeedGreedTitle": "自动打开战利品界面",
     "AutoOpenTreasuresDescription": "던전 입장 시, 열 수 있는 보물상자를 자동으로 엽니다.",
     "AutoOpenTreasuresTitle": "보물상자 자동 열기",
     "AutoOutOnALimb-CurrentRound": "현재 라운드",
