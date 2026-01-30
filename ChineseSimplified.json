@@ -613,7 +613,7 @@
     "AutoNotifyRecruitmentEndTitle": "自动通知招募结束",
     "AutoNotifyRouletteBonus-CurrentBouns": "当前奖励",
     "AutoNotifyRouletteBonus-OnlyIncomplete": "仅未完成",
-    "AutoNotifyRouletteBonus-OnlyIncompleteHelp": "勾选后仅当每日未获得对应任务时发送通知信息",
+    "AutoNotifyRouletteBonus-OnlyIncompleteHelp": "勾选后仅当每日未获得对应任务首次奖励时发送通知信息",
     "AutoNotifyRouletteBonus-Roulette": "随机任务",
     "AutoNotifyRouletteBonusDescription": "在指定的随机任务出现指定的职能奖励时, 自动发送通知信息提醒",
     "AutoNotifyRouletteBonusTitle": "自动通知随机任务少数职能奖励",
