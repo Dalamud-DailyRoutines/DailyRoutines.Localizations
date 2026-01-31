@@ -327,7 +327,7 @@
     "AutoHandleTeleportStuckDescription": "Automatically execute the teleportation last time if users get stuck in teleportation with the message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Auto Clear Teleportation Stuck",
     "AutoHideBannersDescription": "Automatically prevent specified texts (like Quest Accepted or Quest Complete) from popping up and their corresponding sound effects from being played after proper configurations.",
-    "AutoHideBannersTitle": "Auto Hide Popups",
+    "AutoHideBannersTitle": "Auto Hide Pop-ups",
     "AutoHideExpBarDescription": "Automatically hide the experience bar if the current job reaches its full level.",
     "AutoHideExpBarTitle": "Auto Hide Exp Bar",
     "AutoHideGameObjects-HideChocobo": "Hide Chocobos",
