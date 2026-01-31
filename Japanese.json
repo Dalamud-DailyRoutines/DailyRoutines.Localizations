@@ -1751,7 +1751,6 @@
     "OccultCrescentHelper-OthersManager-IslandID": "島ID",
     "OccultCrescentHelper-OthersManager-IslandID-Help": "島IDは通常、各データセンター (DC) 内で一意ですが、再利用されるため、特殊な状況下では「重複」が発生する可能性があります。具体的には以下のとおりです:\n\nサーバーが不明な条件により特定の島を「ロック」状態にすると(新規プレイヤーは入れなくなる)、その島は資源回収プロセスに入り、島内の最後のプレイヤーが退出するまで継続します。\n島がロック状態になると、その島のIDは即座に解放され、再利用可能と判定されます。このとき新しい島が割り当てられると、その島にこのIDが再利用される場合があります。\nもし自分がロック島に滞在していて、友人が新しく割り当てられた島にいる場合、両者の島IDが「重複」してしまいます。\nロック島が発生する可能性がある状況\n\t-24人以上のパーティで島に入場した場合\n\t-島の存在期間が長すぎる場合",
     "OccultCrescentHelper-OthersManager-IslandIDInChat": "入場時に、現在の島IDをチャットメッセージを送信",
-    "OccultCrescentHelper-OthersManager-IslandIDInDtr": "サーバー情報欄に現在の島IDを表示",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition": "入場時のデフォルト位置",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition-Help": "クレセントアイルに入場するデフォルト位置を変更",
     "OccultCrescentHelper-OthersManager-ModifyInfoHUD": "クレセントアイルの情報画面を改修する",
