@@ -1751,7 +1751,6 @@
     "OccultCrescentHelper-OthersManager-IslandID": "섬 ID",
     "OccultCrescentHelper-OthersManager-IslandID-Help": "섬 ID는 보통 각 데이터 센터(DC) 내에서 고유하지만 재사용되므로 특수한 상황에서는 '중복'이 발생할 수 있습니다. 개요:\n\n서버가 알 수 없는 조건으로 특정 섬을 '락' 상태로 만들면(신규 유저 진입 불가) 그 섬은 자원 회수 프로세스에 들어가며 마지막 플레이어가 퇴장할 때까지 지속됩니다.\n섬이 락 상태가 되면 해당 섬의 ID는 즉시 해제되어 재사용 가능으로 판단됩니다. 이때 새 섬이 할당되면 그 섬에 이 ID가 재사용될 수 있습니다.\n자신이 락 섬에 있고 친구가 새로 할당된 섬에 있다면 두 섬의 ID가 '중복'될 수 있습니다.\n섬 락이 발생할 수 있는 상황\n\t- 24인 이상 파티로 섬 입장\n\t- 섬 유지 기간이 지나치게 긴 경우",
     "OccultCrescentHelper-OthersManager-IslandIDInChat": "입장 시 현재 섬 ID를 채팅 메시지로 전송",
-    "OccultCrescentHelper-OthersManager-IslandIDInDtr": "서버 정보란에 현재 섬 ID 표시",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition": "입장 시 기본 위치",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition-Help": "초승달 섬 입장 기본 위치 변경",
     "OccultCrescentHelper-OthersManager-ModifyInfoHUD": "초승달 섬 정보 화면 개편",
