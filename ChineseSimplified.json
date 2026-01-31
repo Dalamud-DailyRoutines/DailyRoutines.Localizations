@@ -1751,7 +1751,6 @@
     "OccultCrescentHelper-OthersManager-IslandID": "岛 ID",
     "OccultCrescentHelper-OthersManager-IslandID-Help": "岛 ID 通常在各个大区 (DC) 内唯一, 但会被重复利用, 在特殊情况下存在 \"重复\" 的可能, 具体如下:\n\n服务器以未知条件对某一特定岛实施 \"锁岛\" (新玩家无法进入), 此时该岛进入资源回收流程, 直至岛内最后一名玩家退出\n进入锁岛状态后, 该岛的岛 ID 会被立刻释放, 判定为可被重复利用, 此时若有新岛被分配, 则该新岛可能就会轮替到此 ID\n若你正在处于锁岛, 而你的朋友在此新岛, 则你们的岛 ID 出现\"重复\"\n\n已知可能导致锁岛的情况:\n\t- 以 24 人及以上的队伍进入\n\t- 岛存在时间过长",
     "OccultCrescentHelper-OthersManager-IslandIDInChat": "进入时发送包含当前岛 ID 的聊天信息",
-    "OccultCrescentHelper-OthersManager-IslandIDInDtr": "在服务器信息栏显示当前岛 ID",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition": "进入时的默认位置",
     "OccultCrescentHelper-OthersManager-ModifyDefaultEnterZonePosition-Help": "修改每次进入新月岛时的默认位置",
     "OccultCrescentHelper-OthersManager-ModifyInfoHUD": "修改新月岛信息界面",
