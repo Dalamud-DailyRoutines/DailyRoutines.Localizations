@@ -1209,7 +1209,7 @@
     "CustomActionCastRecastTime-CustomRecastTime": "Customize Recast Time",
     "CustomActionCastRecastTime-DefaultReduction": "Default Reduction",
     "CustomActionCastRecastTime-DefaultReduction-Help": "Automatically reduce the cast time by {0} millisecond(s) if the cast time of an action is longer than its recast time.",
-    "CustomActionCastRecastTimeDescription": "Automatically modify cast and recast time of specific actions after proper configurations.",
+    "CustomActionCastRecastTimeDescription": "Automatically adjust cast and recast time of specific actions after proper configurations.",
     "CustomActionCastRecastTimeTitle": "Customize Action Cast/Recast Time",
     "CustomActionQueueTime-CustomDefaultQueueTime": "Custom Queue Time",
     "CustomActionQueueTime-DefaultQueueMode": "Default Queue Mode",
