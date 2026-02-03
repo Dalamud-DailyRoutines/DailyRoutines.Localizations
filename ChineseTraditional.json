@@ -329,7 +329,7 @@
     "AutoGathererRoleActionsTitle": "自動採集職業職能技能",
     "AutoGuaranteeCarryingObjectDescription": "在野外區域搬運物品時, 自動遁地以防止被怪物攻擊致使搬運失敗\n(當選中任務目標後或在休息區內, 發生移動時, 遁地會自動失效)",
     "AutoGuaranteeCarryingObjectTitle": "自動保障搬運物品安全",
-    "AutoGuardChatMessage-Notification": "已屏蔽非指令聊天信息发送",
+    "AutoGuardChatMessage-Notification": "已隱藏非指令聊天訊息發送",
     "AutoGuardChatMessageDescription": "仅允许发送以半角斜杠开头的命令消息, 自动阻止发送其他所有一般聊天信息, 避免误触或意外发送全角指令等",
     "AutoGuardChatMessageTitle": "自动屏蔽非指令聊天信息发送",
     "AutoHandleTeleportStuckDescription": "當遭遇 \"{0}\" 的特殊傳送狀態時, 自動執行上一次傳送以脫離",
