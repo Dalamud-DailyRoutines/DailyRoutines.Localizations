@@ -576,7 +576,7 @@
     "AutoNotifyChaoticRaidBonus-Notification": "{0}DC: 滅アライアンスボーナス報酬アップ中",
     "AutoNotifyChaoticRaidBonusDescription": "現在の所属データセンターまたは購読中のデータセンターで滅アライアンスレイドの報酬アップが発生した際、通知メッセージを送信してお知らせします。",
     "AutoNotifyChaoticRaidBonusTitle": "滅アライアンスレイドの報酬アップ通知",
-    "AutoNotifyCountdown-NotificationTitle": "カウントダウン開始",
+    "AutoNotifyCountdown-NotificationTitle": "战斗开始倒计时开始",
     "AutoNotifyCountdownDescription": "在战斗开始倒计时开始时, 自动发送通知信息提醒",
     "AutoNotifyCountdownTitle": "自动通知战斗开始倒计时开始",
     "AutoNotifyCutsceneEnd-NotificationMessage": "味方全員のカットシーンが終了しました",
