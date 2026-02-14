@@ -576,7 +576,7 @@
     "AutoNotifyChaoticRaidBonus-Notification": "Chaotic raid bonus is now available in the data center {0}.",
     "AutoNotifyChaoticRaidBonusDescription": "Notify the user when chaotic raid bonus is available in the current data center or the data center the user subscribed.",
     "AutoNotifyChaoticRaidBonusTitle": "Auto Chaotic Raid Bonus Notification",
-    "AutoNotifyCountdown-NotificationTitle": "Countdown Start",
+    "AutoNotifyCountdown-NotificationTitle": "战斗开始倒计时开始",
     "AutoNotifyCountdownDescription": "在战斗开始倒计时开始时, 自动发送通知信息提醒",
     "AutoNotifyCountdownTitle": "自动通知战斗开始倒计时开始",
     "AutoNotifyCutsceneEnd-NotificationMessage": "All the party members have finished their cutscenes.",
