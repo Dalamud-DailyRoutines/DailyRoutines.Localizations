@@ -576,7 +576,7 @@
     "AutoNotifyChaoticRaidBonus-Notification": "{0}DC: 멸 어둠의 구름 격투전 보상 증가 중",
     "AutoNotifyChaoticRaidBonusDescription": "현재 속한 서버 또는 구독 중인 서버에서 멸 어둠의 구름 격투전 보상 증가가 발생하면 알림 메시지를 보냅니다.",
     "AutoNotifyChaoticRaidBonusTitle": "멸 어둠의 구름 격투전 보상 증가 알림",
-    "AutoNotifyCountdown-NotificationTitle": "카운트다운 시작",
+    "AutoNotifyCountdown-NotificationTitle": "战斗开始倒计时开始",
     "AutoNotifyCountdownDescription": "在战斗开始倒计时开始时, 自动发送通知信息提醒",
     "AutoNotifyCountdownTitle": "自动通知战斗开始倒计时开始",
     "AutoNotifyCutsceneEnd-NotificationMessage": "모든 파티원의 컷신이 종료되었습니다.",
