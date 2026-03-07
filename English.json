@@ -619,7 +619,7 @@
     "AutoNotifyReadyCheckTitle": "Auto Ready Check Notification",
     "AutoNotifyRecruitmentEndDescription": "Auto notifies when the recruitment ends for any reason",
     "AutoNotifyRecruitmentEndTitle": "Auto Recruitment End Notification",
-    "AutoNotifyRouletteBonus-OnlyIncompleteHelp": "仅当未获得对应任务首次报酬奖励时发送通知信息提醒",
+    "AutoNotifyRouletteBonus-OnlyIncompleteHelp": "Only when the daily rewards are not claimed",
     "AutoNotifyRouletteBonusDescription": "Send a notification when a role is now \"Adventurer in Need\" in specified Duty Roulette.",
     "AutoNotifyRouletteBonusTitle": "Auto Adventurer in Need Notification",
     "AutoNotifySPPlayers-DisplayInfo": "Name: {0}; Online Status: {1}; Zone:{2}; Command:{3}",
