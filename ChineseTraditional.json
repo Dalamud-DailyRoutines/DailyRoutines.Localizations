@@ -2099,6 +2099,8 @@
     "Settings-DefaultEnableModules": "預設啟用推薦模組",
     "Settings-DefaultEnableModules-Help": "啟用後, 當本地首次初始化任一\"推薦模組\"時, 將其設置為啟用狀態\n\n推薦模組: 由開發組篩選，能改善大多數玩家體驗, 且不會過多改變日常遊玩方式的模組",
     "Settings-DefaultHomePage": "默認頁面",
+    "Settings-DeviceCode": "设备识别凭证",
+    "Settings-DeviceCode-Help": "相较于\"机器识别凭证\", \"设备识别凭证\" 基于更稳定、现代化的设备唯一标识符识别生成算法, 在多数场景下变更概率更低\n目前该功能仍处于早期测试阶段, 欢迎积极反馈, 帮助我们进一步完善相关算法",
     "Settings-DevTeam": "開發團隊",
     "Settings-ExpiredTime": "過期時間",
     "Settings-FontBuilding": "界面字體構建中...",
