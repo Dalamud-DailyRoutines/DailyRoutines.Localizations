@@ -2099,6 +2099,8 @@
     "Settings-DefaultEnableModules": "默认启用推荐模块",
     "Settings-DefaultEnableModules-Help": "启用后, 当本地首次初始化任一\"推荐模块\"时, 将其设置为启用状态\n\n推荐模块: 由开发组筛选，能改善大多数玩家体验, 且不会过多改变日常游玩方式的模块",
     "Settings-DefaultHomePage": "默认页面",
+    "Settings-DeviceCode": "设备识别凭证",
+    "Settings-DeviceCode-Help": "相较于\"机器识别凭证\", \"设备识别凭证\" 基于更稳定、现代化的设备唯一标识符识别生成算法, 在多数场景下变更概率更低\n目前该功能仍处于早期测试阶段, 欢迎积极反馈, 帮助我们进一步完善相关算法",
     "Settings-DevTeam": "开发团队",
     "Settings-ExpiredTime": "过期时间",
     "Settings-FontBuilding": "界面字体构建中...",
