@@ -2099,6 +2099,8 @@
     "Settings-DefaultEnableModules": "Enable Recommended Modules By Default",
     "Settings-DefaultEnableModules-Help": "Enable a module after its first initialization in local if the module is a recommended module.\n\nA recommended module is a module which is officially recommended by Daily Routines developers, could effectively improve the game experience overall, and doesn't excessively affect the general gameplay.",
     "Settings-DefaultHomePage": "Default home page",
+    "Settings-DeviceCode": "设备识别凭证",
+    "Settings-DeviceCode-Help": "相较于\"机器识别凭证\", \"设备识别凭证\" 基于更稳定、现代化的设备唯一标识符识别生成算法, 在多数场景下变更概率更低\n目前该功能仍处于早期测试阶段, 欢迎积极反馈, 帮助我们进一步完善相关算法",
     "Settings-DevTeam": "Developer Team",
     "Settings-ExpiredTime": "Expired Time",
     "Settings-FontBuilding": "Building Setting Font",
