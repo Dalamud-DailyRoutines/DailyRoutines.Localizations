@@ -1146,7 +1146,7 @@
     "BottomRight": "右下",
     "BrayfloxsLongstopHelperDescription": "IDに突入後、自動で「ゴブリン・パスファインダー」と会話し、「避難地の主門の鍵」を入手します。",
     "BrayfloxsLongstopHelperTitle": "『奪還支援 ブレイフロクスの野営地』アシスト",
-    "CallbackCommand-CommandHelp": "<界面内部名称> <参数...> 触发指定界面的回调",
+    "CallbackCommand-CommandHelp": "<UI内部名称> <パラメーター...> 指定したUIのコールバックを実行します",
     "CallbackCommand-CommandHelp-Detailed": "例: \n /pdr {0} SelectYesno 0 \n\t説明： SelectYesno 画面（最も一般的な「はい/いいえ」のダイアログ）に対して、引数 0 (int型) のコールバックを実行します。\n\t効果： 「はい」ボタンをクリックするのと同等です。（引数を 1 に変えると「いいえ」ボタンと同等になります）\n\n注: \n\tUI内部名称は、/xldata AddonInspector 画面から確認できます。\n\tコールバック引数は、Simple Tweaks Pluginが提供する /tweaks Debug 画面内の「Addon Logging - Callbacks」ページで記録・確認できます。",
     "CallbackCommand-Notification-AddonNotReady": "UI {0} は存在しないか、利用不可です",
     "CallbackCommand-Notification-ExecuteError": "コールバックの実行中にエラーが発生しました\nUI: {0}\nパラメーター: {1}",
