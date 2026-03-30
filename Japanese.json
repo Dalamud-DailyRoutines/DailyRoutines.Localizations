@@ -1191,7 +1191,6 @@
     "Commands-InvalidArgs": "無効なコマンド引数\nコマンド: {0}\n引数: {1}",
     "Commands-ModuleLoaded": "有効になったモジュール {0}",
     "Commands-ModuleUnloaded": "無効になったモジュール {0}",
-    "Commands-SubCommandNotFound": "サブコマンド {0} は存在しません",
     "Common": "一般",
     "CompanyCreditExchangeMore-OnlyActiveInWorkshop": "FC工房内でのみ有効",
     "CompanyCreditExchangeMoreDescription": "軍票交換数の上限を255に拡張",
