@@ -1191,7 +1191,6 @@
     "Commands-InvalidArgs": "Invalid parameter(s).\nUI: {0}\nParameter(s): {1}",
     "Commands-ModuleLoaded": "Loaded Module {0}",
     "Commands-ModuleUnloaded": "Unloaded Module {0}",
-    "Commands-SubCommandNotFound": "Sub-command '{0}' not exist",
     "Common": "Common",
     "CompanyCreditExchangeMore-OnlyActiveInWorkshop": "Enable only in Company Workshop",
     "CompanyCreditExchangeMoreDescription": "Allow to purchase up to 255 items in a single Company Credits exchange.",
