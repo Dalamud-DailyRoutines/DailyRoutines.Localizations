@@ -2060,7 +2060,7 @@
     "RightClickToMoveMode-IndicatorStyle-None": "표시하지 않음",
     "RightClickToMoveMode-IndicatorStyle-None-Desc": "목표 마커 표시하지 않음",
     "RightClickToMoveMode-IndicatorStyle-Pulse": "脉冲渐隐",
-    "RightClickToMoveMode-IndicatorStyle-Pulse-Desc": "确定目标落点后, 对其标记一个脉冲圆环, 一小段时间后标记淡出消失",
+    "RightClickToMoveMode-IndicatorStyle-Pulse-Desc": "목표 착지점을 확정한 후, 해당 지점에 시각적 강조 효과 원형 표시를 하고, 잠시 후 표시가 서서히 사라집니다.",
     "RightClickToMoveMode-KeyRightClickMode-Desc": "지정 키 + 우클릭 시 이동",
     "RightClickToMoveMode-KeyRightClickMode-Title": "조합 키로 우클릭 이동",
     "RightClickToMoveMode-LeftRightClickMode-Desc": "마우스 좌우클릭 시 이동",
