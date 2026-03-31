@@ -2038,7 +2038,7 @@
     "ReceiveEventCommand-Notification-AgentNotReady": "Agent {0} doesn't exist or is not available at the moment.",
     "ReceiveEventCommand-Notification-ExecuteError": "Error occurred while sending the event.\nAgent: {0}\nEvent Type: {1}\nParameter(s): {2}",
     "ReceiveEventCommand-Notification-ExecuteSuccess": "发送代理事件成功\n代理: {0}\n事件类型: {1}\n参数: {2}",
-    "ReceiveEventCommand-Notification-InvalidEventKind": "无效的事件类型 {0}, 请输入非负整数类型的字面量",
+    "ReceiveEventCommand-Notification-InvalidEventKind": "Invalid event type {0}. The value should be a non-negative integer.",
     "ReceiveEventCommandDescription": "Provide commands in the format of /pdr {0} <​agent name​> <​event type​> <​parameter(s)​> for direct access to various internal agents.",
     "ReceiveEventCommandTitle": "Direct Command Control For Agent",
     "Recipe": "Recipe",
