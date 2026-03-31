@@ -2040,7 +2040,7 @@
     "ReceiveEventCommand-Notification-ExecuteSuccess": "The event has been sent to the agent successfully.\nAgent: {0}\nEvent Type: {1}\nParameter(s): {2}",
     "ReceiveEventCommand-Notification-InvalidEventKind": "Invalid event type {0}. The value should be a non-negative integer.",
     "ReceiveEventCommandDescription": "Provide commands in the format of /pdr {0} <​agent name​> <​event type​> <​parameter(s)​> for direct access to various internal agents.",
-    "ReceiveEventCommandTitle": "Direct Command Control For Agent",
+    "ReceiveEventCommandTitle": "Direct Command Access To Agent",
     "Recipe": "Recipe",
     "RecommendModules": "Recommended Module",
     "Recruitment": "Recruitment",
