@@ -1,0 +1,15 @@
+filters:
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: zh_CN
+    source_file: 'ChineseSimplified.json'
+    translation_files_expression: '<lang>.json'
+
+settings:
+  pr_branch_name: tx_translations_<br_unique_id>
+  language_mapping:
+    zh_CN: ChineseSimplified
+    zh_TW: TraditionalChinese
+    en: English
+    ja: Japanese
+    ko: Korean
