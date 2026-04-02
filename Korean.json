@@ -1012,7 +1012,7 @@
     "AutoTenChiJin-HotbarPlacedMessage": "{0}을(를) 핫바 {1}의 {2}번 슬롯에 배치했습니다.",
     "AutoTenChiJin-Notification": "발동 준비: {0}",
     "AutoTenChiJin-OpenNijutsuActionsAddon": "인술 스킬 창 열기",
-    "AutoTenChiJinDescription": "配置完成后, 在自动模式下: 点击目标忍术技能后自动按顺序结印、释放; 在手动模式下: 自动使每个结印技能在一次结印期间仅能释放一次",
+    "AutoTenChiJinDescription": "설정 완료 후, 자동 모드에서는: 대상한테 인술 기술을 클릭하면 순서대로 인을 사용하고 인술을 발동합니다.\n수동 모드에서는: 각 인 기술이 한 번의 인들을 사용하는 동안 단 한 번만 발동되도록 자동으로 설정됩니다.",
     "AutoTenChiJinTitle": "【닌자】 자동 인술",
     "AutoTimedLogout-Mode-Logout": "로그아웃",
     "AutoTimedLogout-Mode-ShutdownGame": "게임 종료",
