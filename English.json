@@ -34,7 +34,7 @@
     "Auth-Credential-Machine": "MID",
     "Auth-Credential-Machine-UsageHint": "A unique identification of the device. All the modules require authentication would be available on this device after a successful authentication.",
     "Auth-Credential-Premium": "PID",
-    "Auth-Credential-Premium-UsageHint": "绑定上述任一凭证联动使用, 解锁内部测试功能\n无任何公开获取渠道, 谨防上当受骗",
+    "Auth-Credential-Premium-UsageHint": "A tester qualification (PID) should work along with a credential of any type, in order to access the modules require tester qualification.\nNot available to the public. There are many scams around this, so please be careful. No one in Daily Routines Team would offer tester qualifications to the public under any circumstances.",
     "Auth-Error-FailToUpdateCredentialInfo": "Unable to retrieve authentication information. Please check your network.",
     "Auth-Error-InvalidCredential": "Invalid credential.",
     "Auth-Error-ServerConnectionLost": "Unable to connect to the authentication service.",
