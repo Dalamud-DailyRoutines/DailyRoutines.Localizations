@@ -2142,7 +2142,7 @@
     "Settings-Auth-OnlineAuthInfo-Help": "有効化すると、いずれかのアクティベート済み認証情報が存在する場合、認証情報を更新するたびに、関連情報を含むチャットメッセージを送信します。",
     "Settings-BlacklistedNotice": "あなたはブラックリストに追加されており、Daily Routinesを使用できません。",
     "Settings-CopyModuleInternalName": "モジュール内部名をコピー",
-    "Settings-Credits": "感謝",
+    "Settings-Credits": "スペシャルサンクス",
     "Settings-DefaultEnableModules": "デフォルトで推奨モジュールを有効にする",
     "Settings-DefaultEnableModules-Help": "有効にすると、ローカル環境で「推奨モジュール」が初めて初期化される際、それらを自動的に有効状態に設定します。\n\n推奨モジュール：開発チームが選定した、日常のプレイ体験を大きく変えることなく、大多数のプレイヤーの利便性を向上させるモジュールです。",
     "Settings-DefaultHomePage": "デフォルトページ",
