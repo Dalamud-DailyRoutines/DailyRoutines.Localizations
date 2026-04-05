@@ -1121,6 +1121,7 @@
     "BetterFollowTitle": "自動追尾の改善",
     "BetterFPSLimitation-CommandHelp": "FPS制限設定画面を開く",
     "BetterFPSLimitation-CurrentFPS": "現在のFPS",
+    "BetterFPSLimitation-DTR-Tooltip": "[左键] 打开帧数限制界面\n[右键] 打开帧数监测界面",
     "BetterFPSLimitation-FastSetFPSLimitation": "プリセット",
     "BetterFPSLimitation-MaxFPS": "最大FPS",
     "BetterFPSLimitationDescription": "ゲーム内のFPS制限機能が拡張され、任意の数値で制限を設定できるようになりました。あわせて、サーバー情報欄に現在のFPSがリアルタイムで表示されるようになり、FPS制限を素早く調整できる専用のUIも追加されました。",
