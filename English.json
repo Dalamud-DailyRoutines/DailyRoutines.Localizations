@@ -1121,6 +1121,7 @@
     "BetterFollowTitle": "Better Auto Follow",
     "BetterFPSLimitation-CommandHelp": "Open FPS Cap Interface",
     "BetterFPSLimitation-CurrentFPS": "Current FPS",
+    "BetterFPSLimitation-DTR-Tooltip": "[左键] 打开帧数限制界面\n[右键] 打开帧数监测界面",
     "BetterFPSLimitation-FastSetFPSLimitation": "Quickly Set FPS Cap",
     "BetterFPSLimitation-MaxFPS": "FPS Cap",
     "BetterFPSLimitationDescription": "Allow users to set the frame rate cap to any number rather than the fixed options provided by the game, add a frames per second indicator in Server Info bar and provide an interface to quickly adjust the frame rate cap.",
