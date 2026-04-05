@@ -1121,6 +1121,7 @@
     "BetterFollowTitle": "更好的自動跟隨",
     "BetterFPSLimitation-CommandHelp": "打開幀數限制界面",
     "BetterFPSLimitation-CurrentFPS": "當前幀數",
+    "BetterFPSLimitation-DTR-Tooltip": "[左键] 打开帧数限制界面\n[右键] 打开帧数监测界面",
     "BetterFPSLimitation-FastSetFPSLimitation": "快速設置",
     "BetterFPSLimitation-MaxFPS": "遊戲最高幀數",
     "BetterFPSLimitationDescription": "使遊戲原生的幀數限制功能支持限制為任意幀率, 並在伺服器資訊欄處提供即時幀數顯示, 且提供原生界面以快捷調整幀率限制",
