@@ -1121,6 +1121,7 @@
     "BetterFollowTitle": "更好的自动跟随",
     "BetterFPSLimitation-CommandHelp": "打开帧数限制界面",
     "BetterFPSLimitation-CurrentFPS": "当前帧数",
+    "BetterFPSLimitation-DTR-Tooltip": "[左键] 打开帧数限制界面\n[右键] 打开帧数监测界面",
     "BetterFPSLimitation-FastSetFPSLimitation": "快速设置",
     "BetterFPSLimitation-MaxFPS": "游戏最高帧数",
     "BetterFPSLimitationDescription": "使游戏原生的帧数限制功能支持限制为任意帧率, 并在服务器信息栏处提供实时帧数显示, 且提供原生界面以快捷调整帧率限制",
