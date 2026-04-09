@@ -1191,7 +1191,7 @@
     "Click": "Click",
     "ClickToCopy": "Click To Copy",
     "ClickToOpen": "Click to Open",
-    "ClipboardMultiLineToOneLineDescription": "When pasting text in the game, multi-line text is forced to be converted into a single line to facilitate editing and sending.",
+    "ClipboardMultiLineToOneLineDescription": "在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送",
     "ClipboardMultiLineToOneLineTitle": "Auto Make Pasted Texts Single Line",
     "Color": "Colour",
     "Combat": "Combat",
