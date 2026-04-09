@@ -1191,7 +1191,7 @@
     "Click": "點擊",
     "ClickToCopy": "單擊以複製",
     "ClickToOpen": "點擊以打開",
-    "ClipboardMultiLineToOneLineDescription": "在遊戲內黏貼文本時, 強制將多行文本轉成單行, 以方便編輯發送",
+    "ClipboardMultiLineToOneLineDescription": "在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送",
     "ClipboardMultiLineToOneLineTitle": "強制黏貼多行轉單行",
     "Color": "顏色",
     "Combat": "戰鬥",
