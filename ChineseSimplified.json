@@ -1779,6 +1779,7 @@
     "Number": "数字",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-DistanceTo-Help": "若当前任一 魔路/ 简易魔路 的距离 ≤ 此处设置时, 才尝试移动",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-Help": "优先移动至 魔路 / 简易魔路, 然后交互传送, 而非直接通过 亚返回 瞬移至目标魔路\n(需要安装并启用 vnavmesh 插件)",
+    "OccultCrescentHelper-AutoDismount": "进入事件范围时, 自动下坐骑",
     "OccultCrescentHelper-CEManager-CEHistory": "紧急遭遇战历史",
     "OccultCrescentHelper-CEManager-CEHistory-LastTime": "上次触发时间",
     "OccultCrescentHelper-CEManager-CEHistory-Notify": "注: 岛 ID 会被复用, 相同的岛 ID 在长时间间隔后不一定为同一个岛, 此处仅为本地记录, 请以实际刷新情况为准",
