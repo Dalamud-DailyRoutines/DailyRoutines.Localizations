@@ -1138,6 +1138,8 @@
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "{0} 개의 아이템 구매 요청을 자동으로 보냈습니다.",
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[상품 가격 알림] {0}(단가 기준: {1})\n단가: {2}\n수량: {3}\n합계 금액: {4}({5}: {6})",
     "BetterMarketBoard-MonitorPrice": "가격 추적",
+    "BetterMarketBoard-NPCPrice": "NPC 售价: {0}",
+    "BetterMarketBoard-NPCShopInfo": "NPC 获取方式",
     "BetterMarketBoard-Purchase-Help": "단축키 {0} 을 길게 누르면 확인 없이 바로 구매합니다.",
     "BetterMarketBoard-ReloadMarketData": "장터 게시판 데이터 갱신\n(캐시 시간: 10분)",
     "BetterMarketBoard-RightClickToSwitch": "우클릭으로 HQ 모드만 표시 전환",
