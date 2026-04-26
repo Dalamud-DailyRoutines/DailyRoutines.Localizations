@@ -1779,6 +1779,7 @@
     "Number": "数値",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-DistanceTo-Help": "現在の任意の「魔道通路」または「簡易魔路」との距離が、ここで設定した値以下の場合にのみ移動を試みる。",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-Help": "直接「ワープ」で目的の魔路に瞬間移動するのではなく、まず優先的に魔路／簡易魔路まで移動してからインタラクトで転送する。\n（この機能を使うには、「vnavmesh」プラグインをインストールして有効化する必要があります）",
+    "OccultCrescentHelper-AutoDismount": "进入事件范围时, 自动下坐骑",
     "OccultCrescentHelper-CEManager-CEHistory": "クリティカルエンカウントの履歴",
     "OccultCrescentHelper-CEManager-CEHistory-LastTime": "前回発生時刻",
     "OccultCrescentHelper-CEManager-CEHistory-Notify": "※注意: 島IDは再利用されるため、同じ島IDでも長時間経過後は同一の島とは限りません。ここでの記録はあくまでローカル保存であり、実際のリスポーン状況を優先してください。",
