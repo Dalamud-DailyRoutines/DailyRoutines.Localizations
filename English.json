@@ -1138,6 +1138,8 @@
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "{0} purchase requests have been sent automatically.",
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[Price Monitoring] {0} (Unit Price Threshold: {1})\nUnit Price: {2}\nQuantity: {3}\nTotal Price: {4} ({5}: {6})",
     "BetterMarketBoard-MonitorPrice": "Monitor Price",
+    "BetterMarketBoard-NPCPrice": "NPC 售价: {0}",
+    "BetterMarketBoard-NPCShopInfo": "NPC 获取方式",
     "BetterMarketBoard-Purchase-Help": "Hold the interrupt hotkey {0} to purchase without confirmation",
     "BetterMarketBoard-ReloadMarketData": "Reload Market Data\n(Time to cache: 10 minutes)",
     "BetterMarketBoard-RightClickToSwitch": "Right click to switch to the HQ-only mode",
