@@ -1779,6 +1779,7 @@
     "Number": "수치",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-DistanceTo-Help": "현재 임의의 '마도 통로' 또는 '간이 마로'와의 거리가 설정한 값 이하일 때만 이동을 시도합니다.",
     "OccultCrescentHelper-AetheryteManager-PrioritizeMoveTo-Help": "순간이동으로 바로 목적지에 이동하지 않고, 먼저 해당 마로/간이 마로까지 이동한 뒤, 포털과 상호작용하여 전송합니다.\n('vnavmesh' 플러그인을 설치하고 활성화해야 합니다.)",
+    "OccultCrescentHelper-AutoDismount": "进入事件范围时, 自动下坐骑",
     "OccultCrescentHelper-CEManager-CEHistory": "비상 조우 이력",
     "OccultCrescentHelper-CEManager-CEHistory-LastTime": "마지막 발생 시각",
     "OccultCrescentHelper-CEManager-CEHistory-Notify": "※주의: 섬 ID는 재사용되므로 같은 섬 ID라도 시간이 지나면 동일 섬이 아닐 수 있습니다. 이 기록은 로컬 저장이며 실제 리스폰 상황을 우선시 해주세요.",
