@@ -2128,6 +2128,7 @@
     "SelectedXItems": "{0}개 선택함",
     "SendChat": "채팅 메세지 송신",
     "SendNotification": "알림 송신",
+    "SendSystemSound": "发送系统音效",
     "SendTTS": "TTS 송신",
     "Seperator": "구분 기호",
     "Serial": "인덱스",
