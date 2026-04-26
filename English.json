@@ -2128,6 +2128,7 @@
     "SelectedXItems": "{0} item(s) has been selected.",
     "SendChat": "Send Chat Message",
     "SendNotification": "Send Notification",
+    "SendSystemSound": "发送系统音效",
     "SendTTS": "Send TTS",
     "Seperator": "Seperator",
     "Serial": "Order",
