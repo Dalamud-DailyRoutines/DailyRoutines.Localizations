@@ -2128,6 +2128,7 @@
     "SelectedXItems": "已选中 {0} 项",
     "SendChat": "发送聊天信息",
     "SendNotification": "发送通知",
+    "SendSystemSound": "发送系统音效",
     "SendTTS": "发送语音信息",
     "Seperator": "分隔符",
     "Serial": "序号",
