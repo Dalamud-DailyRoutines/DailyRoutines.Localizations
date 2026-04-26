@@ -1138,6 +1138,8 @@
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "{0} 個のアイテム購入リクエストを自動で送信しました",
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[商品価格監視] {0}（単価しきい値：{1}）\n単価：{2}\n数量：{3}\n合計金額：{4}（{5}：{6}）",
     "BetterMarketBoard-MonitorPrice": "価格監視",
+    "BetterMarketBoard-NPCPrice": "NPC 售价: {0}",
+    "BetterMarketBoard-NPCShopInfo": "NPC 获取方式",
     "BetterMarketBoard-Purchase-Help": "割り込みホットキー {0} を押し続けると、確認なしで直接購入できます。",
     "BetterMarketBoard-ReloadMarketData": "マーケットデータを再読み込み\n（キャッシュ時間: 10分）",
     "BetterMarketBoard-RightClickToSwitch": "右クリックでHQモードのみに切り替え",
