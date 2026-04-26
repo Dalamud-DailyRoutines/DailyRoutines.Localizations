@@ -1138,6 +1138,8 @@
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "已自动发送购买 {0} 件物品请求",
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[商品价格监控] {0} (单价阈值: {1})\n单价: {2}\n数量: {3}\n总价: {4} ({5}: {6})",
     "BetterMarketBoard-MonitorPrice": "监控价格",
+    "BetterMarketBoard-NPCPrice": "NPC 售价: {0}",
+    "BetterMarketBoard-NPCShopInfo": "NPC 获取方式",
     "BetterMarketBoard-Purchase-Help": "按住打断热键 {0} 即可无需确认直接购买",
     "BetterMarketBoard-ReloadMarketData": "重载市场数据\n(缓存时间: 10 分钟)",
     "BetterMarketBoard-RightClickToSwitch": "右键切换仅 HQ 模式",
