@@ -1140,6 +1140,7 @@
     "BetterMarketBoard-MonitorPrice": "監控價格",
     "BetterMarketBoard-NPCPrice": "NPC 售价: {0}",
     "BetterMarketBoard-NPCShopInfo": "NPC 获取方式",
+    "BetterMarketBoard-PriceTrend": "价格走势",
     "BetterMarketBoard-Purchase-Help": "按住打斷快速鍵 {0} 即可無需確認直接購買",
     "BetterMarketBoard-ReloadMarketData": "重載市場數據\n(快取時間: 10 分鐘)",
     "BetterMarketBoard-RightClickToSwitch": "右鍵切換僅 HQ 模式",
