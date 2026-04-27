@@ -1140,6 +1140,7 @@
     "BetterMarketBoard-MonitorPrice": "Monitor Price",
     "BetterMarketBoard-NPCPrice": "Price At NPC Vendors: {0}",
     "BetterMarketBoard-NPCShopInfo": "Availability At NPC Vendors",
+    "BetterMarketBoard-PriceTrend": "价格走势",
     "BetterMarketBoard-Purchase-Help": "Hold the interrupt hotkey {0} to purchase without confirmation",
     "BetterMarketBoard-ReloadMarketData": "Reload Market Data\n(Time to cache: 10 minutes)",
     "BetterMarketBoard-RightClickToSwitch": "Right click to switch to the HQ-only mode",
