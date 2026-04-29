@@ -1718,6 +1718,7 @@
     "Minute": "분",
     "Mode": "모드",
     "Module": "모듈",
+    "ModuleCardComponent-Error-Render": "渲染模块配置界面失败",
     "ModuleCategory-Description-Action": "스킬 사용을 개선/조정/자동화합니다.",
     "ModuleCategory-Description-Assist": "단일 콘텐츠용 또는 보조 목적의 다른 모듈. 사용자가 직접 조작하지 않습니다.",
     "ModuleCategory-Description-Combat": "스킬 조작 및 전투 보조를 수행합니다.",
