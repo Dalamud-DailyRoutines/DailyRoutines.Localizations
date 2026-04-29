@@ -1718,6 +1718,7 @@
     "Minute": "分",
     "Mode": "模式",
     "Module": "模塊",
+    "ModuleCardComponent-Error-Render": "渲染模块配置界面失败",
     "ModuleCategory-Description-Action": "對技能使用進行最佳化、修改或自動化的模組",
     "ModuleCategory-Description-Assist": "適用於單一副本、場景, 或希望為其他插件、模組提供便利而非能被用戶直接方便使用的模組",
     "ModuleCategory-Description-Combat": "與戰鬥關聯, 最佳化戰鬥體驗, 且非技能相關的模組",
