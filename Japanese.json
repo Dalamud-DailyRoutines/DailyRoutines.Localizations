@@ -1718,6 +1718,7 @@
     "Minute": "分",
     "Mode": "モード",
     "Module": "モジュール",
+    "ModuleCardComponent-Error-Render": "渲染模块配置界面失败",
     "ModuleCategory-Description-Action": "スキルの使用を改善・調整・自動化するモジュール",
     "ModuleCategory-Description-Assist": "単一コンテンツ向け、または他モジュールの支援を目的とした、ユーザーが直接利用することを想定していないモジュール",
     "ModuleCategory-Description-Combat": "スキル操作以外の戦闘支援を行うモジュール",
