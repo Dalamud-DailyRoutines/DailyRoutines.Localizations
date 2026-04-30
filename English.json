@@ -1718,7 +1718,7 @@
     "Minute": "minute",
     "Mode": "Mode",
     "Module": "Module",
-    "ModuleCardComponent-Error-Render": "渲染模块配置界面失败",
+    "ModuleCardComponent-Error-Render": "Configuration interface rendering failed.",
     "ModuleCategory-Description-Action": "The modules which optimize, modify or automate various actions and combos.",
     "ModuleCategory-Description-Assist": "The modules which is only designed for specific duties, or which is designed for external calls from modules, plugins or triggers so that they generally don't directly benefit users.",
     "ModuleCategory-Description-Combat": "The modules which optimize combat experience without involving actions and combos in particular.",
