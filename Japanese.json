@@ -843,7 +843,7 @@
     "AutoRestoreFurniture-StoredToInventory": "倉庫 → かばん",
     "AutoRestoreFurnitureDescription": "家具インターフェースを開き、「スタート」をクリックすると、自動的に倉庫内のすべての家具をかばんに取り出し、配置済みの家具を倉庫に収納する",
     "AutoRestoreFurnitureTitle": "家具を自動的に回収する",
-    "AutoRetainerWork-Collect-AutoCollect": "リテイナーリストを開いた際、自動で回収する",
+    "AutoRetainerWork-Collect-AutoCollect": "リストを開いた際、自動で回収する",
     "AutoRetainerWork-Collect-Title": "リテイナーベンチャーを回収",
     "AutoRetainerWork-Dispatch-Description": "リテイナーのマーケット登録変更リストを下図のように開き、\n「スタート」をクリックすると、全リテイナーの所属マーケットが現在の都市に自動で変更されます。",
     "AutoRetainerWork-Dispatch-Title": "リテイナー登録マーケット自動変更",
