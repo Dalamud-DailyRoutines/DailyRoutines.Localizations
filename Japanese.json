@@ -1145,6 +1145,8 @@
     "BetterMarketBoard-ReloadMarketData": "マーケットデータを再読み込み\n（キャッシュ時間: 10分）",
     "BetterMarketBoard-RightClickToSwitch": "右クリックでHQモードのみに切り替え",
     "BetterMarketBoard-SearchInMarket": "マーケットボードで検索する",
+    "BetterMarketBoard-ShowAllWorldPrices": "完整显示",
+    "BetterMarketBoard-CollapseAllWorldPrices": "收起",
     "BetterMarketBoard-TravelToWorld": "対象サーバーへ移動",
     "BetterMarketBoardDescription": "どこでもマーケットボード画面を開くために、/pdr {0} コマンドを追加しました。そこで素早く価格を確認し、購入や価格監視の設定が可能です。購入はインスタンス外でのみ可能です。",
     "BetterMarketBoardTitle": "どこでもマーケットボード",
