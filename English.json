@@ -382,7 +382,7 @@
     "AutoHideGameObjectsDescription": "Automatically hide the models of specified objects after proper configurations, in order to improve the game performance and prioritize the rendering of important objects.",
     "AutoHideGameObjectsTitle": "Auto Hide Game Objects",
     "AutoHideNeedlessPopupsDescription": "Automatically hide unnecessary popups such as achievements approaching completion, Fellowship Notifications, Playguide, Recommended Duties, and Active Help.",
-    "AutoHideNeedlessPopupsTitle": "Auto Hide Unnecessary Popups",
+    "AutoHideNeedlessPopupsTitle": "Auto Block Unnecessary Pop-ups",
     "AutoHighlightCursor-HideOnCameraMove": "No Highlight While Adjusting Camera",
     "AutoHighlightCursor-HideOnCameraMove-Help": "The highlighted background would be hidden while adjusting the camera view.",
     "AutoHighlightCursor-PlayAnimation": "Animated Background",
