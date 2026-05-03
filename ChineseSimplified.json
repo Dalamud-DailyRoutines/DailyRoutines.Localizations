@@ -1145,6 +1145,8 @@
     "BetterMarketBoard-ReloadMarketData": "重载市场数据\n(缓存时间: 10 分钟)",
     "BetterMarketBoard-RightClickToSwitch": "右键切换仅 HQ 模式",
     "BetterMarketBoard-SearchInMarket": "在市场内搜索",
+    "BetterMarketBoard-ShowAllWorldPrices": "完整显示",
+    "BetterMarketBoard-CollapseAllWorldPrices": "收起",
     "BetterMarketBoard-TravelToWorld": "前往目标服务器",
     "BetterMarketBoardDescription": "添加 /pdr {0} 指令用以打开模块提供的远程市场布告板界面, 可在其中快速查价、购买并设定价格监控",
     "BetterMarketBoardTitle": "更好的市场布告板",
