@@ -1145,6 +1145,8 @@
     "BetterMarketBoard-ReloadMarketData": "장터 게시판 데이터 갱신\n(캐시 시간: 10분)",
     "BetterMarketBoard-RightClickToSwitch": "우클릭으로 HQ 모드만 표시 전환",
     "BetterMarketBoard-SearchInMarket": "장터 게시판에서 검색",
+    "BetterMarketBoard-ShowAllWorldPrices": "完整显示",
+    "BetterMarketBoard-CollapseAllWorldPrices": "收起",
     "BetterMarketBoard-TravelToWorld": "목표 서버로 이동",
     "BetterMarketBoardDescription": "/pdr {0} 명령을 추가해 어디서든 장터 게시판을 열 수 있습니다. 빠르게 가격 확인, 구매 및 가격 추적 설정이 가능하며, 구매는 인스턴스 외부에서만 가능합니다.",
     "BetterMarketBoardTitle": "어디서든 장터 게시판",
