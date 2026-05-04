@@ -254,6 +254,8 @@
     "AutoEliminateFishAwareness-AutoCastHelp": "若勾选, 则会在回到原始钓鱼位置后, 先自动抛竿再逐条执行设置的文本指令, 反之, 则只执行文本指令不自动抛竿",
     "AutoEliminateFishAwareness-ExtraCommands": "额外文本指令 (支持多条, 一行一条)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "此处的命令会在切换区域, 并再次抛竿后执行",
+    "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "全局警惕时, 退出游戏",
+    "AutoEliminateFishAwareness-Notification-GlobalWarning": "当前钓场已经全局警惕, 无法继续抛竿",
     "AutoEliminateFishAwarenessDescription": "配置完毕后, 在当前钓场出现警惕时, 自动通过切换区域的方式消除警惕, 并在同一地点再次抛竿",
     "AutoEliminateFishAwarenessTitle": "自动消除钓场警惕",
     "AutoEnableAttackDescription": "进入战斗时, 自动为所有职业开启自动攻击",
