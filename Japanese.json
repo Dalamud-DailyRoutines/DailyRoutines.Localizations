@@ -254,6 +254,8 @@
     "AutoEliminateFishAwareness-AutoCastHelp": "この項目にチェックを入れると、元の釣り位置に戻った際に、まず自動でキャスティングを行い、その後に設定されたテキストコマンドを順番に実行します。チェックを入れない場合は、テキストコマンドのみを実行し、自動キャスティングは行いません。",
     "AutoEliminateFishAwareness-ExtraCommands": "追加のテキストコマンド (複数のコマンドをサポート、1行に1つ)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "ここでのコマンドは、エリアが切り替わった後、再度キャストした際に実行されます",
+    "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "全局警惕时, 退出游戏",
+    "AutoEliminateFishAwareness-Notification-GlobalWarning": "当前钓场已经全局警惕, 无法继续抛竿",
     "AutoEliminateFishAwarenessDescription": "現在の釣り場で警戒状態が発生した場合、自動的にエリアを切り替えて警戒を解除し、同じ場所で再びキャストする",
     "AutoEliminateFishAwarenessTitle": "自動的に釣り場の警戒を解除する",
     "AutoEnableAttackDescription": "戦闘に入ると、全てのジョブにて自動でオートアタックを開始する",
