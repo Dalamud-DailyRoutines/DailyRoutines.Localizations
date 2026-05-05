@@ -367,7 +367,7 @@
     "AutoGuardChatMessage-Notification": "Non-command input has been blocked.",
     "AutoGuardChatMessageDescription": "Allow command input starting with a half-width forward slash only in the chat bar.",
     "AutoGuardChatMessageTitle": "Command Only Mode In Chat Bar",
-    "AutoGuardFishingStateDescription": "钓鱼期间, 除非手动使用技能 \"{0}\" 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作",
+    "AutoGuardFishingStateDescription": "Automatically block all the operations and actions which may terminate fishing status while the character is fishing, unless manually executing the action \"{0}\" or operating while pressing the interrupt hotkey.",
     "AutoGuardFishingStateTitle": "Auto Fishing Status Persist",
     "AutoHandleTeleportStuckDescription": "Automatically execute the teleportation last time if users get stuck in teleportation with the message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Auto Clear Teleportation Stuck",
