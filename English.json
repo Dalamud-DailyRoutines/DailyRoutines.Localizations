@@ -1950,7 +1950,7 @@
     "OptimizedRecipeNote-Config-DisplayOthersButtons": "显示配方其他职业版本按钮",
     "OptimizedRecipeNote-Config-DisplayOthersButtons-Help": "若当前所选配方也可由其他职业制作, 则在配方详情页面上方显示一个\"显示其余\"按钮, 点击后列出该配方在全部职业下的版本\n在该按钮右侧则显示可制作的其他职业图标, 可快捷点击职业图标切换至该配方的对应职业版本",
     "OptimizedRecipeNote-Config-MaterialSourceButtons": "Material Source Tracing",
-    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "为配方各材料左侧新增一个图标按钮, 指示该材料是否可从 NPC 处购买/交换获得或仅能从市场购买获得, 点击后列出该材料的全部 NPC 来源或打开市场布告板界面\n(需要启用全部前置模块)",
+    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "Add an icon on the left side of recipe materials indicating whether the material could be purchased at NPC vendors or available at market board. Click to list all the related NPC vendors or to access the market board interface.\n(It requires all the prerequisite modules to be enabled.)",
     "OptimizedRecipeNote-Config-MorePraticeQuality": "突破制作练习初始品质上限",
     "OptimizedRecipeNote-Config-MorePraticeQuality-Help": "将制作练习中可以设定的初始品质最大值由固定为配方最高品质的一半修改为最高品质",
     "OptimizedRecipeNote-Config-QuickSynthesisMore": "Higher Quick Synthesis Cap",
