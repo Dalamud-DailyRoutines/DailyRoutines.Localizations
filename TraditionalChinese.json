@@ -2059,6 +2059,7 @@
     "QuickChatPanel-LastUpdateTime": "上次更新時間",
     "QuickChatPanel-List": "列表",
     "QuickChatPanel-Macro": "宏",
+    "QuickChatPanel-MacroButton-DisplayType": "宏呈现方式",
     "QuickChatPanel-Messages": "訊息",
     "QuickChatPanel-OverlayMacroDisplayMode": "宏顯示模式",
     "QuickChatPanel-OverlayPosOffset": "視窗位置偏移",
