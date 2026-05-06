@@ -2059,6 +2059,7 @@
     "QuickChatPanel-LastUpdateTime": "最後更新日時",
     "QuickChatPanel-List": "リスト",
     "QuickChatPanel-Macro": "マクロ",
+    "QuickChatPanel-MacroButton-DisplayType": "宏呈现方式",
     "QuickChatPanel-Messages": "メッセージ",
     "QuickChatPanel-OverlayMacroDisplayMode": "マクロ表示モード",
     "QuickChatPanel-OverlayPosOffset": "ウィンドウ位置のオフセット",
