@@ -2059,6 +2059,7 @@
     "QuickChatPanel-LastUpdateTime": "마지막 갱신 시간",
     "QuickChatPanel-List": "목록",
     "QuickChatPanel-Macro": "매크로",
+    "QuickChatPanel-MacroButton-DisplayType": "宏呈现方式",
     "QuickChatPanel-Messages": "메시지",
     "QuickChatPanel-OverlayMacroDisplayMode": "매크로 표시 모드",
     "QuickChatPanel-OverlayPosOffset": "창 위치 오프셋",
