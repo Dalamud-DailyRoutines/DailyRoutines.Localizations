@@ -1959,7 +1959,7 @@
     "OptimizedRecipeNote-Config-QuickSynthesisMore-Help": "1回あたりの簡易製作の上限を 99個 から 255個 に変更します。",
     "OptimizedRecipeNote-Config-SearchClearButton": "検索内容をクリアするボタン",
     "OptimizedRecipeNote-Config-SearchClearButton-Help": "検索ボックスの右側に検索内容を素早くクリアできるボタンを追加します。クリックすると現在の検索テキストを消去し、検索を開始する前のレシピページに戻ります。",
-    "OptimizedRecipeNote-Config-SwitchJobButton": "ジョブ切替ボタン",
+    "OptimizedRecipeNote-Config-SwitchJobButton": "ジョブチェンジボタン",
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "選択したレシピのクラスが現在のクラスと異なる場合、「製作開始」ボタンを「クラスチェンジ」ボタンに置き換えます。",
     "OptimizedRecipeNote-Message-CaculationResult": "レシピ計算機の結果詳細",
     "OptimizedRecipeNote-Message-InstallRapheal": "本機能を使用するには、Raphael.Dalamud プラグイン (バージョン 0.0.3.0 以上) のインストールと有効化が必要です",
