@@ -263,7 +263,7 @@
     "AutoEnableDLSSSupport-Error-GameDirectory": "尝试获取游戏安装目录失败",
     "AutoEnableDLSSSupport-Notification-Finished": "修改完毕, 请关闭本模块, 无需再次开启",
     "AutoEnableDLSSSupportDescription": "使非国际服客户端能被 NVIDIA APP 识别为国际服客户端, 从而自动启用程序的 DLSS 优设修改支持",
-    "AutoEnableDLSSSupportTitle": "自动开启 DLSS 优设支持",
+    "AutoEnableDLSSSupportTitle": "NVIDIA DLSS Identifiable Client",
     "AutoExpertDelivery-DefaultPage": "Default Page",
     "AutoExpertDelivery-ReachdSealCap": "The number of seals is about to exceed the upper limit, so submission will be stopped.",
     "AutoExpertDelivery-SkipHQ": "Skip HQ items",
