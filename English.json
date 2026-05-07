@@ -932,7 +932,6 @@
     "AutoShowFrontlineKillCountDescription": "Emphasize the number of players knocked down so far every time a player was knocked down by self for a better sense of achievement.",
     "AutoShowFrontlineKillCountTitle": "Auto Emphasize KO In Frontline",
     "AutoShowItemNPCShopInfo-ContextMenu": "All Vendors",
-    "AutoShowItemNPCShopInfo-ItemDetail": "There are {0} NPC vendor(s) available.",
     "AutoShowItemNPCShopInfo-Notification-ShopNotFound": "No NPC vendor is selling the item {0}.",
     "AutoShowItemNPCShopInfoDescription": "Provide an option in the right-click menu of items for checking and accessing all the NPC vendors selling the item.",
     "AutoShowItemNPCShopInfoTitle": "Auto Display Available NPC Vendor",
