@@ -932,7 +932,6 @@
     "AutoShowFrontlineKillCountDescription": "進入紛爭前線擊倒玩家時, 自動在螢幕左側強調顯示擊倒人數, 以加強遊玩正回饋",
     "AutoShowFrontlineKillCountTitle": "自動強調展示紛爭前線擊倒人數",
     "AutoShowItemNPCShopInfo-ContextMenu": "NPC 商店一覽",
-    "AutoShowItemNPCShopInfo-ItemDetail": "共 {0} 個可供購買的 NPC 商店",
     "AutoShowItemNPCShopInfo-Notification-ShopNotFound": "未找到目標物品 ({0}) 相關的 NPC 商店資訊",
     "AutoShowItemNPCShopInfoDescription": "為物品新增右鍵菜單項, 用以快速打開顯示相關售賣商店的 NPC 資訊一覽界面",
     "AutoShowItemNPCShopInfoTitle": "自動顯示物品 NPC 商店資訊",
