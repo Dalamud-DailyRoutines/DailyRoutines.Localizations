@@ -1137,6 +1137,8 @@
     "BetterMarketBoard-BatchPurchase-Info": "已選擇 {0} 件商品 / 總數量: {1} / 總價: {2}",
     "BetterMarketBoard-CollapseAllWorldPrices": "收起",
     "BetterMarketBoard-CommandHelp": "切換市場布告板懸浮窗界面開關狀態",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip": "在道具帮助界面显示市场数据",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip-Help": "若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据",
     "BetterMarketBoard-ItemToMonitor": "價格監控物品",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "自動購買",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase-BuyAll": "購買全部 ≤ 單價閾值的商品",
