@@ -933,6 +933,7 @@
     "AutoShowFrontlineKillCountTitle": "Auto Emphasize KO In Frontline",
     "AutoShowItemNPCShopInfo-ContextMenu": "All Vendors",
     "AutoShowItemNPCShopInfo-Notification-ShopNotFound": "No NPC vendor is selling the item {0}.",
+    "AutoShowItemNPCShopInfo-TooltipTitle": "商店贩售",
     "AutoShowItemNPCShopInfoDescription": "Provide an option in the right-click menu of items for checking and accessing all the NPC vendors selling the item.",
     "AutoShowItemNPCShopInfoTitle": "Auto Display Available NPC Vendor",
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
