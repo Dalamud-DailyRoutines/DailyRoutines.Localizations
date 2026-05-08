@@ -933,6 +933,7 @@
     "AutoShowFrontlineKillCountTitle": "自动强调展示纷争前线击倒人数",
     "AutoShowItemNPCShopInfo-ContextMenu": "NPC 商店一览",
     "AutoShowItemNPCShopInfo-Notification-ShopNotFound": "未找到目标物品 ({0}) 相关的 NPC 商店信息",
+    "AutoShowItemNPCShopInfo-TooltipTitle": "商店贩售",
     "AutoShowItemNPCShopInfoDescription": "为物品新增右键菜单项, 用以快速打开显示相关售卖商店的 NPC 信息一览界面",
     "AutoShowItemNPCShopInfoTitle": "自动显示物品 NPC 商店信息",
     "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作",
