@@ -1137,6 +1137,8 @@
     "BetterMarketBoard-BatchPurchase-Info": "{0} 件の商品を選択済み / 総数: {1} / 合計金額: {2}",
     "BetterMarketBoard-CollapseAllWorldPrices": "折りたたむ",
     "BetterMarketBoard-CommandHelp": "マーケットボードのフローティングウィンドウの表示状態を切り替える",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip": "在道具帮助界面显示市场数据",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip-Help": "若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据",
     "BetterMarketBoard-ItemToMonitor": "価格監視対象アイテム",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "自動購入",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase-BuyAll": "単価がしきい値以下のすべての商品を購入する",
