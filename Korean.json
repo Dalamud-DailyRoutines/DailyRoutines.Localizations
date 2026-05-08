@@ -1137,6 +1137,8 @@
     "BetterMarketBoard-BatchPurchase-Info": "{0} 개의 상품 선택됨 / 총수: {1} / 합계 금액: {2}",
     "BetterMarketBoard-CollapseAllWorldPrices": "접기",
     "BetterMarketBoard-CommandHelp": "장터 게시판 오버레이의 표시 상태 전환",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip": "在道具帮助界面显示市场数据",
+    "BetterMarketBoard-Config-AppendMarketStatsTooltip-Help": "若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据",
     "BetterMarketBoard-ItemToMonitor": "가격 추적 대상 아이템",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "자동 구매",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase-BuyAll": "단가가 기준 이하인 모든 상품을 구매",
