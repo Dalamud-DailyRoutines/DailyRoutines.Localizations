@@ -478,7 +478,7 @@
     "AutoLogin-SavedLoginInfosAmount": "{0} login information has been saved.",
     "AutoLoginDescription": "Automatically login to the first available character based on configured priority after entering the main title screen.",
     "AutoLoginTitle": "Auto Login",
-    "AutoLucidDreaming-Notification": "已自动使用{0}, 当前魔力: {1}",
+    "AutoLucidDreaming-Notification": "{0} has been executed automatically. Current MP: {1}",
     "AutoLucidDreamingDescription": "若当前职业可使用且有需要使用\"醒梦\"技能, 则在魔力低于设定阈值时自动插入使用",
     "AutoLucidDreamingTitle": "Auto Lucid Dreaming",
     "AutoManageInterruptActionDescription": "If the current target is not casting an interruptible action, prevent the use of interrupt actions (e.g., Interject, Head Graze)",
