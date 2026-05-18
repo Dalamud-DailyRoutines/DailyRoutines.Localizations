@@ -1515,7 +1515,7 @@
     "FastWorldTravel-AutoLeaveParty": "Auto leave non-cross-world party",
     "FastWorldTravel-AutoLeavePartyHelp": "Automatically leave non-cross-world party before registering on World Visit.",
     "FastWorldTravel-CommandHelp": "Toggle the display status of World Visit Menu\n/pdr worldtravel <world name> (case insensitive and partial match available)",
-    "FastWorldTravel-DtrEntryTooltip": "Click for World Visit Menu",
+    "FastWorldTravel-DtrEntryTooltip": "[左键] 打开快捷跨界传送界面\n[右键] 回到原始服务器",
     "FastWorldTravel-Notice-InvalidEnv": "It's not viable to visit another world in the current environment.",
     "FastWorldTravel-Notice-InvalidInput": "The parameter is illegal.",
     "FastWorldTravel-Notice-SameWorld": "Already in the world.",
