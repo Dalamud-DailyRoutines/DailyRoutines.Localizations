@@ -1515,7 +1515,7 @@
     "FastWorldTravel-AutoLeaveParty": "서버 초월이 아닌 파티에서 자동으로 탈퇴합니다.",
     "FastWorldTravel-AutoLeavePartyHelp": "서버 초월 파티를 실행할 때, 같은 서버 파티에서 자동으로 탈퇴합니다.",
     "FastWorldTravel-CommandHelp": "빠른 서버 텔레포 메뉴의 표시 상태를 전환합니다\n/pdr worldtravel <서버명> (대소문자 구분 없음/부분 일치 가능)",
-    "FastWorldTravel-DtrEntryTooltip": "클릭해서 서버 텔레포 메뉴를 엽니다.",
+    "FastWorldTravel-DtrEntryTooltip": "[左键] 打开快捷跨界传送界面\n[右键] 回到原始服务器",
     "FastWorldTravel-Notice-InvalidEnv": "현재 부적합한 환경에 있어 서버 텔레포를 수행할 수 없습니다.",
     "FastWorldTravel-Notice-InvalidInput": "입력 파라미터가 올바르지 않습니다. 확인 후 다시 시도해주세요.",
     "FastWorldTravel-Notice-SameWorld": "대상 서버가 현재 서버와 동일하여 서버 텔레포를 실행할 수 없습니다.",
