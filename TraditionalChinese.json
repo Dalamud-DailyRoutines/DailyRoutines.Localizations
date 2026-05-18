@@ -1515,7 +1515,7 @@
     "FastWorldTravel-AutoLeaveParty": "自動退出非跨服小隊",
     "FastWorldTravel-AutoLeavePartyHelp": "執行跨服時, 自動退出非跨服小隊",
     "FastWorldTravel-CommandHelp": "切換快捷跨界傳送菜單的顯示狀態\n/pdr worldtravel <伺服器名> (不區分大小寫/部分匹配)",
-    "FastWorldTravel-DtrEntryTooltip": "點擊打開快捷跨界菜單",
+    "FastWorldTravel-DtrEntryTooltip": "[左键] 打开快捷跨界传送界面\n[右键] 回到原始服务器",
     "FastWorldTravel-Notice-InvalidEnv": "當前處於非法環境中, 無法進行跨界傳送",
     "FastWorldTravel-Notice-InvalidInput": "輸入參數非法, 請檢查後再試",
     "FastWorldTravel-Notice-SameWorld": "目標伺服器與當前伺服器一致, 無法進行跨界傳送",
