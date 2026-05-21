@@ -940,7 +940,7 @@
     "AutoShowItemNPCShopInfo-ExchangeItemCount": "Could be exchanged for {0} items.",
     "AutoShowItemNPCShopInfo-Notification-InfoNotFound": "No purchase or usage found at NPC vendors.",
     "AutoShowItemNPCShopInfo-TooltipTitle": "Availability At NPC",
-    "AutoShowItemNPCShopInfoDescription": "Provide Item Help and right-click menu for items, allowing to inquire purchase and usage information.",
+    "AutoShowItemNPCShopInfoDescription": "Provide Item Help and right-click menu for items, allowing to inquire purchase and usage information at NPC vendors.",
     "AutoShowItemNPCShopInfoTitle": "Auto Display Available NPC Vendor",
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
     "AutoSkipBuddyFeedSceneTitle": "Auto skip cutscenes of feeding Chocobo",
