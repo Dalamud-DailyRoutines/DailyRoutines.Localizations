@@ -1186,6 +1186,7 @@
     "BetterTeleport-MapHint-Zoom": "滚动鼠标滚轮以调节缩放",
     "BetterTeleport-Notification": "正在传送至: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "重定向至当前坐标",
+    "BetterTeleport-ShowMore": "显示完整以太之光列表",
     "BetterTeleport-TeleportToThisPosition": "传送至此位置",
     "BetterTeleportDescription": "用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处",
     "BetterTeleportTitle": "更好的传送界面",
