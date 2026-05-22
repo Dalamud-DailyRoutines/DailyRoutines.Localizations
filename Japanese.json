@@ -1530,7 +1530,7 @@
     "FastWorldTravel-AutoLeaveParty": "クロスワールドパーティ以外のパーティから自動で離脱する",
     "FastWorldTravel-AutoLeavePartyHelp": "ワールド間テレポの実行時、クロスワールドパーティ以外のパーティから自動で離脱する",
     "FastWorldTravel-CommandHelp": "ワールド間テレポ・クイックメニューの表示状態を切り替える\n/pdr worldtravel <サーバー名> (大文字小文字を区別しない/部分一致)",
-    "FastWorldTravel-DtrEntryTooltip": "[左クリック] テレポ画面を開く\n[右クリック] ホームワールドへ戻る",
+    "FastWorldTravel-DtrEntryTooltip": "[左クリック] ワールド間テレポ画面を開く\n[右クリック] ホームワールドへ戻る",
     "FastWorldTravel-Notice-InvalidEnv": "現在は不適切な環境にいるため、ワールド間テレポを実行できません",
     "FastWorldTravel-Notice-InvalidInput": "入力されたパラメータが正しくありません。確認してからやり直してください",
     "FastWorldTravel-Notice-SameWorld": "ターゲットサーバーが現在のサーバーと同じであるため、ワールド間テレポを実行できません",
