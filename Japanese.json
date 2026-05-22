@@ -1186,7 +1186,7 @@
     "BetterTeleport-MapHint-Zoom": "マウスホイールでズームを調整可",
     "BetterTeleport-Notification": "テレポート中: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "現在の座標へリダイレクト",
-    "BetterTeleport-ShowMore": "显示完整以太之光列表",
+    "BetterTeleport-ShowMore": "すべてのエーテライトリストを表示",
     "BetterTeleport-TeleportToThisPosition": "この位置へテレポする",
     "BetterTeleportDescription": "ゲームの標準テレポ画面をモジュール式インターフェースに置き換え、効率的な検索機能や目的地プレビューを提供します。また、都市内の任意のエーテライトへ直接テレポートすることも可能です。",
     "BetterTeleportTitle": "テレポUI最適化",
