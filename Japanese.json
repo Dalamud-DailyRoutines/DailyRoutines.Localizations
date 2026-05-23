@@ -1189,7 +1189,7 @@
     "BetterTeleport-MapHint-Zoom": "マウスホイールでズームを調整可",
     "BetterTeleport-Notification": "テレポート中: {0}",
     "BetterTeleport-PageFull": "一覧表示",
-    "BetterTeleport-PageSearch": "簡易検索表示",
+    "BetterTeleport-PageSearch": "簡易表示",
     "BetterTeleport-RedirectedToCurrentPos": "現在の座標へリダイレクト",
     "BetterTeleport-ShowMore": "すべてのエーテライトリストを表示",
     "BetterTeleport-TeleportToThisPosition": "この位置へテレポする",
