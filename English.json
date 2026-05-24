@@ -250,8 +250,6 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Auto Redraw When Out of Combat",
     "AutoDrawMotifsDescription": "If the current job is Pictomancer, automatically use available Motiff actions upon entering or recommencing a duty, or exiting combat",
     "AutoDrawMotifsTitle": "Auto Draw Motifs",
-    "AutoEliminateFishAwareness-AutoCast": "Auto Cast Rod",
-    "AutoEliminateFishAwareness-AutoCastHelp": "The character will cast rod before text commands are executed one by one if the option is checked. Otherwise, only text commands will be executed and no rod cast.",
     "AutoEliminateFishAwareness-ExtraCommands": "Extra Text Commands (One Per Line)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "Commands entered here will execute after switching zones and casting again",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "Logout After Global Alert",
