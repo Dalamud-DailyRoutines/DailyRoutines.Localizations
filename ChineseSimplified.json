@@ -250,8 +250,6 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "脱战后自动重新绘制",
     "AutoDrawMotifsDescription": "若当前职业为绘灵法师, 则在进入副本、触发重新挑战、脱战后, 自动使用当前可用的彩绘技能",
     "AutoDrawMotifsTitle": "自动绘画",
-    "AutoEliminateFishAwareness-AutoCast": "自动抛竿",
-    "AutoEliminateFishAwareness-AutoCastHelp": "若勾选, 则会在回到原始钓鱼位置后, 先自动抛竿再逐条执行设置的文本指令, 反之, 则只执行文本指令不自动抛竿",
     "AutoEliminateFishAwareness-ExtraCommands": "额外文本指令 (支持多条, 一行一条)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "此处的命令会在切换区域, 并再次抛竿后执行",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "全局警惕时, 退出游戏",
