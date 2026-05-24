@@ -250,8 +250,6 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "전투 종료 후 자동으로 그림 실행",
     "AutoDrawMotifsDescription": "현재 직업이 픽토맨서일 때, 콘텐츠 입장/재시작/전투 종료 후 사용 가능한 그림 스킬을 자동으로 사용합니다.",
     "AutoDrawMotifsTitle": "【픽토맨서】 자동 그림",
-    "AutoEliminateFishAwareness-AutoCast": "자동 낚싯대 던지기",
-    "AutoEliminateFishAwareness-AutoCastHelp": "이 항목을 체크하면, 원래 낚시 위치로 돌아왔을 때 먼저 자동 낚싯대 던지기를 수행한 뒤, 설정한 텍스트 명령어를 순서대로 실행합니다. 체크하지 않으면 텍스트 명령어만 실행하고 자동 낚싯대 던지기는 하지 않습니다.",
     "AutoEliminateFishAwareness-ExtraCommands": "추가 텍스트 명령어(복수 명령 지원, 1행 1명령)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "여기 입력한 명령어는 지역 전환 후 재시도 시 실행됩니다.",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "적 인식 상태 시, 게임 종료",
