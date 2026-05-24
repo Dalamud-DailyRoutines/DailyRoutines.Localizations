@@ -2325,7 +2325,7 @@
     "UnifiedGlamourManager-RightClickFavoriteHint": "右键添加/取消收藏",
     "UnifiedGlamourManager-SetRelatedOnly": "仅套装相关",
     "UnifiedGlamourManagerDescription": "新增模块界面, 在编辑投影模板时, 显示来自投影台与收藏柜的全部装备, 提供多种快捷筛选、收藏功能, 以更加高效的管理幻化装备",
-    "UnifiedGlamourManagerTitle": "统一幻化管理器",
+    "UnifiedGlamourManagerTitle": "Unified Glamour Manager",
     "Unknown": "Unknown",
     "Update": "Update",
     "UseItemCommand-CommandHelp": "<item ID/item name/item name in pinyin> to use a specific item in the inventory.",
