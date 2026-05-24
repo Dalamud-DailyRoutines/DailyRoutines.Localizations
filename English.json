@@ -2042,7 +2042,7 @@
     "Output": "output",
     "PartyFinderSettingRecord-Button-Save-Help": "Save As Preset",
     "PartyFinderSettingRecord-Message": "Duty: {0}\nDesc: {1}",
-    "PartyFinderSettingRecordDescription": "持久化保存\"编辑招募内容\"界面内填写的信息, 并在下次打开界面时自动填充",
+    "PartyFinderSettingRecordDescription": "Allow to save recruitment criteria as presets for future and to automatically apply while creating a new recruitment.",
     "PartyFinderSettingRecordTitle": "Auto Save Recruitment Edit Info",
     "Password": "Password",
     "Path": "Path",
