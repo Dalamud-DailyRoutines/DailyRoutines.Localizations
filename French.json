@@ -250,8 +250,6 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Redessiner automatiquement hors combat",
     "AutoDrawMotifsDescription": "Si le job actuel est Pictomancien, utilise automatiquement les actions Motif disponibles en entrant ou relançant une mission, ou après un combat.",
     "AutoDrawMotifsTitle": "Dessin automatique des motifs",
-    "AutoEliminateFishAwareness-AutoCast": "Lancer automatiquement la ligne",
-    "AutoEliminateFishAwareness-AutoCastHelp": "Le personnage lancera automatiquement la ligne avant l'exécution des commandes texte si l'option est activée. Sinon, seules les commandes texte seront exécutées.",
     "AutoEliminateFishAwareness-ExtraCommands": "Commandes texte supplémentaires (une par ligne)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "Les commandes saisies ici seront exécutées après changement de zone et nouveau lancer.",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "Déconnexion après alerte globale",
