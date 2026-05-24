@@ -2314,7 +2314,7 @@
     "UIOperation": "UI操作",
     "UIOptimization": "UIの最適化",
     "Unfocused": "フォーカス解除",
-    "UnifiedGlamourManager-ClearFavoriteConfirm": "确定要取消当前筛选结果中的收藏吗",
+    "UnifiedGlamourManager-ClearFavoriteConfirm": "現在の絞り込み結果に含まれるアイテムのお気に入り登録を解除してもよろしいですか？",
     "UnifiedGlamourManager-ClearFavorites": "すべてのお気に入り登録を解除",
     "UnifiedGlamourManager-CurrentTargetSlotOnly": "現在選択されている武具投影部位の装備のみ表示",
     "UnifiedGlamourManager-FilteredFavoriteCount": "お気に入り数",
