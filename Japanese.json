@@ -1738,7 +1738,6 @@
     "LiveAnonymousMode-RandomLetters": "ランダム文字",
     "LiveAnonymousMode-RandomNPCName": "ランダムなNPC名",
     "LiveAnonymousMode-RandomNumbers": "ランダム数値",
-    "LiveAnonymousMode-WithJobPrefix": "ジョブ名を名前の前に付ける",
     "LiveAnonymousModeDescription": "ゲーム内に表示されるすべてのプレイヤー名とプレイヤーモデルをランダム化し、プレイ情報を保護します。\n(実際のデータは変更されず、モデルに関連しないプラグインには影響しませんが、他のプラグインのUI上で情報が露出する可能性があるためご注意ください。)",
     "LiveAnonymousModeTitle": "ライブ配信匿名モード",
     "Loading": "ロード中...",
