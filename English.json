@@ -1738,7 +1738,6 @@
     "LiveAnonymousMode-RandomLetters": "Random Letters",
     "LiveAnonymousMode-RandomNPCName": "Random NPC Name",
     "LiveAnonymousMode-RandomNumbers": "Random Numbers",
-    "LiveAnonymousMode-WithJobPrefix": "With Job Prefix",
     "LiveAnonymousModeDescription": "Obfuscate all player names and models in the game to encrypt gameplay information.\n(This is not an actual modification and does not affect non-model-related plugins, but be aware that other plugin interfaces may still reveal information.)",
     "LiveAnonymousModeTitle": "Live Anonymous Mode",
     "Loading": "Loading",
