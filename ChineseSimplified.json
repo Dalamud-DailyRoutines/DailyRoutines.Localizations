@@ -1738,7 +1738,6 @@
     "LiveAnonymousMode-RandomLetters": "随机字母",
     "LiveAnonymousMode-RandomNPCName": "随机 NPC 名",
     "LiveAnonymousMode-RandomNumbers": "随机数字",
-    "LiveAnonymousMode-WithJobPrefix": "使用职业名称为前缀",
     "LiveAnonymousModeDescription": "混淆游戏内所有出现的玩家名称与玩家模型, 以加密游玩信息 \n(非实际修改, 不影响非模型关联插件, 但请注意其他插件界面可能暴露的信息)",
     "LiveAnonymousModeTitle": "直播匿名模式",
     "Loading": "加载中",
