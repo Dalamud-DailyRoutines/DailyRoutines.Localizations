@@ -1738,7 +1738,6 @@
     "LiveAnonymousMode-RandomLetters": "무작위 문자",
     "LiveAnonymousMode-RandomNPCName": "무작위 NPC 이름",
     "LiveAnonymousMode-RandomNumbers": "무작위 숫자",
-    "LiveAnonymousMode-WithJobPrefix": "이름 앞에 직업명 붙이기",
     "LiveAnonymousModeDescription": "게임 내에 표시되는 모든 플레이어의 이름과 모델을 무작위화해 정보를 보호합니다.\n(실제 데이터는 바뀌지 않으며 모델과 무관한 플러그인에는 영향이 없습니다. 다만, 다른 플러그인의 UI에서 정보가 노출될 수 있으니 주의하세요.)",
     "LiveAnonymousModeTitle": "라이브 방송 익명 모드",
     "Loading": "로딩 중",
