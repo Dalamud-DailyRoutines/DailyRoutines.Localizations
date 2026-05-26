@@ -1738,7 +1738,6 @@
     "LiveAnonymousMode-RandomLetters": "Lettres aléatoires",
     "LiveAnonymousMode-RandomNPCName": "Nom de PNJ aléatoire",
     "LiveAnonymousMode-RandomNumbers": "Nombres aléatoires",
-    "LiveAnonymousMode-WithJobPrefix": "Avec préfixe du job",
     "LiveAnonymousModeDescription": "Obfusque tous les noms et modèles des joueurs dans le jeu afin de masquer les informations de gameplay.\n(Ceci n'est pas une modification réelle et n'affecte pas les plugins non liés aux modèles, mais certaines interfaces d'autres plugins peuvent tout de même révéler des informations.)",
     "LiveAnonymousModeTitle": "Mode anonyme",
     "Loading": "Chargement",
