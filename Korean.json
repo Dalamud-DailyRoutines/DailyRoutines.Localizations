@@ -814,7 +814,7 @@
     "AutoReplaceLowBlowWithInterjectTitle": "【탱커】 시전 중단 스킬 자동 대체",
     "AutoReplyChatBot-AddKeyword": "키워드 추가...",
     "AutoReplyChatBot-AttackBehavior": "피격 시 행동",
-    "AutoReplyChatBot-AttackDefend": "防卫回复 (让 AI 吐槽对方)",
+    "AutoReplyChatBot-AttackDefend": "방어용 답변 (AI가 상대에게 대신 답변하게 하기)",
     "AutoReplyChatBot-AttackSilent": "침묵 (응답하지 않음)",
     "AutoReplyChatBot-AutoRepliedTo": "자동 응답 완료:",
     "AutoReplyChatBot-Content": "내용",
