@@ -827,7 +827,7 @@
     "AutoReplyChatBot-FilterSystemPrompt": "システムプロンプトをフィルタリング",
     "AutoReplyChatBot-FiterModelChoice-Help": "小型モデルの使用を推奨します。名前に mini と付いたモデルを使用してください。思考型モデルは使用しないでください。",
     "AutoReplyChatBot-GameContext": "ゲームコンテキスト",
-    "AutoReplyChatBot-HardGuardEnabled": "启用硬护栏",
+    "AutoReplyChatBot-HardGuardEnabled": "自動返信のセーフティを有効にする",
     "AutoReplyChatBot-HardGuardEnabled-Help": "指定のキーワードが含まれるメッセージや長すぎるメッセージをプログラム側で自動的に弾くため、AIのトークンを消費しません。条件に一致した場合は、無反応となり、返答は生成されません。",
     "AutoReplyChatBot-HardGuardKeywords": "ブラックリストキーワード",
     "AutoReplyChatBot-HistoryPreview": "チャット履歴",
