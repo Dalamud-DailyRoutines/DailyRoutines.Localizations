@@ -828,7 +828,7 @@
     "AutoReplyChatBot-FiterModelChoice-Help": "建议使用小型模型, 如名称标记有 mini 的模型, 请勿使用任何思考模型",
     "AutoReplyChatBot-GameContext": "游戏上下文",
     "AutoReplyChatBot-HardGuardEnabled": "启用硬护栏",
-    "AutoReplyChatBot-HardGuardEnabled-Help": "启用后, 在代码层面直接过滤包含黑名单关键词或超长的消息, 无需消耗 LLM Token。命中后静默不回复",
+    "AutoReplyChatBot-HardGuardEnabled-Help": "启用后, 直接过滤包含黑名单关键词或超长的消息, 命中后静默不回复",
     "AutoReplyChatBot-HardGuardKeywords": "黑名单关键词",
     "AutoReplyChatBot-HistoryPreview": "聊天记录",
     "AutoReplyChatBot-MaxContextTokens": "最大上下文词元数",
