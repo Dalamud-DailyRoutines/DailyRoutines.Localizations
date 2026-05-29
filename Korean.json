@@ -417,7 +417,7 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "토벌 수첩 데이터 갱신 성공",
     "AutoHuntingLogDescription": "클래스/자유부대별 토벌 수첩(던전 외)을 지정 레벨에 맞춰 자동 진행 및 완료합니다.",
     "AutoHuntingLogTitle": "토벌 수첩 자동화",
-    "AutoIgnoreLoginLockDescription": "필드 로그아웃 등 조작에 강제로 발생하는 '{0}' 로그아웃 쿨타임을 무효화합니다.",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 15 秒操作冷却锁, 并将各类登录请求的本地冷却锁由 15 秒至 30 秒不等强制缩短至 1 秒",
     "AutoIgnoreLoginLockTitle": "로그아웃 조작시 쿨다운 잠금 해제",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "자동으로 해제되는 제약 사항 (일부)",
     "AutoIgnorePortraitLimitationDescription": "초상화 편집 시 무기가 얼굴을 가리면 안 되는 등의 제약을 해제합니다.",
