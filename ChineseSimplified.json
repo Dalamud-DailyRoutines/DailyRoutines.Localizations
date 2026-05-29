@@ -417,7 +417,7 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "获取在线讨伐笔记点位数据成功",
     "AutoHuntingLogDescription": "自动完成指定职业/大国防联军下的所有/指定等级的非副本怪物讨伐任务",
     "AutoHuntingLogTitle": "自动讨伐笔记",
-    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 \"{0}\" 操作冷却锁",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 15 秒操作冷却锁, 并将各类登录请求的本地冷却锁由 15 秒至 30 秒不等强制缩短至 1 秒",
     "AutoIgnoreLoginLockTitle": "自动取消登录操作冷却锁",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "可解除的限制包括但不限于",
     "AutoIgnorePortraitLimitationDescription": "自动取消肖像设计过程中可能出现的, 诸如武器不能遮挡面部等的各种限制",
