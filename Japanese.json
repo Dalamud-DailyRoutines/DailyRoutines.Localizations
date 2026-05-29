@@ -417,7 +417,7 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "討伐手帳ポイントデータの取得に成功しました",
     "AutoHuntingLogDescription": "クラス・グラカン別の討伐手帳（非ダンジョン対象）を、指定レベルに応じて自動的に進行・完了",
     "AutoHuntingLogTitle": "討伐手帳自動化",
-    "AutoIgnoreLoginLockDescription": "ログインキャラクターがログイン解除などの操作で強制的に付与される「{0}」の操作クールタイムロックを自動で無効化します。",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 15 秒操作冷却锁, 并将各类登录请求的本地冷却锁由 15 秒至 30 秒不等强制缩短至 1 秒",
     "AutoIgnoreLoginLockTitle": "ログイン操作時のクールタイムロックを解除",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "以下のような制限が自動で解除されます。 (一部抜粋)",
     "AutoIgnorePortraitLimitationDescription": "ポートレートデザイン中に発生する、武器が顔を隠してはならないといった各種の制限を解除します",
