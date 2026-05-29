@@ -417,7 +417,7 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "Récupération des données en ligne du carnet de chasse réussie.",
     "AutoHuntingLogDescription": "Complète automatiquement toutes les entrées de chasse de monstres du job ou de la grande compagnie spécifiée, sauf celles nécessitant une mission.",
     "AutoHuntingLogTitle": "Complétion automatique du carnet de chasse",
-    "AutoIgnoreLoginLockDescription": "Annule automatiquement le délai de connexion \"{0}\" appliqué après annulation d'une tentative de connexion à un personnage.",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 15 秒操作冷却锁, 并将各类登录请求的本地冷却锁由 15 秒至 30 秒不等强制缩短至 1 秒",
     "AutoIgnoreLoginLockTitle": "Annulation automatique du délai de connexion",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "Les restrictions pouvant être supprimées incluent notamment",
     "AutoIgnorePortraitLimitationDescription": "Ignore automatiquement les restrictions lors de la création d'un portrait, comme une arme masquant le visage ou une caméra placée trop haut.",
