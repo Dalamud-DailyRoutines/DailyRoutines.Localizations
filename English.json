@@ -417,7 +417,7 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "Acquisitions of online Hunting Log data succeeded.",
     "AutoHuntingLogDescription": "Automatically complete all the monster hunting entries of the specified job or the specified Grand Company, except for those have to be complete in duties.",
     "AutoHuntingLogTitle": "Auto Complete Hunting Log",
-    "AutoIgnoreLoginLockDescription": "Automatically cancel the \"{0}\" login cooldown which would be applied after cancelling a character login action.",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 15 秒操作冷却锁, 并将各类登录请求的本地冷却锁由 15 秒至 30 秒不等强制缩短至 1 秒",
     "AutoIgnoreLoginLockTitle": "Auto Cancel Login Cooldown",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "The removable restrictions include but are not limited to",
     "AutoIgnorePortraitLimitationDescription": "Automatically ignore the restrictions during creating a portrait, such as the weapon shouldn't cover the character face or the camera position shouldn't be too high.",
