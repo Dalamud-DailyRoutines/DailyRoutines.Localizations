@@ -451,7 +451,7 @@
     "AutoLeaveDuty-ImmediateLeaveContents": "ステージクリア後に即時退出",
     "AutoLeaveDuty-ImmediateLeaveContents-Help": "ステージ完了時、ディレイ（待機時間）設定を無視して即時強制退出させます。\n（優先度：ブラックリスト対象ステージ ＞ 本設定）",
     "AutoLeaveDuty-NoLeaveHighEndDuties": "高難度ダンジョンから自動的に退出しない",
-    "AutoLeaveDuty-NoLeaveHighEndDuties-Help": "現在のバージョンで「パーティ募集（メンバ募集）」の画面を開いた際、「高難易度任務（ハイエンドコンテンツ）」にカテゴライズされるすべてのステージ（ダンジョン）のことです。",
+    "AutoLeaveDuty-NoLeaveHighEndDuties-Help": "「パーティ募集」の画面を開いた際、現在のバージョンで「高難易度コンテンツ」にカテゴライズされるすべてのステージのことです。",
     "AutoLeaveDutyDescription": "ブラックリストで選択したコンテンツでは自動退出しない。",
     "AutoLeaveDutyTitle": "コンテンツから自動退出する",
     "AutoLeveQuests-CompleteHelp": "リーヴの一括処理が完了しました",
