@@ -1758,7 +1758,7 @@
     "Locate": "위치 확인",
     "MacroIntoActionQueueDescription": "매크로로 실행된 액션을 대기열에 등록해 순서대로 실행합니다.",
     "MacroIntoActionQueueTitle": "매크로 액션 대기열 등록",
-    "MainWindow-DAU": "{0}일 활성 사용자: {1}명",
+    "MainWindow-DAU-Sidebar": "日活跃用户: {0} 人",
     "Mannequin": "마네킹",
     "ManualMode": "수동 모드",
     "Mark": "Flag 마크",
