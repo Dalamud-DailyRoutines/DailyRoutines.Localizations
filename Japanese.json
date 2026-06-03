@@ -1758,7 +1758,7 @@
     "Locate": "位置確認",
     "MacroIntoActionQueueDescription": "全アクションと所持品使用をキューに入れる",
     "MacroIntoActionQueueTitle": "マクロからのアクションをキューに入れる",
-    "MainWindow-DAU": "{0} 時点のアクティブユーザー数: {1} 人",
+    "MainWindow-DAU-Sidebar": "日活跃用户: {0} 人",
     "Mannequin": "マネキン",
     "ManualMode": "手動モード",
     "Mark": "Flagマーク",
