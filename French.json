@@ -1758,7 +1758,7 @@
     "Locate": "Localiser",
     "MacroIntoActionQueueDescription": "Active la mise en file d'actions pour toutes les actions, macros utilisateur et objets.",
     "MacroIntoActionQueueTitle": "File d'actions pour macros",
-    "MainWindow-DAU": "DAU le {0} : {1}",
+    "MainWindow-DAU-Sidebar": "日活跃用户: {0} 人",
     "Mannequin": "Mannequin",
     "ManualMode": "Mode manuel",
     "Mark": "Marquer",
