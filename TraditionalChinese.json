@@ -1758,7 +1758,7 @@
     "Locate": "定位",
     "MacroIntoActionQueueDescription": "令所有技能與物品使用都可以進入技能隊列",
     "MacroIntoActionQueueTitle": "宏進入技能隊列",
-    "MainWindow-DAU": "{0} 日活躍用戶: {1} 人",
+    "MainWindow-DAU-Sidebar": "日活跃用户: {0} 人",
     "Mannequin": "服裝模特",
     "ManualMode": "手動模式",
     "Mark": "標記",
