@@ -1758,7 +1758,7 @@
     "Locate": "Locate",
     "MacroIntoActionQueueDescription": "Enable action queueing for all the actions, user macros and items.",
     "MacroIntoActionQueueTitle": "Action Queueing For Macros",
-    "MainWindow-DAU-Sidebar": "日活跃用户: {0} 人",
+    "MainWindow-DAU-Sidebar": "DAU: {0}",
     "Mannequin": "Mannequin",
     "ManualMode": "Manual Mode",
     "Mark": "Mark",
