@@ -1240,7 +1240,7 @@
     "CancelCountdownCommand-CommandHelp": "cancel countdown",
     "CancelCountdownCommandDescription": "Provide a command /pdr {0} to cancel countdown.",
     "CancelCountdownCommandTitle": "Command To Cancel Countdown",
-    "Changelog": "Update Notes",
+    "Changelog": "Changelog",
     "ChatLog": "Message window",
     "ChineseNumericalNotation-ColorMinus": "Minus Colour",
     "ChineseNumericalNotation-ColorTable": "Reference Colour Table",
