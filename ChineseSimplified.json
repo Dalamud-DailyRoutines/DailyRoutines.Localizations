@@ -2315,7 +2315,7 @@
     "UIOptimization": "界面优化",
     "Unfocused": "失焦",
     "UnifiedGlamourManagerTitle": "统一幻化管理器",
-    "UnifiedGlamourManagerDescription": "新增模块界面, 在编辑投影模板时, 显示来自投影台与收藏柜的全部装备, 提供多种快捷筛选、收藏功能, 以更加高效的管理幻化装备",
+    "UnifiedGlamourManagerDescription": "新增模块界面, 在编辑投影模板时, 显示来自投影台与收藏柜的全部装备, 提供多种快捷筛选、收藏功能, 并支持保存、导入、导出投影模板, 以更加高效地管理幻化装备",
     "UnifiedGlamourManager-ClearFavoriteConfirm": "确定要取消当前筛选结果中的收藏吗",
     "UnifiedGlamourManager-ClearFavorites": "取消全部收藏",
     "UnifiedGlamourManager-CommandHelp": "打开投影模板管理窗口",
