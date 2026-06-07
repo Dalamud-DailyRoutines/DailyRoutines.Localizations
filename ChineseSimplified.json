@@ -375,8 +375,10 @@
     "AutoHideExpBarTitle": "自动隐藏经验值栏",
     "AutoHideGameObjects-HideChocobo": "隐藏陆行鸟",
     "AutoHideGameObjects-HideChocoboHelp": "隐藏除自身陆行鸟外其他所有的陆行鸟",
-    "AutoHideGameObjects-HidePet": "隐藏召唤物",
-    "AutoHideGameObjects-HidePetHelp": "隐藏除自身所属的其他所有宠物、召唤物",
+    "AutoHideGameObjects-HidePet": "隐藏宠物、战斗召唤物",
+    "AutoHideGameObjects-HidePetHelp": "隐藏除自身所属外其他所有的宠物、战斗召唤物",
+    "AutoHideGameObjects-HideOrnament": "隐藏时尚配饰",
+    "AutoHideGameObjects-HideOrnamentHelp": "隐藏除自身所属外其他所有的时尚配饰",
     "AutoHideGameObjects-HidePlayer": "隐藏玩家",
     "AutoHideGameObjects-HidePlayerHelp": "隐藏除自身、好友和小队/团队成员外的其他所有玩家",
     "AutoHideGameObjects-HideUnimportantENPC": "隐藏不重要事件 NPC",
@@ -2356,3 +2358,4 @@
     "Yes": "是",
     "Zone": "区域"
 }
+
