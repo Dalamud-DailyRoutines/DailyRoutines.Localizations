@@ -1776,6 +1776,8 @@
     "ModuleCategory-Assist-Description": "설계상 다른 모듈이나 플러그인과 연동하여 사용하도록 만들어졌으며, 일반 유저가 직접 다루기 위한 모듈이 아닙니다.",
     "ModuleCategory-Combat": "전투",
     "ModuleCategory-Combat-Description": "전투 플레이 경험을 개선하는 모듈입니다.",
+    "ModuleCategory-CraftGather": "生产采集",
+    "ModuleCategory-CraftGather-Description": "与生产采集相关的模块",
     "ModuleCategory-Duty": "콘텐츠",
     "ModuleCategory-Duty-Description": "임무 내부 또는 특정 임무의 플레이 경험을 개선하고 최적화하는 모듈입니다.",
     "ModuleCategory-General": "일반",
