@@ -1776,6 +1776,8 @@
     "ModuleCategory-Assist-Description": "设计上需要与其他模块/插件组合使用, 而非能被普通用户直接方便使用的模块",
     "ModuleCategory-Combat": "战斗",
     "ModuleCategory-Combat-Description": "对战斗体验进行优化的模块",
+    "ModuleCategory-CraftGather": "生产采集",
+    "ModuleCategory-CraftGather-Description": "与生产采集相关的模块",
     "ModuleCategory-Duty": "副本",
     "ModuleCategory-Duty-Description": "对副本内或某一副本(类型)的游玩体验进行修改优化的模块",
     "ModuleCategory-General": "一般",
