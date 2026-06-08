@@ -1791,7 +1791,7 @@
     "ModuleCategory-Script": "스크립트",
     "ModuleCategory-Script-Description": "설정된 목적에 따라 전용 매크로(반복 작업) 흐름을 사용하여 특정 행동을 반복 수행하는 모듈입니다.",
     "ModuleCategory-System": "시스템",
-    "ModuleCategory-System-Description": "对各类游戏系统、机制设计进行优化的模块",
+    "ModuleCategory-System-Description": "게임 내 다양한 시스템 및 메커니즘을 최적화하는 모듈입니다.",
     "ModuleConfig": "모듈 배치",
     "ModuleInfo-PreviewImage": "미리보기 이미지",
     "ModulesConfig": "모듈 설정",
