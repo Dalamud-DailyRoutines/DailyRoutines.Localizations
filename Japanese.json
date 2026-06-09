@@ -225,6 +225,8 @@
     "AutoDisplayFateItemCount-HoldCount": "所持数",
     "AutoDisplayFateItemCountDescription": "収集型のF.A.T.E.に突入した際、F.A.T.E.詳細ウィンドウの横に現在所持している関連アイテムの数量が自動で表示されるようになりました。",
     "AutoDisplayFateItemCountTitle": "F.A.T.E.用アイテムの収集数を表示する",
+    "AutoDisplayHiddenCastDescription": "强制显示所有被刻意隐藏咏唱信息的技能, 以精准掌握技能咏唱进度",
+    "AutoDisplayHiddenCastTitle": "自动显示隐藏咏唱信息",
     "AutoDisplayIDInformationDescription": "アイテム、天候、ステータス効果、スキルなどの ID 情報を自動的に表示する",
     "AutoDisplayIDInformationTitle": "ID情報を自動表示",
     "AutoDisplayMarkerInPartyList-HidePartyListIndexNumber": "PTメンバーリストの番号を非表示にする",
