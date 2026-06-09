@@ -225,6 +225,8 @@
     "AutoDisplayFateItemCount-HoldCount": "Possessing",
     "AutoDisplayFateItemCountDescription": "Display the number of FATE items the character is currently possessing and has submitted nearby FATE information if the character is engaging a FATE involves item collections.",
     "AutoDisplayFateItemCountTitle": "FATE Item Counter",
+    "AutoDisplayHiddenCastDescription": "强制显示所有被刻意隐藏咏唱信息的技能, 以精准掌握技能咏唱进度",
+    "AutoDisplayHiddenCastTitle": "自动显示隐藏咏唱信息",
     "AutoDisplayIDInformationDescription": "Automatically display various internal IDs belong to items, weathers, status, actions, etc.",
     "AutoDisplayIDInformationTitle": "Auto Display IDs",
     "AutoDisplayMarkerInPartyList-HidePartyListIndexNumber": "Hide Index Number in the Party List",
