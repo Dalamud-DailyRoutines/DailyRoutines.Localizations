@@ -960,7 +960,6 @@
     "AutoSplitStacksTitle": "自動拆分物品",
     "AutoStellarSprintDescription": "當位於宇宙探索相關區域, 且當前職業為生產採集時, 自動使用宇宙衝刺",
     "AutoStellarSprintTitle": "自動宇宙探索衝刺",
-    "AutoStoreToCabinet-StoreHelp": "由於網路延遲, 透過模組存入的裝備可能至多需要半分鐘才能夠在收藏櫃中顯示, 請耐心等待",
     "AutoStoreToCabinetDescription": "打開收藏櫃的放入道具界面, 並點擊開始後, 自動將所有可儲存裝備存入收藏櫃中",
     "AutoStoreToCabinetTitle": "自動存入收藏櫃",
     "AutoSubmarineCollect-AutoCollectCount": "當返航 {0} 艘潛水艇時, 自動前往收取潛水艇",
