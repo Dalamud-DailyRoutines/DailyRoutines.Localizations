@@ -616,7 +616,7 @@
     "AutoNotifyLeveUpdateDescription": "Auto notifies the date that the limit reached when the leve allowances refresh",
     "AutoNotifyLeveUpdateTitle": "Auto Leve Allowance Renewal Notification",
     "AutoNotifyLogin-Notification": "You have logged in successfully.",
-    "AutoNotifyLoginDescription": "Send a notification after successful login.",
+    "AutoNotifyLoginDescription": "Send a notification after successfully logging in.",
     "AutoNotifyLoginTitle": "Auto Login Notification",
     "AutoNotifyMentorRouletteProgres-Notification-AchievementReward": "Achievement Reward",
     "AutoNotifyMentorRouletteProgres-Notification-CurrentDuty": "Current Duty",
