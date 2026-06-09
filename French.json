@@ -960,7 +960,6 @@
     "AutoSplitStacksTitle": "Division automatique des objets",
     "AutoStellarSprintDescription": "Exécute automatiquement Sprint stellaire dans les zones liées à l'Exploration cosmique lorsque le job actuel est un disciple de la terre ou de la main.",
     "AutoStellarSprintTitle": "Sprint stellaire automatique",
-    "AutoStoreToCabinet-StoreHelp": "Les équipements stockés peuvent mettre jusqu'à 30 secondes à apparaître dans l'armoire selon votre connexion réseau.",
     "AutoStoreToCabinetDescription": "Stocke automatiquement tous les équipements compatibles dans l'armoire. Le module nécessite un démarrage manuel.",
     "AutoStoreToCabinetTitle": "Stockage automatique dans l'armoire",
     "AutoSubmarineCollect-AutoCollectCount": "Commence automatiquement la collecte des récompenses d'exploration sous-marine après la conclusion de {0} voyage(s).",
