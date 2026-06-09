@@ -225,6 +225,8 @@
     "AutoDisplayFateItemCount-HoldCount": "持有数量",
     "AutoDisplayFateItemCountDescription": "进入收集类危命任务时, 自动在危命任务详情旁显示当前已持有的危命任务道具数量",
     "AutoDisplayFateItemCountTitle": "自动显示危命任务道具收集数量",
+    "AutoDisplayHiddenCastDescription": "强制显示所有被刻意隐藏咏唱信息的技能, 以精准掌握技能咏唱进度",
+    "AutoDisplayHiddenCastTitle": "自动显示隐藏咏唱信息",
     "AutoDisplayIDInformationDescription": "自动外显诸如物品、天气、状态效果、技能等的 ID 信息",
     "AutoDisplayIDInformationTitle": "自动显示 ID 信息",
     "AutoDisplayMarkerInPartyList-HidePartyListIndexNumber": "隐藏小队列表的队员序号",
