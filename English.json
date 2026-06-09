@@ -960,7 +960,6 @@
     "AutoSplitStacksTitle": "Auto Split Items",
     "AutoStellarSprintDescription": "Automatically execute Stellar Sprint in the zones related to Cosmic Exploration while the current job is a Disciple of the Land or Hand.",
     "AutoStellarSprintTitle": "Auto Stellar Sprint",
-    "AutoStoreToCabinet-StoreHelp": "Gears stored may take up to 30 seconds to appear in Armoire depending on your network conditions.",
     "AutoStoreToCabinetDescription": "Automatically store all the applicable gears to Armoire. The module requires manual start.",
     "AutoStoreToCabinetTitle": "Auto Store To Armoire",
     "AutoSubmarineCollect-AutoCollectCount": "Automatically start collecting subaquatic voyage rewards after {0} voyages have been concluded.",
