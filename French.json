@@ -225,6 +225,8 @@
     "AutoDisplayFateItemCount-HoldCount": "Possédés",
     "AutoDisplayFateItemCountDescription": "Affiche le nombre d'objets d'ALÉA actuellement possédés et déjà remis dans les informations de l'ALÉA si celui-ci implique une collecte d'objets.",
     "AutoDisplayFateItemCountTitle": "Compteur d'objets d'ALÉA",
+    "AutoDisplayHiddenCastDescription": "强制显示所有被刻意隐藏咏唱信息的技能, 以精准掌握技能咏唱进度",
+    "AutoDisplayHiddenCastTitle": "自动显示隐藏咏唱信息",
     "AutoDisplayIDInformationDescription": "Affiche automatiquement divers identifiants internes liés aux objets, météos, altérations d'état, actions, etc.",
     "AutoDisplayIDInformationTitle": "Affichage automatique des ID",
     "AutoDisplayMarkerInPartyList-HidePartyListIndexNumber": "Masquer le numéro d'index dans la liste d'équipe",
