@@ -2215,7 +2215,7 @@
     "TextToSpeech-Volume": "음량",
     "TheCuffOfTheFatherHelperDescription": "임무 \"기공성 알렉산더: 기동편 2\" 입장 후 \"VII호 고블린워커\"에 탑승하지 않은 상태라면, 잘못된 공격을 방지하기 위해 \"폭탄\"의 대상 지정을 차단하고 이를 강조 표시합니다.",
     "TheCuffOfTheFatherHelperTitle": "'기공성 알렉산더: 기동편 2' 도우미",
-    "ThePraetoriumHelperDescription": "进入副本\"最终决战天幕魔导城\"并骑乘上\"魔导装甲\"后, 自动朝着附近最佳 AOE 目标所在处使用技能\"魔导加农炮\"",
+    "ThePraetoriumHelperDescription": "임무 \"마도성 프라이토리움\" 입장 후 \"마도 아머\"에 탑승하면, 근처의 최적의 광역 공격 대상 위치를 향해 자동으로 \"마도 캐논포\" 기술을 사용합니다.",
     "ThePraetoriumHelperTitle": "'마도성 프라이토리움' 도우미",
     "Threshold": "임계값",
     "Time": "시간",
