@@ -1039,7 +1039,7 @@
     "BaitSwitchCommand-Notice-NoBait": "Bait {0} is insufficient in the inventory",
     "BaitSwitchCommand-Notice-NoMatchBait": "Cannot find any bait match {0}",
     "BaitSwitchCommandDescription": "Add the command /pdr bait <Item ID / Item Name / Item Name Pinyin> to allow switching bait via command.",
-    "BaitSwitchCommandTitle": "Bait Switching Commands",
+    "BaitSwitchCommandTitle": "Bait Switching Command",
     "BanEscToCancelCastDescription": "Pressing the Esc key during casting will no longer interrupt the current casting process",
     "BanEscToCancelCastTitle": "Disable Esc Key To Interrupt Casting",
     "BatchDisable": "Disable in batch",
