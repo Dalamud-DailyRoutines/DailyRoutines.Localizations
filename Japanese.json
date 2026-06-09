@@ -2211,7 +2211,7 @@
     "TextToSpeech-Volume": "音量",
     "TheCuffOfTheFatherHelperDescription": "レイド「機工城アレキサンダー：起動編2」に突入後、「VII号ゴブリウォーカー」に騎乗していない場合、誤アタックを防止するため「爆弾」のターゲットを禁止、かつ「爆弾」をハイライト表示する",
     "TheCuffOfTheFatherHelperTitle": "『機工城アレキサンダー：起動編2』アシスト",
-    "ThePraetoriumHelperDescription": "进入副本\"最终决战天幕魔导城\"并骑乘上\"魔导装甲\"后, 自动朝着附近最佳 AOE 目标所在处使用技能\"魔导加农炮\"",
+    "ThePraetoriumHelperDescription": "ID「最終決戦 魔導城プラエトリウム」内で、「魔導アーマー」騎乗時、付近の最適な範囲攻撃対象の位置へ向けて、スキル「魔導カノン」を自動で使用する",
     "ThePraetoriumHelperTitle": "『最終決戦 魔導城プラエトリウム』アシスト",
     "Threshold": "しきい値",
     "Time": "時間",
