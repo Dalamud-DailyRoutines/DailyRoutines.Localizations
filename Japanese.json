@@ -1720,7 +1720,7 @@
     "ModuleCardComponent-Error-Render": "描画モジュール構成インターフェースの読み込みに失敗しました",
     "ModuleCategory-Action": "アクション",
     "ModuleCategory-Action-Description": "スキル使用を最適化、または自動化するためのモジュール",
-    "ModuleCategory-Assist": "アシスト",
+    "ModuleCategory-Assist": "拡張コマンド",
     "ModuleCategory-Assist-Description": "仕様上、他の機能やプラグインとセットで動かす必要があり、一般のプレイヤーがそのまま単体で簡単に使いこなせるようには作られていないモジュールです",
     "ModuleCategory-Combat": "戦闘",
     "ModuleCategory-Combat-Description": "戦闘中の操作感やプレイ環境を最適化するための機能",
