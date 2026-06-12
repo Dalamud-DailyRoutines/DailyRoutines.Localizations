@@ -1760,7 +1760,7 @@
     "MoveDown": "아래로 이동",
     "MoveUp": "위로 이동",
     "Name": "명칭",
-    "NeverreapHelperDescription": "임무 \"거두지 않는 섬\" 입장 후, \"토누바누\"와 자동으로 대화하여 운란석을 획득합니다.",
+    "NeverreapHelperDescription": "进入副本 \"空中神域不获岛\" 后, 自动与 \"托努瓦努\" 对话获取 \"云卵石\"; 在与 \"奴涅努克\" 的战斗中, 自动标记 \"奴涅努克之影\" 的位置",
     "NeverreapHelperTitle": "'거두지 않는 섬' 도우미",
     "No": "아니오",
     "NoAutoClosePartyFinderDescription": "현재 파티 구성에 변동이 있을 때, 파티 모집 창이 자동으로 닫히지 않으며 보고 있던 모집 화면이 자동으로 다시 표시됩니다.",
