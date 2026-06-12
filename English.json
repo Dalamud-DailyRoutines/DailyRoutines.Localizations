@@ -1760,7 +1760,7 @@
     "MoveDown": "Down",
     "MoveUp": "Up",
     "Name": "Name",
-    "NeverreapHelperDescription": "Automatically speak with Tonu Vanu and acquire Thunder Eggs in the duty Neverreap.",
+    "NeverreapHelperDescription": "进入副本 \"空中神域不获岛\" 后, 自动与 \"托努瓦努\" 对话获取 \"云卵石\"; 在与 \"奴涅努克\" 的战斗中, 自动标记 \"奴涅努克之影\" 的位置",
     "NeverreapHelperTitle": "Neverreap Helper",
     "No": "No",
     "NoAutoClosePartyFinderDescription": "While the members in the current recruitment change, prevent the party finder interface from being closed and re-open the recruitment which the user was just reading if applicable.",
