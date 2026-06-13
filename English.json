@@ -173,7 +173,7 @@
     "AutoCosmicFortune-AutoPullCount": "Number Of Rolls",
     "AutoCosmicFortune-AutoPullHelp": "Automatically roll Cosmic Fortune {1} time(s) if the credits reach or exceed {0}.",
     "AutoCosmicFortune-CommandHelp": "(<times>) to roll Cosmic Fortune a given number of times. (It would keep rolling until credits are exhausted if left blank.)",
-    "AutoCosmicFortune-Delay-Help": "宇宙好运道采用低精度随机数生成抽奖结果, 即在单位时间内 (约 0.5 秒) 抽取到的物品均一致\n若希望抽取不同的物品, 请调高延迟; 延迟较低时, 则更有可能在抽出稀有物品时大量重复",
+    "AutoCosmicFortune-Delay-Help": "Cosmic Fortune adopts a pseudo-random mechanism based on time. Within a short period of time (e.g., 0.5 second), all rolls would result in the same item.\nA higher roll delay will result in various items. A lower roll delay might result in a large number of high-value items if the timing is just right.",
     "AutoCosmicFortune-Pull": "Roll {0} times",
     "AutoCosmicFortuneDescription": "A floating window will be displayed below Cosmic Exploration Exotablet for rolling Cosmic Fortune if the current amount of Lunar Credits is enough for at least one roll. A command /pdr {0} for the same purpose will also be provided. Rolls could also be performed after the given credit threshold is reached.",
     "AutoCosmicFortuneTitle": "Auto Cosmic Fortune",
