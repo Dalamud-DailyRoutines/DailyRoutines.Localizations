@@ -2104,7 +2104,7 @@
     "SameAethernetTeleportDescription": "Allow users to teleport to the aetheryte or aethernet shard they're currently at.",
     "SameAethernetTeleportTitle": "Allow To Teleport To The Current Aetheryte Or Shard",
     "SastashaHelper-Message": "The correct coral:",
-    "SastashaHelperDescription": "Automatically acquire the colour suggested in Bloody Memo and highlight the correct coral accordingly in the duty Sastasha.",
+    "SastashaHelperDescription": "进入副本 \"{0}\" 后, 自动提示并高亮显示正确的珊瑚机关",
     "SastashaHelperTitle": "Sastasha Helper",
     "Save": "Save",
     "SaveAll": "Store All",
