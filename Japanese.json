@@ -2104,7 +2104,7 @@
     "SameAethernetTeleportDescription": "ゲームによる現在のエーテライト / 都市内エーテライトへのテレポート使用制限を解除する",
     "SameAethernetTeleportTitle": "現在選択中のエーテライトへの直接転送",
     "SastashaHelper-Message": "正しい珊瑚のスイッチ: {0}",
-    "SastashaHelperDescription": "ID「天然要害 サスタシャ浸食洞」に突入後、インタラクトが必要な正しい珊瑚の情報を自動でアナウンスし、該当する仕掛けをハイライト表示する",
+    "SastashaHelperDescription": "进入副本 \"{0}\" 后, 自动提示并高亮显示正确的珊瑚机关",
     "SastashaHelperTitle": "『天然要害 サスタシャ浸食洞』アシスト",
     "Save": "保存",
     "SaveAll": "全収納",
