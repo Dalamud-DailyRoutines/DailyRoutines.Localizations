@@ -171,7 +171,7 @@
     "AutoConvertMapLinkTitle": "座標情報をマップリンクに変換",
     "AutoCosmicFortune-AutoPull": "自動抽選",
     "AutoCosmicFortune-AutoPullCount": "抽選回数",
-    "AutoCosmicFortune-AutoPullHelp": "当信用点 ≥ {0} 时, 自动抽取宇宙好运道 {1} 次",
+    "AutoCosmicFortune-AutoPullHelp": "所持クレジットが {0} 以上のとき、自動でコスモフォーチュンを {1} 回引く",
     "AutoCosmicFortune-CommandHelp": "(<回数>) 指定した回数だけコスモフォーチュンを引きます（空欄の場合は手持ちのクレジットを一度に使い切ります）",
     "AutoCosmicFortune-Delay-Help": "「コスモフォーチュン」は低精度の乱数を用いて抽選結果を生成しているため、短時間内（約0.5秒間）に引いた景品はすべて同じものになります。\n異なる景品を引きたい場合は、ディレイを長めに設定してください。ディレイが短いと、レアアイテムが当選した際に大量に重複しやすくなります。",
     "AutoCosmicFortune-Pull": "{0} 回抽選を行う",
