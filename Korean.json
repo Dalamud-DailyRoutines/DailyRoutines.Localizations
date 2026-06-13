@@ -2104,7 +2104,7 @@
     "SameAethernetTeleportDescription": "현재 위치한 에테라이트나 도시 내 에테라이트로의 텔레포 제한을 해제합니다.",
     "SameAethernetTeleportTitle": "선택한 에테라이트로 직접 전송",
     "SastashaHelper-Message": "정답 산호 스위치: {0}",
-    "SastashaHelperDescription": "임무 \"사스타샤 침식 동굴\" 입장 후, 상호작용해야 할 올바른 산호 정보를 자동으로 안내하고 해당 장치를 강조 표시합니다.",
+    "SastashaHelperDescription": "进入副本 \"{0}\" 后, 自动提示并高亮显示正确的珊瑚机关",
     "SastashaHelperTitle": "'사스타샤 침식 동굴' 도우미",
     "Save": "저장",
     "SaveAll": "전체 저장",
