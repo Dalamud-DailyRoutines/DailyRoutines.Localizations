@@ -2104,7 +2104,7 @@
     "SameAethernetTeleportDescription": "Permet de se téléporter vers l'éthérite ou le fragment d'éthérite sur lequel le personnage se trouve actuellement.",
     "SameAethernetTeleportTitle": "Autoriser la téléportation vers l'éthérite actuelle",
     "SastashaHelper-Message": "Le bon corail :",
-    "SastashaHelperDescription": "Description de l'assistant du donjon Sastasha",
+    "SastashaHelperDescription": "进入副本 \"{0}\" 后, 自动提示并高亮显示正确的珊瑚机关",
     "SastashaHelperTitle": "Assistant Sastasha",
     "Save": "Enregistrer",
     "SaveAll": "Tout enregistrer",
