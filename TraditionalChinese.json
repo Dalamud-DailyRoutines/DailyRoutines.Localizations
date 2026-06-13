@@ -2104,7 +2104,7 @@
     "SameAethernetTeleportDescription": "自動解除遊戲禁止傳送至當前以太之光/城內以太之晶的限制",
     "SameAethernetTeleportTitle": "允許傳送至當前以太之光",
     "SastashaHelper-Message": "正確的珊瑚機關: {0}",
-    "SastashaHelperDescription": "进入副本\"天然要害沙斯塔夏溶洞\"后, 自动提示需要交互的正确珊瑚信息, 并高亮显示对应机关",
+    "SastashaHelperDescription": "进入副本 \"{0}\" 后, 自动提示并高亮显示正确的珊瑚机关",
     "SastashaHelperTitle": "天然要害沙斯塔夏溶洞助手",
     "Save": "保存",
     "SaveAll": "全部存入",
