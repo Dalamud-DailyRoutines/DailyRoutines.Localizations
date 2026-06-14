@@ -1078,7 +1078,7 @@
     "BetterBlacklist-ShareBlacklist": "Partager la liste noire",
     "BetterBlacklist-ShareListValidDays": "Validité (en jours)",
     "BetterBlacklist-SourcePlayer": "Joueur source",
-    "BetterBlacklistDescription": "Ajoute un système de liste noire amélioré avec gestion des groupes, partage de listes, remarques personnalisées et notifications lors de la rencontre de joueurs bloqués.",
+    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单",
     "BetterBlacklistTitle": "Liste noire améliorée",
     "BetterBlueSetLoad-CommandHelp": "Charge l'ensemble actif avec l'index ou le nom spécifié",
     "BetterBlueSetLoad-Notification": "Application de l'ensemble actif {0}",
