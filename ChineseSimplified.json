@@ -2179,6 +2179,8 @@
     "ShopDisplayRealItemIconTitle": "商店显示物品真实图标",
     "Shortcut": "快捷操作",
     "Show": "显示",
+    "SimplifiedSystemMenuDescription": "移除系统菜单中与日常游戏无关的菜单项, 以精简界面",
+    "SimplifiedSystemMenuTitle": "自动精简系统菜单",
     "Size": "大小",
     "Sort": "排序",
     "SoundEffectThrottler-Throttle": "限制频率 (ms)",
