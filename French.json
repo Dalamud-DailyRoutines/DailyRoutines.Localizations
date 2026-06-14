@@ -2179,6 +2179,8 @@
     "ShopDisplayRealItemIconTitle": "Afficher les vraies icônes d'objet dans les boutiques",
     "Shortcut": "Raccourci",
     "Show": "Afficher",
+    "SimplifiedSystemMenuDescription": "移除系统菜单中与日常游戏无关的菜单项, 以精简界面",
+    "SimplifiedSystemMenuTitle": "自动精简系统菜单",
     "Size": "Taille",
     "Sort": "Trier",
     "SoundEffectThrottler-Throttle": "Limiter la fréquence (ms)",
