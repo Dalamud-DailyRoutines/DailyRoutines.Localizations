@@ -1078,7 +1078,7 @@
     "BetterBlacklist-ShareBlacklist": "共有ブラックリスト",
     "BetterBlacklist-ShareListValidDays": "有効期間 (日)",
     "BetterBlacklist-SourcePlayer": "情報提供プレイヤー",
-    "BetterBlacklistDescription": "強化されたブラックリストシステムを提供します。ローカルでカテゴリ分けした無制限のブラックリスト登録、リストの共有やインポート、複数人で共同運用するシェアブラックリストに対応。ゲーム標準のブラックリストデータとも完全に互換しています。",
+    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单",
     "BetterBlacklistTitle": "ブラックリスト改修",
     "BetterBlueSetLoad-CommandHelp": "指定したインデックスまたは名前の青魔法スキルセットを読み込む",
     "BetterBlueSetLoad-Notification": "{0} 番のアクティブセットを適用しました。",
