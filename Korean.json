@@ -1078,7 +1078,7 @@
     "BetterBlacklist-ShareBlacklist": "공유 블랙리스트",
     "BetterBlacklist-ShareListValidDays": "유효기간 (일)",
     "BetterBlacklist-SourcePlayer": "정보 제공 플레이어",
-    "BetterBlacklistDescription": "강화된 블랙리스트 시스템을 제공합니다. 인원 제한 없이 로컬에 플레이어를 분류 및 저장할 수 있고, 블랙리스트를 공유하거나 가져올 수 있으며, 여러 사용자가 함께 관리하는 공유 블랙리스트에 참여할 수도 있습니다. 게임 내 기본 차단 목록 데이터와 완벽하게 호환됩니다.",
+    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单",
     "BetterBlacklistTitle": "차단 목록 개편",
     "BetterBlueSetLoad-CommandHelp": "지정한 인덱스 또는 이름의 청마법 스킬 세트를 불러오기",
     "BetterBlueSetLoad-Notification": "{0} 번 활성 세트를 적용했습니다.",
