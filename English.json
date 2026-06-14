@@ -1078,7 +1078,7 @@
     "BetterBlacklist-ShareBlacklist": "Shared Blacklist",
     "BetterBlacklist-ShareListValidDays": "Validity (in days)",
     "BetterBlacklist-SourcePlayer": "Source Player",
-    "BetterBlacklistDescription": "Provide a better Blacklist which allows to add an unlimited number of players to the list, import & export lists, and join shared Blacklists online. The module is fully compatible with vanilla Blacklist.",
+    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单",
     "BetterBlacklistTitle": "Better Blacklist",
     "BetterBlueSetLoad-CommandHelp": "Load the active set with the specified index or name",
     "BetterBlueSetLoad-Notification": "Apply active set {0}",
