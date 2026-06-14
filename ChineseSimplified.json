@@ -1078,7 +1078,7 @@
     "BetterBlacklist-ShareBlacklist": "共享黑名单",
     "BetterBlacklist-ShareListValidDays": "有效时长 (天)",
     "BetterBlacklist-SourcePlayer": "来源玩家",
-    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单, 完全兼容游戏原生黑名单数据",
+    "BetterBlacklistDescription": "提供增强的黑名单系统, 支持本地分类保存无限多的黑名单玩家、分享导入黑名单列表, 以及加入多人协作的共享黑名单",
     "BetterBlacklistTitle": "更好的黑名单",
     "BetterBlueSetLoad-CommandHelp": "加载指定索引或名称的青魔法技能组",
     "BetterBlueSetLoad-Notification": "自动调整并应用了 {0} 号技能组",
