@@ -1160,6 +1160,8 @@
     "BetterPartyFinderFilterTitle": "パーティ募集フィルター画面の改善",
     "BetterPartyFinderSortDescription": "PT募集リストの昇順/降順並び替え機能を、各募集の残り時間に基づいて正確にソートするようにします。",
     "BetterPartyFinderSortTitle": "PT募集リストの並び替えを最適化",
+    "BetterSoundEffectParamDescription": "使系统音效参数 (<se>) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制",
+    "BetterSoundEffectParamTitle": "更好的系统音效参数",
     "BetterTeleport-CloseOnLoseFocus": "フォーカスアウト時に閉じる",
     "BetterTeleport-CommandHelp": "<エーテライト名 / 都市内エーテライト名 (大文字・小文字は区別されません) > を入力すると、対応するエーテライト / 都市内エーテライトへ直接テレポートします。",
     "BetterTeleport-DefaultPage": "デフォルト表示",
