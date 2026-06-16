@@ -2193,7 +2193,7 @@
     "Sort": "정렬",
     "SoundEffectThrottler-Throttle": "재생 제한 (ms)",
     "SoundEffectThrottler-ThrottleHelp": "{0} ms 이상의 간격으로 사운드 재생",
-    "SoundEffectThrottlerDescription": "配置完成后, 自动限制系统音效 (<se>) 的播放频率",
+    "SoundEffectThrottlerDescription": "설정 완료 시 시스템 효과음(<se>) 재생 빈도 자동 제한",
     "SoundEffectThrottlerTitle": "시스템 사운드 재생 빈도 및 음량 제한",
     "SpecialRenderMode-Mode-DisableWorldRenderButAddons": "게임 월드 렌더링을 숨기고 UI만 표시",
     "SpecialRenderMode-Mode-HideActionBars": "'단축바' 숨기기",
