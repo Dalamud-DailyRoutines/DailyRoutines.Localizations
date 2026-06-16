@@ -1887,7 +1887,7 @@
     "OptimizedChatBubbleTitle": "Better Chat Bubble",
     "OptimizedDutyFinderSettingDescription": "Provide a bar above Duty Finder which contains a row of buttons correspond to various Duty Finder settings, in order to make these settings more accessible.",
     "OptimizedDutyFinderSettingTitle": "Better Duty Finder Settings",
-    "OptimizedEnemyList-AlwaysUnlock": "自动解锁目标选择",
+    "OptimizedEnemyList-AlwaysUnlock": "Always Unlock",
     "OptimizedEnemyList-AlwaysUnlock-Help": "部分副本机制会使玩家在持续时间内无法通过 \"敌对列表\" 界面选中特定敌对目标\n如: 副本 \"异形楼阁佐特塔\" 的头目二 \"多格\" 施放 \"人趣混乱\" 技能期间",
     "OptimizedEnemyListDescription": "Provide a better enmity list with detailed information of target health, enmity and action cast in vanilla game interface.",
     "OptimizedEnemyListTitle": "Better Enmity List",
