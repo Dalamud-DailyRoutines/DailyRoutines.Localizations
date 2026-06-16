@@ -1160,6 +1160,8 @@
     "BetterPartyFinderFilterTitle": "更好的招募过滤界面",
     "BetterPartyFinderSortDescription": "讓隊員招募界面內的 升序/降序排列 功能精準按照各招募剩餘時間多少排序顯示結果",
     "BetterPartyFinderSortTitle": "更好的隊員招募升降排序",
+    "BetterSoundEffectParamDescription": "使系统音效参数 (<se>) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制",
+    "BetterSoundEffectParamTitle": "更好的系统音效参数",
     "BetterTeleport-CloseOnLoseFocus": "失焦时自动关闭",
     "BetterTeleport-CommandHelp": "<以太之光/城內以太之晶名稱 (大小寫不敏感)> 直接傳送至對應的以太之光/城內以太之晶處",
     "BetterTeleport-DefaultPage": "默认打开页面",
