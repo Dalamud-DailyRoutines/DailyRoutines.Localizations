@@ -1160,6 +1160,8 @@
     "BetterPartyFinderFilterTitle": "Meilleur filtre de recrutement",
     "BetterPartyFinderSortDescription": "Permet de trier les recrutements du Party Finder selon la valeur exacte du temps restant.",
     "BetterPartyFinderSortTitle": "Tri amélioré du Party Finder",
+    "BetterSoundEffectParamDescription": "使系统音效参数 (<se>) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制",
+    "BetterSoundEffectParamTitle": "更好的系统音效参数",
     "BetterTeleport-CloseOnLoseFocus": "Fermeture automatique à la perte du focus",
     "BetterTeleport-CommandHelp": "<Nom de l'éthérite / éclat d'éthérite (insensible à la casse)> pour se téléporter directement vers l'éthérite ou l'éclat d'éthérite spécifié.",
     "BetterTeleport-DefaultPage": "Page par défaut",
