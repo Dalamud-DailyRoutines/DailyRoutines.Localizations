@@ -283,7 +283,7 @@
     "AutoFate-AutoExchange-PositionHelp": "Please set a position where the character could interact with the trader selling the target item",
     "AutoFate-AutoExchange-ZoneHelp": "Please set the area where the trader selling the target item is located",
     "AutoFate-AutoJoinExitDuty": "HP Threshold",
-    "AutoFate-AutoJoinExitDuty-Help": "Join & leave a duty to prevent incapacitation if the character's HP is lower than the given threshold.",
+    "AutoFate-AutoJoinExitDuty-Help": "Join & leave a duty to prevent incapacitation if the character's HP is below the given threshold.",
     "AutoFate-BlacklistHelp": "The module won't participate in any FATE in the blacklist here.\nHint: It's highly recommended to add all the special FATEs to the blacklist.",
     "AutoFate-DeactiveAttackCommand": "Command to stop active attacks",
     "AutoFate-DeactiveAttackCommandHelp": "If your auto combat plugin comes with a command to stop the character from attacking actively, please enter the command here, otherwise please leave it blank.",
