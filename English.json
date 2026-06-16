@@ -1160,6 +1160,8 @@
     "BetterPartyFinderFilterTitle": "Better Party Finder Filter",
     "BetterPartyFinderSortDescription": "Let the recruitments in Party Finder be sorted by the exact value of the remaining time.",
     "BetterPartyFinderSortTitle": "Better Party Finder Sorting",
+    "BetterSoundEffectParamDescription": "使系统音效参数 (<se>) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制",
+    "BetterSoundEffectParamTitle": "更好的系统音效参数",
     "BetterTeleport-CloseOnLoseFocus": "Hide When No Focus",
     "BetterTeleport-CommandHelp": "<Name of aetheryte/aethernet shards (case insensitive)> to directly teleport to the specified aetheryte/aethernet shards.",
     "BetterTeleport-DefaultPage": "Default Page",
