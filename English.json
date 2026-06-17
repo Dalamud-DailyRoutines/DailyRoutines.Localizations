@@ -2232,7 +2232,7 @@
     "TheCuffOfTheFatherHelperDescription": "Automatically highlight \"{2}\" and draw the blast radius if the character is mounted, or make \"{2}\" untargetable if the character is not mounted on \"{1}\" during the duty \"{0}\".",
     "TheCuffOfTheFatherHelperTitle": "Alexander Cuff Of Father Helper",
     "ThePraetoriumHelperDescription": "Automatically fire \"Magitek Cannon\" towards the optimal AOE position at the time while mounting \"{1}\" in the duty \"{0}\".",
-    "ThePraetoriumHelperTitle": "The Praetorium Helper",
+    "ThePraetoriumHelperTitle": "Praetorium Helper",
     "Threshold": "Threshold",
     "Time": "Time",
     "Tip": "Tips",
