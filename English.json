@@ -1438,7 +1438,7 @@
     "FastInstanceZoneChangeTitle": "Better Instance Switching",
     "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "Leave Then Join",
     "FastJoinAnotherPartyRecruitmentDescription": "A new \"Leave Then Join\" button would be introduced in the party recruitment detail interface, which allows to leave the current recruitment party and then join the new desired one in a very short time by one-clicking.",
-    "FastJoinAnotherPartyRecruitmentTitle": "Leave PF Party Then Join Another",
+    "FastJoinAnotherPartyRecruitmentTitle": "Leave Recruitment Then Join Another",
     "FastMinimizeWindow-AlwaysAddTrayIcon": "Persistent Tray Icon",
     "FastMinimizeWindow-AlwaysAddTrayIcon-Help": "A tray icon would be created while the game window is minimized. By default, the icon would be removed once the window is restored.\nIf the option is enabled, the tray icon would persistently exist even when the game window is active.",
     "FastMinimizeWindow-DrawButton": "Button For Window Minimization",
