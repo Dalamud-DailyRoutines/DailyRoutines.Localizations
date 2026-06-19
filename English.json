@@ -530,7 +530,7 @@
     "AutoMarksFinder-UpdateSpawnPointsRet": "{0} mob spawn position(s) have been updated.",
     "AutoMarksFinder-ZoneInfoForEachMark": "{0}, instance {1}",
     "AutoMarksFinderDescription": "Auto scan and organize hunt mobs info into a list after configuring.",
-    "AutoMarksFinderTitle": "Auto Hunt Mobs Finder",
+    "AutoMarksFinderTitle": "Auto Hunt Mob Finder",
     "AutoMateriaAttach-BatchAttach": "Meld in batch",
     "AutoMateriaAttach-MateriasRequirement": "Materia Requirement",
     "AutoMateriaAttach-Notification-Complete": "Auto melding is complete.",
