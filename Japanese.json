@@ -232,7 +232,7 @@
     "AutoDisplayIDInformationTitle": "ID情報を表示",
     "AutoDisplayMarkerInPartyList-HidePartyListIndexNumber": "PTメンバーリストの番号を非表示にする",
     "AutoDisplayMarkerInPartyListDescription": "いずれかのパーティメンバーにターゲットマーカーが付与されている場合、同時にパーティリスト画面の該当キャラクター上にもターゲットマーカーを表示する",
-    "AutoDisplayMarkerInPartyListTitle": "パーティリストへのターゲットマーカー自動表示",
+    "AutoDisplayMarkerInPartyListTitle": "パーティリストへのターゲットマーカー表示",
     "AutoDisplayMitigationInfoDescription": "自身が被ダメ軽減効果を持つ場合、または対象が被ダメ減少効果を持つ場合、ダメージ軽減値を計算し、サーバー情報欄に効果一覧として表示する",
     "AutoDisplayMitigationInfoTitle": "軽減率をリアルタイム表示",
     "AutoDisplayMSQProgressDescription": "未完了のメインクエストが残っている場合は、メインガイド画面に現在の残り件数と完了進捗のパーセンテージが自動で表示されます。",
