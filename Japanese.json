@@ -765,7 +765,7 @@
     "AutoRepair-AllowNPCRepairHelp": "チェックを入れると、装備中のアイテムがすべて自身で修理できない場合（例：対応するクラフターのレベル不足、ダークマター不足など）、自動的に近くの NPC を探して委託修理を行い、ギルを消費して修理します。",
     "AutoRepair-PrioritizeNPCRepair": "優先的に NPC に委託して修理する",
     "AutoRepair-PrioritizeNPCRepairHelp": "チェックを入れると、近くに委託可能な NPC が存在する場合、優先的にギルを消費して委託修理を行います。",
-    "AutoRepair-Notification-AutoStart": "检测到耐久低于设定阈值的装备, 开始自动修复",
+    "AutoRepair-Notification-AutoStart": "設定された閾値を下回る耐久度の装備を検知、自動修理を開始。",
     "AutoRepair-RepairThreshold": "修理閾値 (%)",
     "AutoRepairDescription": "現在装備中の装備耐久度を自動で検出し、設定した閾値を下回った時に自動修理を行う。修理時の前後モーション制限を解除します。",
     "AutoRepairTitle": "自動修理",
