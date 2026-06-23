@@ -765,7 +765,7 @@
     "AutoRepair-AllowNPCRepairHelp": "체크 시, 장비 일부를 자신이 수리하지 못하면,\n(예: 제작 직업 레벨 부족, 암흑물질 부족 등)\n자동으로 근처에서 수리 맡기기 가능한 NPC를 찾아 골드를 사용해 수리합니다.",
     "AutoRepair-PrioritizeNPCRepair": "수리 시 NPC 우선 이용",
     "AutoRepair-PrioritizeNPCRepairHelp": "체크 시, 근처에 수리 가능한 NPC가 있으면 골드를 사용해 우선 수리 맡기기",
-    "AutoRepair-Notification-AutoStart": "检测到耐久低于设定阈值的装备, 开始自动修复",
+    "AutoRepair-Notification-AutoStart": "내구도가 설정값 이하인 장비가 감지되어 자동 수리를 시작합니다.",
     "AutoRepair-RepairThreshold": "수리 임계값 (%)",
     "AutoRepairDescription": "현재 착용 중인 장비의 내구도를 자동으로 감지하고, 설정한 임계값 이하면 자동 수리를 실행합니다. 수리 시 전후 동작 제한을 해제합니다.",
     "AutoRepairTitle": "자동 수리",
