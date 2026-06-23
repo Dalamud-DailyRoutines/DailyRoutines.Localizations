@@ -765,7 +765,7 @@
     "AutoRepair-AllowNPCRepairHelp": "Le personnage tentera de se rendre automatiquement chez le réparateur le plus proche et de payer une réparation PNJ\ns'il ne peut pas réparer tous ses équipements lui-même pour diverses raisons\nsi cette option est activée.",
     "AutoRepair-PrioritizeNPCRepair": "Prioriser la réparation PNJ",
     "AutoRepair-PrioritizeNPCRepairHelp": "Priorise la réparation PNJ si un réparateur est à proximité lorsque cette option est activée.",
-    "AutoRepair-RepairNotice": "Durabilité d'équipement sous le seuil détectée, préparation de la réparation.",
+    "AutoRepair-Notification-AutoStart": "检测到耐久低于设定阈值的装备, 开始自动修复",
     "AutoRepair-RepairThreshold": "Seuil de réparation (%)",
     "AutoRepairDescription": "Détecte automatiquement la durabilité des équipements équipés et les répare lorsqu'elle passe sous le seuil défini, en supprimant les délais avant et après réparation.",
     "AutoRepairTitle": "Réparation automatique",
