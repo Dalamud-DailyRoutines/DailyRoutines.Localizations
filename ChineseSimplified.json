@@ -765,7 +765,7 @@
     "AutoRepair-AllowNPCRepairHelp": "勾选后, 若装备中物品未能全部由自身修理, \n(如对应生产职业等级不足、暗物质数量不足等)\n则会自动搜寻附近可委托修理的 NPC, 消耗金币进行修理",
     "AutoRepair-PrioritizeNPCRepair": "优先委托 NPC 进行修理",
     "AutoRepair-PrioritizeNPCRepairHelp": "勾选后, 若附近存在可委托修理的 NPC, 则优先消耗金币委托修理",
-    "AutoRepair-RepairNotice": "检测到耐久低于设定阈值的装备, 准备修复",
+    "AutoRepair-Notification-AutoStart": "检测到耐久低于设定阈值的装备, 开始自动修复",
     "AutoRepair-RepairThreshold": "修理阈值 (%)",
     "AutoRepairDescription": "自动检测当前装备耐久情况, 在其低于设定阈值时自动修理, 并取消修理时的前后摇限制",
     "AutoRepairTitle": "自动修理",
