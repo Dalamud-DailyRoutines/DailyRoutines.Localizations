@@ -765,7 +765,7 @@
     "AutoRepair-AllowNPCRepairHelp": "The character will try to navigate to the nearest mender and purchase for NPC repair\nwhen the character is unable to repair all the gears by self due to various reasons\nif the option is checked.",
     "AutoRepair-PrioritizeNPCRepair": "Prioritize NPC repair",
     "AutoRepair-PrioritizeNPCRepairHelp": "Prioritize to purchase for NPC repair while there's any mender nearby if the option is checked.",
-    "AutoRepair-Notification-AutoStart": "检测到耐久低于设定阈值的装备, 开始自动修复",
+    "AutoRepair-Notification-AutoStart": "The durability is below the threshold. Now start repairing.",
     "AutoRepair-RepairThreshold": "Repair Threshold (%)",
     "AutoRepairDescription": "Auto detects the equipped gears durability and repairs them when fall below the set threshold, removing the pre- and post-repair delay restrictions.",
     "AutoRepairTitle": "Auto Repair",
