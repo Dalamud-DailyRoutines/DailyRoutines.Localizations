@@ -2175,8 +2175,6 @@
     "Settings-Game-PreventAFK-Help": "Automatically disable several in-game timers controlling various AFK events, like switching online status, being kicked from the party and playing CG in the title screen. ",
     "Settings-Game-SkipLogo": "Skip Logos",
     "Settings-Game-SkipLogo-Help": "Automatically skip all the brand logos displayed during client startup.",
-    "Settings-Game-TryAvoidingDirectTeleport": "尽量避免直接传送",
-    "Settings-Game-TryAvoidingDirectTeleport-Help": "启用后, 插件内共用的跨区域逻辑会优先选择不直接传送以太之光, 而是通过各种游戏内区域变更手段逐步到达目标区域\n(实际效果比较\"整蛊\", 若你并非特别喜爱这种方式, 建议禁用)",
     "Settings-HelpTranslate": "Help Us Translate",
     "Settings-LeftTabWidth": "Left Sidebar Width",
     "Settings-ModuleConfiguration": "Module Configs",
