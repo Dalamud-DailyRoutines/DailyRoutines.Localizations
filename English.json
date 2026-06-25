@@ -542,7 +542,7 @@
     "AutoMateriaAttachTitle": "Auto Meld Materia",
     "AutoMaterialize-Notice-ExtractFinish": "Materialization is complete.",
     "AutoMaterialize-Notice-ExtractNow": "Extracting gear: {0}",
-    "AutoMaterializeDescription": "当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石",
+    "AutoMaterializeDescription": "Automatically extract materia from fully spiritbond gears and allow to manually extract materia from all available gears with one click.",
     "AutoMaterializeTitle": "Auto Extract Materia",
     "AutoMateriaRetrive-ManuallySelect": "Select Manually",
     "AutoMateriaRetrive-NoItemFound": "No Matching Items Found",
