@@ -2175,8 +2175,6 @@
     "Settings-Game-PreventAFK-Help": "启用后, 自动禁用游戏内部多个不同类型的暂离状态计时器, 避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等",
     "Settings-Game-SkipLogo": "跳过标志界面",
     "Settings-Game-SkipLogo-Help": "启用后, 自动跳过游戏启动时展示的数个标志界面, 以快速进入登录界面",
-    "Settings-Game-TryAvoidingDirectTeleport": "尽量避免直接传送",
-    "Settings-Game-TryAvoidingDirectTeleport-Help": "启用后, 插件内共用的跨区域逻辑会优先选择不直接传送以太之光, 而是通过各种游戏内区域变更手段逐步到达目标区域\n(实际效果比较\"整蛊\", 若你并非特别喜爱这种方式, 建议禁用)",
     "Settings-HelpTranslate": "帮忙翻译",
     "Settings-LeftTabWidth": "左侧边栏宽度",
     "Settings-ModuleConfiguration": "模块配置",
