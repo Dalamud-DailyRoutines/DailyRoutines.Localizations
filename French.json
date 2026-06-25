@@ -2175,8 +2175,6 @@
     "Settings-Game-PreventAFK-Help": "Désactive automatiquement plusieurs minuteries internes du jeu liées aux événements AFK, comme le changement de statut en ligne, l'expulsion du groupe ou les cinématiques de l'écran titre.",
     "Settings-Game-SkipLogo": "Passer les logos",
     "Settings-Game-SkipLogo-Help": "Ignore automatiquement tous les logos de marque affichés au démarrage du client.",
-    "Settings-Game-TryAvoidingDirectTeleport": "尽量避免直接传送",
-    "Settings-Game-TryAvoidingDirectTeleport-Help": "启用后, 插件内共用的跨区域逻辑会优先选择不直接传送以太之光, 而是通过各种游戏内区域变更手段逐步到达目标区域\n(实际效果比较\"整蛊\", 若你并非特别喜爱这种方式, 建议禁用)",
     "Settings-HelpTranslate": "Aidez-nous à traduire",
     "Settings-LeftTabWidth": "Largeur de la barre latérale gauche",
     "Settings-ModuleConfiguration": "Configurations des modules",
