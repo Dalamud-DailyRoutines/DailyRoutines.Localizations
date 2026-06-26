@@ -94,6 +94,8 @@
     "AutoBlockStatusTitle": "Auto Block Status Effect",
     "AutoBlockSystemNoticeDescription": "Automatically block system notifications sent within the game (Purple Word Bulletin)",
     "AutoBlockSystemNoticeTitle": "Auto Block System Notice",
+    "AutoBlockTargetInPVPDescription": "在 PVP 区域内, 若选中了任一玩家, 则自动屏蔽目标选择信息上传至服务器, 以在他人视角看来自身始终未选中任何玩家",
+    "AutoBlockTargetInPVPTitle": "自动屏蔽上传 PVP 目标选择信息",
     "AutoBroadcastActionHitInfo-CHHint": "Critical Hit Hint",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "Custom Actions Alias",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "{0} custom action names added",
