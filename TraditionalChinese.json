@@ -94,6 +94,8 @@
     "AutoBlockStatusTitle": "自動屏蔽狀態效果",
     "AutoBlockSystemNoticeDescription": "自動屏蔽遊戲內發送的系統通知 (紫字公告)",
     "AutoBlockSystemNoticeTitle": "自動屏蔽系統通知",
+    "AutoBlockTargetInPVPDescription": "在 PVP 区域内, 若选中了任一玩家, 则自动屏蔽目标选择信息上传至服务器, 以在他人视角看来自身始终未选中任何玩家",
+    "AutoBlockTargetInPVPTitle": "自动屏蔽上传 PVP 目标选择信息",
     "AutoBroadcastActionHitInfo-CHHint": "暴擊提示語",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "自訂技能別名",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "已新增了 {0} 個自訂技能名稱",
