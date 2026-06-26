@@ -94,6 +94,8 @@
     "AutoBlockStatusTitle": "Blocage automatique des altérations d'état",
     "AutoBlockSystemNoticeDescription": "Bloque automatiquement les notifications système envoyées en jeu (annonces violettes).",
     "AutoBlockSystemNoticeTitle": "Blocage automatique des notifications système",
+    "AutoBlockTargetInPVPDescription": "在 PVP 区域内, 若选中了任一玩家, 则自动屏蔽目标选择信息上传至服务器, 以在他人视角看来自身始终未选中任何玩家",
+    "AutoBlockTargetInPVPTitle": "自动屏蔽上传 PVP 目标选择信息",
     "AutoBroadcastActionHitInfo-CHHint": "Indication de coup critique",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "Alias d'actions personnalisées",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "{0} noms d'actions personnalisées ajoutés",
