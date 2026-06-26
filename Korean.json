@@ -94,6 +94,8 @@
     "AutoBlockStatusTitle": "상태 효과 무효화",
     "AutoBlockSystemNoticeDescription": "게임 내 시스템 채팅(보라색 알림)을 자동 차단합니다.",
     "AutoBlockSystemNoticeTitle": "시스템 알림 자동 차단",
+    "AutoBlockTargetInPVPDescription": "在 PVP 区域内, 若选中了任一玩家, 则自动屏蔽目标选择信息上传至服务器, 以在他人视角看来自身始终未选中任何玩家",
+    "AutoBlockTargetInPVPTitle": "自动屏蔽上传 PVP 目标选择信息",
     "AutoBroadcastActionHitInfo-CHHint": "극대 알림",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "커스텀 스킬 별칭",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "{0} 개의 커스텀 스킬명이 추가되었습니다.",
