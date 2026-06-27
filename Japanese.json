@@ -1216,6 +1216,7 @@
     "ClickToOpen": "クリックして開く",
     "ClipboardMultiLineToOneLineDescription": "ゲーム内のテキストボックスへ貼り付ける際、複数行のテキストを強制的に１行へ変換します。また、複数行テキストボックスでは、編集や送信をスムーズにするため、各種改行コードをゲームが対応している改行形式へ強制的に変換します。",
     "ClipboardMultiLineToOneLineTitle": "複数行を強制的に単一行に変換して貼り付ける",
+    "Close": "关闭",
     "Color": "色",
     "Combat": "戦闘",
     "Command": "コマンド",
