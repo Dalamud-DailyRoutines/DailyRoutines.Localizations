@@ -308,7 +308,7 @@
     "AutoFateDescription": "Auto completely FATEs in specified areas according to presets made by the user after proper configurations and clicking start.",
     "AutoFateStart-StartNotice": "The following FATE has been initiated automatically:\n     {0}",
     "AutoFateStartDescription": "If there is a nearby FATE that requires dialogue to start, automatically initiate it.",
-    "AutoFateStartTitle": "Auto Start FATE",
+    "AutoFateStartTitle": "Auto Initiate FATE",
     "AutoFateSync-AutoTankStance": "Activate defence stance when the job is a tank",
     "AutoFateSync-Delay": "Delay (s)",
     "AutoFateSync-DelayHelp": "If this value is not 0, level sync will only occur after the set time has elapsed upon entering a FATE range.",
