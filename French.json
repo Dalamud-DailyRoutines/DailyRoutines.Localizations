@@ -1216,6 +1216,7 @@
     "ClickToOpen": "Cliquer pour ouvrir",
     "ClipboardMultiLineToOneLineDescription": "Les textes multilignes seront automatiquement convertis en ligne unique lors du collage dans une zone de saisie mono-ligne. Les retours à la ligne seront convertis dans un format compatible avec le jeu lors du collage dans une zone multi-ligne.",
     "ClipboardMultiLineToOneLineTitle": "Convertir automatiquement le texte collé en ligne unique",
+    "Close": "关闭",
     "Color": "Couleur",
     "Combat": "Combat",
     "Command": "Commande",
