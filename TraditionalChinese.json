@@ -1216,6 +1216,7 @@
     "ClickToOpen": "點擊以打開",
     "ClipboardMultiLineToOneLineDescription": "在遊戲內單行文本輸入框黏貼文本時, 強制將多行文本轉成單行; 在多行文本輸入框時, 強制將各類換行符都轉換為遊戲支持的換行符, 以方便編輯發送",
     "ClipboardMultiLineToOneLineTitle": "強制黏貼多行轉單行",
+    "Close": "关闭",
     "Color": "顏色",
     "Combat": "戰鬥",
     "Command": "命令",
