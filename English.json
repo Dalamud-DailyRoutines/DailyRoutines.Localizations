@@ -1216,6 +1216,7 @@
     "ClickToOpen": "Click to Open",
     "ClipboardMultiLineToOneLineDescription": "Multi-line texts would be automatically converted into single-line texts while pasting in any single-line input bar. End-of-line characters would be converted into ones valid for the game while pasting in any multi-line input bar.",
     "ClipboardMultiLineToOneLineTitle": "Auto Make Pasted Texts Single Line",
+    "Close": "关闭",
     "Color": "Colour",
     "Combat": "Combat",
     "Command": "Command",
