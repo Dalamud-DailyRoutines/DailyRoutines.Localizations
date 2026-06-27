@@ -1216,6 +1216,7 @@
     "ClickToOpen": "클릭해 열기",
     "ClipboardMultiLineToOneLineDescription": "게임 내 한 줄 입력창에 텍스트를 붙여넣을 때는 여러 줄의 텍스트를 강제로 한 줄로 변환하여 입력합니다. 여러 줄 입력창에 텍스트를 붙여넣을 때는 각종 줄 바꿈 문자를 게임에서 지원하는 줄 바꿈 형식으로 강제 변환하여 편집 및 전송이 용이하도록 합니다.",
     "ClipboardMultiLineToOneLineTitle": "여러 줄을 한 줄로 합쳐 붙여넣기",
+    "Close": "关闭",
     "Color": "색상",
     "Combat": "전투",
     "Command": "명령어",
