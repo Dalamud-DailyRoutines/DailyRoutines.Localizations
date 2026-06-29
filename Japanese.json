@@ -2018,6 +2018,7 @@
     "PFPageSizeCustomize-DisplayAmount": "ページごと表示件数",
     "PFPageSizeCustomizeDescription": "PT募集で、1ページに表示できる件数をカスタマイズする。上限は1ページあたり100件です。",
     "PFPageSizeCustomizeTitle": "PT募集表示件数カスタマイズ",
+    "Phase": "阶段",
     "PlaceFurnitureAnywhereDescription": "家具/庭具の位置調整中に適用されるローカル配置制限を解除する",
     "PlaceFurnitureAnywhereTitle": "家具/庭具の配置制限を解除する",
     "Plan": "プラン",
