@@ -1520,7 +1520,7 @@
     "FastTeleportPanel-TeleportAndInteract": "Teleport & Interact",
     "FastTeleportPanel-TeleportToFlag": "Teleport (Flag)",
     "FastTeleportPanel-TeleportToManualPos": "Teleport (Custom Coordinate)",
-    "FastTeleportPanel-ToCorrectYPosition": "Altitude To Be Corrected",
+    "FastTeleportPanel-ToCorrectYPosition": "Altitude Correction",
     "FastTeleportPanel-ToCorrectYPosition-Help": "The altitude (the y-axis value) would be considered inaccurate if the option is checked. Therefore, it will attempt to acquire the closest ground above or below the destination and correct the character coordinate accordingly after teleportation.",
     "FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue": "Right click to adjust the offset",
     "FastTeleportPanel-Weight": "Weight",
