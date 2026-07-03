@@ -1496,7 +1496,7 @@
     "FastSetWeatherTime-Addon-ModifyTime": "変更日時",
     "FastSetWeatherTime-CommandHelp": "クイック天候・時刻設定画面を開く",
     "FastSetWeatherTime-Notification-Cleard": "現在のエリアの天候・時刻設定を解除しました",
-    "FastSetWeatherTime-Notification-Saved": "已保存当前区域天气与时间设置",
+    "FastSetWeatherTime-Notification-Saved": "現在のエリアの天候と時間の設定を保存しました",
     "FastSetWeatherTime-OperationHelp-ClickNaviMap": "マップ画面の天候アイコンをクリックしてください",
     "FastSetWeatherTimeDescription": "ゲーム本来のデザインに合わせた天候・時刻のクイック設定画面を提供します。 設定をエリアごとに保存し、自動的に適用することが可能です。 ナビマップ上の天候アイコンをクリックするか、コマンド /pdr {0} を入力して開きます。",
     "FastSetWeatherTimeTitle": "天候・時刻クイック設定",
