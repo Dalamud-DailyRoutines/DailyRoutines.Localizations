@@ -2208,8 +2208,6 @@
     "Settings-Report": "Signaler",
     "Settings-ResetModule": "Réinitialiser le module",
     "Settings-ResetModuleSuccessNotice": "Réinitialisation du module {0} terminée",
-    "Settings-SemaphoreMaxCount": "Nombre de threads de chargement",
-    "Settings-SemaphoreMaxCount-Help": "Nombre maximal de threads de chargement simultanés lors de l'initialisation ou du rechargement de tous les modules.\n(Les paramètres seront appliqués après réactivation de Daily Routines.)",
     "Settings-ShowOverlayConfig": "Afficher l'overlay de configuration",
     "Settings-SupportAuthor": "Soutenir l'auteur",
     "Settings-SupportTeam": "Équipe support",
