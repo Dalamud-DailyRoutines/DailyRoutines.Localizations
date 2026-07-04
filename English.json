@@ -2208,8 +2208,6 @@
     "Settings-Report": "Report",
     "Settings-ResetModule": "Reset Module",
     "Settings-ResetModuleSuccessNotice": "Module {0} Reset Completes",
-    "Settings-SemaphoreMaxCount": "Loading Threads Count",
-    "Settings-SemaphoreMaxCount-Help": "The maximum number of concurrent loading threads while initializing or reloading all the modules.\n(The settings will be applied after re-enabling Daily Routines.)",
     "Settings-ShowOverlayConfig": "Show Config Overlay",
     "Settings-SupportAuthor": "Support Author",
     "Settings-SupportTeam": "Support Team",
