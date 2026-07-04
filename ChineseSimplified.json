@@ -2195,6 +2195,8 @@
     "Settings-DefaultEnableModules-Help": "启用后, 当本地首次初始化任一\"推荐模块\"时, 将其设置为启用状态\n\n推荐模块: 由开发组筛选，能改善大多数玩家体验, 且不会过多改变日常游玩方式的模块",
     "Settings-DefaultHomePage": "默认页面",
     "Settings-DevTeam": "开发团队",
+    "Settings-Game-AlwaysMinGilTransport": "以最少金币花费完成跨区域移动",
+    "Settings-Game-AlwaysMinGilTransport-Help": "启用后, 在调用插件内部的逻辑完成跨区域移动时, 会尝试以最低金币花费完成, 譬如通过船头、过图线等, 可能会产生极长的路径",
     "Settings-Game-CorrectEnvironment": "环境一致性修正",
     "Settings-Game-CorrectEnvironment-Help": "启用后, 若游戏人物意外进入陆地区域与潜水区域中间的切换区域时, 自动发送环境切换指令, 以避免人物卡死在当前状态无法操作或被服务器传送至区域默认位置\n\n(若你并非开发者, 建议启用)",
     "Settings-Game-CorrectJump": "跳跃状态修正",
