@@ -2195,6 +2195,8 @@
     "Settings-DefaultEnableModules-Help": "Active automatiquement un module après sa première initialisation locale s'il s'agit d'un module recommandé.\n\nUn module recommandé est un module officiellement conseillé par les développeurs de Daily Routines, améliorant efficacement l'expérience de jeu sans altérer excessivement le gameplay général.",
     "Settings-DefaultHomePage": "Page d'accueil par défaut",
     "Settings-DevTeam": "Équipe de développement",
+    "Settings-Game-AlwaysMinGilTransport": "以最少金币花费完成跨区域移动",
+    "Settings-Game-AlwaysMinGilTransport-Help": "启用后, 在调用插件内部的逻辑完成跨区域移动时, 会尝试以最低金币花费完成, 譬如通过船头、过图线等, 可能会产生极长的路径",
     "Settings-Game-CorrectEnvironment": "Correction de plongée",
     "Settings-Game-CorrectEnvironment-Help": "Envoie automatiquement les commandes de changement d'état si le personnage entre accidentellement dans les zones de transition entre terre et eau plongeable afin d'éviter de rester bloqué ou d'être téléporté de force par le serveur.\n(Option recommandée si vous n'êtes pas développeur de plugins.)",
     "Settings-Game-CorrectJump": "Correction de saut",
