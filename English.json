@@ -419,7 +419,7 @@
     "AutoHighlightFlagMarkerDescription": "When placing a flag, automatically use Waymarks to create a light pillar to highlight the destination.",
     "AutoHighlightFlagMarkerTitle": "Auto Highlight Map Flag",
     "AutoHighlightStatusAction-Countdown": "Remaining Time (second)",
-    "AutoHighlightStatusAction-Countdown-Help": "触发技能进入高亮状态时, 对应的状态所剩余的时间\n若为连击内技能, 则会计算对应技能前所剩余的连击技能数, 以该值乘以设定的剩余时间",
+    "AutoHighlightStatusAction-Countdown-Help": "The duration that the corresponding action would be highlighted before the status expires.\nIf the status was applied by a combo action, the actual duration would be the set duration multiplied by the number of combo actions before the action applies the status.",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire": "Highlight After Expiration",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire-Help": "The corresponding action would remain highlighted until it's executed again.",
     "AutoHighlightStatusActionDescription": "配置完毕后, 当技能对应的状态即将失效时, 自动高亮对应的技能图标",
