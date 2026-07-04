@@ -2196,7 +2196,7 @@
     "Settings-DefaultHomePage": "Default home page",
     "Settings-DevTeam": "Developer Team",
     "Settings-Game-AlwaysMinGilTransport": "Minimal Gil Navigation",
-    "Settings-Game-AlwaysMinGilTransport-Help": "启用后, 在调用插件内部的逻辑完成跨区域移动时, 会尝试以最低金币花费完成, 譬如通过船头、过图线等, 可能会产生极长的路径",
+    "Settings-Game-AlwaysMinGilTransport-Help": "All the navigation across zones would take the most economical route, which means it would reduce the gil cost as much as possible by introducing a considerable amount of free transportation and zone connections. The navigation result could be unbearably lengthy.",
     "Settings-Game-CorrectEnvironment": "Diving Correction",
     "Settings-Game-CorrectEnvironment-Help": "Automatically send switching commands after the character accidentally enters the transition areas between lands and diving waters if enabled, in order to prevent getting stuck or being teleported forcibly by the server.\n(It's recommended to enable the option if you're not a plugin developer.)",
     "Settings-Game-CorrectJump": "Jump Correction",
