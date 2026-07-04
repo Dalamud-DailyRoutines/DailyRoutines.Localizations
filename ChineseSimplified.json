@@ -2249,6 +2249,8 @@
     "Status": "状态效果",
     "Step": "步骤",
     "Stop": "结束",
+    "StrikingTreeHelperDescription": "进入副本 \"{0}\" 后, 自动标记带有 \"{1}\" 状态的小队成员, 以帮助快速解除",
+    "StrikingTreeHelperTitle": "\"拉姆歼灭战\" 助手",
     "Style": "样式",
     "Suffix": "后缀",
     "Tag-Auth": "在线验证",
