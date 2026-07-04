@@ -2208,8 +2208,6 @@
     "Settings-Report": "反饋",
     "Settings-ResetModule": "重設模組",
     "Settings-ResetModuleSuccessNotice": "重設 {0} 模組完成",
-    "Settings-SemaphoreMaxCount": "載入執行緒數",
-    "Settings-SemaphoreMaxCount-Help": "每次初始化/重載全部模組時最大同時載入執行緒數\n(修改後需要重新載入插件才能生效)",
     "Settings-ShowOverlayConfig": "顯示配置懸浮窗",
     "Settings-SupportAuthor": "支持作者",
     "Settings-SupportTeam": "支持團隊",
