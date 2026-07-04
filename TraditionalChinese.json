@@ -2195,6 +2195,8 @@
     "Settings-DefaultEnableModules-Help": "啟用後, 當本地首次初始化任一\"推薦模組\"時, 將其設置為啟用狀態\n\n推薦模組: 由開發組篩選，能改善大多數玩家體驗, 且不會過多改變日常遊玩方式的模組",
     "Settings-DefaultHomePage": "默認頁面",
     "Settings-DevTeam": "開發團隊",
+    "Settings-Game-AlwaysMinGilTransport": "以最少金币花费完成跨区域移动",
+    "Settings-Game-AlwaysMinGilTransport-Help": "启用后, 在调用插件内部的逻辑完成跨区域移动时, 会尝试以最低金币花费完成, 譬如通过船头、过图线等, 可能会产生极长的路径",
     "Settings-Game-CorrectEnvironment": "環境一致性修正",
     "Settings-Game-CorrectEnvironment-Help": "啟用後, 若遊戲人物意外進入陸地區域與潛水區域中間的切換區域時,自動發送環境切換指令, 以避免人物卡死在當前狀態無法操作或被伺服器傳送至區域默認位置\n\n(若你並非開發者, 建議啟用)",
     "Settings-Game-CorrectJump": "跳躍狀態修正",
