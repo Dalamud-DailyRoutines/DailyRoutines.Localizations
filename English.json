@@ -869,7 +869,7 @@
     "AutoRetainerWork-GilsShare-Complete": "Gils held by the retainer has been halved.",
     "AutoRetainerWork-GilsShare-NoNeedToShare": "There is no need to half the retainer gils.",
     "AutoRetainerWork-GilsShare-PlayerGilFull": "The gil cap has been reached. It's unable to retrieve more gils from the retainer.",
-    "AutoRetainerWork-GilsShare-Title": "Auto Average Retainers' Gils",
+    "AutoRetainerWork-GilsShare-Title": "Auto Half Retainer Gils",
     "AutoRetainerWork-GilsWithdraw-Title": "Auto Retrieve Gils From Retainers",
     "AutoRetainerWork-PriceAdjust-Adjust": "Modify",
     "AutoRetainerWork-PriceAdjust-AdjustForRetainers": "Price Adjust (Retainers)",
