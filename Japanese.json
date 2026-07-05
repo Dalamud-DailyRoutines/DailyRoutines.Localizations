@@ -2196,7 +2196,7 @@
     "Settings-DefaultHomePage": "デフォルトページ",
     "Settings-DevTeam": "開発チーム",
     "Settings-Game-AlwaysMinGilTransport": "ギルを節約して、別のエリアへ移動する",
-    "Settings-Game-AlwaysMinGilTransport-Help": "有効にすると、プラグインの機能で別のエリアへ移動する時に、一番ギルの消費が少ないルートを自動で探します。例えば、船のNPCに話しかけたり、マップの端を歩いて切り替えたりするため、目的地に着くまでにかかる時間が非常に長くなる可能性があります。",
+    "Settings-Game-AlwaysMinGilTransport-Help": "有効にすると、プラグインの機能で別のエリアへ移動する時に、一番ギルの消費が少ないルートを探します。例えば、船のNPCに話しかけたり、マップの端を歩いて切り替えたりするため、目的地に到着するまでにかかる時間が非常に長くなる可能性があります。",
     "Settings-Game-CorrectEnvironment": "環境整合性修正",
     "Settings-Game-CorrectEnvironment-Help": "有効にすると、キャラクターが誤って陸上と水中の境界エリアに入り込んでしまった際、環境切り替えコマンドを自動で送信します。これにより、操作不能になるスタック状態や、サーバーによってエリアの初期位置へ強制転送されるのを防ぎます。\n\n(開発者でない場合は、有効にすることをお勧めします)",
     "Settings-Game-CorrectJump": "ジャンプ状態補正",
