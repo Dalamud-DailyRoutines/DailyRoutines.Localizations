@@ -1388,6 +1388,8 @@
     "ExpandMacroTargetParameters-Param-EnemyStatus": "具有指定 ID 状态的敌对目标",
     "ExpandMacroTargetParameters-Param-FarEnemy": "距离最远的敌对目标",
     "ExpandMacroTargetParameters-Param-FarMember": "距离最远的小队成员",
+    "ExpandMacroTargetParameters-Param-LowestHateEnemy": "仇恨最低的敌对目标",
+    "ExpandMacroTargetParameters-Param-LowestHateInListEnemy": "仇恨列表中仇恨最低的敌对目标",
     "ExpandMacroTargetParameters-Param-LowHpEnemy": "体力百分比最低的敌对目标",
     "ExpandMacroTargetParameters-Param-LowHpMeAndMember": "体力百分比最低的小队成员 (包含自身)",
     "ExpandMacroTargetParameters-Param-LowHpMember": "体力百分比最低的小队成员",
