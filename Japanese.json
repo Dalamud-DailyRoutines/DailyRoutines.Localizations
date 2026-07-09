@@ -1388,6 +1388,8 @@
     "ExpandMacroTargetParameters-Param-EnemyStatus": "特定のステータスIDが付いている敵",
     "ExpandMacroTargetParameters-Param-FarEnemy": "最も遠い敵",
     "ExpandMacroTargetParameters-Param-FarMember": "最も遠いPTメンバー",
+    "ExpandMacroTargetParameters-Param-LowestHateEnemy": "仇恨最低的敌对目标",
+    "ExpandMacroTargetParameters-Param-LowestHateInListEnemy": "仇恨列表中仇恨最低的敌对目标",
     "ExpandMacroTargetParameters-Param-LowHpEnemy": "HP割合が最も低い敵",
     "ExpandMacroTargetParameters-Param-LowHpMeAndMember": "HP割合が最も低いPTメンバー(自分を含む)",
     "ExpandMacroTargetParameters-Param-LowHpMember": "HP割合が最も低いPTメンバー",
