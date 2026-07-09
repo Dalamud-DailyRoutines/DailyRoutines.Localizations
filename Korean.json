@@ -1388,6 +1388,8 @@
     "ExpandMacroTargetParameters-Param-EnemyStatus": "지정된 ID의 상태를 가진 적 대상",
     "ExpandMacroTargetParameters-Param-FarEnemy": "가장 먼 적",
     "ExpandMacroTargetParameters-Param-FarMember": "가장 먼 파티원",
+    "ExpandMacroTargetParameters-Param-LowestHateEnemy": "仇恨最低的敌对目标",
+    "ExpandMacroTargetParameters-Param-LowestHateInListEnemy": "仇恨列表中仇恨最低的敌对目标",
     "ExpandMacroTargetParameters-Param-LowHpEnemy": "HP 비율이 가장 낮은 적",
     "ExpandMacroTargetParameters-Param-LowHpMeAndMember": "HP 비율이 가장 낮은 파티원(자신 포함)",
     "ExpandMacroTargetParameters-Param-LowHpMember": "HP 비율이 가장 낮은 파티원",
