@@ -1388,6 +1388,8 @@
     "ExpandMacroTargetParameters-Param-EnemyStatus": "具有指定 ID 状态的敌对目标",
     "ExpandMacroTargetParameters-Param-FarEnemy": "La cible hostile la plus éloignée",
     "ExpandMacroTargetParameters-Param-FarMember": "Le membre d'équipe le plus éloigné",
+    "ExpandMacroTargetParameters-Param-LowestHateEnemy": "仇恨最低的敌对目标",
+    "ExpandMacroTargetParameters-Param-LowestHateInListEnemy": "仇恨列表中仇恨最低的敌对目标",
     "ExpandMacroTargetParameters-Param-LowHpEnemy": "La cible hostile avec le plus faible pourcentage de PV",
     "ExpandMacroTargetParameters-Param-LowHpMeAndMember": "Le membre d'équipe avec le plus faible pourcentage de PV (vous inclus)",
     "ExpandMacroTargetParameters-Param-LowHpMember": "Le membre d'équipe avec le plus faible pourcentage de PV",
