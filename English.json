@@ -1401,7 +1401,7 @@
     "ExpandMacroTargetParameters-Param-NearEnemy": "Closest enemy",
     "ExpandMacroTargetParameters-Param-NearMember": "Closest party member",
     "ExpandMacroTargetParametersDescription": "Add more parameters available in macros which could be used to refer to various targets in different situations or scenarios.",
-    "ExpandMacroTargetParametersTitle": "Extended Macro Parameters",
+    "ExpandMacroTargetParametersTitle": "More Macro Parameters",
     "ExpandPlayerMenuSearch-PlayerInfoNotFound": "No matching player information found",
     "ExpandPlayerMenuSearch-SearchFFLogs": "Search in: FFLogs",
     "ExpandPlayerMenuSearch-SearchInAllPlatforms": "Search all",
