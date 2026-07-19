@@ -1496,6 +1496,7 @@
     "FastResetStrikingDummyDescription": "對單一木人清除仇恨即可清除所有木人的仇恨, 並添加 /pdr {0} 指令用以手動清除",
     "FastResetStrikingDummyTitle": "快捷重設木人仇恨",
     "FastRetainerStore-RetrieveAll": "全部取出",
+    "FastRetainerStore-SaveAll": "全部存入",
     "FastRetainerStoreDescription": "在雇員物品頁面添加右鍵菜單, 用以一鍵存取同類物品",
     "FastRetainerStoreTitle": "快捷雇員物品存取",
     "FastRidePillionDescription": "當右鍵正在騎乘多人坐騎的隊友時, 自動進行共同騎乘",
