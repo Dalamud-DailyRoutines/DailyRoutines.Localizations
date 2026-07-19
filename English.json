@@ -418,6 +418,8 @@
     "AutoHighlightFlagMarker-ConstantlyUpdate": "Continuously update the position of the light pillar.",
     "AutoHighlightFlagMarkerDescription": "When placing a flag, automatically use Waymarks to create a light pillar to highlight the destination.",
     "AutoHighlightFlagMarkerTitle": "Auto Highlight Map Flag",
+    "AutoHighlightSprintDescription": "进入副本后, 若当前未在战斗状态, 则自动高亮 \"{0}\" 技能",
+    "AutoHighlightSprintTitle": "自动高亮冲刺",
     "AutoHighlightStatusAction-Countdown": "Remaining Time (second)",
     "AutoHighlightStatusAction-Countdown-Help": "The duration that the corresponding action would be highlighted before the status expires.\nIf the status was applied by a combo action, the actual duration would be the set duration multiplied by the number of combo actions before the action applies the status.",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire": "Highlight After Expiration",
