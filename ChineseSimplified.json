@@ -418,6 +418,8 @@
     "AutoHighlightFlagMarker-ConstantlyUpdate": "持续更新高亮光柱位置",
     "AutoHighlightFlagMarkerDescription": "当放置地图标点时, 自动使用场景标记组成光柱以在游戏内高亮标点目的地",
     "AutoHighlightFlagMarkerTitle": "自动高亮地图标点",
+    "AutoHighlightSprintDescription": "进入副本后, 若当前未在战斗状态, 则自动高亮 \"{0}\" 技能",
+    "AutoHighlightSprintTitle": "自动高亮冲刺",
     "AutoHighlightStatusAction-Countdown": "剩余时间 (秒)",
     "AutoHighlightStatusAction-Countdown-Help": "触发技能进入高亮状态时, 对应的状态所剩余的时间\n若为连击内技能, 则会计算对应技能前所剩余的连击技能数, 以该值乘以设定的剩余时间",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire": "保持技能高亮",
