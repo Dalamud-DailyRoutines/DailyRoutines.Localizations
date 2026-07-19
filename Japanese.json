@@ -418,6 +418,8 @@
     "AutoHighlightFlagMarker-ConstantlyUpdate": "ハイライトされた光の塔の位置を更新し続ける",
     "AutoHighlightFlagMarkerDescription": "マップマーカーを配置する際、自動的にウェイマーカーを使用して光の塔を形成し、ゲーム内でマーカーの目的地をハイライトします",
     "AutoHighlightFlagMarkerTitle": "地図ポイントの自動ハイライト",
+    "AutoHighlightSprintDescription": "进入副本后, 若当前未在战斗状态, 则自动高亮 \"{0}\" 技能",
+    "AutoHighlightSprintTitle": "自动高亮冲刺",
     "AutoHighlightStatusAction-Countdown": "残り時間 (秒)",
     "AutoHighlightStatusAction-Countdown-Help": "スキルがプロックしてハイライト状態になった際、対応するステータスの残り時間。\nコンボルート内のスキルの場合は、そのスキルの前までに残っているコンボスキル数を計算し、その値に設定された残り時間を乗算します。",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire": "スキルをハイライト状態のまま維持",
