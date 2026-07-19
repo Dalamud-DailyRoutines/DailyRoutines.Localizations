@@ -1496,6 +1496,7 @@
     "FastResetStrikingDummyDescription": "Permet de réinitialiser instantanément un mannequin d'entraînement sans avoir à le replacer.",
     "FastResetStrikingDummyTitle": "Réinitialisation rapide du mannequin d'entraînement",
     "FastRetainerStore-RetrieveAll": "Tout récupérer",
+    "FastRetainerStore-SaveAll": "Tout enregistrer",
     "FastRetainerStoreDescription": "Ajoute un menu clic droit dans l'interface des objets des servants pour faciliter le stockage et la récupération d'objets d'une même catégorie.",
     "FastRetainerStoreTitle": "Stockage amélioré des servants",
     "FastRidePillionDescription": "Monte automatiquement en passager lorsque vous faites un clic droit sur un membre du groupe utilisant une monture multi-place.",
