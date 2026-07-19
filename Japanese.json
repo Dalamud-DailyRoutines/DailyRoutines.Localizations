@@ -1496,6 +1496,7 @@
     "FastResetStrikingDummyDescription": "1体の木人の敵視をリセットするだけで、すべての木人の敵視をまとめてリセットします。また、手動でリセットできるように /pdr {0} コマンドを追加します",
     "FastResetStrikingDummyTitle": "木人敵視高速リセット",
     "FastRetainerStore-RetrieveAll": "全取出し",
+    "FastRetainerStore-SaveAll": "全収納",
     "FastRetainerStoreDescription": "リテイナーのアイテムページに右クリックメニューを追加し、同じ種類のアイテムをワンクリックで出し入れできるようにします。",
     "FastRetainerStoreTitle": "リテイナーアイテムの簡易入出庫",
     "FastRidePillionDescription": "右クリックで現在複数人用の乗り物に乗っている仲間に対して、自動で相乗りを行う",
