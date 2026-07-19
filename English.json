@@ -1496,6 +1496,7 @@
     "FastResetStrikingDummyDescription": "Allow to reset enmity of all the Striking Dummies by resetting any of them, and provide a command /pdr {0} for manually resetting.",
     "FastResetStrikingDummyTitle": "Reset All Striking Dummies",
     "FastRetainerStore-RetrieveAll": "Retrieve All",
+    "FastRetainerStore-SaveAll": "Store All",
     "FastRetainerStoreDescription": "Add a right-click menu for the item interface on retainers to facilitate storage and retrieval of items in the same category.",
     "FastRetainerStoreTitle": "Better Retainer Storage",
     "FastRidePillionDescription": "Auto ride pillion when you right-click a party member that is riding a multi-seat mount",
