@@ -418,6 +418,8 @@
     "AutoHighlightFlagMarker-ConstantlyUpdate": "Mettre à jour en continu la position du pilier lumineux",
     "AutoHighlightFlagMarkerDescription": "Lors du placement d'un drapeau, utilise automatiquement les marqueurs pour créer un pilier lumineux mettant la destination en évidence.",
     "AutoHighlightFlagMarkerTitle": "Mise en évidence automatique du drapeau de carte",
+    "AutoHighlightSprintDescription": "进入副本后, 若当前未在战斗状态, 则自动高亮 \"{0}\" 技能",
+    "AutoHighlightSprintTitle": "自动高亮冲刺",
     "AutoHighlightStatusAction-Countdown": "Temps restant (secondes)",
     "AutoHighlightStatusAction-Countdown-Help": "触发技能进入高亮状态时, 对应的状态所剩余的时间\n若为连击内技能, 则会计算对应技能前所剩余的连击技能数, 以该值乘以设定的剩余时间",
     "AutoHighlightStatusAction-KeepHighlightAfterExpire": "Conserver après expiration",
