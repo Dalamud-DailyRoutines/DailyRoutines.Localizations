@@ -1496,6 +1496,7 @@
     "FastResetStrikingDummyDescription": "하나의 나무인형 적개심만 초기화해도 모든 나무인형의 적개심이 해제되며, 수동으로 초기화할 수 있는 /pdr {0} 명령어를 추가합니다.",
     "FastResetStrikingDummyTitle": "나무인형 적개심 빠른 초기화",
     "FastRetainerStore-RetrieveAll": "모두 꺼내기",
+    "FastRetainerStore-SaveAll": "전체 저장",
     "FastRetainerStoreDescription": "집사 소지품 창에 우클릭 메뉴를 추가해 같은 종류의 아이템을 원클릭으로 입출고할 수 있게 합니다.",
     "FastRetainerStoreTitle": "집사 아이템 간이 입출고",
     "FastRidePillionDescription": "우클릭으로 다인용 탈것에 탄 파티원과 같이 탑승합니다.",
