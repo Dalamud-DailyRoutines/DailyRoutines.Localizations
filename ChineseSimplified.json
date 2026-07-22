@@ -1043,6 +1043,8 @@
     "AutoTryOnPlayerOutfit-TryOnAll": "试穿全部",
     "AutoTryOnPlayerOutfitDescription": "为玩家检视界面新增按钮, 以一键试穿当前检视玩家全套实际外观装备",
     "AutoTryOnPlayerOutfitTitle": "自动试穿全套外观",
+    "AutoUmbralSoulDescription": "若当前职业为 \"{0}\", 则在进入副本、触发重新挑战、脱战后, 自动使用 \"{1}\"",
+    "AutoUmbralSoulTitle": "自动灵极魂",
     "AutoUnlockAllContentsDescription": "将全部副本都标记为已解锁, 以便在队员招募或任务搜索器中直接查看有关副本的招募/信息",
     "AutoUnlockAllContentsTitle": "自动解锁全部副本",
     "AutoUnlockAllOrchestrionsListenDescription": "自动解锁管弦乐琴内所有乐谱的试听 (会将所有乐谱物品都标记为已获得)",
