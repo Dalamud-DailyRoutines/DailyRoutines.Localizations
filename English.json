@@ -1043,6 +1043,8 @@
     "AutoTryOnPlayerOutfit-TryOnAll": "Set Try On",
     "AutoTryOnPlayerOutfitDescription": "Introduce a new button in the player inspection interface, allowing to try on the appearance set of the inspected character.",
     "AutoTryOnPlayerOutfitTitle": "Set Try-on In Player Inspection",
+    "AutoUmbralSoulDescription": "若当前职业为 \"{0}\", 则在进入副本、触发重新挑战、脱战后, 自动使用 \"{1}\"",
+    "AutoUmbralSoulTitle": "自动灵极魂",
     "AutoUnlockAllContentsDescription": "Unlock all the duties in local for information in Party Finder and Duty Finder.",
     "AutoUnlockAllContentsTitle": "Auto Unlock All Duties",
     "AutoUnlockAllOrchestrionsListenDescription": "Auto unlock preview for all orchestrion rolls (marks all rolls as obtained)",
