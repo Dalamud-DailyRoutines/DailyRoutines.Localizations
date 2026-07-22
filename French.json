@@ -1043,6 +1043,8 @@
     "AutoTryOnPlayerOutfit-TryOnAll": "Essayer l'ensemble",
     "AutoTryOnPlayerOutfitDescription": "Ajoute un nouveau bouton dans l'interface d'inspection permettant d'essayer l'apparence complète du personnage inspecté.",
     "AutoTryOnPlayerOutfitTitle": "Essayage d'ensemble en inspection",
+    "AutoUmbralSoulDescription": "若当前职业为 \"{0}\", 则在进入副本、触发重新挑战、脱战后, 自动使用 \"{1}\"",
+    "AutoUmbralSoulTitle": "自动灵极魂",
     "AutoUnlockAllContentsDescription": "Déverrouille localement toutes les missions pour les informations de l'Outil de mission et du Party Finder.",
     "AutoUnlockAllContentsTitle": "Déverrouillage automatique de toutes les missions",
     "AutoUnlockAllOrchestrionsListenDescription": "Déverrouille automatiquement l'aperçu de tous les rouleaux d'orchestrion (les marque comme obtenus).",
