@@ -1170,6 +1170,7 @@
     "BetterMarketBoard-Tooltip-CurrentWorld": "Current Server",
     "BetterMarketBoard-Tooltip-DailySales": "Daily Sales",
     "BetterMarketBoard-TravelToWorld": "Travel To World",
+    "BetterMarketBoard-WorldSelector-Tooltip": "单击右键以切换至当前服务器",
     "BetterMarketBoardDescription": "Provide a command /pdr {0} to access a remote market board interface for price inquiring, price monitoring and item purchasing.",
     "BetterMarketBoardTitle": "Better Market Board",
     "BetterMountRouletteDescription": "Provide a better Mount Roulette which allows users to set dedicated lists for specified zones individually and assign an unlimited number of mounts to a list.",
