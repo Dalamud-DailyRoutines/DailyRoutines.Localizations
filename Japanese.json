@@ -1043,6 +1043,8 @@
     "AutoTryOnPlayerOutfit-TryOnAll": "すべて試着する",
     "AutoTryOnPlayerOutfitDescription": "他キャラクターの「調べる」ウィンドウにボタンを追加し、現在そのキャラクターが装備しているすべての外見装備を一括で試着できるようにします。",
     "AutoTryOnPlayerOutfitTitle": "全セットの外見装備を自動試着する",
+    "AutoUmbralSoulDescription": "若当前职业为 \"{0}\", 则在进入副本、触发重新挑战、脱战后, 自动使用 \"{1}\"",
+    "AutoUmbralSoulTitle": "自动灵极魂",
     "AutoUnlockAllContentsDescription": "見かけ上、すべてのコンテンツを解放済みとしてマークし、PT募集やコンテンツファインダーで直接コンテンツに関連する情報を確認できるようにする［未開放コンテンツへの参加申請はできません］",
     "AutoUnlockAllContentsTitle": "全コンテンツ解放状態にする",
     "AutoUnlockAllOrchestrionsListenDescription": "オーケストリオン内のすべての楽譜の試聴を解放します (すべての楽譜が取得済みとしてマーカーされます)",
