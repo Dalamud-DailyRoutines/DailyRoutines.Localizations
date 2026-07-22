@@ -1170,6 +1170,7 @@
     "BetterMarketBoard-Tooltip-CurrentWorld": "Monde actuel",
     "BetterMarketBoard-Tooltip-DailySales": "Ventes quotidiennes",
     "BetterMarketBoard-TravelToWorld": "Voyager vers ce monde",
+    "BetterMarketBoard-WorldSelector-Tooltip": "单击右键以切换至当前服务器",
     "BetterMarketBoardDescription": "Ajoute la commande /pdr {0} pour ouvrir le tableau de marché amélioré du module, permettant de meilleures recherches de prix, achats et surveillance du marché.",
     "BetterMarketBoardTitle": "Tableau de marché amélioré",
     "BetterMountRouletteDescription": "Fournit une roulette de montures améliorée permettant de définir des listes dédiées par zone et d'assigner un nombre illimité de montures à chaque liste.",
