@@ -2297,6 +2297,8 @@
     "Settings-UnknownFont": "未知字體",
     "Settings-UseDalamudDefaultFont": "使用 Dalamud 默認字體",
     "Settings-UsefulLinks": "相關連結",
+    "Settings.TTS.Warning.Help": "文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件, 如有需要请单独下载",
+    "Settings.TTS.Warning.Log": "/pdr tts 命令预计将在游戏版本 8.0 废弃, 文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件, 如有需要请单独下载",
     "Share": "分享",
     "Sheild": "護盾",
     "Shield": "護盾",
