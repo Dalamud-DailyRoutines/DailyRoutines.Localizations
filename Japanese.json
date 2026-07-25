@@ -294,7 +294,7 @@
     "AutoFate-DeactiveAttackCommand": "自動攻撃の停止コマンド",
     "AutoFate-DeactiveAttackCommandHelp": "使用している自動ローテーション系プラグインに、上記の自動攻撃状態を停止するためのコマンドがある場合は、ここに入力してください。無い場合は空欄のままにしてください。",
     "AutoFate-FateMode-Item-Description": "選択したプリセットエリア内でF.A.T.E.を周回して指定アイテムを収集し、対象エリア内の全アイテム数が目標に達した場合は次のエリアへ移動、設定したすべてのアイテム収集が完了するまでこれを繰り返します。",
-    "AutoFate-FateMode-Item-Title": "アイテム",
+    "AutoFate-FateMode-Item-Title": "アイテム収集（武器製作等）",
     "AutoFate-FateMode-MainSubZone-Description": "メインエリア内でF.A.T.E.を繰り返し完了します。\nメインエリアに条件を満たすF.A.T.E.がない場合はサブエリアへ移動し、そこで少なくとも1つのF.A.T.E.を完了した後、再びメインエリアに戻ります。",
     "AutoFate-FateMode-MainSubZone-MainZone": "メインエリア",
     "AutoFate-FateMode-MainSubZone-SubZone": "サブエリア",
