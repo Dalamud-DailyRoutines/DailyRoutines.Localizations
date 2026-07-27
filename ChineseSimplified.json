@@ -185,6 +185,7 @@
     "AutoCountPlayers-PlayersAround": "周边玩家",
     "AutoCountPlayers-PlayersAroundCount": "周边人数",
     "AutoCountPlayers-PlayersAroundInfo": "周边玩家列表",
+    "AutoCountPlayers-PlayersInZone": "区域玩家",
     "AutoCountPlayers-PlayersTargetingMe": "正以你为目标的玩家",
     "AutoCountPlayers-PlayersZoneCount": "区域人数",
     "AutoCountPlayers-TargetedHistory": "被选中历史",
