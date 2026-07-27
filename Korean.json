@@ -185,6 +185,7 @@
     "AutoCountPlayers-PlayersAround": "주변 플레이어",
     "AutoCountPlayers-PlayersAroundCount": "주변 인원 수",
     "AutoCountPlayers-PlayersAroundInfo": "주변 플레이어 목록",
+    "AutoCountPlayers-PlayersInZone": "区域玩家",
     "AutoCountPlayers-PlayersTargetingMe": "나를 타겟 중인 플레이어",
     "AutoCountPlayers-PlayersZoneCount": "인스턴스 인원",
     "AutoCountPlayers-TargetedHistory": "대상 기록",
