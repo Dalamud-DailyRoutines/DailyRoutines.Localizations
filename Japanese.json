@@ -185,6 +185,7 @@
     "AutoCountPlayers-PlayersAround": "周辺プレイヤー",
     "AutoCountPlayers-PlayersAroundCount": "周囲の人数",
     "AutoCountPlayers-PlayersAroundInfo": "周囲のプレイヤーリスト",
+    "AutoCountPlayers-PlayersInZone": "区域玩家",
     "AutoCountPlayers-PlayersTargetingMe": "あなたをタゲっているプレイヤー",
     "AutoCountPlayers-PlayersZoneCount": "インスタンス人数",
     "AutoCountPlayers-TargetedHistory": "ターゲット履歴",
