@@ -319,8 +319,6 @@
     "AutoFate-PluginPrerequisite-Config-BossMod-Help": "BossMod ou BossMod Reborn est recommandé pour esquiver automatiquement les attaques.",
     "AutoFate-PluginPrerequisite-Config-RotationSolver-Help": "Rotation Solver peut être utilisé comme plugin de combat automatique.",
     "AutoFate-PluginPrerequisite-Config-WrathCombo-Help": "Wrath Combo peut être utilisé pour simplifier ou automatiser certaines actions de combat.",
-    "AutoFate-TeleportDistance": "Distance avant téléportation",
-    "AutoFate-TeleportDistanceHelp": "Si la distance jusqu'au prochain ALÉA dépasse le seuil défini, une téléportation sera envisagée au lieu d'un déplacement direct.",
     "AutoFateDescription": "Complète automatiquement les ALÉAs dans les zones spécifiées selon les presets définis par l'utilisateur après configuration et clic sur démarrer.",
     "AutoFateStart-StartNotice": "L'ALÉA suivant a été lancé automatiquement :\n     {0}",
     "AutoFateStartDescription": "S'il y a un ALÉA à proximité nécessitant un dialogue pour démarrer, le lance automatiquement.",
