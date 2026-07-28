@@ -319,8 +319,6 @@
     "AutoFate-PluginPrerequisite-Config-BossMod-Help": "启用 AI 功能, 打开 \"战斗中跟随\" 与 \"跟随目标\", 将 \"跟随队伍成员\" 设置为自身, \"到目标最大距离\" 设置为 10 (远程职业) 或 2 (近战职业), 不要设置 \"自动循环预设\"",
     "AutoFate-PluginPrerequisite-Config-RotationSolver-Help": "将目标选择设置为 \"手动\"",
     "AutoFate-PluginPrerequisite-Config-WrathCombo-Help": "启用自动循环功能, 在对应职业页面将非高难的 \"多目标\" 循环加入自动循环, 将目标选择模式设置为 \"手动\"",
-    "AutoFate-TeleportDistance": "自动传送距离",
-    "AutoFate-TeleportDistanceHelp": "若自身距离下一个临危受命任务超出此阈值, 则会考虑传送至以太之光以缩短路程",
     "AutoFateDescription": "配置完成并点击开始后, 自动按照预设目标循环完成指定区域的临危受命 (FATE) 任务",
     "AutoFateStart-StartNotice": "已自动开始临危受命任务:\n     {0}",
     "AutoFateStartDescription": "若附近存在需要对话才能开始的临危受命任务, 自动令其开始",
