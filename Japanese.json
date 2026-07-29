@@ -1069,7 +1069,7 @@
     "AutoUseCrafterGathererManualTitle": "クラフター/ギャザラー用マニュアル自動使用",
     "AutoUseEarthsReply-UseWhenGuard": "防御中でも使用する",
     "AutoUseEarthsReply-UseWhenSprint": "スプリント中でも使用する",
-    "AutoUseEarthsReplyDescription": "PVPエリア内でスキル「金剛の極意」を使用した後、その効果時間が終了しそうになった際に自動でスキル「金剛転輪」を使用し、効果の失効を防ぐ。",
+    "AutoUseEarthsReplyDescription": "使用玩家对战技能“金刚极意”后, 自动在其即将结束时使用技能“金刚转轮”以防止失效",
     "AutoUseEarthsReplyTitle": "【MNK】金剛転輪を自動使用",
     "AutoUseEventItemDescription": "イベントアイテムを使用する必要があるオブジェクトとインタラクションし、イベントアイテムバッグを開いた時、自動的に対応するイベントアイテムを使用する",
     "AutoUseEventItemTitle": "自動的にイベントアイテムを使用する",
