@@ -1069,7 +1069,7 @@
     "AutoUseCrafterGathererManualTitle": "군용 제작/채집술 설명서 자동 사용",
     "AutoUseEarthsReply-UseWhenGuard": "방어 중에도 사용",
     "AutoUseEarthsReply-UseWhenSprint": "전력 질주 중에도 사용",
-    "AutoUseEarthsReplyDescription": "使用玩家对战技能“金刚极意”后, 自动在其即将结束时使用技能“金刚转轮”以防止失效",
+    "AutoUseEarthsReplyDescription": "PvP 기술 \"금강의 극의\" 사용 시, 효과 소실을 방지하기 위해 지속 시간이 끝나기 직전에 \"금강전륜\"을 자동으로 사용합니다.",
     "AutoUseEarthsReplyTitle": "【몽크】 금강전륜 자동 사용",
     "AutoUseEventItemDescription": "이벤트 아이템 사용이 필요한 오브젝트와 상호작용 시, 이벤트 아이템 가방을 열면 자동으로 해당 아이템을 사용합니다.",
     "AutoUseEventItemTitle": "이벤트 아이템 자동 사용",
