@@ -1069,7 +1069,7 @@
     "AutoUseCrafterGathererManualTitle": "自動使用生產採集指南",
     "AutoUseEarthsReply-UseWhenGuard": "在 防禦 時仍然使用",
     "AutoUseEarthsReply-UseWhenSprint": "在 衝刺 時仍然使用",
-    "AutoUseEarthsReplyDescription": "在 PVP 區域內使用了技能 金剛極意 後, 自動在其持續時間即將結束時使用技能 金剛轉輪 以防止失效",
+    "AutoUseEarthsReplyDescription": "使用玩家对战技能“金刚极意”后, 自动在其即将结束时使用技能“金刚转轮”以防止失效",
     "AutoUseEarthsReplyTitle": "自動使用金剛轉輪",
     "AutoUseEventItemDescription": "交互需要使用任務道具的對象並打開任務道具背包後, 自動使用對應的任務道具",
     "AutoUseEventItemTitle": "自動使用任務道具",
