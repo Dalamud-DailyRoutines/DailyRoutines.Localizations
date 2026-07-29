@@ -1069,7 +1069,7 @@
     "AutoUseCrafterGathererManualTitle": "Utilisation automatique des manuels DoH/DoL",
     "AutoUseEarthsReply-UseWhenGuard": "Utiliser même sous Garde",
     "AutoUseEarthsReply-UseWhenSprint": "Utiliser même sous Sprint",
-    "AutoUseEarthsReplyDescription": "Après utilisation de Riddle of Earth en zone JcJ, utilise automatiquement Earth's Reply lorsque sa durée est sur le point d'expirer afin d'éviter son expiration.",
+    "AutoUseEarthsReplyDescription": "使用玩家对战技能“金刚极意”后, 自动在其即将结束时使用技能“金刚转轮”以防止失效",
     "AutoUseEarthsReplyTitle": "Earth's Reply automatique",
     "AutoUseEventItemDescription": "Lors d'une interaction avec des objets nécessitant un objet de quête et ouverture de l'inventaire d'objets clés, utilise automatiquement l'objet requis.",
     "AutoUseEventItemTitle": "Utilisation automatique d'objet de quête",
