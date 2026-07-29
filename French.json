@@ -2104,6 +2104,7 @@
     "OutOfDuty": "Hors mission",
     "Output": "sortie",
     "Password": "Mot de passe",
+    "Pathfind": "寻路",
     "Pause": "Pause",
     "PermanentDisconnectStatus-DisableInDuty": "Désactiver en mission",
     "PermanentDisconnectStatusDescription": "Maintient en permanence le statut en ligne sur \"Déconnecté\" (sans affecter les autres opérations)",
