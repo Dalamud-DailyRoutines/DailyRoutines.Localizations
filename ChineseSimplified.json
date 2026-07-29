@@ -2104,6 +2104,7 @@
     "OutOfDuty": "副本任务外",
     "Output": "输出",
     "Password": "密码",
+    "Pathfind": "寻路",
     "Pause": "暂停",
     "PermanentDisconnectStatus-DisableInDuty": "在副本内禁用",
     "PermanentDisconnectStatusDescription": "使当前在线状态始终保持为通信切断 (不影响其他操作)",
