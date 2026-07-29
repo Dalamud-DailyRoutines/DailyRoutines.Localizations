@@ -1912,7 +1912,7 @@
     "OccultCrescentHelper-DistanceTo": "거리 임계치(m)",
     "OccultCrescentHelper-Highlight": "강조 표시",
     "OccultCrescentHelper-OthersManager-AutoEnableDisablePlugins": "플러그인 자동 활성/비활성",
-    "OccultCrescentHelper-OthersManager-AutoEnableDisablePlugins-Help": "每次进入/离开新月岛时, 自动启用/禁用此处配置的插件\n(请填写插件的内部名称, 不同插件间使用半角逗号分隔, 大小写敏感\n例: BossModReborn,vnavmesh)",
+    "OccultCrescentHelper-OthersManager-AutoEnableDisablePlugins-Help": "초승달 섬 진입/이탈 시 이곳에 설정된 플러그인을 자동으로 활성화/비활성화합니다.\n(플러그인 내부 이름을 쉼표로 구분하여 입력해 주세요. 대소문자를 구분합니다.\n예: BossModReborn,vnavmesh)",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon": "실제 스킬",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon-Help": "드래그로 꺼낸 스킬 아이콘이 실제 스킬인지 여부\n\n체크함: 드래그로 꺼낸 아이콘은 실제 스킬이며 서포트 잡 변경 시에도 변하지 않습니다.\n미체크: 드래그로 꺼낸 아이콘은 매크로 명령이며 서포트 잡 변경 시 함께 변합니다.",
     "OccultCrescentHelper-OthersManager-FastUseKnowledgeCrystal": "지식 크리스탈 빠른 사용",
