@@ -2104,6 +2104,7 @@
     "OutOfDuty": "インスタンスエリア外",
     "Output": "出力",
     "Password": "パスワード",
+    "Pathfind": "寻路",
     "Pause": "一時停止",
     "PermanentDisconnectStatus-DisableInDuty": "ダンジョン内で無効にする",
     "PermanentDisconnectStatusDescription": "現在のオンライン状態を常に通信切断のままにする。いわゆる『赤玉状態』。 (他の操作には影響しません)",
