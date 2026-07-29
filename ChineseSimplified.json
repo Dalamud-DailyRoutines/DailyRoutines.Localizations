@@ -1952,7 +1952,7 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "在自身距离宝箱在设置阈值以内时, 自动发包接近宝箱并开启, 再回到当前位置",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "距离区域起始地点过近, 请远离后并确认周围无人注意再点击开始",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "本轮自动寻宝已结束",
-    "OccultCrescentHelperDescription": "辅助游玩蜃景幻界新月岛相关副本, 包括快速传送/提醒区域事件、自动标记/开启宝箱、快捷切换职业、显示岛 ID 等功能",
+    "OccultCrescentHelperDescription": "辅助游玩“蜃景幻界新月岛”相关副本, 包括快速传送/提醒区域事件、自动标记/开启宝箱、快捷切换职业、显示岛 ID 等功能",
     "OccultCrescentHelperTitle": "蜃景幻界新月岛助手",
     "Offset": "偏移",
     "OmenTools-AetheryteRecordManager-Format-HouseInfo-Apartment": "{0} {1} (第 {2} 区 {3} 号房间)",
