@@ -2104,6 +2104,7 @@
     "OutOfDuty": "Not In Duty",
     "Output": "output",
     "Password": "Password",
+    "Pathfind": "寻路",
     "Pause": "Pause",
     "PermanentDisconnectStatus-DisableInDuty": "Disable In Duty",
     "PermanentDisconnectStatusDescription": "Keep the online status as 'Disconnected' permanently (without affecting other operations)",
