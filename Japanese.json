@@ -1904,7 +1904,7 @@
     "OccultCrescentHelper-CEManager-NotifyEventAppears": "エリアイベントの発生を通知",
     "OccultCrescentHelper-CEManager-SpecialRewards": "特別報酬",
     "OccultCrescentHelper-Command-PBuff-Help": "サポートジョブの長時間バフスキルを自動で使用する",
-    "OccultCrescentHelper-Command-PCE-Help": "(<abort>) 寻路至新月岛区域内的紧急遭遇战 / 放弃寻路",
+    "OccultCrescentHelper-Command-PCE-Help": "(<abort>) クレセントアイル内のCEへ自動移動する / 自動移動を中断す",
     "OccultCrescentHelper-Command-PFate-Help": "(<abort>) 寻路至新月岛区域内当前完成进度最低的危命任务或魔法罐任务 / 放弃寻路",
     "OccultCrescentHelper-Command-PJob-Help": "<ID / 名称 (大文字・小文字を区別しない / 部分一致)> 対応するサポートジョブに切り替える",
     "OccultCrescentHelper-Command-PTP-Help": "<索引 / 名称 (大小写不敏感, 部分包含)> 传送至对应的魔路",
