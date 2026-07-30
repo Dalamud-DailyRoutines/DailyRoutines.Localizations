@@ -313,6 +313,7 @@
     "AutoFate-ItemPreset-UserPreset": "カスタムプリセット",
     "AutoFate-ItemPreset-ZodiacWeapon": "ゾディアックウェポン・ゼニス",
     "AutoFate-NextFate": "次のF.A.T.E.",
+    "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
     "AutoFate-PluginPrerequisite-Config": "前提プラグイン/モジュールの設定",
     "AutoFate-PluginPrerequisite-Config-AEAssist-Help": "「自動ターゲット」を有効化し、「FATEモード」に設定の上、高難易度用ではない自動ローテーションを使用する。",
     "AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help": "「バディチョコボのスタンス自動切り替え」を有効化し、タンク以外のジョブは「ヒーラースタンス」に設定してください",
