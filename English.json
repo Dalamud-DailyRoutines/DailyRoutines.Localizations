@@ -1069,7 +1069,7 @@
     "AutoUseCrafterGathererManualTitle": "Auto Use DoH/DoL Exp Manuals",
     "AutoUseEarthsReply-UseWhenGuard": "Use even when using Guard",
     "AutoUseEarthsReply-UseWhenSprint": "Use even when using Sprint",
-    "AutoUseEarthsReplyDescription": "使用玩家对战技能“金刚极意”后, 自动在其即将结束时使用技能“金刚转轮”以防止失效",
+    "AutoUseEarthsReplyDescription": "Automatically execute the action \"Earth's Reply\" when the status \"Earth Resonance\" is about to end in PvP areas.",
     "AutoUseEarthsReplyTitle": "Auto Earth's Reply",
     "AutoUseEventItemDescription": "When interacting with objects that require quest items and opening the Key Item inventory, automatically use the corresponding quest item",
     "AutoUseEventItemTitle": "Auto Use Quest Event Item",
