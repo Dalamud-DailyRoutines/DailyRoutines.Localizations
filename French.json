@@ -313,6 +313,7 @@
     "AutoFate-ItemPreset-UserPreset": "自定义预设",
     "AutoFate-ItemPreset-ZodiacWeapon": "上古武器·魂晶",
     "AutoFate-NextFate": "下一个危命任务",
+    "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
     "AutoFate-PluginPrerequisite-Config": "Configuration des plugins requis",
     "AutoFate-PluginPrerequisite-Config-AEAssist-Help": "AEAssist peut être utilisé comme plugin de combat automatique.",
     "AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help": "Activez ce module pour invoquer automatiquement votre compagnon chocobo pendant les ALÉAs.",
