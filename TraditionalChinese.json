@@ -313,6 +313,7 @@
     "AutoFate-ItemPreset-UserPreset": "自定义预设",
     "AutoFate-ItemPreset-ZodiacWeapon": "上古武器·魂晶",
     "AutoFate-NextFate": "下一个危命任务",
+    "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
     "AutoFate-PluginPrerequisite-Config": "前置插件/模組配置",
     "AutoFate-PluginPrerequisite-Config-AEAssist-Help": "啟用 \"目標選擇器\", 設置為 \"FATE 模式\", 使用非高難的 ACR",
     "AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help": "啟用 \"自動切換陸行鳥戰術\", 請非防護職業設定為 \"治療戰術\"",
