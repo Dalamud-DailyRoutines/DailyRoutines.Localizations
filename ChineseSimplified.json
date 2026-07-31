@@ -1943,8 +1943,6 @@
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures": "自动寻宝",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Help": "自动根据预设路线在区域内搜寻刷新的宝箱\n\n注:\n\t- 需要开启上方的 \"自动开启周围宝箱\" 功能, 不可用其他任何同类插件功能替代\n\t- 建议配置上方距离阈值为 ≤ 5 的数值\n\t- 搜寻过程中, 本地玩家看上去是以无碰撞状态在区域内漂浮移动, 实际上模块已拦截修改了上传到服务器的坐标数据包, 玩家全程在其他玩家无法看到的地面以下移动, 无需担心\n\t- 单条路线搜寻结束后会发送通知信息",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-LeftPoints": "剩余点位数",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornNorth": "西北半场 (南征之章)",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornSouth": "东南半场 (南征之章)",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "自动开启周围宝箱",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "设置过大的阈值可能使你因开箱过程中超出区域移速容忍上限而被服务器强行登出下线",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "在自身距离宝箱在设置阈值以内时, 自动发包接近宝箱并开启, 再回到当前位置",
