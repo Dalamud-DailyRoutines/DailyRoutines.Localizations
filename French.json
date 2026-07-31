@@ -1943,8 +1943,6 @@
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures": "Collecte automatique des coffres",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Help": "自动根据预设路线在区域内搜寻刷新的宝箱\n\n注:\n\t- 需要开启上方的 \"自动开启周围宝箱\" 功能, 不可用其他任何同类插件功能替代\n\t- 建议配置上方距离阈值为 ≤ 5 的数值\n\t- 搜寻过程中, 本地玩家看上去是以无碰撞状态在区域内漂浮移动, 实际上模块已拦截修改了上传到服务器的坐标数据包, 玩家全程在其他玩家无法看到的地面以下移动, 无需担心\n\t- 单条路线搜寻结束后会发送通知信息",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-LeftPoints": "Nœuds restants",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornNorth": "Nord-ouest (Corne sud)",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornSouth": "Sud-est (Corne sud)",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "Ouverture automatique des coffres proches",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "Un seuil trop élevé peut entraîner une déconnexion à cause de la détection de vitesse côté serveur.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "Le personnage sera déplacé instantanément à proximité du coffre, l'ouvrira, puis reviendra à sa position précédente s'il se trouve dans la portée définie.",
