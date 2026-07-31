@@ -313,7 +313,7 @@
     "AutoFate-ItemPreset-UserPreset": "Custom Preset",
     "AutoFate-ItemPreset-ZodiacWeapon": "Relic Weapon Atma",
     "AutoFate-NextFate": "Next FATE",
-    "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
+    "AutoFate-Notification-Completed": "FATE \"{0}\" has been completed.\nTime elapsed: {1}",
     "AutoFate-PluginPrerequisite-Config": "Prerequisite Modules & Plugins",
     "AutoFate-PluginPrerequisite-Config-AEAssist-Help": "Enable \"目标选择器\". Set it to \"FATE 模式\". Run a non-raid ACR.",
     "AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help": "Enable \"Auto Switch Chocobo Stance\". Set it to \"Healer Stance\" if the current job isn't a tank.",
