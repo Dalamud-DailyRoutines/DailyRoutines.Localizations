@@ -1,5 +1,5 @@
 {
-    "Achievement": "成就",
+    "Achievement": "アチーブメント",
     "Action": "アクション",
     "Activated": "認証済",
     "Add": "追加",
@@ -255,7 +255,7 @@
     "AutoDisplayTreasureMapLocation-CommandHelp": "解読済みの宝の地図の位置をマップで開く",
     "AutoDisplayTreasureMapLocationDescription": "宝の地図を解読/使用した際、自動でマップを開き詳細な目的地にフラグを設定する",
     "AutoDisplayTreasureMapLocationTitle": "宝の地図の場所を自動でマップに表示する",
-    "AutoDisplayZoneServerID-ServerID": "副本 ID",
+    "AutoDisplayZoneServerID-ServerID": "ゾーンID",
     "AutoDisplayZoneServerIDDescription": "进入特殊场景探索副本时, 自动在服务器信息栏显示当前所在的副本 ID, 并发送聊天消息提醒",
     "AutoDisplayZoneServerIDTitle": "自动显示特殊场景探索副本 ID",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "戦闘終了後、自動的にピクト〇〇する",
