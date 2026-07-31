@@ -1943,8 +1943,6 @@
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures": "보물 찾기",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Help": "사전 설정된 경로를 따라 지역 내 보물상자 자동 탐색\n\n참고:\n\t- 상단의 \"주변 보물상자 자동 열기\" 기능을 반드시 활성화해야 하며, 다른 유사한 플러그인의 기능으로 대체할 수 없습니다.\n\t- 상단의 거리 설정을 5 이하로 지정하는 것을 권장합니다.\n\t- 탐색 중 본인의 화면에는 캐릭터가 충돌 판정 없이 공중을 떠다니며 이동하는 것처럼 보입니다. 하지만 실제로는 플러그인이 서버로 전송되는 좌표 데이터를 조작하여 다른 플레이어에게 보이지 않는 지면 아래에서 이동하도록 처리하므로 안심하셔도 됩니다.\n\t- 하나의 경로 탐색이 완료될 때마다 알림 메시지를 전송합니다.",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-LeftPoints": "남은 포인트 수",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornNorth": "북서 에리어 (남부편)",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornSouth": "남동 에리어 (남부편)",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "주변 보물 자동 개봉",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "값을 너무 크게 설정하면 보물 개봉 과정에서 속도 감지 임계값에 걸려 서버에서 강제 로그아웃될 수 있습니다. ※8.0 이상은 권장하지 않습니다.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "자신과 보물의 거리가 설정한 임계값 이내가 되면 자동으로 패킷을 보내 보물에 접근하고, 개봉 후 원래 위치로 돌아갑니다.",
