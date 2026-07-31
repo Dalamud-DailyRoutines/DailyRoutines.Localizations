@@ -1943,8 +1943,6 @@
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures": "トレジャーハント",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Help": "自动根据预设路线在区域内搜寻刷新的宝箱\n\n注:\n\t- 需要开启上方的 \"自动开启周围宝箱\" 功能, 不可用其他任何同类插件功能替代\n\t- 建议配置上方距离阈值为 ≤ 5 的数值\n\t- 搜寻过程中, 本地玩家看上去是以无碰撞状态在区域内漂浮移动, 实际上模块已拦截修改了上传到服务器的坐标数据包, 玩家全程在其他玩家无法看到的地面以下移动, 无需担心\n\t- 单条路线搜寻结束后会发送通知信息",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-LeftPoints": "残りポイント数",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornNorth": "北西エリア (南征編)",
-    "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Route-SouthHornSouth": "南東エリア (南征編)",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "周囲の宝箱を自動で開ける",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "大きいすぎる設定値にすると、宝箱を開ける過程で速度検知のしきい値に引っかかり、サーバーから強制的ログアウトさせられる可能性があります。※8.0程度が限度",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "自分と宝箱の距離が設定した閾値以内になったとき、自動的にパケットを送信して宝箱に近づき、開けたあと元の位置に戻る。",
