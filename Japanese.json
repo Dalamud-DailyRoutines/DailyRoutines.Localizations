@@ -1926,7 +1926,7 @@
     "OccultCrescentHelper-Command-PBuff-Help": "サポートジョブの長時間バフスキルを自動で使用する",
     "OccultCrescentHelper-Command-PCE-Help": "(<abort>) クレセントアイル内のCEへ自動移動する / 自動移動を中断す",
     "OccultCrescentHelper-Command-PFate-Help": "(<abort>) クレセントアイル内の進行度が最も低いF.A.T.E.またはマジックポットへ自動移動 / 自動移動をキャンセル",
-    "OccultCrescentHelper-Command-PTP-Help": "<索引 / 名称 (大小写不敏感, 部分包含)> 传送至对应的魔路",
+    "OccultCrescentHelper-Command-PTP-Help": "<インデックス / 名称 (大・小文字を区別しない、部分一致)>対応する魔道路へテレポする",
     "OccultCrescentHelper-Command-PTreasure-Help": "<ルート名 (大文字・小文字を区別しない / 部分一致) / abort> 指定した自動トレジャーハントルートを開始 / 自動トレジャーハントを中断",
     "OccultCrescentHelper-DistanceTo": "距離しきい値 (m)",
     "OccultCrescentHelper-Highlight": "ハイライト表示",
