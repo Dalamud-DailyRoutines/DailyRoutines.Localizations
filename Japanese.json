@@ -1946,7 +1946,7 @@
     "OccultCrescentHelper-SupportJobManager-Berserker-RageAutoFace": "「あばれる」 自動でターゲットの方向を向く",
     "OccultCrescentHelper-SupportJobManager-Berserker-RageAutoFace-Help": "サポートバーサーカーのスキル「あばれる」使用時、自動で現在のターゲットの方を向く",
     "OccultCrescentHelper-SupportJobManager-Berserker-RageReplace": "「あばれる」のアニメーションを置き換える",
-    "OccultCrescentHelper-SupportJobManager-Berserker-RageReplace-Help": "使用战士的“裂石飞环”技能动画替换辅助狂战士的“狂怒”技能动画",
+    "OccultCrescentHelper-SupportJobManager-Berserker-RageReplace-Help": "「あばれる」のアニメーションを戦士の「フェルクリーヴ」のものに置き換える",
     "OccultCrescentHelper-SupportJobManager-Monk-PhantomKickNoMove": "“踢击”无位移",
     "OccultCrescentHelper-SupportJobManager-Monk-PhantomKickNoMove-Help": "使用辅助武僧的“踢击”技能时不再产生任何位移效果",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures": "トレジャーハント",
