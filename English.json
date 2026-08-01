@@ -1220,7 +1220,7 @@
     "BetterMKDSupportJobList-DragRealActionIcon-Help": "Make the actions assigned to hot bars immutable or not.\n\nIf the option is checked, the actions assigned to hot bars will be persistent no matter how users switch among phantom jobs.\nIf not, the actions assigned will be some kind of Duty Actions which will vary based on the current phantom job.",
     "BetterMKDSupportJobList-ModifySupportJobOrder": "调整辅助职业显示顺序",
     "BetterMKDSupportJobList-SupportJobUnlockLink": "Ways to unlock",
-    "BetterMKDSupportJobListDescription": "将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等",
+    "BetterMKDSupportJobListDescription": "Replace Phantom Job Repertoire in Occult Crescent with a module interface using vanilla assets for better access, including custom order, explicit job names, immutable actions, unlock methods etc.",
     "BetterMKDSupportJobListTitle": "Better Phantom Job Repertoire",
     "BetterMountRouletteDescription": "Provide a better Mount Roulette which allows users to set dedicated lists for specified zones individually and assign an unlimited number of mounts to a list.",
     "BetterMountRouletteTitle": "Better Mount Roulette",
