@@ -2007,7 +2007,7 @@
     "OptimizedFreeCompanyChest-ExchangableItemsTotalValue": "Value Of Exchangeables",
     "OptimizedFreeCompanyChest-FastMove": "Better Shuttling",
     "OptimizedFreeCompanyChest-FastMoveHelp": "Items could be stored or retrieved by right clicking if enabled",
-    "OptimizedFreeCompanyChestDescription": "Provide a better Company Chest which has no mandatory action interval applied, allows users to shuttle items by right clicking and to customize the default page, shows useful information and statistics nearby, and etc.",
+    "OptimizedFreeCompanyChestDescription": "Provide a better Company Chest which has no mandatory action interval applied, allows users to shuttle items by right clicking and to customize the default page, shows useful information and statistics nearby etc.",
     "OptimizedFreeCompanyChestTitle": "Better Company Chest",
     "OptimizedFreeShop-BatchClaim": "Claim in batch",
     "OptimizedFreeShop-FastClaim": "No Confirmation",
