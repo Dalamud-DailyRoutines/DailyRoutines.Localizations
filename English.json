@@ -1218,7 +1218,7 @@
     "BetterMKDSupportJobList-CommandHelp": "打开/关闭自定义辅助职业列表界面",
     "BetterMKDSupportJobList-DragRealActionIcon": "Immutable Actions",
     "BetterMKDSupportJobList-DragRealActionIcon-Help": "Make the actions assigned to hot bars immutable or not.\n\nIf the option is checked, the actions assigned to hot bars will be persistent no matter how users switch among phantom jobs.\nIf not, the actions assigned will be some kind of Duty Actions which will vary based on the current phantom job.",
-    "BetterMKDSupportJobList-ModifySupportJobOrder": "调整辅助职业显示顺序",
+    "BetterMKDSupportJobList-ModifySupportJobOrder": "Adjust Phantom Job Order",
     "BetterMKDSupportJobList-SupportJobUnlockLink": "Unlock Requirement",
     "BetterMKDSupportJobListDescription": "Replace Phantom Job Repertoire in Occult Crescent with a module interface using vanilla assets for better access, including custom order, explicit job names, immutable actions, unlock requirements, etc.",
     "BetterMKDSupportJobListTitle": "Better Phantom Job Repertoire",
