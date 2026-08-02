@@ -255,6 +255,7 @@
     "AutoDisplayTreasureMapLocation-CommandHelp": "현재 해독된 보물지도 위치 열기",
     "AutoDisplayTreasureMapLocationDescription": "보물지도 해독/사용 시, 자동으로 지도를 열고 상세 위치를 표시합니다.",
     "AutoDisplayTreasureMapLocationTitle": "보물지도 위치 자동 표시",
+    "AutoDisplayZoneServerID-DTR-Tooltip": "左键: 复制当前副本 ID\n右键: 打开当前副本 ID 对应的众包记录网站页面",
     "AutoDisplayZoneServerID-ServerID": "임무 ID",
     "AutoDisplayZoneServerIDDescription": "특수 필드 탐색에 진입할 때 서버 정보 표시줄에 현재 인스턴스 ID를 자동으로 표시하고, 채팅 메시지로 알림을 보냅니다.",
     "AutoDisplayZoneServerIDTitle": "특수 필드 탐색 인스턴스 ID 자동 표시",
