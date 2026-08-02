@@ -1957,6 +1957,8 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "自分と宝箱の距離が設定した閾値以内になったとき、自動的にパケットを送信して宝箱に近づき、開けたあと元の位置に戻る。",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "エリアの開始地点に近すぎます。少し離れて、周囲に人がいないことを確認してから「スタート」をクリックしてください。",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "トレジャーハント終了",
+    "OccultCrescentHelper-TreasureManager-Route-Subterrane-Description": "由于地下空洞区域高低差极大, 请在妖火渔村附近开始本条路线以全程保持在地表",
+    "OccultCrescentHelper-TreasureManager-Route-SuspendedMasonry-Description": "由于浮游遗迹下方空间极大, 请登上浮岛后再开始本条路线以免在过程中被其他玩家意外目击",
     "OccultCrescentHelperDescription": "「蜃気楼の島 クレセントアイル」関連コンテンツのプレイをアシスト\n(テレポ実行 / エリアイベント通知、自動ターゲット / 宝箱の自動開封など)",
     "OccultCrescentHelperTitle": "『クレセントアイル』アシスト",
     "Offset": "オフセット",
