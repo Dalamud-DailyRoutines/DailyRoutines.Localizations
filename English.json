@@ -255,6 +255,7 @@
     "AutoDisplayTreasureMapLocation-CommandHelp": "to display the treasure location of the current timeworn map.",
     "AutoDisplayTreasureMapLocationDescription": "Automatically reveal the treasure location after deciphering or checking a timeworn map.",
     "AutoDisplayTreasureMapLocationTitle": "Auto Reveal Treasure Location",
+    "AutoDisplayZoneServerID-DTR-Tooltip": "左键: 复制当前副本 ID\n右键: 打开当前副本 ID 对应的众包记录网站页面",
     "AutoDisplayZoneServerID-ServerID": "Instance ID",
     "AutoDisplayZoneServerIDDescription": "Provide the instance ID in Server Info Bar and send a notification indicating the instance ID while joining a Field Operation duty.",
     "AutoDisplayZoneServerIDTitle": "Explicit Instance ID For Field Operations",
