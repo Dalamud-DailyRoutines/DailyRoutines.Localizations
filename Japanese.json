@@ -255,6 +255,7 @@
     "AutoDisplayTreasureMapLocation-CommandHelp": "解読済みの宝の地図の位置をマップで開く",
     "AutoDisplayTreasureMapLocationDescription": "宝の地図を解読/使用した際、自動でマップを開き詳細な目的地にフラグを設定する",
     "AutoDisplayTreasureMapLocationTitle": "宝の地図の場所を自動でマップに表示する",
+    "AutoDisplayZoneServerID-DTR-Tooltip": "左键: 复制当前副本 ID\n右键: 打开当前副本 ID 对应的众包记录网站页面",
     "AutoDisplayZoneServerID-ServerID": "島ID",
     "AutoDisplayZoneServerIDDescription": "特殊フィールド探索コンテンツ突入時、サーバー情報に現在の島IDを自動表示し、チャットメッセージで通知する",
     "AutoDisplayZoneServerIDTitle": "特殊フィールド探索の島IDを表示",
