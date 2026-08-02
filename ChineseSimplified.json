@@ -255,6 +255,7 @@
     "AutoDisplayTreasureMapLocation-CommandHelp": "打开当前已解读藏宝图的位置",
     "AutoDisplayTreasureMapLocationDescription": "解读/使用藏宝图时, 自动打开地图并标记详细位置",
     "AutoDisplayTreasureMapLocationTitle": "自动显示藏宝图位置",
+    "AutoDisplayZoneServerID-DTR-Tooltip": "左键: 复制当前副本 ID\n右键: 打开当前副本 ID 对应的众包记录网站页面",
     "AutoDisplayZoneServerID-ServerID": "副本 ID",
     "AutoDisplayZoneServerIDDescription": "进入特殊场景探索副本时, 自动在服务器信息栏显示当前所在的副本 ID, 并发送聊天消息提醒",
     "AutoDisplayZoneServerIDTitle": "自动显示特殊场景探索副本 ID",
