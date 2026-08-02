@@ -1923,7 +1923,7 @@
     "OccultCrescentHelper-CEManager-NotifyCEStarts": "CE Notification",
     "OccultCrescentHelper-CEManager-NotifyEventAppears": "Notify when events are up",
     "OccultCrescentHelper-CEManager-SpecialRewards": "Special Rewards",
-    "OccultCrescentHelper-Command-PBuff-Help": "Automatically execute phantom actions which provide durable buffs.",
+    "OccultCrescentHelper-Command-PBuff-Help": "Auto Phantom Action For Durable Buff",
     "OccultCrescentHelper-Command-PCE-Help": "( <abort> ) to navigate to the CE in the current zone, or to abort an ongoing process.",
     "OccultCrescentHelper-Command-PFate-Help": "( <abort> ) to navigate to the FATE with the least progress in the current zone or the magic pot quest via wayfinding, or to abort an ongoing process.",
     "OccultCrescentHelper-Command-PTP-Help": "<index / name (case insensitive, partial inclusive)> to teleport to the specified occult aetheryte.",
