@@ -1941,7 +1941,7 @@
     "OccultCrescentHelper-OthersManager-ModifyInfoHUD-Help": "Provide various shortcuts in the information interface for better access to the module interface, the map, buff renewals and other helpful miscellaneous.",
     "OccultCrescentHelper-OthersManager-Notification-CrystalNotFound": "No available Knowledge Crystal nearby or you're too far from any Knowledge Crystal.",
     "OccultCrescentHelper-PrioritizeMoveTo": "Prioritize to travel normally",
-    "OccultCrescentHelper-SupportJobManager-Bard-OffensiveAria": "Auto Offensive Aria",
+    "OccultCrescentHelper-SupportJobManager-Bard-OffensiveAria": "Auto \"Offensive Aria\"",
     "OccultCrescentHelper-SupportJobManager-Bard-OffensiveAria-Help": "Automatically execute \"Offensive Aria\" if the character is not holding the status or the remaining time of the status is less than 20 seconds.",
     "OccultCrescentHelper-SupportJobManager-Berserker-RageAutoFace": "Auto Orient For \"Rage\"",
     "OccultCrescentHelper-SupportJobManager-Berserker-RageAutoFace-Help": "Automatically orient to the current target while executing Phantom Berserker's \"Rage\".",
