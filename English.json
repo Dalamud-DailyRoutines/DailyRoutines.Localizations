@@ -1959,7 +1959,7 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "The character is too close to the starting point of the area. Please stay away and make sure no other players are nearby before starting.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "The current round of coffer collections has ended.",
     "OccultCrescentHelper-TreasureManager-Route-Subterrane-Description": "由于地下空洞区域高低差极大, 请在妖火渔村附近开始本条路线以全程保持在地表",
-    "OccultCrescentHelper-TreasureManager-Route-SuspendedMasonry-Description": "由于浮游遗迹下方空间极大, 请登上浮岛后再开始本条路线以免在过程中被其他玩家意外目击",
+    "OccultCrescentHelper-TreasureManager-Route-SuspendedMasonry-Description": "There's a vast amount of space beneath the surface at Suspended Masonry. Please initiate the route after landing on the floating island in order to prevent being spotted by other players.",
     "OccultCrescentHelperDescription": "Provide various assistance for the Occult Crescent series of duties, including better teleportation, CE & FATE notifications, auto coffer highlighting & contacting, etc.",
     "OccultCrescentHelperTitle": "Occult Crescent Helper",
     "Offset": "Offset",
