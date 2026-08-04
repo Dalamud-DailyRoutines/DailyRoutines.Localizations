@@ -1955,7 +1955,7 @@
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-Help": "Automatically navigate along a preset route and open all the coffers spotted.\n\nNote:\n\t- Please enable the \"Auto Open Coffers Nearby\" feature provided by the module, since the module couldn't work with similar features provided by other plugins. It's recommended to set a distance threshold less than or equal to 5.\n\t- The module will spoof all the data packets related to movement from the client during the process, in order to keep all the actions invisible to other players.\n\t- The character will cast \"Occult Return\" once a route has been fully travelled.",
     "OccultCrescentHelper-TreasureManager-AutoHuntTresures-LeftPoints": "Remaining Nodes",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "Auto Open Coffers Nearby",
-    "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "过大的值会因超出瞬间移动速度容忍范围而在尝试打开宝箱时被服务器强行登出下线，若网络环境不良，设置值最好不要大于 5",
+    "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "A excessively high threshold may lead to disconnection due to the speed detection deployed on the server. It's recommended to set a value less than or equal to 5 if your network is not consistently reliable.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "Open a coffer via direct packet operations if the distance is less than the given threshold.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "The character is too close to the starting point of the area. Please stay away and make sure no other players are nearby before starting.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "The current round of coffer collections has ended.",
