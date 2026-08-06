@@ -213,7 +213,7 @@
     "AutoDiscard-AddItemsByName": "名前で追加（スラッシュを含み、大文字小文字は区別しません）",
     "AutoDiscard-AddItemsManual": "手動でアイテムを追加",
     "AutoDiscard-AddNewGroupInputNameHelp": "新しい設定グループ名を入力してください。重複は不可です",
-    "AutoDiscard-AddToGroupMenu": "添加到自动丢弃配置组",
+    "AutoDiscard-AddToGroupMenu": "自動破棄グループに追加",
     "AutoDiscard-CommandHelp": "<アイテムセット>指定した自動廃棄モジュールのアイテムセットを実行",
     "AutoDiscard-ItemsOverview": "アイテム概要",
     "AutoDiscard-NoItemInGroupHelp": "アイテムがありません、アイテムを追加",
