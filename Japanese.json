@@ -2158,7 +2158,7 @@
     "PluginPrerequisite-Intentsion-vnavmesh": "ナビゲーション経路探索",
     "PoolOfTributeHelperDescription": "「{0}」に突入後、ステータス効果「{1}」が付与されたPTメンバーを自動的にマーキングし、正しい「{2}」を迅速に撃破する。",
     "PoolOfTributeHelperTitle": "「スサノオ討滅戦」アシスト",
-    "PortraitAnimationTimeEditor-AddonTitle": "动作调整",
+    "PortraitAnimationTimeEditor-AddonTitle": "モーション調整",
     "PortraitAnimationTimeEditorDescription": "ポートレート編集画面を開くと、ポートレートのモーションをフレーム単位で調整・確認し、保存できます。",
     "PortraitAnimationTimeEditorTitle": "ポートレートのモーションをフレーム単位で編集",
     "Position": "座標",
