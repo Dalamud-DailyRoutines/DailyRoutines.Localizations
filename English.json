@@ -360,7 +360,7 @@
     "AutoGardensWorkDescription": "Auto or semi-auto finish garden related operations, including planting, harvesting, fertilization, care, etc",
     "AutoGardensWorkTitle": "Auto Gardening",
     "AutoGatherDiadem-AutoDiscardGroupName": "Config group name from the module `Auto Discard Items`",
-    "AutoGatherDiadem-AutoDiscardGroupNameHelp": "If you'd like to clean up the inventory after counting materials, please configure a config group in the module `Auto Discard Items`, then put the config group name here. Cleaning up will be disbaled if left blank.",
+    "AutoGatherDiadem-AutoDiscardGroupNameHelp": "For automatically inventory cleanup, please create a group in the module \"Auto Discard Items\" first, and enter your group name here. Cleanup will be disbaled if it's left blank.",
     "AutoGatherDiadem-BlacklistMonsters": "Aetheromatic Auger Blacklist",
     "AutoGatherDiadem-BlacklistMonstersHelp": "Add names of monsters here which you wouldn't like to cast Aetheromatic Auger on.",
     "AutoGatherDiadem-BlacklistWeathers": "Blacklist Weathers",
