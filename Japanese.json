@@ -733,7 +733,7 @@
     "AutoPetFollowTitle": "【SMN/SCH/ACN】カーバンクル/エオスを自動追従",
     "AutoPlayerCommend-BlacklistContents": "ブラックリストコンテンツ",
     "AutoPlayerCommend-BlockBlacklistPlayers": "ブラックリスト内のプレイヤー無視する",
-    "AutoPlayerCommend-ContextMenu-AssignNobody": "最適メンバーを自動推薦しない",
+    "AutoPlayerCommend-ContextMenu-AssignNobody": "MIP推薦しない",
     "AutoPlayerCommend-ContextMenu-AssignPlayer": "MIPに指定",
     "AutoPlayerCommend-Notification-AssignedNobody": "今回のコンテンツでMIP推薦しない設定にしました",
     "AutoPlayerCommend-Notification-AssignedPlayer": "MIP推薦に指定しました {0} ({1}{2})",
