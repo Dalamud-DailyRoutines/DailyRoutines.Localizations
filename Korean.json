@@ -1275,7 +1275,7 @@
     "BottomRight": "오른쪽 하단",
     "BrayfloxsLongstopHelperDescription": "임무 \"{0}\"에 입장 후, 자동으로 \"{1}\"와(과) 대화하여 \"{2}\"(을)를 획득합니다.",
     "BrayfloxsLongstopHelperTitle": "\"브레이플록스의 야영지\" 도우미",
-    "BurnHelperDescription": "进入副本“死亡大地终末焦土”后，自动阻止选中或攻击处于“雾散”状态下的“雾龙”。",
+    "BurnHelperDescription": "进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。",
     "BurnHelperTitle": "死亡大地终末焦土助手",
     "CallbackCommand-CommandHelp": "<UI 내부 이름> <매개변수...> 지정한 UI의 콜백을 실행합니다.",
     "CallbackCommand-CommandHelp-Detailed": "예시:\n\t/pdr {0} SelectYesno 0\n\t설명:SelectYesno 화면(가장 일반적인 \"예/아니오\" 다이얼로그)에 대해, 인수 0(int형)의 콜백을 실행합니다.\n\t효과: \"예\" 버튼을 클릭하는 것과 동일합니다. (인수를 1로 바꾸면 \"아니오\" 버튼과 동일합니다)\n\n참고:\n\t- UI 내부 이름은 /xldata AddonInspector 화면에서 확인할 수 있습니다.\n\t- 콜백 인수는 Simple Tweaks Plugin이 제공하는 /tweaks Debug 화면 내의 \"Addon Logging - Callbacks\" 페이지에서 기록 및 확인할 수 있습니다.",
