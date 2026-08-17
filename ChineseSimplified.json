@@ -1323,6 +1323,8 @@
     "ChineseNumericalNotation-NoChineseUnit": "不使用中文单位",
     "ChineseNumericalNotationDescription": "按照中文习惯以 万、亿 为基本单位显示游戏内数字, 并将剩余数字由千分位分隔改为万分位分隔",
     "ChineseNumericalNotationTitle": "中文风格数字显示模式",
+    "ChrysalisHelperDescription": "进入副本“那布里亚勒斯讨伐战”后，自动根据当前自身状态突出标记将要碰撞的球体。",
+    "ChrysalisHelperTitle": "那布里亚勒斯讨伐战助手",
     "Clear": "清除",
     "Click": "点击",
     "ClickToCopy": "单击以复制",
