@@ -1323,7 +1323,7 @@
     "ChineseNumericalNotation-NoChineseUnit": "Do not use Chinese units",
     "ChineseNumericalNotationDescription": "Display numbers in units of ten thousand \"wan\" and one hundred million \"yi\" and separate the numbers by ten thousands instead of thousand according to Chinese custom.",
     "ChineseNumericalNotationTitle": "Chinese Number Format",
-    "ChrysalisHelperDescription": "进入副本“那布里亚勒斯讨伐战”后，自动根据当前自身状态突出标记将要碰撞的球体。",
+    "ChrysalisHelperDescription": "Automatically mark orbs to be soaked according to the vulnerability status on the character in the duty \"Chrysalis\".",
     "ChrysalisHelperTitle": "Chrysalis Helper",
     "Clear": "Clear",
     "Click": "Click",
