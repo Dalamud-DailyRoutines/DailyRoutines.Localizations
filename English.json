@@ -23,7 +23,7 @@
     "Auth-Credential-Account": "AID",
     "Auth-Credential-Account-UsageHint": "A unique credential to identify the Square Enix account. All modules require authentication would be available on all characters belong to the Square Enix account after a successful authentication.",
     "Auth-Credential-Device": "TID",
-    "Auth-Credential-Device-UsageHint": "绑定单一设备，激活后运行在该设备上的插件视为已激活。\n相比于“机器认证凭证”，采用了更加稳定、现代且联网的算法, 更不易发生变更。",
+    "Auth-Credential-Device-UsageHint": "A unique credential to identify the device. All modules require authentication would be available on the device after a successful authentication.\nCompared with the existing Machine Credential (MID), TID is created on an online modern algorithm with better stability, making it significantly less likely to vary across different scenarios.",
     "Auth-Credential-EmptyHint": "It's unable to generate a valid credential. Potential reasons are as follows:",
     "Auth-Credential-EmptyHint-IncompleteDevice": "The device couldn't be identified properly. (e.g. on a virtual machine)",
     "Auth-Credential-EmptyHint-NeedLogin": "Not Logged In",
