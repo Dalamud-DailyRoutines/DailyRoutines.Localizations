@@ -491,6 +491,8 @@
     "AutoJumboCactpot-Random": "랜덤",
     "AutoJumboCactpotDescription": "일일 복권 UI를 열면 이번 주 모든 일일 복권을 자동으로 구매합니다.",
     "AutoJumboCactpotTitle": "일일 복권 자동 실행",
+    "AutoKeepTargetBeyondRangeDescription": "目标超出有效范围时不再自动取消选中；只要仍在内存中，即可保持选中状态。同时，在焦点目标界面中，也可再次选中超出范围的目标。",
+    "AutoKeepTargetBeyondRangeTitle": "自动保持目标选中状态",
     "AutoLeaveDuty-BlacklistContents": "블랙리스트 컨텐츠",
     "AutoLeaveDuty-BlacklistContents-Help": "임무 완료 시 자동으로 퇴장하지 않도록 설정합니다.",
     "AutoLeaveDuty-ForceToLeave": "퇴장 제한 무시",
