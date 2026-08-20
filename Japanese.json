@@ -491,6 +491,8 @@
     "AutoJumboCactpot-Random": "ランダム",
     "AutoJumboCactpotDescription": "ジャンボ・くじテンダーのUIを開くと、今週のすべてのジャンボ・くじテンダーを自動で購入します",
     "AutoJumboCactpotTitle": "自動でジャンボ・くじテンダーを実行する",
+    "AutoKeepTargetBeyondRangeDescription": "目标超出有效范围时不再自动取消选中；只要仍在内存中，即可保持选中状态。同时，在焦点目标界面中，也可再次选中超出范围的目标。",
+    "AutoKeepTargetBeyondRangeTitle": "自动保持目标选中状态",
     "AutoLeaveDuty-BlacklistContents": "ブラックリストコンテンツ",
     "AutoLeaveDuty-BlacklistContents-Help": "設定したコンテンツをクリア時、自動的に退出しないように設定します。",
     "AutoLeaveDuty-ForceToLeave": "退出制限無視",
