@@ -491,6 +491,8 @@
     "AutoJumboCactpot-Random": "Aléatoire",
     "AutoJumboCactpotDescription": "Complète automatiquement tous les Jumbo Cactpot du jour après ouverture de l'interface.",
     "AutoJumboCactpotTitle": "Jumbo Cactpot automatique",
+    "AutoKeepTargetBeyondRangeDescription": "目标超出有效范围时不再自动取消选中；只要仍在内存中，即可保持选中状态。同时，在焦点目标界面中，也可再次选中超出范围的目标。",
+    "AutoKeepTargetBeyondRangeTitle": "自动保持目标选中状态",
     "AutoLeaveDuty-BlacklistContents": "Liste noire des missions",
     "AutoLeaveDuty-BlacklistContents-Help": "Les missions définies ici ne seront pas quittées automatiquement une fois terminées.",
     "AutoLeaveDuty-ForceToLeave": "Forcer la sortie de mission",
