@@ -491,6 +491,8 @@
     "AutoJumboCactpot-Random": "隨機",
     "AutoJumboCactpotDescription": "進入仙人仙彩界面後, 自動購買本週所有的仙人彩",
     "AutoJumboCactpotTitle": "自動完成仙人仙彩",
+    "AutoKeepTargetBeyondRangeDescription": "目标超出有效范围时不再自动取消选中；只要仍在内存中，即可保持选中状态。同时，在焦点目标界面中，也可再次选中超出范围的目标。",
+    "AutoKeepTargetBeyondRangeTitle": "自动保持目标选中状态",
     "AutoLeaveDuty-BlacklistContents": "黑名單副本",
     "AutoLeaveDuty-BlacklistContents-Help": "此處設置副本完成時, 不會自動退出",
     "AutoLeaveDuty-ForceToLeave": "強制退本",
