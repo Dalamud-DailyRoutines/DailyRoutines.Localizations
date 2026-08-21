@@ -1058,7 +1058,7 @@
     "AutoSubmarineCollectTitle": "Collecte automatique des explorations sous-marines",
     "AutoSummonBuddyChocobo-AutoSwitchStance": "Changement automatique de posture du chocobo",
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "Renouveler hors disciple de la guerre ou de la magie",
-    "AutoSummonBuddyChocobo-NotificationMessage": "Le nombre de légumes de Gysahl restants est insuffisant. Pensez à en refaire le plein dès que possible.",
+    "AutoSummonBuddyChocobo-NotificationMessage": "基萨尔野菜数量不足，请及时补充。",
     "AutoSummonBuddyChocoboDescription": "Invoque automatiquement le compagnon chocobo en consommant des légumes de Gysahl lorsque le personnage est dans une zone non instanciée et que le compagnon n'est pas disponible ou qu'il lui reste moins de 5 minutes.",
     "AutoSummonBuddyChocoboTitle": "Invocation automatique du compagnon",
     "AutoSummonPetDescription": "Invoque automatiquement les familiers à l'entrée en mission ou lors d'une nouvelle tentative si vous êtes Invocateur ou Érudit.",
