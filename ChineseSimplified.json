@@ -1058,7 +1058,7 @@
     "AutoSubmarineCollectTitle": "自动收取潜水艇",
     "AutoSummonBuddyChocobo-AutoSwitchStance": "自动切换陆行鸟战术",
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜",
-    "AutoSummonBuddyChocobo-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
+    "AutoSummonBuddyChocobo-NotificationMessage": "基萨尔野菜数量不足，请及时补充。",
     "AutoSummonBuddyChocoboDescription": "若当前在野外区域, 且自身陆行鸟搭档尚未被召唤/剩余时间低于 5 分钟, 则自动使用基萨尔野菜召唤搭档陆行鸟",
     "AutoSummonBuddyChocoboTitle": "自动召唤搭档陆行鸟",
     "AutoSummonPetDescription": "若当前职业为召唤师或学者, 则在进入副本或触发重新挑战后, 自动召唤召唤兽",
