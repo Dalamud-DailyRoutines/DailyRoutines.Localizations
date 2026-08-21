@@ -1058,7 +1058,7 @@
     "AutoSubmarineCollectTitle": "Auto Collect Subaquatic Voyages",
     "AutoSummonBuddyChocobo-AutoSwitchStance": "Auto Switch Chocobo Stance",
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "Renew When Not A Disciple Of War Or Magic",
-    "AutoSummonBuddyChocobo-NotificationMessage": "The remaining gysahl greens are insufficient. Please consider replenish them when appropriate.",
+    "AutoSummonBuddyChocobo-NotificationMessage": "基萨尔野菜数量不足，请及时补充。",
     "AutoSummonBuddyChocoboDescription": "Automatically summon the companion consuming a bunch of gysahl greens when the character is in a non-instanced area and the companion is not available or the companion duration is less than 5 minutes.",
     "AutoSummonBuddyChocoboTitle": "Auto Summon Companion",
     "AutoSummonPetDescription": "Auto summon pets when entering duty or retrying if you are SMN or SCH",
