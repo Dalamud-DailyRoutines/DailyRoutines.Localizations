@@ -1058,7 +1058,7 @@
     "AutoSubmarineCollectTitle": "潜水艦自動回収",
     "AutoSummonBuddyChocobo-AutoSwitchStance": "バディチョコボのスタンス自動切り替え",
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "非戦闘職の状態でもギサールの野菜を使用する",
-    "AutoSummonBuddyChocobo-NotificationMessage": "基萨尔野菜数量不足，请及时补充。",
+    "AutoSummonBuddyChocobo-NotificationMessage": "ギザールの野菜が足りません。補充してください。",
     "AutoSummonBuddyChocoboDescription": "フィールドエリアに滞在中で、バディチョコボが未召喚、または残り時間が5分未満の場合、ギサールの野菜を使用して自動的にバディを召喚します。",
     "AutoSummonBuddyChocoboTitle": "バディチョコボの自動召喚",
     "AutoSummonPetDescription": "現在のジョブが、召喚師/学者/巴術士の場合、コンテンツに進入・リスタート時に自動的にカーバンクル/エオスを召喚します",
