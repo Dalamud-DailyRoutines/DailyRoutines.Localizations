@@ -1682,7 +1682,7 @@
     "FastWorldTravel-DtrEntryTooltip": "[左鍵] 打開快捷跨界傳送界面\n[右鍵] 回到原始伺服器",
     "FastWorldTravel-Notification-CrossDCTravel": "超域旅行功能仅在国服可用，请等待后续更新中对其他地区的支持。",
     "FastWorldTravel-Notification-TravelBackConfirm": "确定要回到原始服务器（{0}）吗？",
-    "FastWorldTravel-Notification-TravelingTo": "正在跨界传送至：{0}。",
+    "FastWorldTravel-Notification-TravelingTo": "准备使用跨界传送前往{0}。",
     "FastWorldTravel-ReplaceOrigAddon": "替换游戏原生的“跨界传送”界面",
     "FastWorldTravel-SkipTravelBackConfirm": "跳过返回原始服务器确认",
     "FastWorldTravelDescription": "快速跨界傳送並顯示伺服器資訊, 支持三主城內任意位置發起跨界、副本外任意區域開始自動跨服等, 通過 /pdr {0} 指令快捷跨界傳送或點擊伺服器資訊欄條目打開遊戲原生風格界面互動跨界",
