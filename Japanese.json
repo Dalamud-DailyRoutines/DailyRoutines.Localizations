@@ -1682,7 +1682,7 @@
     "FastWorldTravel-DtrEntryTooltip": "[左クリック] ワールド間テレポ画面を開く\n[右クリック] ホームワールドへ戻る",
     "FastWorldTravel-Notification-CrossDCTravel": "DCトラベル機能は中国版でのみ利用可能です。他リージョンへの対応につきましては、今後のアップデートをお待ちください",
     "FastWorldTravel-Notification-TravelBackConfirm": "ホームワールド（{0}）へ戻ってもよろしいですか？",
-    "FastWorldTravel-Notification-TravelingTo": "{0} へワールド間テレポ中…",
+    "FastWorldTravel-Notification-TravelingTo": "准备使用跨界传送前往{0}。",
     "FastWorldTravel-ReplaceOrigAddon": "ゲームデフォルトの「ワールド間移動」UIを置き換える",
     "FastWorldTravel-SkipTravelBackConfirm": "ホームワールドに戻る際の確認ダイアログをスキップする",
     "FastWorldTravelDescription": "ワールド間テレポを素早く実行し、サーバー情報を表示します。 三都市内のあらゆる場所からの実行や、コンテンツ外の任意エリアからの自動テレポ等に対応。 /pdr {0} コマンドでのクイック実行、またはサーバー情報欄の項目をクリックしてゲーム本来のデザインに合わせた画面から操作が可能です。",
