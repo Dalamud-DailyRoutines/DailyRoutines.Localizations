@@ -1682,7 +1682,7 @@
     "FastWorldTravel-DtrEntryTooltip": "[좌클릭] 빠른 서버 텔레포 창 열기\n[우클릭] 고향 서버로 돌아가기",
     "FastWorldTravel-Notification-CrossDCTravel": "超域旅行功能仅在国服可用，请等待后续更新中对其他地区的支持。",
     "FastWorldTravel-Notification-TravelBackConfirm": "确定要回到原始服务器（{0}）吗？",
-    "FastWorldTravel-Notification-TravelingTo": "正在跨界传送至：{0}。",
+    "FastWorldTravel-Notification-TravelingTo": "准备使用跨界传送前往{0}。",
     "FastWorldTravel-ReplaceOrigAddon": "替换游戏原生的“跨界传送”界面",
     "FastWorldTravel-SkipTravelBackConfirm": "跳过返回原始服务器确认",
     "FastWorldTravelDescription": "빠른 서버 텔레포를 제공하고 서버 정보를 표시합니다. 세 주요 대도시 내 어디서든 서 텔레포트를 시작할 수 있으며, 던전 외 지역에서는 자동 서버 텔레포도 지원합니다. /pdr {0} 명령어로 빠르게 서버 텔레포트하거나, 서버 정보 바 항목을 클릭해 게임 기본 스타일 인터페이스에서 상호작용하며 서버 텔레포트할 수 있습니다.",
