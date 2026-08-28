@@ -2076,7 +2076,7 @@
     "OptimizedLetter-Button-Delete-All": "Delete All",
     "OptimizedLetter-Button-Delete-AllButPlayers": "Delete Non-friend",
     "OptimizedLetter-Notification-RewardDeliveryRequested": "A request has been sent. Please wait a moment for delivery. It's not recommended to send requests frequently.",
-    "OptimizedLetterDescription": "Provide a better letter system including batch attachment claims, batch letter deletion, a search bar while specifying a recipient, and no cooldown for the button \"Reward/Purchase Delivery Request\".",
+    "OptimizedLetterDescription": "Provide a better letter system including batch deletion, batch attachment claims, a search bar while specifying a recipient, and no cooldown for the button \"Reward/Purchase Delivery Request\".",
     "OptimizedLetterTitle": "Better Letters",
     "OptimizedMacro-CommandHelp": "<preset name> to apply the specified macro preset.",
     "OptimizedMacro-ConfirmBeforeDelete": "Double confirm before deleting a preset.",
