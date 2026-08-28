@@ -1682,7 +1682,7 @@
     "FastWorldTravel-DtrEntryTooltip": "[Clic gauche] Ouvrir l'interface améliorée de visite intermonde\n[Clic droit] Retourner sur le monde d'origine",
     "FastWorldTravel-Notification-CrossDCTravel": "超域旅行功能仅在国服可用，请等待后续更新中对其他地区的支持。",
     "FastWorldTravel-Notification-TravelBackConfirm": "确定要回到原始服务器（{0}）吗？",
-    "FastWorldTravel-Notification-TravelingTo": "正在跨界传送至：{0}。",
+    "FastWorldTravel-Notification-TravelingTo": "准备使用跨界传送前往{0}。",
     "FastWorldTravel-ReplaceOrigAddon": "替换游戏原生的“跨界传送”界面",
     "FastWorldTravel-SkipTravelBackConfirm": "跳过返回原始服务器确认",
     "FastWorldTravelDescription": "Fournit une visite intermonde améliorée avec des informations détaillées sur les mondes, permettant de s'inscrire à une visite intermonde depuis n'importe où dans les trois grandes cités et de lancer un processus automatique de visite intermonde depuis n'importe où hors mission. La visite intermonde peut être lancée via la commande /pdr {0}. Une interface graphique est également disponible via le raccourci dans la barre d'infos serveur.",
