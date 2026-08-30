@@ -1261,7 +1261,7 @@
     "BetterMarketBoard-OnlyOne": "Only Available",
     "BetterMarketBoard-Percent-Format": "{0}%",
     "BetterMarketBoard-PriceTrend": "Market Trend",
-    "BetterMarketBoard-Purchase-Help": "Hold the interrupt hotkey {0} to purchase without confirmation.",
+    "BetterMarketBoard-Purchase-Help": "按住打断热键 {0} 时点击右键，即可无需确认直接购买。",
     "BetterMarketBoard-RecentPurchase": "Recent",
     "BetterMarketBoard-ReloadMarketData": "刷新市场数据",
     "BetterMarketBoard-Samples-Format": "{0} transactions ({1} items)",
