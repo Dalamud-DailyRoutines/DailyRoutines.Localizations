@@ -1254,7 +1254,7 @@
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "{0} purchase requests have been sent automatically.",
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[Price Monitoring] {0} (Unit Price Threshold: {1})\nUnit Price: {2}\nQuantity: {3}\nTotal Price: {4} ({5}: {6})",
     "BetterMarketBoard-MarketData": "Market Data",
-    "BetterMarketBoard-NPCPrice": "NPC 售价：{0}",
+    "BetterMarketBoard-NPCPrice": "Price At NPCs: {0}",
     "BetterMarketBoard-NPCShopInfo": "Check Availability At NPCs",
     "BetterMarketBoard-OnlyOne": "Only Available",
     "BetterMarketBoard-Percent-Format": "{0}%",
