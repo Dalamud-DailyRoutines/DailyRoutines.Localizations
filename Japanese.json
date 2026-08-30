@@ -1261,7 +1261,7 @@
     "BetterMarketBoard-OnlyOne": "唯一在售",
     "BetterMarketBoard-Percent-Format": "{0}%",
     "BetterMarketBoard-PriceTrend": "価格推移",
-    "BetterMarketBoard-Purchase-Help": "割り込みホットキー {0} を押し続けると、確認なしで直接購入できます。",
+    "BetterMarketBoard-Purchase-Help": "按住打断热键 {0} 时点击右键，即可无需确认直接购买。",
     "BetterMarketBoard-RecentPurchase": "最近成交",
     "BetterMarketBoard-ReloadMarketData": "刷新市场数据",
     "BetterMarketBoard-Samples-Format": "{0} 笔 ({1} 件)",
