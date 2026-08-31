@@ -1234,7 +1234,7 @@
     "BetterMarketBoard-BatchPurchase-Button": "长按批量购买",
     "BetterMarketBoard-BatchPurchase-Total": "应付总额",
     "BetterMarketBoard-CollapseAllWorldPrices": "收起",
-    "BetterMarketBoard-CommandHelp": "切換市場布告板懸浮窗界面開關狀態",
+    "BetterMarketBoard-CommandHelp": "（<物品 ID / 物品名称>）开关市场布告板（以指定物品打开市场布告板）",
     "BetterMarketBoard-Config-AppendMarketStatsTooltip": "在道具幫助界面顯示市場數據",
     "BetterMarketBoard-Config-AppendMarketStatsTooltip-Help": "如果物品可以在市場上交易，會在對應的道具幫助界面顯示由 Universalis 提供的市場交易相關數據",
     "BetterMarketBoard-DailySales-Format": "{0}/天",
