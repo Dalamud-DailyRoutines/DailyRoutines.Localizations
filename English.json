@@ -1234,7 +1234,7 @@
     "BetterMarketBoard-BatchPurchase-Button": "Hold For Batch Purchase",
     "BetterMarketBoard-BatchPurchase-Total": "Total",
     "BetterMarketBoard-CollapseAllWorldPrices": "Collapse",
-    "BetterMarketBoard-CommandHelp": "to hide or display the dedicated floating window of Better Market Board.",
+    "BetterMarketBoard-CommandHelp": "（<物品 ID / 物品名称>）开关市场布告板（以指定物品打开市场布告板）",
     "BetterMarketBoard-Config-AppendMarketStatsTooltip": "Market Data In Item Help",
     "BetterMarketBoard-Config-AppendMarketStatsTooltip-Help": "Display market data of an item in its Item Help window if an item is tradeable.",
     "BetterMarketBoard-DailySales-Format": "{0} per day",
