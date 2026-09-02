@@ -1359,6 +1359,8 @@
     "ChrysalisHelperTitle": "那布里亚勒斯讨伐战助手",
     "Clear": "지우기",
     "Click": "클릭",
+    "ClickableAethernetDescription": "允许在地图中直接点击城内以太之晶发起传送，如同以太之光。",
+    "ClickableAethernetTitle": "城内以太之晶地图传送",
     "ClickToCopy": "클릭해 복사",
     "ClickToOpen": "클릭해 열기",
     "ClipboardMultiLineToOneLineDescription": "게임 내 한 줄 입력창에 텍스트를 붙여넣을 때는 여러 줄의 텍스트를 강제로 한 줄로 변환하여 입력합니다. 여러 줄 입력창에 텍스트를 붙여넣을 때는 각종 줄 바꿈 문자를 게임에서 지원하는 줄 바꿈 형식으로 강제 변환하여 편집 및 전송이 용이하도록 합니다.",
