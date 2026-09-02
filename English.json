@@ -1359,6 +1359,8 @@
     "ChrysalisHelperTitle": "Chrysalis Helper",
     "Clear": "Clear",
     "Click": "Click",
+    "ClickableAethernetDescription": "允许在地图中直接点击城内以太之晶发起传送，如同以太之光。",
+    "ClickableAethernetTitle": "城内以太之晶地图传送",
     "ClickToCopy": "Click To Copy",
     "ClickToOpen": "Click to Open",
     "ClipboardMultiLineToOneLineDescription": "Multi-line texts would be automatically converted into single-line texts while pasting in any single-line input bar. End-of-line characters would be converted into ones valid for the game while pasting in any multi-line input bar.",
