@@ -1359,6 +1359,8 @@
     "ChrysalisHelperTitle": "那布里亚勒斯讨伐战助手",
     "Clear": "清除",
     "Click": "點擊",
+    "ClickableAethernetDescription": "允许在地图中直接点击城内以太之晶发起传送，如同以太之光。",
+    "ClickableAethernetTitle": "城内以太之晶地图传送",
     "ClickToCopy": "單擊以複製",
     "ClickToOpen": "點擊以打開",
     "ClipboardMultiLineToOneLineDescription": "在遊戲內單行文本輸入框黏貼文本時, 強制將多行文本轉成單行; 在多行文本輸入框時, 強制將各類換行符都轉換為遊戲支持的換行符, 以方便編輯發送",
