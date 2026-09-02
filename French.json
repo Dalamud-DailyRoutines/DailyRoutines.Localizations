@@ -1359,6 +1359,8 @@
     "ChrysalisHelperTitle": "那布里亚勒斯讨伐战助手",
     "Clear": "Effacer",
     "Click": "Cliquer",
+    "ClickableAethernetDescription": "允许在地图中直接点击城内以太之晶发起传送，如同以太之光。",
+    "ClickableAethernetTitle": "城内以太之晶地图传送",
     "ClickToCopy": "Cliquer pour copier",
     "ClickToOpen": "Cliquer pour ouvrir",
     "ClipboardMultiLineToOneLineDescription": "Les textes multilignes seront automatiquement convertis en ligne unique lors du collage dans une zone de saisie mono-ligne. Les retours à la ligne seront convertis dans un format compatible avec le jeu lors du collage dans une zone multi-ligne.",
