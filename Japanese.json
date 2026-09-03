@@ -1172,7 +1172,7 @@
     "BetterBlacklistDescription": "機能を強化したブラックリストシステムを提供します。自分のPCローカルにジャンル別で上限なくブラックリストのプレイヤーを保存したり、リストを共有・インポートしたり、みんなで協力して作る共有ブラックリストに参加したりできます。",
     "BetterBlacklistTitle": "ブラックリスト改修",
     "BetterBlueSetLoad-CommandHelp": "指定したインデックスまたは名前の青魔法スキルセットを読み込む",
-    "BetterBlueSetLoadDescription": "优化青魔法书内有效技能组的读取机制，使切换时无需先行解除“以太复制”等状态。",
+    "BetterBlueSetLoadDescription": "优化青魔法书内有效技能组的读取机制，使切换时无需先行解除“以太复制”等状态或等待技能复唱时间归零，并新增 /pdr {0} 命令以快速切换技能组。",
     "BetterBlueSetLoadTitle": "【BLU】青魔法アクティブセットの読み込み改善",
     "BetterCommandInput-DeleteSpaceBeforeCommand": "コマンドの前に誤って入力された空白を削除する",
     "BetterCommandInputDescription": "コマンド入力時に、大小文字や全角半角の形式が正しくないコマンドを自動的に正しい形式に変換する",
