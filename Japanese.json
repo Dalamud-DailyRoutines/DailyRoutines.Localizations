@@ -778,7 +778,7 @@
     "AutoPreserveCollectableTitle": "収集品を自動で確認する",
     "AutoPreventDuplicateStatus-DetectType": "検出タイプ",
     "AutoPreventDuplicateStatus-Member": "PTメンバー",
-    "AutoPreventDuplicateStatus-Notification-Prevented": "{0}の詠唱を阻止しました",
+    "AutoPreventDuplicateStatus-Notification-Prevented": "{0}の使用を阻止しました",
     "AutoPreventDuplicateStatus-OverlapThreshold": "上書き許可の閾値 (秒)",
     "AutoPreventDuplicateStatus-OverlapThresholdHelp": "関連ステータスの残り時間\nしきい値を上回っている場合、アクションの更新を禁止\nしきい値を下回っている場合、アクションの更新を許可",
     "AutoPreventDuplicateStatus-RelatedStatus": "関連ステータス",
