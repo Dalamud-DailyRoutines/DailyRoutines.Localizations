@@ -1586,7 +1586,7 @@
     "ExpandMacroTargetParametersTitle": "매크로 대상 파라미터 확장",
     "ExpandPlayerMenuSearch-ContextMenu-Name": "在外部平台搜索",
     "ExpandPlayerMenuSearch-ContextMenu-SearchAll": "모두 검색",
-    "ExpandPlayerMenuSearch-ContextMenu-Search": "搜索“{0}”平台",
+    "ExpandPlayerMenuSearch-ContextMenu-Search": "在“{0}”上搜索",
     "ExpandPlayerMenuSearch-Notification-PlayerInfoNotFound": "没有找到对应玩家的信息。",
     "ExpandPlayerMenuSearchDescription": "플레이어 우클릭 메뉴에 여러 기능을 추가합니다.",
     "ExpandPlayerMenuSearchTitle": "플레이어 우클릭 메뉴 확장",
