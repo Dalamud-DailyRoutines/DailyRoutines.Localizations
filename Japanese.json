@@ -2215,7 +2215,7 @@
     "PermanentDisconnectStatusDescription": "現在のオンライン状態を常に通信切断のままにする。いわゆる『赤玉状態』。 (他の操作には影響しません)",
     "PermanentDisconnectStatusTitle": "永続的な通信切断状態",
     "PetSizeContextMenu-ContextMenu-Pet": "调整显示尺寸",
-    "PetSizeContextMenu-ContextMenu-Self": "调整召唤物显示尺寸",
+    "PetSizeContextMenu-ContextMenu-Self": "ペットの表示サイズ変更",
     "PetSizeContextMenuDescription": "召喚獣のコンテキストメニューに、サイズを素早く変更できるオプションを追加。",
     "PetSizeContextMenuTitle": "召唤物尺寸右键菜单",
     "PFPageSizeCustomize-DisplayAmount": "ページごと表示件数",
