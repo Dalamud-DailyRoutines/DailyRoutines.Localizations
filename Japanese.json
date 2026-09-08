@@ -2395,6 +2395,8 @@
     "Settings-Game-PreventAFK-Help": "有効にすると、ゲーム内の様々な離席タイマーを自動的に無効化します。これにより、オンライン状態の自動切り替え、非アクティブによるコンテンツからの強制退出、およびタイトル画面でのパッチムービーの自動再生などを防ぐことができます。",
     "Settings-Game-SkipLogo": "ロゴ画面をスキップ",
     "Settings-Game-SkipLogo-Help": "有効にすると、ゲーム起動時に表示される複数のロゴ画面を自動的にスキップし、ログイン画面へ素早く遷移します。",
+    "Settings-Game-StripeDRPrefix": "不显示“DR”前缀",
+    "Settings-Game-StripeDRPrefix-Help": "启用后，插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。\n（需要重启插件以生效）",
     "Settings-HelpTranslate": "翻訳支援",
     "Settings-LeftTabWidth": "左側サイドバーの幅",
     "Settings-ModuleConfiguration": "モジュール設定",
