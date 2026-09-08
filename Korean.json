@@ -2395,6 +2395,8 @@
     "Settings-Game-PreventAFK-Help": "활성화하면, 게임 내 다양한 자리 비움 타이머를 자동으로 무효화합니다. 이를 통해 온라인 상태의 자동 전환, 비활성으로 인한 콘텐츠 강제 퇴장, 타이틀 화면에서 영상 자동 재생 등을 방지할 수 있습니다.",
     "Settings-Game-SkipLogo": "로고 화면 건너뛰기",
     "Settings-Game-SkipLogo-Help": "활성화하면, 게임 시작 시 표시되는 여러 로고 화면을 자동으로 건너뛰고 로그인 화면으로 빠르게 이동합니다.",
+    "Settings-Game-StripeDRPrefix": "不显示“DR”前缀",
+    "Settings-Game-StripeDRPrefix-Help": "启用后，插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。\n（需要重启插件以生效）",
     "Settings-HelpTranslate": "번역 지원",
     "Settings-LeftTabWidth": "왼쪽 사이드바 너비",
     "Settings-ModuleConfiguration": "모듈 설정",
