@@ -2395,6 +2395,8 @@
     "Settings-Game-PreventAFK-Help": "Désactive automatiquement plusieurs minuteries internes du jeu liées aux événements AFK, comme le changement de statut en ligne, l'expulsion du groupe ou les cinématiques de l'écran titre.",
     "Settings-Game-SkipLogo": "Passer les logos",
     "Settings-Game-SkipLogo-Help": "Ignore automatiquement tous les logos de marque affichés au démarrage du client.",
+    "Settings-Game-StripeDRPrefix": "不显示“DR”前缀",
+    "Settings-Game-StripeDRPrefix-Help": "启用后，插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。\n（需要重启插件以生效）",
     "Settings-HelpTranslate": "Aidez-nous à traduire",
     "Settings-LeftTabWidth": "Largeur de la barre latérale gauche",
     "Settings-ModuleConfiguration": "Configurations des modules",
