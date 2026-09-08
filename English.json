@@ -2395,6 +2395,8 @@
     "Settings-Game-PreventAFK-Help": "Automatically disable several in-game timers controlling various AFK events, like switching online status, being kicked from the party and playing CG in the title screen. ",
     "Settings-Game-SkipLogo": "Skip Logos",
     "Settings-Game-SkipLogo-Help": "Automatically skip all the brand logos displayed during client startup.",
+    "Settings-Game-StripeDRPrefix": "不显示“DR”前缀",
+    "Settings-Game-StripeDRPrefix-Help": "启用后，插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。\n（需要重启插件以生效）",
     "Settings-HelpTranslate": "Help Us Translate",
     "Settings-LeftTabWidth": "Left Sidebar Width",
     "Settings-ModuleConfiguration": "Module Configs",
