@@ -2216,6 +2216,7 @@
     "PermanentDisconnectStatusTitle": "永续通信切断状态",
     "PetSizeContextMenu-ContextMenu-Pet": "调整显示尺寸",
     "PetSizeContextMenu-ContextMenu-Self": "调整召唤物显示尺寸",
+    "PetSizeContextMenu-ContextMenu-Sub": "变更尺寸为“{0}”",
     "PetSizeContextMenuDescription": "为召唤师的召唤物右键菜单中新增额外选项, 用于快捷调整召唤物尺寸",
     "PetSizeContextMenuTitle": "召唤物尺寸右键菜单",
     "PFPageSizeCustomize-DisplayAmount": "单页显示数量",
