@@ -1026,7 +1026,7 @@
     "AutoShowItemNPCShopInfo-Notification-InfoNotFound": "No purchase or usage found at NPC vendors.",
     "AutoShowItemNPCShopInfo-TooltipTitle": "Availability At NPC",
     "AutoShowItemNPCShopInfoDescription": "为物品新增右键菜单项与道具帮助信息，帮助快速查询其在各类商店中的交换来源与去向。",
-    "AutoShowItemNPCShopInfoTitle": "自动显示物品商店信息",
+    "AutoShowItemNPCShopInfoTitle": "Auto Display Item Info At NPCs",
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
     "AutoSkipBuddyFeedSceneTitle": "Auto skip cutscenes of feeding Chocobo",
     "AutoSnipeQuestDescription": "Auto avoid and change snipe quests into complete when starting snipe quests.",
