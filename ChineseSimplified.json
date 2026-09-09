@@ -2308,7 +2308,7 @@
     "Refresh": "刷新",
     "Regex": "正则",
     "ReloadModules": "重载模块",
-    "RemoteInteraction-Blacklist-Error-EmptyInfo": "名称或密码不能为空",
+    "RemoteInteraction-Blacklist-Error-EmptyInfo": "名称和密码均不能为空",
     "RemoteInteraction-Blacklist-Error-NoResponse": "服务器无响应",
     "Rename": "重命名",
     "Reset": "重置",
