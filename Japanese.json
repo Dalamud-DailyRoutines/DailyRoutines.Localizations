@@ -2131,7 +2131,7 @@
     "OptimizedFriendList-ContextMenu-TeleportToFriendZone": "前往所在的区域",
     "OptimizedFriendList-FriendUseNamesFound": "フレンド {0} の以前の名前一覧は以下の通り",
     "OptimizedFriendList-FriendUseNamesNotFound": "未查询到好友{0}的曾用名。",
-    "OptimizedFriendList-ObtainUsedNames": "過去の名前を取得",
+    "OptimizedFriendList-ContextMenu-QueryUsedNames": "查询曾用名",
     "OptimizedFriendList-SearchIgnoreGroup": "検索時にグループを無視",
     "OptimizedFriendList-SearchType": "検索タイプ",
     "OptimizedFriendListDescription": "フレンドリスト画面を最適化し、フレンドのクイック検索、現在ステータスが『キャラクター情報を取得できません』となっているフレンドの名前とサーバー情報の表示、右クリックでのメモ追加や過去の名前の確認などをサポート",
