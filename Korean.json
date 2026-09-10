@@ -2220,6 +2220,8 @@
     "OptimizedTargetInfo-ZeroPrecision": "SI 접두어 (정수만)",
     "OptimizedTargetInfoDescription": "대상 및 주시 대상 정보 UI를 개선합니다. 대상의 HP와 기술 시전 남은 시간을 표시하고, 자신의 상태(효과) 아이콘을 확대하며, 주시 대상 빠른 취소 기능을 지원합니다.",
     "OptimizedTargetInfoTitle": "대상 정보 UI 최적화",
+    "OptimizedXBMMonsterNotebookDescription": "优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。",
+    "OptimizedXBMMonsterNotebookTitle": "魔兽图鉴界面优化",
     "Original": "기본",
     "OrnamentActionCommand-CommandHelp": "<기술 ID / 기술명 / 기술명 병음> (부분 일치, 대소문자 구분 안 함) 패션 소품 기술 사용",
     "OrnamentActionCommandDescription": "패션 소품 기술을 빠르게 사용할 수 있도록 /pdr {0} <기술 ID / 기술명 / 기술명 병음> (부분 일치, 대소문자 구분 안 함) 명령어를 추가합니다.",
