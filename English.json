@@ -2220,6 +2220,8 @@
     "OptimizedTargetInfo-ZeroPrecision": "English Format (whole)",
     "OptimizedTargetInfoDescription": "Provide better Target Bar and Focus Target Bar with detailed information, including target health, target cast time, enlarged status to indicate status applied by self, and focus shortcuts.",
     "OptimizedTargetInfoTitle": "Better Target Bar",
+    "OptimizedXBMMonsterNotebookDescription": "优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。",
+    "OptimizedXBMMonsterNotebookTitle": "魔兽图鉴界面优化",
     "Original": "Raw",
     "OrnamentActionCommand-CommandHelp": "<action ID/action name/action name in pinyin> (partial inclusive and case insensitive) to execute a Fashion Accessory action.",
     "OrnamentActionCommandDescription": "Provide a command /pdr {0} <action ID/action name/action name in pinyin> (partial inclusive and case insensitive) to execute a Fashion Accessory action.",
