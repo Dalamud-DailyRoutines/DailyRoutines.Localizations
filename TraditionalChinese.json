@@ -414,6 +414,7 @@
     "AutoGatherDiadem-Mode-SkillPT-Description": "行為:\n\t- 無名稱指定情況下, 僅採集第四期特供材料\n\t- 僅在夢幻採集點為距離最近的採集點時才嘗試採集夢幻材料\n\t- 當一個職業達到 40 萬分後, 自動切換至另一個未 40 萬分的職業, 若均達到 40 萬分, 則檢測是否均到達 50 萬分, 若是, 則自動停止採集並退出副本",
     "AutoGatherDiadem-Mode-SkillPT-Title": "技巧點",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已滿, 停止採集並退出副本",
+    "AutoGatherDiadem-Notification-PathfindFail": "无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。",
     "AutoGatherDiadem-Notification-RoundEnd": "已採集 {0} 分鐘, 退出副本並檢測材料, 而後進入副本開始新一輪採集",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滯留在採集界面過久, 自動登出遊戲, 自動登入後將重新開始採集",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "已進入採集狀態, 但長時間未出現採集界面, 自動登出遊戲, 自動登入後將重新開始採集",
