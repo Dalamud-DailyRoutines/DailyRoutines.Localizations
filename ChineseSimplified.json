@@ -414,6 +414,7 @@
     "AutoGatherDiadem-Mode-SkillPT-Description": "行为:\n\t- 无名称指定情况下, 仅采集第四期特供材料\n\t- 仅在梦幻采集点为距离最近的采集点时才尝试采集梦幻材料\n\t- 当一个职业达到 40 万分后, 自动切换至另一个未 40 万分的职业, 若均达到 40 万分, 则检测是否均到达 50 万分, 若是, 则自动停止采集并退出副本",
     "AutoGatherDiadem-Mode-SkillPT-Title": "技巧点",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已满, 停止采集并退出副本",
+    "AutoGatherDiadem-Notification-PathfindFail": "无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。",
     "AutoGatherDiadem-Notification-RoundEnd": "已采集 {0} 分钟, 退出副本并检测材料, 而后进入副本开始新一轮采集",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滞留在采集界面过久, 自动登出游戏, 自动登入后将重新开始采集",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "已进入采集状态, 但长时间未出现采集界面, 自动登出游戏, 自动登入后将重新开始采集",
