@@ -233,7 +233,7 @@
     "AutoDiscard-AddItemsManual": "Add",
     "AutoDiscard-AddNewGroupInputNameHelp": "Preset name here. The name should be unique.",
     "AutoDiscard-CommandHelp": "<preset name> to execute the preset for discarding.",
-    "AutoDiscard-ContextMenu": "设置自动丢弃",
+    "AutoDiscard-ContextMenu": "Auto Discard",
     "AutoDiscard-ContextMenu-Sub-Add": "Add To \"{0}\"",
     "AutoDiscard-ContextMenu-Sub-Remove": "Remove From \"{0}\"",
     "AutoDiscard-ItemsOverview": "Item Overview",
