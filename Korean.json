@@ -414,6 +414,7 @@
     "AutoGatherDiadem-Mode-SkillPT-Description": "행동 내용:\n\t아이템명을 지정하지 않으면 제 4차의 특별 주문 재료만 채집합니다.\n\t환상 재료는 현재 가장 가까운 채집 지점일 때에만 시도합니다.\n\t한 직업이 40만 점에 도달하면 아직 40만에 도달하지 못한 직업으로 자동 전환합니다. 두 직업이 모두 40만에 도달했다면, 둘 다 50만인지 확인하고 도달 시, 채집을 멈추고 디아뎀 제도에서 퇴장합니다.",
     "AutoGatherDiadem-Mode-SkillPT-Title": "기술 점수",
     "AutoGatherDiadem-Notification-InventoryFull": "가방이 가득 찼습니다. 채집을 멈추고 인스턴스를 퇴장해주세요.",
+    "AutoGatherDiadem-Notification-PathfindFail": "无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。",
     "AutoGatherDiadem-Notification-RoundEnd": "{0} 분간 채집했습니다. 지역을 나가 재료를 확인한 뒤, 다시 입장해 채집을 시작하세요.",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "채집 화면에 장시간 머물러 자동 로그아웃합니다. 재접속 후 채집을 재개합니다.",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "채집 모드에 들어갔지만 채집 화면이 오래 표시되지 않아 자동 로그아웃합니다. 재접속 후 채집을 재개합니다.",
