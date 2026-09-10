@@ -414,6 +414,7 @@
     "AutoGatherDiadem-Mode-SkillPT-Description": "行動内容:\n\tアイテム名が指定されていない場合、第4期の特供素材のみを採集します\n\t幻素材は、それが現在最も近い採集ポイントである場合にのみ採集を試みます\n\tあるジョブが40万ポイントに達した場合、自動でまだ40万に到達していないもう一方のジョブに切り替えます。両方のジョブが40万ポイントに到達している場合は、双方が50万ポイントに達しているかをチェックし、達していれば採集を停止してディアデム諸島から退出します",
     "AutoGatherDiadem-Mode-SkillPT-Title": "技巧点",
     "AutoGatherDiadem-Notification-InventoryFull": "かばんのアイテムが満杯です。採集を停止してダンジョンを退出してください。",
+    "AutoGatherDiadem-Notification-PathfindFail": "无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。",
     "AutoGatherDiadem-Notification-RoundEnd": "{0} 分間採集しました。エリアから退出して材料を確認し、その後再度エリアに入り新たに採集を開始してください。",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "採集画面に長時間とどまっているため、自動的にログアウトします。再ログイン後、採集を再開します。",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "採集モードに入っていますが、採集画面が長時間表示されないため、自動的にログアウトします。再ログイン後は、採集を再開します。",
