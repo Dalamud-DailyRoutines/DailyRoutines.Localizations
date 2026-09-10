@@ -2220,6 +2220,8 @@
     "OptimizedTargetInfo-ZeroPrecision": "SI接頭語 (整数のみ)",
     "OptimizedTargetInfoDescription": "ターゲット情報とフォーカス対象情報のUIを最適化し、ターゲットのHPとスキル詠唱残り時間を表示、自身のステータス効果を拡大表示、さらにフォーカス対象の即時解除にも対応します。\n\nターゲット情報とフォーカスターゲット情報のUIを最適化し、ターゲットのHPとターゲットのアクションのキャスト時間を表示、自身のバフ・デバフを拡大表示し、さらにフォーカスターゲットの即時解除に対応させます。",
     "OptimizedTargetInfoTitle": "ターゲット情報UIの最適化",
+    "OptimizedXBMMonsterNotebookDescription": "优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。",
+    "OptimizedXBMMonsterNotebookTitle": "魔兽图鉴界面优化",
     "Original": "オリジナル",
     "OrnamentActionCommand-CommandHelp": "<アクションID / アクション名> (部分一致、大文字小文字の区別なし) ファッションアクセサリーのアクションを使用",
     "OrnamentActionCommandDescription": "/pdr {0} <アクションID / アクション名> (部分一致、大文字小文字を区別しない) コマンドを追加し、ファッションアクセサリーのアクションを素早く使用できるようにします。",
