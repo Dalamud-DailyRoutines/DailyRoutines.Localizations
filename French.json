@@ -2131,7 +2131,7 @@
     "OptimizedFriendList-ContextMenu-TeleportToFriendZone": "前往所在的区域",
     "OptimizedFriendList-FriendUseNamesFound": "Les anciens noms associés à l'ami {0} sont les suivants",
     "OptimizedFriendList-FriendUseNamesNotFound": "未查询到好友{0}的曾用名。",
-    "OptimizedFriendList-ObtainUsedNames": "Récupérer les anciens noms",
+    "OptimizedFriendList-ContextMenu-QueryUsedNames": "查询曾用名",
     "OptimizedFriendList-SearchIgnoreGroup": "Ignorer les groupes pendant la recherche",
     "OptimizedFriendList-SearchType": "Type de recherche",
     "OptimizedFriendListDescription": "Fournit une liste d'amis améliorée permettant une recherche efficace, la récupération des noms et serveurs d'amis marqués comme \"(Impossible à récupérer)\", ainsi que l'ajout de surnoms / commentaires et la consultation des anciens noms.",
