@@ -2131,7 +2131,7 @@
     "OptimizedFriendList-ContextMenu-TeleportToFriendZone": "前往所在的区域",
     "OptimizedFriendList-FriendUseNamesFound": "好友 {0} 曾用名一覽如下",
     "OptimizedFriendList-FriendUseNamesNotFound": "未查询到好友{0}的曾用名。",
-    "OptimizedFriendList-ObtainUsedNames": "獲取曾用名",
+    "OptimizedFriendList-ContextMenu-QueryUsedNames": "查询曾用名",
     "OptimizedFriendList-SearchIgnoreGroup": "搜索時忽略分組",
     "OptimizedFriendList-SearchType": "搜索類型",
     "OptimizedFriendListDescription": "對好友列表界面進行最佳化, 支持快捷搜索好友、顯示當前狀態為 \"無法獲取角色情報\" 的好友名稱與伺服器資訊、右鍵為好友添加備註與查詢好友曾用名等",
