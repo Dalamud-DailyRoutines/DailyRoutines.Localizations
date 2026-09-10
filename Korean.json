@@ -2131,7 +2131,7 @@
     "OptimizedFriendList-ContextMenu-TeleportToFriendZone": "前往所在的区域",
     "OptimizedFriendList-FriendUseNamesFound": "친구 {0} 의 이전 이름 목록:",
     "OptimizedFriendList-FriendUseNamesNotFound": "未查询到好友{0}的曾用名。",
-    "OptimizedFriendList-ObtainUsedNames": "과거 이름 가져오기",
+    "OptimizedFriendList-ContextMenu-QueryUsedNames": "查询曾用名",
     "OptimizedFriendList-SearchIgnoreGroup": "검색 시 그룹 무시",
     "OptimizedFriendList-SearchType": "검색 유형",
     "OptimizedFriendListDescription": "친구 목록을 개선해 '캐릭터 정보를 불러올 수 없습니다'로 뜨는 친구 이름과 서버 정보를 표시할 수 있으며, 우클릭으로 메모 추가, 과거 이름 검색 기능을 지원합니다.",
