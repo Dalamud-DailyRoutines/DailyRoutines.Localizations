@@ -414,6 +414,7 @@
     "AutoGatherDiadem-Mode-SkillPT-Description": "Résumé du comportement :\n\t- Seuls les matériaux de la quatrième phase de reconstruction seront récoltés si aucun nom d'objet n'est spécifié.\n\t- Les nœuds nébuleux ne seront récoltés que s'ils sont plus proches que tous les autres nœuds.\n\t- Si un job atteint 400 000 points de classement, le module basculera sur l'autre job. Si les deux jobs atteignent 400 000 points, le farm continuera jusqu'à 500 000 pour les deux. Ensuite, la récolte automatique prendra fin et le personnage quittera l'instance.",
     "AutoGatherDiadem-Mode-SkillPT-Title": "Points de classement",
     "AutoGatherDiadem-Notification-InventoryFull": "L'inventaire est plein. Arrêt de la récolte et sortie de l'instance.",
+    "AutoGatherDiadem-Notification-PathfindFail": "无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。",
     "AutoGatherDiadem-Notification-RoundEnd": "La récolte a duré {0} minutes. Sortie de l'instance, comptage des matériaux, puis retour pour un nouveau cycle.",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "Blocage détecté dans l'interface de récolte pendant un temps anormalement long. Tentative de reconnexion pour continuer.",
     "AutoGatherDiadem-Notification-StuckInGatheringState": "La récolte a commencé, mais aucune interface de récolte n'est apparue pendant un temps anormalement long. Tentative de reconnexion pour continuer.",
