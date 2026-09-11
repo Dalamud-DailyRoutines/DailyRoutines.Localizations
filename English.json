@@ -1621,8 +1621,6 @@
     "FastEnterAndLeaveInn-CommandHelp": "Enter / Leave Inn",
     "FastEnterAndLeaveInnDescription": "Skip the confirmation while entering and leaving Inn, and provide a command /pdr {0} for entering Inn from anywhere except in duty.",
     "FastEnterAndLeaveInnTitle": "Better Inn Access",
-    "FasterTerritoryTransport-OnlyLocal": "Free local mobile restrictions only",
-    "FasterTerritoryTransport-OnlyLocalHelp": "If the option is on, only movement restriction in local will be removed, and no notification packet indicating that zone loading has been complete would be sent to the game server.\n\nTake a scenario of keeping moving after switching zones in duty as an example for explanation purposes:\nOption on: From perspectives of others, your character faded in and appeared in the current position.\nOption off: From perspectives of others, your character finished the loading process in almost no time and moved to the current position normally.",
     "FasterTerritoryTransportDescription": "Speed up all in-zone loading to reduce character disable time during loading",
     "FasterTerritoryTransportTitle": "Faster In-Zone Loading",
     "FastGrandCompanyExchange-CommandHelp": "<Item name (case insensitive)> (< Quantity >) Exchange the specified quantity of the specified item in the Company Seals　Exchange (If the item name is \"default\", the relevant configuration in the floating window is used directly, and there is no need to enter the quantity)",
