@@ -1621,8 +1621,6 @@
     "FastEnterAndLeaveInn-CommandHelp": "宿屋へのクイック入退出",
     "FastEnterAndLeaveInnDescription": "宿屋客室への出入りの確認を自動でスキップし、コンテンツ外のエリアのどこからでも /pdr {0} コマンドで宿屋客室へクイック移動できるようにします。",
     "FastEnterAndLeaveInnTitle": "宿屋へのクイック移動",
-    "FasterTerritoryTransport-OnlyLocal": "ローカル移動制限のみ解除する",
-    "FasterTerritoryTransport-OnlyLocalHelp": "ローカルクライアントでのキャラクター移動制限のみ解除され、サーバーにはエリアの読み込み完了を通知するデータパケットは送信されません\n\nダンジョン内での移動例:\nオプションを有効にした場合: 読み込みが完了すると、他のプレイヤーからはあなたが徐々に現れるように見えます\nオプションを無効にした場合: 他のプレイヤーからは、あなたが瞬時に読み込みを終えて、正常に移動しているように見えます",
     "FasterTerritoryTransportDescription": "エリア内のすべてのマップ遷移のロード速度を速め、ゲームキャラクターがロード中の無効状態からできるだけ早く抜け出せるようにする",
     "FasterTerritoryTransportTitle": "エリア内のマップ遷移ロードを高速化する",
     "FastGrandCompanyExchange-CommandHelp": "<アイテム名> <数量(省略可)> で、軍票交換所で指定したアイテムを指定数量分交換する\n 数量を省略した場合は、軍票全てを指定したアイテムに交換する。\nアイテム名が \"default\" の場合は、オーバーレイ表示内の設定を直接使用し、この場合は数量を入力する必要はない\n(使用例: /pdr gce ベンチャースクリップ 2)",
