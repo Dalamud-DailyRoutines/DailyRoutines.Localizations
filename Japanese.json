@@ -1111,7 +1111,7 @@
     "AutoTimedLogoutTitle": "自動ログアウト予約",
     "AutoTrackPlayers-CommandHelp": "追跡リストウィンドウを開く / 閉じる",
     "AutoTrackPlayers-ContextMenu-NotToTrack": "継続的な追跡を停止する",
-    "AutoTrackPlayers-ContextMenu-ToTrack": "持续追踪",
+    "AutoTrackPlayers-ContextMenu-ToTrack": "継続的な追跡",
     "AutoTrackPlayers-EmptyHint": "現在追跡対象はいません\n\nプレイヤーメニューの右クリックから追跡対象に追加できます",
     "AutoTrackPlayers-NoMarker": "無し",
     "AutoTrackPlayers-Notification-NotToTrack": "停止了对{0}的持续追踪。",
