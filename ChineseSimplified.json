@@ -1621,8 +1621,6 @@
     "FastEnterAndLeaveInn-CommandHelp": "一键进入/离开旅馆",
     "FastEnterAndLeaveInnDescription": "自动跳过进入/离开旅馆时的确认, 并提供 /pdr {0} 指令以在副本外任一区域的任一位置一键进入旅馆",
     "FastEnterAndLeaveInnTitle": "快捷进出旅馆",
-    "FasterTerritoryTransport-OnlyLocal": "仅解除本地移动限制",
-    "FasterTerritoryTransport-OnlyLocalHelp": "若开启本选项, 则仅会解除本地客户端的角色移动限制, 而不会向服务器发送区域加载已完成的告知数据包\n\n以副本内过图并持续移动的情景为例:\n开启选项: 加载完全结束后, 在其他人看来, 你由渐隐状态出现在当前位置\n关闭选项: 在其他人看来, 你瞬间完成了加载, 并正常移动至当前位置",
     "FasterTerritoryTransportDescription": "加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态",
     "FasterTerritoryTransportTitle": "更快的区域内过图加载",
     "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)",
