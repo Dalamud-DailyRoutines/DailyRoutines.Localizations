@@ -1115,7 +1115,7 @@
     "AutoTrackPlayers-EmptyHint": "現在追跡対象はいません\n\nプレイヤーメニューの右クリックから追跡対象に追加できます",
     "AutoTrackPlayers-NoMarker": "無し",
     "AutoTrackPlayers-Notification-NotToTrack": "停止了对{0}的持续追踪。",
-    "AutoTrackPlayers-Notification-ToTrack": "开始持续追踪{0}，可以在打开的界面中详细配置。\n※该界面可以通过{1}指令再次打开。",
+    "AutoTrackPlayers-Notification-ToTrack": "{0}の継続的な追跡を開始します。開いた画面で詳細な設定を行うことができます。\n※この画面は、{1}コマンドで再度開くことができます。",
     "AutoTrackPlayers-Track": "追跡",
     "AutoTrackPlayersDescription": "フィールドマーカーを使用して、対象となっている複数のプレイヤーの位置情報を継続的に追跡する",
     "AutoTrackPlayersTitle": "プレイヤーの自動追跡",
