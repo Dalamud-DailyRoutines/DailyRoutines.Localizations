@@ -1621,8 +1621,6 @@
     "FastEnterAndLeaveInn-CommandHelp": "Entrer / quitter l'auberge",
     "FastEnterAndLeaveInnDescription": "Supprime les confirmations lors de l'entrée ou de la sortie d'une auberge et fournit la commande /pdr {0} pour entrer dans une auberge depuis n'importe où hors mission.",
     "FastEnterAndLeaveInnTitle": "Accès amélioré aux auberges",
-    "FasterTerritoryTransport-OnlyLocal": "Supprimer uniquement les restrictions locales de déplacement",
-    "FasterTerritoryTransport-OnlyLocalHelp": "Si activé, seules les restrictions locales de déplacement seront supprimées, et aucun paquet de notification indiquant la fin du chargement de zone ne sera envoyé au serveur.\n\nExemple lors d'un déplacement après changement de zone en mission :\nOption activée : pour les autres joueurs, votre personnage disparaît puis réapparaît directement à sa nouvelle position.\nOption désactivée : pour les autres joueurs, votre personnage termine le chargement quasi instantanément puis se déplace normalement.",
     "FasterTerritoryTransportDescription": "Accélère tous les chargements internes aux zones afin de réduire le temps d'immobilisation du personnage.",
     "FasterTerritoryTransportTitle": "Chargement intra-zone accéléré",
     "FastGrandCompanyExchange-CommandHelp": "<Nom d'objet (insensible à la casse)> (<Quantité>) échange la quantité spécifiée de l'objet choisi via l'échange de sceaux de compagnie (si le nom est \"default\", la configuration de la fenêtre flottante sera utilisée directement sans quantité à préciser).",
