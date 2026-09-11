@@ -1621,8 +1621,6 @@
     "FastEnterAndLeaveInn-CommandHelp": "여관 즉시 입장/퇴장",
     "FastEnterAndLeaveInnDescription": "여관에 들어가거나 나올 때의 확인 창을 자동으로 건너뛰며, /pdr {0} 명령어를 통해 임무 찾기 던전 외부의 어느 지역, 어느 위치에서든 원클릭으로 여관에 입장할 수 있게 합니다.",
     "FastEnterAndLeaveInnTitle": "여관 빠른 입장/퇴장",
-    "FasterTerritoryTransport-OnlyLocal": "로컬 이동 제한만 해제",
-    "FasterTerritoryTransport-OnlyLocalHelp": "로컬 클라이언트에서의 이동 제한을 해제하며, 서버에는 지역 로딩 완료를 알리는 데이터 패킷을 전송하지 않습니다.\n\n던전 내 이동 예시:\n옵션을 켠 경우: 로딩이 끝나면 다른 플레이어에게 점차 나타나는 것처럼 보입니다.\n옵션을 끈 경우: 다른 플레이어에게는 즉시 로딩이 끝나 정상적으로 이동하는 것처럼 보입니다",
     "FasterTerritoryTransportDescription": "지역 내 모든 맵 전환의 로딩 속도를 높여 캐릭터가 로딩 중 비활성 상태에서 최대한 빨리 벗어날 수 있게 합니다.",
     "FasterTerritoryTransportTitle": "지역 내 맵 전환 로딩 가속",
     "FastGrandCompanyExchange-CommandHelp": "<아이템명> <수량(생략 가능)> 으로, 군표 교환소에서 지정 아이템을 해당 수량만큼 교환합니다.\n 수량을 생략하면 모든 군표를 해당 아이템으로 교환합니다.\n아이템명이 \"default\"인 경우, 오버레이 설정을 직접 사용하며, 이때는 수량을 입력할 필요가 없습니다.\n(사용 예: /pdr gce 집사 급료 2)",
