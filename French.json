@@ -2163,7 +2163,7 @@
     "OptimizedMacroTitle": "Stockage de macros amélioré",
     "OptimizedQuickPanel-CommandArgs": "numéro de page",
     "OptimizedQuickPanel-CommandArgs-Help": "Accéder à une page spécifique du panneau de commandes",
-    "OptimizedQuickPanelDescription": "Fournit un panneau de commandes amélioré ainsi que ses commandes associées. Un bouton de verrouillage permet d'épingler le panneau à l'écran afin qu'il adopte le même comportement qu'une barre d'actions et ne soit jamais masqué par Échap, changement de zone ou interaction. Les commandes {0} et {1} peuvent également recevoir un numéro de page pour un accès direct.",
+    "OptimizedQuickPanelDescription": "优化“快捷面板”界面，添加锁定按钮，使其交互逻辑与操作表现与“热键栏”界面逻辑完全一致；使原本的 {0} 与 {1} 指令支持传入页码参数，以直接打开指定页。",
     "OptimizedQuickPanelTitle": "Panneau de commandes amélioré",
     "OptimizedRecipeNote-AddonTitle": "Étapes de solution",
     "OptimizedRecipeNote-Button-CaculateRecipe": "Résoudre la recette",
