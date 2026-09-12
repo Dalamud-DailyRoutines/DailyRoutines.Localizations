@@ -2163,7 +2163,7 @@
     "OptimizedMacroTitle": "用戶宏指令界面最佳化",
     "OptimizedQuickPanel-CommandArgs": "頁碼",
     "OptimizedQuickPanel-CommandArgs-Help": "打開指定頁的快捷面板",
-    "OptimizedQuickPanelDescription": "對快捷面板界面進行最佳化, 添加鎖定按鈕, 使其不會被 Esc 鍵 / 區域切換 / 進入交互狀態等情況意外關閉, 與快速鍵欄界面邏輯保持一致; 並使原本的 {0} 與 {1} 指令支持傳入頁碼參數, 以打開面板指定頁",
+    "OptimizedQuickPanelDescription": "优化“快捷面板”界面，添加锁定按钮，使其交互逻辑与操作表现与“热键栏”界面逻辑完全一致；使原本的 {0} 与 {1} 指令支持传入页码参数，以直接打开指定页。",
     "OptimizedQuickPanelTitle": "快捷面板界面最佳化",
     "OptimizedRecipeNote-AddonTitle": "配方步驟",
     "OptimizedRecipeNote-Button-CaculateRecipe": "求解配方",
