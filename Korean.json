@@ -2163,7 +2163,7 @@
     "OptimizedMacroTitle": "사용자 매크로 UI 최적화",
     "OptimizedQuickPanel-CommandArgs": "페이지 번호",
     "OptimizedQuickPanel-CommandArgs-Help": "지정한 페이지의 바로가기 패널 열기",
-    "OptimizedQuickPanelDescription": "바로가기 패널 인터페이스를 최적화하고, 잠금 버튼을 추가하여 Esc 키, 영역 전환, 상호작용 상태 진입 등으로 인해 의도치 않게 닫히지 않도록 하며, 단축바 인터페이스의 동작과 일관되게 만듭니다. 또한 기존의 {0}와 {1} 명령이 페이지 번호 매개변수를 받을 수 있도록 하여, 패널의 특정 페이지를 열 수 있게 합니다.",
+    "OptimizedQuickPanelDescription": "优化“快捷面板”界面，添加锁定按钮，使其交互逻辑与操作表现与“热键栏”界面逻辑完全一致；使原本的 {0} 与 {1} 指令支持传入页码参数，以直接打开指定页。",
     "OptimizedQuickPanelTitle": "바로가기 패널 인터페이스 최적화",
     "OptimizedRecipeNote-AddonTitle": "제작 절차",
     "OptimizedRecipeNote-Button-CaculateRecipe": "제작법 계산",
