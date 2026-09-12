@@ -2163,7 +2163,7 @@
     "OptimizedMacroTitle": "ユーザーマクロインターフェースの最適化",
     "OptimizedQuickPanel-CommandArgs": "ページ",
     "OptimizedQuickPanel-CommandArgs-Help": "指定したページのクイックパネルを開く",
-    "OptimizedQuickPanelDescription": "クイックパネルのインターフェースを最適化しました。ロックボタンを追加し、Escキーの入力、エリア移動、インタラクト状態への移行などで意図せず閉じないように改善（ホットバーの挙動と統一）。また、既存の {0} および {1} コマンドがページ番号の引数に対応し、指定したページを直接開けるようになりました。",
+    "OptimizedQuickPanelDescription": "优化“快捷面板”界面，添加锁定按钮，使其交互逻辑与操作表现与“热键栏”界面逻辑完全一致；使原本的 {0} 与 {1} 指令支持传入页码参数，以直接打开指定页。",
     "OptimizedQuickPanelTitle": "クイックパネルのUI最適化",
     "OptimizedRecipeNote-AddonTitle": "製作手順",
     "OptimizedRecipeNote-Button-CaculateRecipe": "レシピ計算",
