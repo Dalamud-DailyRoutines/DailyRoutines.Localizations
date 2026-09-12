@@ -2163,7 +2163,7 @@
     "OptimizedMacroTitle": "Better Macro Storage",
     "OptimizedQuickPanel-CommandArgs": "page number",
     "OptimizedQuickPanel-CommandArgs-Help": "Access a specific page on Command Panel",
-    "OptimizedQuickPanelDescription": "Provide a better Command Panel and Command Panel commands. A lock button would be introduced in order to pin Command Panel on the screen, so that the panel would adopt the same interaction logic as Hotbar and never be hidden due to ESC input, area switching or interactions. The commands {0} and {1} could also take a page number as the parameter for direct access of a specific page.",
+    "OptimizedQuickPanelDescription": "优化“快捷面板”界面，添加锁定按钮，使其交互逻辑与操作表现与“热键栏”界面逻辑完全一致；使原本的 {0} 与 {1} 指令支持传入页码参数，以直接打开指定页。",
     "OptimizedQuickPanelTitle": "Better Command Panel",
     "OptimizedRecipeNote-AddonTitle": "Solution Steps",
     "OptimizedRecipeNote-Button-CaculateRecipe": "Solve Recipe",
