@@ -1678,7 +1678,7 @@
     "FastResetStrikingDummy-CommandHelp": "すべての木人の敵視を素早くリセット",
     "FastResetStrikingDummyDescription": "1体の木人の敵視をリセットするだけで、すべての木人の敵視をまとめてリセットします。また、手動でリセットできるように /pdr {0} コマンドを追加します",
     "FastResetStrikingDummyTitle": "木人敵視高速リセット",
-    "FastRetainerStore-ContextMenu-RetrieveAll": "从雇员处取回同类道具",
+    "FastRetainerStore-ContextMenu-RetrieveAll": "リテイナーから同種のアイテムを取り出す",
     "FastRetainerStore-ContextMenu-SaveAll": "交给雇员保管同类道具",
     "FastRetainerStoreDescription": "打开雇员道具管理界面后，为物品页面添加右键菜单，用以一键存取同类道具。",
     "FastRetainerStoreTitle": "リテイナーアイテムの簡易入出庫",
