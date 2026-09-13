@@ -2162,7 +2162,7 @@
     "OptimizedMacroTitle": "Better Macro Storage",
     "OptimizedQuickPanel-CommandArgs": "<page number>",
     "OptimizedQuickPanel-CommandArgs-Help": "to access the specific page of Command Panel.",
-    "OptimizedQuickPanelDescription": "Provide a better Command Panel, including a lock button and improved interaction logic, which is identical with the interaction logic of hotbars. The vanilla commands {0} and {1} could also take a parameter to directly access a specified page.",
+    "OptimizedQuickPanelDescription": "Provide a better Command Panel, including a lock button and improved interaction logic, which is identical with that of hotbars. The vanilla commands {0} and {1} could also take a parameter to directly access a specified page.",
     "OptimizedQuickPanelTitle": "Better Command Panel",
     "OptimizedRecipeNote-AddonTitle": "Solution Steps",
     "OptimizedRecipeNote-Button-CaculateRecipe": "Solve Recipe",
