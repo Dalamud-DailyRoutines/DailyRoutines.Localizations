@@ -183,7 +183,6 @@
     "AutoConfirmPortraitUpdateDescription": "Lorsque l'interface de prévisualisation de mise à jour du portrait apparaît, clique automatiquement sur OK pour mettre à jour le portrait selon l'équipement actuel.",
     "AutoConfirmPortraitUpdateTitle": "Confirmation automatique des mises à jour de portrait",
     "AutoConstantlyClick-GamepadMode": "Mode manette",
-    "AutoConstantlyClick-GamepadTriggers": "Touche de déclenchement (aucun changement généralement nécessaire)",
     "AutoConstantlyClick-MouseMode": "Mode souris",
     "AutoConstantlyClickDescription": "Maintenir une touche de barre d'action enclenchera automatiquement des pressions rapides répétées sur cette touche.",
     "AutoConstantlyClickTitle": "Répétition automatique des clics",
