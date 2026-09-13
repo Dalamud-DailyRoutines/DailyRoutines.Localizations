@@ -183,7 +183,6 @@
     "AutoConfirmPortraitUpdateDescription": "肖像更新預覽界面出現時, 自動點擊確認以更新肖像至最新裝備狀態",
     "AutoConfirmPortraitUpdateTitle": "自動確認肖像更新",
     "AutoConstantlyClick-GamepadMode": "手柄模式",
-    "AutoConstantlyClick-GamepadTriggers": "觸發按鍵 (正常情況下無需修改)",
     "AutoConstantlyClick-MouseMode": "鼠標模式",
     "AutoConstantlyClickDescription": "當長按任一快速鍵欄按鍵時, 自動轉為快速重複點擊該按鍵",
     "AutoConstantlyClickTitle": "自動重複點擊",
