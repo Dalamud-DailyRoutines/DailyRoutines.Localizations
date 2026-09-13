@@ -183,7 +183,6 @@
     "AutoConfirmPortraitUpdateDescription": "초상화 미리보기가 뜨면 자동으로 현재 장비 상태로 갱신합니다.",
     "AutoConfirmPortraitUpdateTitle": "초상화 자동 갱신",
     "AutoConstantlyClick-GamepadMode": "게임패드 모드",
-    "AutoConstantlyClick-GamepadTriggers": "트리거 키 (보통은 변경할 필요 없습니다.)",
     "AutoConstantlyClick-MouseMode": "마우스 모드",
     "AutoConstantlyClickDescription": "아무 단축바 버튼을 길게 누르면 자동으로 빠르게 연속 클릭합니다.",
     "AutoConstantlyClickTitle": "터보 클릭",
