@@ -183,7 +183,6 @@
     "AutoConfirmPortraitUpdateDescription": "ポートレートプレビューが表示されたら、自動的に現在の装備状態で更新する。",
     "AutoConfirmPortraitUpdateTitle": "ポートレート更新の自動確認",
     "AutoConstantlyClick-GamepadMode": "ゲームパッド操作モード",
-    "AutoConstantlyClick-GamepadTriggers": "トリガーキー (通常は変更する必要はありません)",
     "AutoConstantlyClick-MouseMode": "マウス操作モード",
     "AutoConstantlyClickDescription": "任意のホットバーのボタンを長押しすると、自動的にそのボタンを高速で繰り返しクリックします。",
     "AutoConstantlyClickTitle": "ターボクリック機能",
