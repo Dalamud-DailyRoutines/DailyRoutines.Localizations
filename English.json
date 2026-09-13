@@ -183,7 +183,6 @@
     "AutoConfirmPortraitUpdateDescription": "When the portrait update preview interface appears, click OK automatically to update the portrait to the latest equipment status.",
     "AutoConfirmPortraitUpdateTitle": "Auto Confirm Portrait Updates",
     "AutoConstantlyClick-GamepadMode": "Gamepad Mode",
-    "AutoConstantlyClick-GamepadTriggers": "Trigger Key (Usually no change needed)",
     "AutoConstantlyClick-MouseMode": "Mouse Mode",
     "AutoConstantlyClickDescription": "Holding down any hotbar key will automatically switch to rapid repeated presses of that key",
     "AutoConstantlyClickTitle": "Auto Click Repeatedly",
