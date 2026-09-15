@@ -109,7 +109,7 @@
     "AutoBlockAgelessWordsAndSolidReasonTitle": "自动阻止石工之理与农夫之智",
     "AutoBlockEmptyXBMParty-Notification-EmptyParty": "当前编队中魔兽不满三只，无法开始挑战。",
     "AutoBlockEmptyXBMParty-Notification-InsufficiantAssignment": "当前有兽笛未设置魔兽，无法开始战斗。",
-    "AutoBlockEmptyXBMPartyDescription": "“斗兽奇奕”中，若当前魔兽编队不满三只魔兽，则禁止开始挑战；若有兽笛未设置魔兽，则禁止开始战斗，以避免误触。",
+    "AutoBlockEmptyXBMPartyDescription": "“斗兽奇弈”中，若当前魔兽编队不满三只魔兽，则禁止开始挑战；若有兽笛未设置魔兽，则禁止开始战斗，以避免误触。",
     "AutoBlockEmptyXBMPartyTitle": "自动禁止不合理魔兽编队",
     "AutoBlockMisdirectionStateDescription": "自动屏蔽会令本机陷入方向控制受限的状态 (如: 旋转移动、精神错乱等), 并使相关处理逻辑无效化",
     "AutoBlockMisdirectionStateTitle": "自动屏蔽方向错乱状态",
