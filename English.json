@@ -109,7 +109,7 @@
     "AutoBlockAgelessWordsAndSolidReasonTitle": "Auto Block Solid Reason And Ageless Words",
     "AutoBlockEmptyXBMParty-Notification-EmptyParty": "Commencement failed. There're less than 3 beasts available.",
     "AutoBlockEmptyXBMParty-Notification-InsufficiantAssignment": "Commencement failed. There's at least one unassigned battlehorn.",
-    "AutoBlockEmptyXBMPartyDescription": "Automatically prevent commencing The Crucible of the Unbroken if there're less than 3 beasts available or there's a battlehorn unassigned.",
+    "AutoBlockEmptyXBMPartyDescription": "“斗兽奇弈”中，若当前魔兽编队不满三只魔兽，则禁止开始挑战；若有兽笛未设置魔兽，则禁止开始战斗，以避免误触。",
     "AutoBlockEmptyXBMPartyTitle": "Auto Check Beast Settings",
     "AutoBlockMisdirectionStateDescription": "Automatically make the character immune to Temporary Misdirection, Spinning and all the similar status.",
     "AutoBlockMisdirectionStateTitle": "Auto Immune To Misdirection",
