@@ -943,7 +943,7 @@
     "AutoRetainerWork-AbortCondition-AboveExpected": "목표가 초과",
     "AutoRetainerWork-AbortCondition-AboveMaximum": "최댓값 초과",
     "AutoRetainerWork-AbortCondition-BelowExpected": "목표가 미달",
-    "AutoRetainerWork-AbortCondition-BelowMinimum": "低于最小值",
+    "AutoRetainerWork-AbortCondition-BelowMinimum": "최소값 미만",
     "AutoRetainerWork-AbortCondition-BelowVendorPrice": "매입가보다 낮음",
     "AutoRetainerWork-AbortCondition-ExceedsMaximumReduction": "大于可接受降价值",
     "AutoRetainerWork-AdjustBehavior-FixedValue": "고정값",
