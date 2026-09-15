@@ -611,7 +611,7 @@
     "AutoMarksFinder-ZoneInfoForEachMark": "{0} {1} 라인",
     "AutoMarksFinderDescription": "해당 지역 내 마물 정보를 자동 스캔하고 목록으로 정리합니다.\n※순간이동하므로 주의",
     "AutoMarksFinderTitle": "자동 마물 스캐너",
-    "AutoMateriaAttach-ActiveTask-Running": "正在自动镶嵌",
+    "AutoMateriaAttach-ActiveTask-Running": "자동 장착 중",
     "AutoMateriaAttach-AttachSingle": "单件镶嵌",
     "AutoMateriaAttach-BatchAttach": "마테리아 일괄 장착",
     "AutoMateriaAttach-Delete-Confirm": "再次点击以删除",
