@@ -1033,7 +1033,7 @@
     "AutoShowFrontlineKillCountTitle": "전장 처치 수 강조 표시",
     "AutoShowItemNPCShopInfo-Addon-Destination": "상점 교환 사용처",
     "AutoShowItemNPCShopInfo-Addon-Source": "상점 교환 획득처",
-    "AutoShowItemNPCShopInfo-ContextMenu-Destination": "查看可交换道具",
+    "AutoShowItemNPCShopInfo-ContextMenu-Destination": "NPC 상점 [위치]",
     "AutoShowItemNPCShopInfo-ContextMenu-Source": "查看商店贩售途径",
     "AutoShowItemNPCShopInfo-ExchangeItemCount": "可兑换成{0}种道具",
     "AutoShowItemNPCShopInfo-Notification-InfoNotFound": "未能找到{0}相关的商店兑换信息。",
