@@ -628,7 +628,7 @@
     "AutoMateriaAttach-NoSelectedPlan-Help": "左側のリストから選択するか、新しいギアセット案をインポートしてください。",
     "AutoMateriaAttach-NotFoundInInventory": "未所持",
     "AutoMateriaAttach-Notification-Complete": "マテリア連続装着が完了しました。",
-    "AutoMateriaAttach-Notification-InsufficientMaterias": "魔晶石数量不足，已停止自动镶嵌。",
+    "AutoMateriaAttach-Notification-InsufficientMaterias": "マテリアの所持数が不足しているため、マテリア連続装着を停止しました。",
     "AutoMateriaAttach-PasteFromClipboard": "从剪贴板粘贴",
     "AutoMateriaAttach-Plans": "镶嵌方案",
     "AutoMateriaAttach-State-Completed": "マテリア装着完了",
