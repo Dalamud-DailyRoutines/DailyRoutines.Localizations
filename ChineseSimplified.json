@@ -1369,6 +1369,8 @@
     "BetterPartyFinderFilterTitle": "更好的招募过滤界面",
     "BetterPartyFinderSortDescription": "让队员招募界面内的 升序/降序排列 功能精准按照各招募剩余时间多少排序显示结果",
     "BetterPartyFinderSortTitle": "更好的队员招募升降排序",
+    "BetterPVPACCommandDescription": "使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。\n（示例：/对战技能 闪飒、/对战技能 暴乱剑）",
+    "BetterPVPACCommandTitle": "“/对战技能”命令优化",
     "BetterSoundEffectParamDescription": "使系统音效参数 (<se>) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制",
     "BetterSoundEffectParamTitle": "更好的系统音效参数",
     "BetterTeleport-CloseOnLoseFocus": "失焦时自动关闭",
