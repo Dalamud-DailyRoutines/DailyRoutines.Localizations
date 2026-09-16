@@ -1369,6 +1369,8 @@
     "BetterPartyFinderFilterTitle": "개선된 파티 찾기 필터 UI",
     "BetterPartyFinderSortDescription": "파티 모집 목록을 남은 시간에 따라 오름차순/내림차순으로 정렬합니다.",
     "BetterPartyFinderSortTitle": "파티 모집 목록 정렬 최적화",
+    "BetterPVPACCommandDescription": "使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。\n（示例：/对战技能 闪飒、/对战技能 暴乱剑）",
+    "BetterPVPACCommandTitle": "“/对战技能”命令优化",
     "BetterSoundEffectParamDescription": "시스템 효과음 명령어(<se>)를 모든 채팅 채널에서 출력할 수 있게 합니다. 또한 음량 증폭을 위해 중복 사용할 때의 최대 3회 횟수 제한을 해제합니다.",
     "BetterSoundEffectParamTitle": "시스템 사운드 효과음 최적화",
     "BetterTeleport-CloseOnLoseFocus": "다른 곳 클릭 시 자동 닫기",
