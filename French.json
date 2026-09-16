@@ -1369,6 +1369,8 @@
     "BetterPartyFinderFilterTitle": "Meilleur filtre de recrutement",
     "BetterPartyFinderSortDescription": "Permet de trier les recrutements du Party Finder selon la valeur exacte du temps restant.",
     "BetterPartyFinderSortTitle": "Tri amélioré du Party Finder",
+    "BetterPVPACCommandDescription": "使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。\n（示例：/对战技能 闪飒、/对战技能 暴乱剑）",
+    "BetterPVPACCommandTitle": "“/对战技能”命令优化",
     "BetterSoundEffectParamDescription": "Permet d'ajuster certains paramètres des effets sonores du jeu.",
     "BetterSoundEffectParamTitle": "Paramètres d'effets sonores améliorés",
     "BetterTeleport-CloseOnLoseFocus": "Fermeture automatique à la perte du focus",
