@@ -2440,7 +2440,7 @@
     "Settings-DevTeam": "Developer Team",
     "Settings-FullModuleView": "Full View",
     "Settings-Game-AlwaysMinGilTransport": "Minimal Gil Navigation",
-    "Settings-Game-AlwaysMinGilTransport-Help": "Automatic navigation will be called by certain modules. All the navigation across zones will take the most economical route, meaning it would minimize costs as much as possible by introducing a considerable amount of free transportation and zone connections probably. The navigation result could be unbearably lengthy.",
+    "Settings-Game-AlwaysMinGilTransport-Help": "Automatic navigation will be called by certain modules. All the navigation across zones will take the most economical route if the option is enabled, meaning it would minimize costs as much as possible by introducing a considerable amount of free transportation and zone connections. The navigation result could be unbearably lengthy in some extreme cases.",
     "Settings-Game-CorrectEnvironment": "Diving Correction",
     "Settings-Game-CorrectEnvironment-Help": "在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。",
     "Settings-Game-PreventAFK": "Never AFK",
