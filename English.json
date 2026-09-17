@@ -2444,7 +2444,7 @@
     "Settings-Game-CorrectEnvironment": "Dive Correction",
     "Settings-Game-CorrectEnvironment-Help": "Automatically correct all the inconsistency while starting or ending a dive, in order to prevent being unable to interact or being replaced by the server.",
     "Settings-Game-PreventAFK": "Never AFK",
-    "Settings-Game-PreventAFK-Help": "禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。",
+    "Settings-Game-PreventAFK-Help": "Disable all the timers that control AFK status, in order to prevent the trailer being played, the online status be switched and the character being kicked by the server.",
     "Settings-Game-SkipLogo": "Skip Logos",
     "Settings-Game-SkipLogo-Help": "Skip all the logos and disclaimers during client startup.",
     "Settings-Game-StripeDRPrefix": "No DR Prefix",
