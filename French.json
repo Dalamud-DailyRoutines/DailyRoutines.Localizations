@@ -1889,6 +1889,7 @@
     "InReverseOrder": "Ordre inversé",
     "Insert": "Insérer",
     "Install": "Installer",
+    "InstancedArea": "副本区",
     "InstantDismountDescription": "Lors d'une tentative de descente de monture, le personnage descend immédiatement au sol.",
     "InstantDismountTitle": "Descente instantanée de monture",
     "InstantFullSpeedDescription": "Supprime la phase d'accélération du personnage et lui permet d'atteindre immédiatement sa vitesse maximale dès le début du déplacement.",
