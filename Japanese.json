@@ -1889,7 +1889,7 @@
     "InReverseOrder": "逆順",
     "Insert": "追加",
     "Install": "インストール",
-    "InstancedArea": "副本区",
+    "InstancedArea": "インスタンスエリア",
     "InstantDismountDescription": "騎乗を解除しようとした際、即座に下方の地面に降りて騎乗をキャンセルする",
     "InstantDismountTitle": "即マウントから降りる",
     "InstantFullSpeedDescription": "歩行移動開始時に即座に最高速度に達するようにし、ゼロから線形に加速していく過程を取り除く",
