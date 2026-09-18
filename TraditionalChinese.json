@@ -1889,6 +1889,7 @@
     "InReverseOrder": "逆序",
     "Insert": "新增",
     "Install": "安裝",
+    "InstancedArea": "副本区",
     "InstantDismountDescription": "在嘗試下坐騎時, 立刻來到下方地面並取消騎乘坐騎",
     "InstantDismountTitle": "即刻下坐騎",
     "InstantFullSpeedDescription": "令步行移動開始時立刻達到最高速度, 移除從 0 開始線性增長達到滿速的過程",
