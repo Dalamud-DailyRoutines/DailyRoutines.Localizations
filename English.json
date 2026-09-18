@@ -1889,6 +1889,7 @@
     "InReverseOrder": "Reverse order",
     "Insert": "Insert",
     "Install": "Install",
+    "InstancedArea": "副本区",
     "InstantDismountDescription": "Upon attempting to dismount, immediately step down to the ground.",
     "InstantDismountTitle": "Instantly Dismount",
     "InstantFullSpeedDescription": "Remove the acceleration process of the character and allow the character to immediately accelerate to the full speed after starting moving.",
