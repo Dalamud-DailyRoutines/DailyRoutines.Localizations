@@ -1889,6 +1889,7 @@
     "InReverseOrder": "역순",
     "Insert": "추가",
     "Install": "설치",
+    "InstancedArea": "副本区",
     "InstantDismountDescription": "공중에서 탈것을 해제했을 때, 위치에 상관없이 즉시 바닥에 착지합니다.",
     "InstantDismountTitle": "즉시 탈것 하차",
     "InstantFullSpeedDescription": "걷기 시작할 때, 0에서부터 점차 빨라지는 가속 단계를 생략하고 곧바로 최고 속도에 도달합니다.",
