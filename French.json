@@ -177,6 +177,8 @@
     "AutoCheckFoodUsageTitle": "Vérification automatique de la nourriture",
     "AutoCheckItemLevelDescription": "Vérifie automatiquement le niveau d'objet de tous les membres de l'équipe après l'entrée en mission et met en évidence ceux ayant un niveau anormal.",
     "AutoCheckItemLevelTitle": "Vérification automatique du niveau d'objet",
+    "AutoCheckQuickGatheringDescription": "采集界面出现时，自动勾选“简易采集所选道具”。",
+    "AutoCheckQuickGatheringTitle": "自动勾选简易采集",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "Ignore automatiquement les avertissements liés au niveau ou au job du personnage lors de l'achat, de l'échange ou de la récupération d'objets auprès des boutiques.",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "Ignorer automatiquement les avertissements de niveau et de job à l'achat",
     "AutoClaimPVPRewards-Button": "Récupération automatique des récompenses de série",
