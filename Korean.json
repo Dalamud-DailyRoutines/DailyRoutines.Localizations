@@ -177,6 +177,8 @@
     "AutoCheckFoodUsageTitle": "식사 버프 자동 확인",
     "AutoCheckItemLevelDescription": "컨텐츠 입장 시 파티원 전원의 장비 아이템 레벨을 자동 확인하고, 이상이 있으면 강조 표시합니다.",
     "AutoCheckItemLevelTitle": "장비 아이템 레벨 자동 확인",
+    "AutoCheckQuickGatheringDescription": "采集界面出现时，自动勾选“简易采集所选道具”。",
+    "AutoCheckQuickGatheringTitle": "自动勾选简易采集",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "아이템 획득 시 직업 또는 레벨 불일치 확인창이 뜨면 자동으로 획득 처리합니다.",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "아이템 획득 시 불일치 자동 수락",
     "AutoClaimPVPRewards-Button": "시리즈 보상 일괄 수령",
