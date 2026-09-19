@@ -177,6 +177,8 @@
     "AutoCheckFoodUsageTitle": "自动检查自身食物状态",
     "AutoCheckItemLevelDescription": "进入副本后, 自动检查小队所有成员的装等, 并突出标记装等异常的队员",
     "AutoCheckItemLevelTitle": "自动检查装等",
+    "AutoCheckQuickGatheringDescription": "采集界面出现时，自动勾选“简易采集所选道具”。",
+    "AutoCheckQuickGatheringTitle": "自动勾选简易采集",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "领取/交换/购买物品时, 自动确认因职业或等级与目标物品不符而额外产生的提示框",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "自动忽略领取物品时职业等级相符需求",
     "AutoClaimPVPRewards-Button": "一键领取系列赛奖励",
