@@ -177,6 +177,8 @@
     "AutoCheckFoodUsageTitle": "食事バフ状態を自動で確認する",
     "AutoCheckItemLevelDescription": "コンテンツに入ると、PTメンバー全員の装備ILが自動でチェックされ、装備ILに異常があるメンバーが強調表示されます。",
     "AutoCheckItemLevelTitle": "装備ILの自動チェック",
+    "AutoCheckQuickGatheringDescription": "采集界面出现时，自动勾选“简易采集所选道具”。",
+    "AutoCheckQuickGatheringTitle": "自动勾选简易采集",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "アイテム入手する際、ジョブやレベルの不一致によって出る確認ウィンドウを自動的にYesします",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "アイテム入手時ジョブ不一致確認自動Yes",
     "AutoClaimPVPRewards-Button": "シリーズ報酬を一括受け取り",
