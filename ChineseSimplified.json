@@ -272,6 +272,8 @@
     "AutoDisplayMitigationInfoTitle": "自动显示减伤信息",
     "AutoDisplayMSQProgressDescription": "若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比",
     "AutoDisplayMSQProgressTitle": "自动显示主线任务完成进度",
+    "AutoDisplayMTQObjectDescription": "自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。",
+    "AutoDisplayMTQObjectTitle": "自动显示任务对象",
     "AutoDisplayNetworkLatency-DefaultFormat": "{0} 毫秒",
     "AutoDisplayNetworkLatencyDescription": "自动在服务器信息栏显示实时游戏服务器连接网络延迟信息",
     "AutoDisplayNetworkLatencyTitle": "自动显示网络延迟",
