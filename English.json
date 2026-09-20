@@ -272,6 +272,8 @@
     "AutoDisplayMitigationInfoTitle": "Auto Display Mitigation Details",
     "AutoDisplayMSQProgressDescription": "If there're main scenario quests to be complete, display the number of remaining main scenario quests and the progress percentage in the Main Scenario Guide interface.",
     "AutoDisplayMSQProgressTitle": "Auto Display MSQ Progress",
+    "AutoDisplayMTQObjectDescription": "自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。",
+    "AutoDisplayMTQObjectTitle": "自动显示任务对象",
     "AutoDisplayNetworkLatency-DefaultFormat": "{0} ms",
     "AutoDisplayNetworkLatencyDescription": "Provide real-time network metrics in Server Info Bar.",
     "AutoDisplayNetworkLatencyTitle": "Real-time Network Metrics",
