@@ -272,6 +272,8 @@
     "AutoDisplayMitigationInfoTitle": "데미지 감소 수치 실시간 표시",
     "AutoDisplayMSQProgressDescription": "미완료된 메인 퀘스트가 남아 있다면, 메인가이드 화면에 남은 갯수와 진행 퍼센트를 자동 표시합니다.",
     "AutoDisplayMSQProgressTitle": "메인 퀘스트 진행 상황 표시",
+    "AutoDisplayMTQObjectDescription": "自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。",
+    "AutoDisplayMTQObjectTitle": "自动显示任务对象",
     "AutoDisplayNetworkLatency-DefaultFormat": "{0} 밀리초",
     "AutoDisplayNetworkLatencyDescription": "서버 정보란에 게임 서버로의 실시간 네트워크 지연 정보를 표시합니다.",
     "AutoDisplayNetworkLatencyTitle": "네트워크 지연 자동 표시",
