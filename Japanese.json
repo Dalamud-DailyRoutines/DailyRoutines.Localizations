@@ -2367,6 +2367,7 @@
     "Regex": "正規表現",
     "Reject": "No",
     "ReloadModules": "モジュールの再読み込み",
+    "Remark": "备注",
     "RemoteInteraction-Blacklist-Error-EmptyInfo": "アカウント名およびパスワードを入力してください",
     "RemoteInteraction-Blacklist-Error-NoResponse": "サーバーからの応答がありません",
     "Rename": "リネーム",
