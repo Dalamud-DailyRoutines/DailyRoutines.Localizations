@@ -2367,6 +2367,7 @@
     "Regex": "Regular Expression",
     "Reject": "Reject",
     "ReloadModules": "Reload Modules",
+    "Remark": "备注",
     "RemoteInteraction-Blacklist-Error-EmptyInfo": "The name and the password cannot be empty.",
     "RemoteInteraction-Blacklist-Error-NoResponse": "No response from the server.",
     "Rename": "Rename",
