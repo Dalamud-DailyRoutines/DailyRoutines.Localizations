@@ -1243,7 +1243,7 @@
     "BetterBlueSetLoad-CommandHelp": "to load the active set with the specified index or name",
     "BetterBlueSetLoadDescription": "Provide better loading for active sets, allowing to switch active sets without removing Aetheric Mimicry status or waiting for action cooldown. The feature comes with a command /pdr {0} for better access.",
     "BetterBlueSetLoadTitle": "Better BLU Active Set",
-    "BetterCollectionCommandDescription": "Allow the names of items of interest in Collection to be the parameter for the command /coll and /collection.\n(For example, /coll Mogpendium and /coll \"Unending Codex\")",
+    "BetterCollectionCommandDescription": "使“/重要物品（/collection、/coll）”命令支持填写重要物品名以直接打开对应界面。\n（示例：/重要物品 莫古莫古指南书、/重要物品 随身见闻录）",
     "BetterCollectionCommandTitle": "Better /coll Command",
     "BetterCommandInput-DeleteSpaceBeforeCommand": "Remove spaces before command",
     "BetterCommandInputDescription": "Automatically converts incorrect case and full/half-case commands to correct commands when entering commands.",
