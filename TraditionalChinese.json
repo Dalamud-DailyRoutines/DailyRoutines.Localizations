@@ -2241,7 +2241,7 @@
     "OptimizedRecipeNote-Config-SwitchJobButton": "切換職業按鈕",
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "若所選配方職業需求與當前職業不符, 則將\"開始製作\"按鈕替換為\"切換職業\"按鈕",
     "OptimizedRecipeNote-Message-CaculationResult": "求解器計算結果詳情",
-    "OptimizedRecipeNote-Message-CraftComplete": "批量制作了{rounds}次，共计{count}个{item}。",
+    "OptimizedRecipeNote-Message-CraftComplete": "批量制作了{rounds}次，获得了“{item}”x{count}。",
     "OptimizedRecipeNote-Message-CraftFailed": "制作失败，已停止自动制作。",
     "OptimizedRecipeNote-Message-InstallRapheal": "需要安裝並啟用 Raphael.Dalamud 插件（≥ 0.0.3.0) 以使用本功能",
     "OptimizedRecipeNote-Message-MacroCopied": "复制了宏#{0}至剪贴板。",
