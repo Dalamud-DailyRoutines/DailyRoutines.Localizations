@@ -2241,7 +2241,7 @@
     "OptimizedRecipeNote-Config-SwitchJobButton": "ジョブチェンジボタン",
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "選択したレシピのクラスが現在のクラスと異なる場合、「製作開始」ボタンを「クラスチェンジ」ボタンに置き換えます。",
     "OptimizedRecipeNote-Message-CaculationResult": "レシピ計算機の結果詳細",
-    "OptimizedRecipeNote-Message-CraftComplete": "{rounds, plural, other {批量制作了#次，共计{count}个{item}。}}",
+    "OptimizedRecipeNote-Message-CraftComplete": "批量制作了{rounds}次，共计{count}个{item}。",
     "OptimizedRecipeNote-Message-CraftFailed": "制作失败，已停止自动制作。",
     "OptimizedRecipeNote-Message-InstallRapheal": "本機能を使用するには、Raphael.Dalamud プラグイン (バージョン 0.0.3.0 以上) のインストールと有効化が必要です",
     "OptimizedRecipeNote-Message-MacroCopied": "复制了宏#{0}至剪贴板。",
