@@ -2241,7 +2241,7 @@
     "OptimizedRecipeNote-Config-SwitchJobButton": "Job Switching Button",
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "Replace the \"Synthesize\" button with the \"Switch Job\" button when the recipe is not for the current job.",
     "OptimizedRecipeNote-Message-CaculationResult": "Recipe Solution Suggestion",
-    "OptimizedRecipeNote-Message-CraftComplete": "批量制作了{rounds}次，共计{count}个{item}。",
+    "OptimizedRecipeNote-Message-CraftComplete": "批量制作了{rounds}次，获得了“{item}”x{count}。",
     "OptimizedRecipeNote-Message-CraftFailed": "制作失败，已停止自动制作。",
     "OptimizedRecipeNote-Message-InstallRapheal": "The function requires the plugin Raphael.Dalamud version 0.0.3.0 or higher.",
     "OptimizedRecipeNote-Message-MacroCopied": "复制了宏#{0}至剪贴板。",
