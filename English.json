@@ -2216,7 +2216,7 @@
     "OptimizedQuickPanelTitle": "Better Command Panel",
     "OptimizedRecipeNote-AddonTitle": "Solution Steps",
     "OptimizedRecipeNote-Button-CaculateRecipe": "Solve Recipe",
-    "OptimizedRecipeNote-Button-CopyMacro": "复制宏#{0}",
+    "OptimizedRecipeNote-Button-CopyMacro": "Copy Macro #{0}",
     "OptimizedRecipeNote-Button-CraftMultiple": "Synthesize {0} Time(s)",
     "OptimizedRecipeNote-Button-ShowOtherRecipes": "Other Jobs",
     "OptimizedRecipeNote-Button-StartCraft": "Synthesize",
