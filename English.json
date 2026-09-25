@@ -195,6 +195,8 @@
     "AutoConfirmPortraitUpdateTitle": "Auto Confirm Portrait Updates",
     "AutoConstantlyClick-GamepadMode": "Gamepad Mode",
     "AutoConstantlyClick-MouseMode": "Mouse Mode",
+    "AutoConstantlyClick-WaitTime": "等待时间",
+    "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
     "AutoConstantlyClickDescription": "Holding down any hotbar key will automatically switch to rapid repeated presses of that key",
     "AutoConstantlyClickTitle": "Auto Click Repeatedly",
     "AutoConstantlyInspectDescription": "Auto click the \"Continue\" button when the Item Appraisal Result interface appears",
