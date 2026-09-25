@@ -195,6 +195,8 @@
     "AutoConfirmPortraitUpdateTitle": "ポートレート更新の自動確認",
     "AutoConstantlyClick-GamepadMode": "ゲームパッド操作モード",
     "AutoConstantlyClick-MouseMode": "マウス操作モード",
+    "AutoConstantlyClick-WaitTime": "等待时间",
+    "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
     "AutoConstantlyClickDescription": "任意のホットバーのボタンを長押しすると、自動的にそのボタンを高速で繰り返しクリックします。",
     "AutoConstantlyClickTitle": "ターボクリック機能",
     "AutoConstantlyInspectDescription": "埋もれた財宝鑑定結果UIが表示された時、自動的に「はい」ボタンを押し連続鑑定する。",
