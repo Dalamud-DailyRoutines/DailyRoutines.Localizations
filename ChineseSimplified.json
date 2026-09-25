@@ -195,6 +195,8 @@
     "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
     "AutoConstantlyClick-GamepadMode": "手柄模式",
     "AutoConstantlyClick-MouseMode": "鼠标模式",
+    "AutoConstantlyClick-WaitTime": "等待时间",
+    "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
     "AutoConstantlyClickDescription": "当长按任一热键栏按键时, 自动转为快速重复点击该按键",
     "AutoConstantlyClickTitle": "自动重复点击",
     "AutoConstantlyInspectDescription": "道具鉴定结果界面出现后, 自动点击继续鉴定按钮",
