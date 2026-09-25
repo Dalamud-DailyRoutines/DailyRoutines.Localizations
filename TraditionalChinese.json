@@ -195,6 +195,8 @@
     "AutoConfirmPortraitUpdateTitle": "自動確認肖像更新",
     "AutoConstantlyClick-GamepadMode": "手柄模式",
     "AutoConstantlyClick-MouseMode": "鼠標模式",
+    "AutoConstantlyClick-WaitTime": "等待时间",
+    "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
     "AutoConstantlyClickDescription": "當長按任一快速鍵欄按鍵時, 自動轉為快速重複點擊該按鍵",
     "AutoConstantlyClickTitle": "自動重複點擊",
     "AutoConstantlyInspectDescription": "道具鑑定結果界面出現後, 自動點擊繼續鑑定按鈕",
