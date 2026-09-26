@@ -1788,7 +1788,7 @@
     "FCMemberManagePanel-ConfirmKick": "{0}을(를) 자유부대에서 제명하시겠습니까?",
     "FCMemberManagePanel-ConfirmKickMulti": "자유부대에서 {0}명의 부대원을 제명하시겠습니까?",
     "FCMemberManagePanel-CurrentPage": "현재 페이지",
-    "FCMemberManagePanel-LastOnline-BeyondMonth": "超过 30 天",
+    "FCMemberManagePanel-LastOnline-BeyondMonth": "30일 초과",
     "FCMemberManagePanel-LastOnline-Online": "在线",
     "FCMemberManagePanel-LastOnline-WithinDay": "1 天内",
     "FCMemberManagePanel-LastOnline-WithinHour": "1 小时内",
