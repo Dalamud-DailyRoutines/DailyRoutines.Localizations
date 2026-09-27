@@ -303,7 +303,7 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Auto Redraw When Out of Combat",
     "AutoDrawMotifsDescription": "If the current job is Pictomancer, automatically use available Motiff actions upon entering or recommencing a duty, or exiting combat",
     "AutoDrawMotifsTitle": "Auto Draw Motifs",
-    "AutoEliminateFishAwareness-ExtraCommands": "额外文本指令",
+    "AutoEliminateFishAwareness-ExtraCommands": "Extra Command",
     "AutoEliminateFishAwareness-ExtraCommands-Help": "Commands here will be executed after returning to the same location.\nCommands will be executed as a macro, meaning one command per line, with a maximum of 15 lines.",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "Logout After Global Wariness",
     "AutoEliminateFishAwareness-Notification-GlobalWarning": "Cast failed due to global wariness has occurred at the current fishing location. Cast at another current location to reset the wariness.",
