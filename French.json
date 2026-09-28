@@ -961,6 +961,8 @@
     "AutoRestoreFurniture-StoredToInventory": "Débarras → Inventaire",
     "AutoRestoreFurnitureDescription": "Ouvrez l'interface de mobilier et cliquez sur \"Démarrer\" pour récupérer automatiquement tous les meubles du débarras vers l'inventaire ou déplacer les meubles placés vers le débarras.",
     "AutoRestoreFurnitureTitle": "Restauration automatique du mobilier",
+    "AutoResumeQuestRedoDescription": "若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。",
+    "AutoResumeQuestRedoTitle": "自动继续昔日重现",
     "AutoRetainerWork-AbortBehavior-AdjustToExpected": "改价至预期值",
     "AutoRetainerWork-AbortBehavior-AdjustToMaximum": "改价至最高值",
     "AutoRetainerWork-AbortBehavior-AdjustToMinimum": "改价至最小值",
