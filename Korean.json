@@ -961,6 +961,8 @@
     "AutoRestoreFurniture-StoredToInventory": "창고 → 소지품",
     "AutoRestoreFurnitureDescription": "가구 목록을 열고 '시작'을 클릭하면 자동으로 창고의 모든 가구를 소지품에서 꺼내고, 배치된 가구를 창고에 넣습니다.",
     "AutoRestoreFurnitureTitle": "가구 자동 회수",
+    "AutoResumeQuestRedoDescription": "若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。",
+    "AutoResumeQuestRedoTitle": "自动继续昔日重现",
     "AutoRetainerWork-AbortBehavior-AdjustToExpected": "목표 가격으로 변경",
     "AutoRetainerWork-AbortBehavior-AdjustToMaximum": "최고가로 변경",
     "AutoRetainerWork-AbortBehavior-AdjustToMinimum": "최저가로 변경",
