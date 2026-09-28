@@ -961,6 +961,8 @@
     "AutoRestoreFurniture-StoredToInventory": "Storeroom → Inventory",
     "AutoRestoreFurnitureDescription": "Open the Furniture UI and click \"Start\" to automatically retrieve all storeroom furniture into the inventory/placed furniture into the storeroom",
     "AutoRestoreFurnitureTitle": "Auto Restore Furniture",
+    "AutoResumeQuestRedoDescription": "若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。",
+    "AutoResumeQuestRedoTitle": "自动继续昔日重现",
     "AutoRetainerWork-AbortBehavior-AdjustToExpected": "Adjust To Expected",
     "AutoRetainerWork-AbortBehavior-AdjustToMaximum": "Adjust To Maximum",
     "AutoRetainerWork-AbortBehavior-AdjustToMinimum": "Adjust To Minimum",
