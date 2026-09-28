@@ -1127,7 +1127,7 @@
     "AutoSummonBuddyChocoboTitle": "バディチョコボの自動召喚",
     "AutoSummonPetDescription": "現在のジョブが、召喚師/学者/巴術士の場合、コンテンツに進入・リスタート時に自動的にカーバンクル/エオスを召喚します",
     "AutoSummonPetTitle": "【SMN/SCH/ACN】カーバンクル/エオスを自動召喚",
-    "AutoTalkSkipDescription": "NPCとの会話が表示された時、自動的にスキップします。",
+    "AutoTalkSkipDescription": "自动阻止所有对话显示，并自动快进跳过无法阻止的对话。",
     "AutoTalkSkipTitle": "NPC会話自動スキップ",
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "パーティーにタンクが自分一人しかいない時のみ",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "このチェックを入れると: \nパーティーに自分１人しかタンクがいない時のみ、自動的にスタンスを入れます。\n\n例: (デフォルトの状態)\nID/アライアンスに入る際、タンクが自分一人しかいないため、自動的にスタンスを入れる。\n討伐討滅/レイドに入る際、タンクが自分含め二人いるため、自動的にスタンスを入れない。",
