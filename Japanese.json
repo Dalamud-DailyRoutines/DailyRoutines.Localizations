@@ -961,6 +961,8 @@
     "AutoRestoreFurniture-StoredToInventory": "倉庫 → かばん",
     "AutoRestoreFurnitureDescription": "家具インターフェースを開き、「スタート」をクリックすると、自動的に倉庫内のすべての家具をかばんに取り出し、配置済みの家具を倉庫に収納する",
     "AutoRestoreFurnitureTitle": "家具を自動的に回収する",
+    "AutoResumeQuestRedoDescription": "若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。",
+    "AutoResumeQuestRedoTitle": "自动继续昔日重现",
     "AutoRetainerWork-AbortBehavior-AdjustToExpected": "希望価格へ改定",
     "AutoRetainerWork-AbortBehavior-AdjustToMaximum": "上限価格へ改定",
     "AutoRetainerWork-AbortBehavior-AdjustToMinimum": "最安値へ改定",
