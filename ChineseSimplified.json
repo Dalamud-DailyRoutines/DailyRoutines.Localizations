@@ -1127,7 +1127,7 @@
     "AutoSummonBuddyChocoboTitle": "自动召唤搭档陆行鸟",
     "AutoSummonPetDescription": "若当前职业为召唤师或学者, 则在进入副本或触发重新挑战后, 自动召唤召唤兽",
     "AutoSummonPetTitle": "自动召唤召唤兽",
-    "AutoTalkSkipDescription": "自动尝试阻止所有的对话框出现, 若无法事先阻止, 则自动快进跳过",
+    "AutoTalkSkipDescription": "自动阻止所有对话显示，并自动快进跳过无法阻止的对话。",
     "AutoTalkSkipTitle": "自动跳过对话",
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "仅当队伍最多容纳一名防护职业时",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "勾选本项意为:\n当副本默认状态下最多只能有一名防护职业时, 自动开启盾姿\n\n例: (默认状态下)\n当进入迷宫挑战/团队任务时, 队伍最多只能有一名防护职业, 自动开启盾姿\n当进入讨伐歼灭战/大型任务时, 队伍最多能有两名防护职业, 不自动开启盾姿",
