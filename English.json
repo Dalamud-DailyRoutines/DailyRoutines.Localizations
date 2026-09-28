@@ -1127,7 +1127,7 @@
     "AutoSummonBuddyChocoboTitle": "Auto Summon Companion",
     "AutoSummonPetDescription": "Auto summon pets when entering duty or retrying if you are SMN or SCH",
     "AutoSummonPetTitle": "Auto Summon Pet",
-    "AutoTalkSkipDescription": "Automatically skip a dialog when it emerges",
+    "AutoTalkSkipDescription": "自动阻止所有对话显示，并自动快进跳过无法阻止的对话。",
     "AutoTalkSkipTitle": "Auto Skip Dialogue",
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "Only when the party allows at most one tank job",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "Selecting this option means: When a dungeon allows only one tank job by default, Tank Stance will be used automatically.\n\nExample: (By default)\n\nWhen entering a Dungeon/Raid, if the party can only have one tank job, Tank Stance will be used automatically.\nWhen entering a Trial/Alliance Raid, if the party can have up to two tank jobs, Tank Stance will not be used automatically.",
