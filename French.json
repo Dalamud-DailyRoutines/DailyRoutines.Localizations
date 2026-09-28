@@ -1127,7 +1127,7 @@
     "AutoSummonBuddyChocoboTitle": "Invocation automatique du compagnon",
     "AutoSummonPetDescription": "Invoque automatiquement les familiers à l'entrée en mission ou lors d'une nouvelle tentative si vous êtes Invocateur ou Érudit.",
     "AutoSummonPetTitle": "Invocation automatique des familiers",
-    "AutoTalkSkipDescription": "Passe automatiquement un dialogue lorsqu'il apparaît.",
+    "AutoTalkSkipDescription": "自动阻止所有对话显示，并自动快进跳过无法阻止的对话。",
     "AutoTalkSkipTitle": "Passage automatique des dialogues",
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "Uniquement lorsque l'équipe n'autorise qu'un seul tank",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "Sélectionner cette option signifie : lorsqu'une mission n'autorise qu'un seul job tank par défaut, la posture de tank sera activée automatiquement.\n\nExemple :\n\nEn entrant dans un donjon / raid, si l'équipe ne peut avoir qu'un seul tank, la posture sera activée automatiquement.\nEn entrant dans un défi / raid d'alliance, si l'équipe peut avoir jusqu'à deux tanks, la posture ne sera pas activée automatiquement.",
