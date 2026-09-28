@@ -1127,7 +1127,7 @@
     "AutoSummonBuddyChocoboTitle": "버디(초코보) 자동소환",
     "AutoSummonPetDescription": "현재 직업이 소환사/학자/비술사일 경우, 콘텐츠 돌입/재시작/전투 종료시 자동으로 카벙클/에오스를 소환합니다.",
     "AutoSummonPetTitle": "【소환사/학자/비술사】 카벙클/에오스 자동 소환",
-    "AutoTalkSkipDescription": "NPC 대화가 표시되면 자동으로 스킵합니다.",
+    "AutoTalkSkipDescription": "自动阻止所有对话显示，并自动快进跳过无法阻止的对话。",
     "AutoTalkSkipTitle": "NPC 대화 자동 스킵",
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "파티에 탱커가 자신 혼자일 때만",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "이 옵션을 켜면: \n파티 내 탱커가 자신 한 명일 때만 자동으로 스탠스를 켭니다.\n\n예: (기본 상태)\nID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 스탠스를 켬\n토벌/레이드 진입 시, 탱커가 두 명 이상이면 자동으로 켜지 않음",
