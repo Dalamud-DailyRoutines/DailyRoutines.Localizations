@@ -961,6 +961,8 @@
     "AutoRestoreFurniture-StoredToInventory": "仓库 → 背包",
     "AutoRestoreFurnitureDescription": "打开家具界面, 并点击开始后, 自动将所有仓库家具取回背包/已布置家具存入仓库",
     "AutoRestoreFurnitureTitle": "自动取回家具",
+    "AutoResumeQuestRedoDescription": "若有已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。",
+    "AutoResumeQuestRedoTitle": "自动继续昔日重现",
     "AutoRetainerWork-AbortBehavior-AdjustToExpected": "改价至预期值",
     "AutoRetainerWork-AbortBehavior-AdjustToMaximum": "改价至最高值",
     "AutoRetainerWork-AbortBehavior-AdjustToMinimum": "改价至最小值",
