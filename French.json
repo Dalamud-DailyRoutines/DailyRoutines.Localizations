@@ -2597,6 +2597,8 @@
     "UnifiedGlamourManagerDescription": "Ajoute une interface unifiée permettant de consulter tous les équipements de la commode à mirages et de l'armoire, avec des fonctions avancées de filtrage, de favoris et de préréglages pour gérer plus efficacement vos apparences.",
     "UnifiedGlamourManagerTitle": "Gestionnaire unifié de mirages",
     "Unknown": "Inconnu",
+    "UnlimitedMacroIconDescription": "支持在宏内使用 /pdr {0} <图标 ID> 指令以将其图标设置为任意图标。",
+    "UnlimitedMacroIconTitle": "无限制宏图标指定",
     "Update": "Mettre à jour",
     "UseItemCommand-CommandHelp": "<ID d'objet / nom d'objet / nom d'objet en pinyin> pour utiliser un objet spécifique de l'inventaire.",
     "UseItemCommand-Notice-NotFound": "Objet {0} introuvable.",
