@@ -2597,6 +2597,8 @@
     "UnifiedGlamourManagerDescription": "モジュール用画面の追加。ミラージュプレートの編集時、ミラージュドレッサーおよび愛蔵品キャビネット内のすべての装備を表示可能。絞り込み、およびお気に入り機能を提供。ミラージュプレートの保存・インポート・エクスポートに対応し、装備の投影を効率的に管理",
     "UnifiedGlamourManagerTitle": "ミラプリ一括管理",
     "Unknown": "不明",
+    "UnlimitedMacroIconDescription": "支持在宏内使用 /pdr {0} <图标 ID> 指令以将其图标设置为任意图标。",
+    "UnlimitedMacroIconTitle": "无限制宏图标指定",
     "Update": "更新",
     "UseItemCommand-CommandHelp": "<アイテムID / アイテム名> 所持品内にある指定したアイテムを使う",
     "UseItemCommand-Notice-NotFound": "「{0}」に該当するアイテムが見つかりませんでした",
