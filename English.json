@@ -548,7 +548,7 @@
     "AutoLeaveDuty-Notification-Set-InstantLeave": "Now going to leave the duty immediately upon completion.",
     "AutoLeaveDuty-Notification-Set-NoLeave": "Now going to stay upon completion.",
     "AutoLeaveDuty-Notification-Set-None": "The settings for this run have been cleared.",
-    "AutoLeaveDutyDescription": "Automatically leave upon completing a designated duty after completing a designated duty.",
+    "AutoLeaveDutyDescription": "Automatically leave upon completing a designated duty after proper configurations.",
     "AutoLeaveDutyTitle": "Auto Leave Duty",
     "AutoLeveQuests-CompleteHelp": "Batch Levequest Submission Complete",
     "AutoLeveQuests-ObtainHelp": "To Obtain (Click Left Button After Selected Target)",
