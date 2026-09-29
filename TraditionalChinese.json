@@ -2597,6 +2597,8 @@
     "UnifiedGlamourManagerDescription": "新增模組界面, 編輯投影模板時, 可顯示投影台與收藏櫃中的全部裝備; 提供快捷篩選和收藏功能; 支持投影模板的保存、導入與導出, 幫助高效管理裝備投影",
     "UnifiedGlamourManagerTitle": "統一投影管理器",
     "Unknown": "未知",
+    "UnlimitedMacroIconDescription": "支持在宏内使用 /pdr {0} <图标 ID> 指令以将其图标设置为任意图标。",
+    "UnlimitedMacroIconTitle": "无限制宏图标指定",
     "Update": "更新",
     "UseItemCommand-CommandHelp": "<物品 ID / 物品名 / 物品名拼音> 使用背包中指定物品",
     "UseItemCommand-Notice-NotFound": "沒有找到對應 {0} 的物品",
