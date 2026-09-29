@@ -2597,6 +2597,8 @@
     "UnifiedGlamourManagerDescription": "Introduce a new interface for better glamour management, which shows all the items in Glamour Dresser and Armoire while editing glamour plates, provides filter and favourite features, and supports plate import & export.",
     "UnifiedGlamourManagerTitle": "Unified Glamour Manager",
     "Unknown": "Unknown",
+    "UnlimitedMacroIconDescription": "支持在宏内使用 /pdr {0} <图标 ID> 指令以将其图标设置为任意图标。",
+    "UnlimitedMacroIconTitle": "无限制宏图标指定",
     "Update": "Update",
     "UseItemCommand-CommandHelp": "<item ID/item name/item name in pinyin> to use a specific item in the inventory.",
     "UseItemCommand-Notice-NotFound": "Item {0} was not found.",
