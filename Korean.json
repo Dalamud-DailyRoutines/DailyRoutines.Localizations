@@ -303,7 +303,7 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "전투 종료 후 자동으로 그림 실행",
     "AutoDrawMotifsDescription": "현재 직업이 픽토맨서일 때, 콘텐츠 입장/재시작/전투 종료 후 사용 가능한 그림 스킬을 자동으로 사용합니다.",
     "AutoDrawMotifsTitle": "【픽토맨서】 자동 그림",
-    "AutoEliminateFishAwareness-ExtraCommands": "额外文本指令",
+    "AutoEliminateFishAwareness-ExtraCommands": "추가 텍스트 명령어",
     "AutoEliminateFishAwareness-ExtraCommands-Help": "여기에 입력한 명령어는 원래 낚시터로 돌아갔을 때 실행됩니다.\n매크로 방식으로 실행되며 한 줄에 1개의 명령어를 최대 15줄까지 입력 가능합니다.",
     "AutoEliminateFishAwareness-LogoutWhenGlobalWarning": "전역 경계 시 접속 종료",
     "AutoEliminateFishAwareness-Notification-GlobalWarning": "현재 낚시터의 물고기들이 경계하고 있어, 더 이상 낚싯대를 던질 수 없습니다. 다른 낚시터로 이동해 물고기를 낚아 경계 태세를 해제하세요.",
