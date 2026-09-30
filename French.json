@@ -362,6 +362,8 @@
     "AutoFate-FateMode-MultiZone-Title": "危命任务完成度",
     "AutoFate-FateMode-SingZone-Description": "Le module complétera automatiquement les ALÉAs dans l'unique zone désignée. Si aucun ALÉA ne remplit les conditions définies dans cette zone, le personnage attendra sur place.",
     "AutoFate-FateMode-SingZone-Title": "Zone unique",
+    "AutoFate-IgnoreFarLevelFates": "忽略远超等级的危命任务",
+    "AutoFate-IgnoreFarLevelFatesHelp": "若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。",
     "AutoFate-NextFate": "下一个危命任务",
     "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
     "AutoFate-PluginPrerequisite-Config": "Configuration des plugins requis",
