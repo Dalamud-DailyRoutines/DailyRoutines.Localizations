@@ -362,6 +362,8 @@
     "AutoFate-FateMode-MultiZone-Title": "FATE Completion",
     "AutoFate-FateMode-SingZone-Description": "The module will automatically farm FATEs in the designated zone. If no FATE meets the given conditions, the character would wait in place.",
     "AutoFate-FateMode-SingZone-Title": "Single Zone",
+    "AutoFate-IgnoreFarLevelFates": "忽略远超等级的危命任务",
+    "AutoFate-IgnoreFarLevelFatesHelp": "若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。",
     "AutoFate-NextFate": "Next FATE",
     "AutoFate-Notification-Completed": "FATE \"{0}\" has been completed.\nTime elapsed: {1}",
     "AutoFate-PluginPrerequisite-Config": "Prerequisite Modules & Plugins",
