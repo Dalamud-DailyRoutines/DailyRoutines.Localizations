@@ -362,6 +362,8 @@
     "AutoFate-FateMode-MultiZone-Title": "돌발 임무 달성도",
     "AutoFate-FateMode-SingZone-Description": "선택한 지역에서 돌발 임무를 반복 완료합니다.\n해당 지역에 조건을 만족하는 F.A.T.E.가 없으면, 그 자리에서 대기합니다.",
     "AutoFate-FateMode-SingZone-Title": "단일 지역",
+    "AutoFate-IgnoreFarLevelFates": "忽略远超等级的危命任务",
+    "AutoFate-IgnoreFarLevelFatesHelp": "若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。",
     "AutoFate-NextFate": "다음 돌발 임무",
     "AutoFate-Notification-Completed": "돌발 임무 \"{0}\" 자동 완료\n소요 시간: {1}",
     "AutoFate-PluginPrerequisite-Config": "의존 플러그인/모듈 설정",
