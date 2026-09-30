@@ -362,6 +362,8 @@
     "AutoFate-FateMode-MultiZone-Title": "F.A.T.E.達成度",
     "AutoFate-FateMode-SingZone-Description": "選択したエリア内でF.A.T.E.を繰り返し完了します。\nもしエリア内に条件を満たすF.A.T.E.が存在しない場合は、その場で待機します。",
     "AutoFate-FateMode-SingZone-Title": "単一エリア",
+    "AutoFate-IgnoreFarLevelFates": "忽略远超等级的危命任务",
+    "AutoFate-IgnoreFarLevelFatesHelp": "若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。",
     "AutoFate-NextFate": "次のF.A.T.E.",
     "AutoFate-Notification-Completed": "F.A.T.E.「{0}」を達成しました\n所要時間：{1}",
     "AutoFate-PluginPrerequisite-Config": "前提プラグイン/モジュールの設定",
