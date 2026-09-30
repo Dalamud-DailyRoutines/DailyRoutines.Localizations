@@ -362,6 +362,8 @@
     "AutoFate-FateMode-MultiZone-Title": "危命任务完成度",
     "AutoFate-FateMode-SingZone-Description": "在选定区域内循环完成临危受命任务, 若区域内不存在满足条件的临危受命任务, 则在原地等待",
     "AutoFate-FateMode-SingZone-Title": "单区域",
+    "AutoFate-IgnoreFarLevelFates": "忽略远超等级的危命任务",
+    "AutoFate-IgnoreFarLevelFatesHelp": "若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。",
     "AutoFate-NextFate": "下一个危命任务",
     "AutoFate-Notification-Completed": "已自动完成危命任务“{0}”\n用时：{1}",
     "AutoFate-PluginPrerequisite-Config": "前置插件/模块配置",
