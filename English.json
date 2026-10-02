@@ -812,7 +812,7 @@
     "AutoPlayerCommend-Notification-AssignedNobody": "No party member will be commended after the run.",
     "AutoPlayerCommend-Notification-AssignedPlayer": "{0}{1} has been designated to be commended after the run.",
     "AutoPlayerCommend-Notification-Auto": "The designation has been removed. Now it will commend the party member in the same role after the run.",
-    "AutoPlayerCommend-Notification-ErrorWhenGave": "Failed to commend due to broken data.",
+    "AutoPlayerCommend-Notification-ErrorWhenGave": "Failed to commend due to invalid data.",
     "AutoPlayerCommend-Notification-Given": "{0}{1} has been commended.",
     "AutoPlayerCommendDescription": "Automatically commend the party member in the same role after a duty run.",
     "AutoPlayerCommendTitle": "Auto Commend Party Member",
