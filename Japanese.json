@@ -176,6 +176,7 @@
     "AutoCheckFoodUsageDescription": "食事バフの使用状態を自動で確認し、残り時間が閾値以下になると指定した食事を自動で使用する",
     "AutoCheckFoodUsageTitle": "食事バフ状態を自動で確認する",
     "AutoCheckItemLevel-Notification-Message": "Lv.{level} {player}\n（最低IL：{minIL} / 平均IL：{avgIL}）",
+    "AutoCheckItemLevel-Notification-Title": "结成了{memberCount}人小队，队员信息如下：",
     "AutoCheckItemLevelDescription": "进入副本后，自动检查小队成员等级与装备品级信息，突出标记可能仅堪堪满足任务要求的成员。",
     "AutoCheckItemLevelTitle": "装備ILの自動チェック",
     "AutoCheckQuickGatheringDescription": "採集ウィンドウ表示時、「選択したアイテムを簡易採集する」を自動で有効化します。",
