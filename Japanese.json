@@ -811,7 +811,7 @@
     "AutoPlayerCommend-ContextMenu-Auto": "MIP指定の解除",
     "AutoPlayerCommend-Notification-AssignedNobody": "今回のコンテンツにてMIPを自動指定しないよう設定しました。",
     "AutoPlayerCommend-Notification-AssignedPlayer": "{player} を今回のコンテンツのMIPに指定しました。",
-    "AutoPlayerCommend-Notification-Auto": "已清除指定的最优队员，任务完成时将自动推荐对位队友。",
+    "AutoPlayerCommend-Notification-Auto": "MIPの指定を解除しました。コンテンツ終了時、同じロールのメンバーを自動でMIPします。",
     "AutoPlayerCommend-Notification-ErrorWhenGave": "ゲームデータの異常または破損のため、同ロールのパーティメンバーを自動選出できませんでした。",
     "AutoPlayerCommend-Notification-Given": "推荐了{player}为本次任务的最优队员。",
     "AutoPlayerCommendDescription": "副本任务完成时，自动给予对位队友最优队员推荐。",
