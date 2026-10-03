@@ -1900,7 +1900,6 @@
     "IgnoreTurnAndLookAtWaitTitle": "NPCの振り向きや視線調整の待機を自動でキャンセル",
     "IgnoreWindowMinSizeLimitDescription": "ゲームウィンドウの最小サイズ制限を解除し、手動でより小さくリサイズできるようにします。",
     "IgnoreWindowMinSizeLimitTitle": "ゲームウィンドウの最小サイズ制限を解除",
-    "ILAverage": "平均IL",
     "Import": "インポート",
     "ImportFromClipboard": "クリップボードからインポート",
     "InDuty": "インスタンスエリア内",
