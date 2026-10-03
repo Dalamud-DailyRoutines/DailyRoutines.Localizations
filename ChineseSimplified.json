@@ -1900,7 +1900,6 @@
     "IgnoreTurnAndLookAtWaitTitle": "自动取消 NPC 转身及视线调整等待",
     "IgnoreWindowMinSizeLimitDescription": "自动取消游戏窗口的最小尺寸限制, 使其能被手动缩放得更小",
     "IgnoreWindowMinSizeLimitTitle": "自动取消游戏窗口最小尺寸限制",
-    "ILAverage": "平均装等",
     "Import": "导入",
     "ImportFromClipboard": "从剪贴板导入",
     "InDuty": "副本任务内",
