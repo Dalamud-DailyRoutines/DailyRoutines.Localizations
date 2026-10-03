@@ -176,6 +176,7 @@
     "AutoCheckFoodUsageDescription": "Automatically check the status of consumed food, and replenish specific food when the remaining time falls below the threshold",
     "AutoCheckFoodUsageTitle": "Auto Check Self Food Status",
     "AutoCheckItemLevel-Notification-Message": "{player} (lvl {level})\n(Min IL: {minIL} / Avg IL: {avgIL})",
+    "AutoCheckItemLevel-Notification-Title": "结成了{memberCount}人小队，队员信息如下：",
     "AutoCheckItemLevelDescription": "进入副本后，自动检查小队成员等级与装备品级信息，突出标记可能仅堪堪满足任务要求的成员。",
     "AutoCheckItemLevelTitle": "Auto Item Level Check",
     "AutoCheckQuickGatheringDescription": "Automatically enable quick gathering in the gathering interface.",
