@@ -176,6 +176,7 @@
     "AutoCheckFoodUsageDescription": "식사 버프 남은 시간을 확인해 기준치 이하이면 지정한 음식을 자동으로 사용합니다.",
     "AutoCheckFoodUsageTitle": "식사 버프 자동 확인",
     "AutoCheckItemLevel-Notification-Message": "{level}级　{player}\n（\ue033最低品级：{minIL}级/\ue0bd平均品级：{avgIL}级）",
+    "AutoCheckItemLevel-Notification-Title": "结成了{memberCount}人小队，队员信息如下：",
     "AutoCheckItemLevelDescription": "进入副本后，自动检查小队成员等级与装备品级信息，突出标记可能仅堪堪满足任务要求的成员。",
     "AutoCheckItemLevelTitle": "自动检查装备品级",
     "AutoCheckQuickGatheringDescription": "채집 창이 나타날 때 '선택한 아이템 간이 채집'을 자동으로 체크합니다.",
