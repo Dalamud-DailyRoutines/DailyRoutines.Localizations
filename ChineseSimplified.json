@@ -176,6 +176,7 @@
     "AutoCheckFoodUsageDescription": "自动检查自身对应食物使用状态, 并在剩余时间低于阈值时自动补充使用特定食物",
     "AutoCheckFoodUsageTitle": "自动检查自身食物状态",
     "AutoCheckItemLevel-Notification-Message": "{level}级　{player}\n（\ue033最低品级：{minIL}级/\ue0bd平均品级：{avgIL}级）",
+    "AutoCheckItemLevel-Notification-Title": "结成了{memberCount}人小队，队员信息如下：",
     "AutoCheckItemLevelDescription": "进入副本后，自动检查小队成员等级与装备品级信息，突出标记可能仅堪堪满足任务要求的成员。",
     "AutoCheckItemLevelTitle": "自动检查装备品级",
     "AutoCheckQuickGatheringDescription": "采集界面出现时，自动勾选“简易采集所选道具”。",
