@@ -2494,7 +2494,7 @@
     "Settings-Game-SkipLogo-Help": "Skip all the logos and disclaimers during client startup.",
     "Settings-Game-StripeDRPrefix": "No DR Prefix",
     "Settings-Game-StripeDRPrefix-Help": "插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。\n（更改后需要重启插件）",
-    "Settings-General-AuthBypassProxy": "在线验证绕过系统代理",
+    "Settings-General-AuthBypassProxy": "No Proxy For Authentication",
     "Settings-General-AuthBypassProxy-Help": "发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。\n（更改后需要重启插件）",
     "Settings-General-ConflictKey-Help": "The key works on certain modules. Press the key to interrupt ongoing actions.",
     "Settings-General-DefaultHomePage": "Default Page",
