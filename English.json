@@ -2149,7 +2149,7 @@
     "OptimizedCastBar-SlideCastHighlightType-None": "None",
     "OptimizedCastBar-SlideCastHighlightType-Zone": "Zone",
     "OptimizedCastBar-SlideCastMarker": "Slidecast Indicator",
-    "OptimizedCastBar-SlideCastMarker-Help": "显示位置仅供参考，实际可滑步时机由颜色指示。\n（若修改了动画锁，则实际可滑步时机无法从本地准确获取。）",
+    "OptimizedCastBar-SlideCastMarker-Help": "The slidecast indicator is just for reference. The actual slidecast availability will be better indicated by the colour.\n(Please be aware that, the slidecast availability may be unreliable if the animation lock has been adjusted.)",
     "OptimizedCastBar-SlideCastMarkerNotReadyColor": "Slidecast Standby",
     "OptimizedCastBar-SlideCastMarkerReadyColor": "Slidecast Ready",
     "OptimizedCastBar-SlideCastOffsetTime": "Slidecast Threshold (millisecond)",
