@@ -2496,7 +2496,7 @@
     "Settings-Game-StripeDRPrefix": "「DR」という接頭辞を表示しない",
     "Settings-Game-StripeDRPrefix-Help": "プラグインが送信するチャットメッセージおよび追加される右クリックメニューに「DR」の接頭辞が付与されなくなります。これによりUIテキストがゲーム標準機能により馴染むようになりますが、区別がつきにくくなる可能性があります。\n（※変更の適用にはプラグインの再起動が必要です）",
     "Settings-General-AuthBypassProxy": "オンライン認証時にシステムのプロキシ設定を無視させる",
-    "Settings-General-AuthBypassProxy-Help": "オンライン認証リクエスト送信時、システムプロキシ設定を無視して認証サーバーへ直接接続します。仮想NIC等のグローバル透明プロキシを使用している場合、本オプションは無効となります。\n（※変更の適用にはプラグインの再起動が必要です）",
+    "Settings-General-AuthBypassProxy-Help": "オンライン認証リクエスト送信時、システムプロキシ設定を無視して認証サーバーへ直接接続します。仮想NIC等のグローバルな透過型プロキシを使用している場合、本オプションは無効となります。\n（※変更の適用にはプラグインの再起動が必要です）",
     "Settings-General-ConflictKey-Help": "一部のモジュールはこの設定を読み込みます。押下することで、対応するモジュールで実行中の操作を中断します。",
     "Settings-General-DefaultHomePage": "デフォルトページ",
     "Settings-General-DefaultHomePage-Help": "プラグイン読み込み後、メインUIを最初に開いた際に表示されるページ。",
