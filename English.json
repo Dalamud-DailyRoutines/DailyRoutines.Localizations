@@ -2502,6 +2502,8 @@
     "Settings-General-DefaultHomePage-Help": "The page displayed upon the first access to the main interface each time after Daily Routines has been loaded.",
     "Settings-General-OnlineAuthInfo": "Authentication Notification",
     "Settings-General-OnlineAuthInfo-Help": "Send a notification containing authentication details every time authentication status is refreshed.",
+    "Settings-General-TrayIdleThreshold": "前台无操作通知提醒时间（毫秒）",
+    "Settings-General-TrayIdleThreshold-Help": "当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。\n（设为 0 时表示永远仅游戏位于后台时才通知）",
     "Settings-General-TrayOverlay": "Tray Widget",
     "Settings-General-TrayOverlay-Help": "A tray widget will be provided on the screen to access the main interface when the main interface is hidden.\n(Right click and drag the widget to adjust its position.)",
     "Settings-HelpTranslate": "Help Us Translate",
