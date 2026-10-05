@@ -2502,6 +2502,8 @@
     "Settings-General-DefaultHomePage-Help": "每次加载插件后首次打开主界面时显示的页面。",
     "Settings-General-OnlineAuthInfo": "通知在线验证信息",
     "Settings-General-OnlineAuthInfo-Help": "每次刷新在线验证信息时，通知已激活凭证的验证信息。",
+    "Settings-General-TrayIdleThreshold": "前台无操作通知提醒时间（毫秒）",
+    "Settings-General-TrayIdleThreshold-Help": "当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。\n（设为 0 时表示永远仅游戏位于后台时才通知）",
     "Settings-General-TrayOverlay": "Widget flottant",
     "Settings-General-TrayOverlay-Help": "在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。\n（右键拖拽该悬浮窗即可调整位置）",
     "Settings-HelpTranslate": "Aidez-nous à traduire",
