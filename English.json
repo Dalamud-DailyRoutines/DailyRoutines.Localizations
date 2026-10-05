@@ -2252,6 +2252,7 @@
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "Replace the \"Synthesize\" button with the \"Switch Job\" button when the recipe is not for the current job.",
     "OptimizedRecipeNote-Message-CaculationResult": "Recipe Solution Suggestion",
     "OptimizedRecipeNote-Message-CraftComplete": "{rounds, plural, one {# time} other {# times}} of synthesis. \"{item}\"x{count} acquired.",
+    "OptimizedRecipeNote-Message-CraftComplete-Title": "批量制作完成",
     "OptimizedRecipeNote-Message-CraftFailed": "The auto synthesis has been terminated due to failed synthesis.",
     "OptimizedRecipeNote-Message-InstallRapheal": "The function requires the plugin Raphael.Dalamud version 0.0.3.0 or higher.",
     "OptimizedRecipeNote-Message-MacroCopied": "Macro #{0} has been copied to the clipboard.",
