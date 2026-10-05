@@ -2252,6 +2252,7 @@
     "OptimizedRecipeNote-Config-SwitchJobButton-Help": "선택한 제작법의 요구 직업이 현재 직업과 일치하지 않을 경우, \"제작 시작\" 버튼을 \"직업 변경\" 버튼으로 교체합니다.",
     "OptimizedRecipeNote-Message-CaculationResult": "제작법 계산기의 결과 상세",
     "OptimizedRecipeNote-Message-CraftComplete": "총 {0}회의 제작을 모두 완료했습니다.",
+    "OptimizedRecipeNote-Message-CraftComplete-Title": "批量制作完成",
     "OptimizedRecipeNote-Message-CraftFailed": "제작에 실패하여 실행을 중지했습니다.",
     "OptimizedRecipeNote-Message-InstallRapheal": "이 기능을 사용하려면 Raphael.Dalamud 플러그인(버전 0.0.3.0 이상)을 설치하고 활성화해야 합니다.",
     "OptimizedRecipeNote-Message-MacroCopied": "매크로 #{0}을(를) 클립보드에 복사했습니다.",
