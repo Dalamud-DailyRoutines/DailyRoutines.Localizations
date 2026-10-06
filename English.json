@@ -191,7 +191,7 @@
     "AutoCollectableExchange-Message": "{count, plural, one {# collectable has} other {# collectables have}} been exchanged in batch.",
     "AutoCollectableExchange-Notification": "Batch exchange complete.",
     "AutoCollectableExchange-Notification-NoInclusionShop": "No scrip exchange available nearby.",
-    "AutoCollectableExchangeDescription": "支持在“收藏品交易”界面中按住打断热键批量交换全部收藏品，并添加“工票交易”按钮以快捷对话工票交易员。",
+    "AutoCollectableExchangeDescription": "Enable batch collectables exchange by holding the interrupt hotkey. Provide better access to scrip exchange NPCs nearby by introducing a \"Scrip Exchange\" button.",
     "AutoCollectableExchangeTitle": "Auto Collectables Exchange",
     "AutoCommenceDutyDescription": "Auto confirm the commencing duty window",
     "AutoCommenceDutyTitle": "Auto Duty Commence",
