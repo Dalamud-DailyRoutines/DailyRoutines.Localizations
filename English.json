@@ -331,7 +331,7 @@
     "AutoExpertDelivery-SkipMaterias": "Ignore Gears With Materia",
     "AutoExpertDelivery-SkipUltimateWeapons": "Ignore Ultimate Raid Items",
     "AutoExpertDelivery-StartBatch": "Batch Delivery",
-    "AutoExpertDeliveryDescription": "允许在“筹备任务”界面中批量提交稀有品，并支持修改打开界面时的默认分页。",
+    "AutoExpertDeliveryDescription": "Allow to expert deliver items in batch and set a default tab for the Expert Delivery interface.",
     "AutoExpertDeliveryTitle": "Auto Expert Delivery",
     "AutoFaceCameraDirection-CameraRotation": "Camera orientation",
     "AutoFaceCameraDirection-CharacterRotation": "Character orientation",
