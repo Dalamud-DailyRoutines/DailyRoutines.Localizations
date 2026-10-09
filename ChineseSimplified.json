@@ -757,7 +757,7 @@
     "AutoNotifyLeveUpdate-NotificationThreshold": "提醒阈值",
     "AutoNotifyLeveUpdateDescription": "配置后，在理符限额超过设定阈值时，自动发送通知提醒。",
     "AutoNotifyLeveUpdateTitle": "自动通知理符限额刷新",
-    "AutoNotifyLogin-Notification": "成功登入了游戏。",
+    "AutoNotifyLogin-Notification": "成功登入了游戏",
     "AutoNotifyLoginDescription": "登录成功时，自动发送通知提醒。",
     "AutoNotifyLoginTitle": "自动通知登录",
     "AutoNotifyMentorRouletteProgres-Notification-AchievementReward": "成就奖励",
