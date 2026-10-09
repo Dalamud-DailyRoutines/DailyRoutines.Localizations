@@ -2188,7 +2188,7 @@
     "OptimizedDutyFinderSettingDescription": "Provide a bar above Duty Finder which contains a row of buttons correspond to various Duty Finder settings, in order to make these settings more accessible.",
     "OptimizedDutyFinderSettingTitle": "Better Duty Finder Settings",
     "OptimizedEnemyList-AlwaysUnlock": "Always Targetable",
-    "OptimizedEnemyList-AlwaysUnlock-Help": "The game sometimes prevents targeting an object from Enmity List.\nFor example, during the action \"Manusya Confuse\" in Boss Combat 2 \"Sanduruva\" in the duty \"Tower of Zot\".",
+    "OptimizedEnemyList-AlwaysUnlock-Help": "The game sometimes prevents targeting an object via Enmity List.\nFor example, during \"Manusya Confuse\" in the second boss battle \"Sanduruva\" in the duty \"Tower of Zot\".",
     "OptimizedEnemyListDescription": "优化“敌对列表”界面，支持显示详细体力、仇恨与咏唱信息，并可以强制选中锁定选中的目标。",
     "OptimizedEnemyListTitle": "Better Enmity List",
     "OptimizedFreeCompanyChest-DefaultPage": "Default Chest",
