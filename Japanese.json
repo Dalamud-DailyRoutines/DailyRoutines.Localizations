@@ -2379,7 +2379,7 @@
     "Prefix": "接頭辞(プレフィックス)",
     "Preset": "プリセット",
     "Preview": "プレビュー",
-    "ProhibitMountFlightRestrictionDescription": "特定エリアで付与される「マウント騎乗不可」状態や「風脈途絶、これより先飛行不可」の制限メッセージを自動で非表示にします。",
+    "ProhibitMountFlightRestrictionDescription": "特定エリアで付与される「マウント騎乗不可」状態や「風脈が途絶えている。この先では飛行できないようだ⋯⋯」の制限メッセージを自動で非表示にします。",
     "ProhibitMountFlightRestrictionTitle": "エリア限定マウント特殊制限の自動解除",
     "ProhibitSwimmingDescription": "泳げる水域に入ると、自動的にキャラクターが泳ぎ状態になるのを禁止し、キャラクターが水面を走ったりスキルを発動したりできるようにします",
     "ProhibitSwimmingTitle": "泳ぐことを禁止する",
