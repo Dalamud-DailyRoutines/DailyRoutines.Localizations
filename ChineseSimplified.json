@@ -2178,7 +2178,7 @@
     "OptimizedRecipeNote-Config-DisplayOthersButtons": "显示配方其他职业版本按钮",
     "OptimizedRecipeNote-Config-DisplayOthersButtons-Help": "若其他职业也能制作当前所选配方，则在顶部显示快捷职业切换按钮，用以一键查看该配方在全部或某一职业下的版本。",
     "OptimizedRecipeNote-Config-MaterialSourceButtons": "材料来源按钮",
-    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买。",
+    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。",
     "OptimizedRecipeNote-Config-MorePraticeQuality": "突破制作练习初始品质上限",
     "OptimizedRecipeNote-Config-MorePraticeQuality-Help": "解除制作练习初期品质设置最多为最高品质一半的上限。",
     "OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish": "提醒简易制作完成",
