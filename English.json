@@ -2178,7 +2178,7 @@
     "OptimizedRecipeNote-Config-DisplayOthersButtons": "Same Recipe From Other Jobs",
     "OptimizedRecipeNote-Config-DisplayOthersButtons-Help": "Provide an \"Other Jobs\" button above the recipe interface for details if the recipe is also available from other jobs.",
     "OptimizedRecipeNote-Config-MaterialSourceButtons": "Source Tracing Button",
-    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。",
+    "OptimizedRecipeNote-Config-MaterialSourceButtons-Help": "Provide buttons on the left of the recipe materials to inquire if the material could be purchased at NPC vendors and at the market.",
     "OptimizedRecipeNote-Config-MorePraticeQuality": "Higher Initial Quality Cap In Trial",
     "OptimizedRecipeNote-Config-MorePraticeQuality-Help": "Increase the initial quality cap in trial synthesis from half of the bar to full.",
     "OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish": "Completion Notification",
