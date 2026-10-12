@@ -1216,7 +1216,7 @@
     "BetterBlacklistDescription": "Provide a better blacklist system, which allows to add an unlimited number of players to a blacklist, to import, export and sort blacklists, and to join shared blacklists online.",
     "BetterBlacklistTitle": "Better Blacklist",
     "BetterBlueSetLoad-CommandHelp": "to load the active set with the specified index or name",
-    "BetterBlueSetLoadDescription": "Provide better loading for active sets, allowing to switch active sets without removing Aetheric Mimicry status or waiting for action cooldown. The feature comes with a command /pdr {0} for better access.",
+    "BetterBlueSetLoadDescription": "优化青魔法书内有效技能组的读取机制，使切换时无需先行解除“以太复制”等状态或等待技能复唱时间归零，并新增指令“/pdr {command}”以切换技能组。",
     "BetterBlueSetLoadTitle": "Better BLU Active Set",
     "BetterCollectionCommandDescription": "Allow the names of items of interest in Collection to be the parameter for the command /coll and /collection.\n(For example, /coll Mogpendium and /coll \"Unending Codex\")",
     "BetterCollectionCommandTitle": "Better /coll Command",
