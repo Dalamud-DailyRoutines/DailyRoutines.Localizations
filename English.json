@@ -1760,7 +1760,7 @@
     "FastWorldTravel-Notification-TravelingTo": "Now proceed to visit World {0}.",
     "FastWorldTravel-ReplaceOrigAddon": "Replace Vanilla World Visit",
     "FastWorldTravel-SkipTravelBackConfirm": "Skip Return Confirm",
-    "FastWorldTravelDescription": "Provide better World Visit with detailed world information, which allows to initiate World Visit anywhere in the three major large settlements and to initiate an automated World Visit process anywhere except in duty. World Visit could also be initiated via the command /pdr {0} while enabling the module. A dedicated interface using vanilla game assets for the same purpose could be accessed by clicking the shortcut in Server Info Bar.",
+    "FastWorldTravelDescription": "提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。",
     "FastWorldTravelTitle": "Better World Visit",
     "Favorite": "Favorite",
     "FCMemberManagePanel-ConfirmKick": "Confirm discharging {0} from the company?",
