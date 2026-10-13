@@ -1760,7 +1760,7 @@
     "FastWorldTravel-Notification-TravelingTo": "서버 초월 텔레포를 사용해 {0}으로 이동합니다.",
     "FastWorldTravel-ReplaceOrigAddon": "게임 기본 \"서버 텔레포\" 화면을 교체합니다.",
     "FastWorldTravel-SkipTravelBackConfirm": "원래 서버로 이동하기 확인",
-    "FastWorldTravelDescription": "빠른 서버 텔레포를 제공하고 서버 정보를 표시합니다. 세 주요 대도시 내 어디서든 서 텔레포트를 시작할 수 있으며, 던전 외 지역에서는 자동 서버 텔레포도 지원합니다. /pdr {0} 명령어로 빠르게 서버 텔레포트하거나, 서버 정보 바 항목을 클릭해 게임 기본 스타일 인터페이스에서 상호작용하며 서버 텔레포트할 수 있습니다.",
+    "FastWorldTravelDescription": "提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。",
     "FastWorldTravelTitle": "빠른 서버 텔레포트 명령어",
     "Favorite": "컬렉션",
     "FCMemberManagePanel-ConfirmKick": "{0}을(를) 자유부대에서 제명하시겠습니까?",
