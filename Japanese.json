@@ -1760,7 +1760,7 @@
     "FastWorldTravel-Notification-TravelingTo": "{0} へワールドテレポを実行します",
     "FastWorldTravel-ReplaceOrigAddon": "ゲームデフォルトの「ワールド間移動」UIを置き換える",
     "FastWorldTravel-SkipTravelBackConfirm": "ホームワールドに戻る際の確認ダイアログをスキップする",
-    "FastWorldTravelDescription": "ワールド間テレポを素早く実行し、サーバー情報を表示します。 三都市内のあらゆる場所からの実行や、コンテンツ外の任意エリアからの自動テレポ等に対応。 /pdr {0} コマンドでのクイック実行、またはサーバー情報欄の項目をクリックしてゲーム本来のデザインに合わせた画面から操作が可能です。",
+    "FastWorldTravelDescription": "提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。",
     "FastWorldTravelTitle": "クイック・ワールド間テレポ",
     "Favorite": "お気に入り",
     "FCMemberManagePanel-ConfirmKick": "{0} をFCから除名しますか？",
