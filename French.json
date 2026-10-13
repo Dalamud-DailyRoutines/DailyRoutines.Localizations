@@ -1760,7 +1760,7 @@
     "FastWorldTravel-Notification-TravelingTo": "准备使用跨界传送前往{0}。",
     "FastWorldTravel-ReplaceOrigAddon": "替换游戏原生的“跨界传送”界面",
     "FastWorldTravel-SkipTravelBackConfirm": "跳过返回原始服务器确认",
-    "FastWorldTravelDescription": "Fournit une visite intermonde améliorée avec des informations détaillées sur les mondes, permettant de s'inscrire à une visite intermonde depuis n'importe où dans les trois grandes cités et de lancer un processus automatique de visite intermonde depuis n'importe où hors mission. La visite intermonde peut être lancée via la commande /pdr {0}. Une interface graphique est également disponible via le raccourci dans la barre d'infos serveur.",
+    "FastWorldTravelDescription": "提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。",
     "FastWorldTravelTitle": "Visite intermonde améliorée",
     "Favorite": "Favori",
     "FCMemberManagePanel-ConfirmKick": "确定要将{0}从部队中除名吗？",
