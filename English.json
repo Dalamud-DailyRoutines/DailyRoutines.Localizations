@@ -920,7 +920,7 @@
     "AutoReplyChatBot-TestChat-Role": "Role",
     "AutoReplyChatBot-Tools": "Tools",
     "AutoReplyChatBot-UseMaxCompletionTokens": "Enable Max Completion Tokens",
-    "AutoReplyChatBot-UseMaxCompletionTokens-Help": "勾选后使用补全长度参数，否则使用回复长度参数。部分推理模型要求使用补全长度参数，并关闭温度参数。长度上限包含推理所用的额度，请为回复留出足够空间。此设置同时用于对话摘要。",
+    "AutoReplyChatBot-UseMaxCompletionTokens-Help": "Max Completion Tokens will be enabled if the option is checked, otherwise Max Tokens will be enabled. Some models may require enabling Max Completion Tokens while disabling Temperature. Max Tokens comprise the tokens used for both reasoning and response. Therefore, please ensure there are sufficient tokens for response. The settings are also applied to chat summary generation.",
     "AutoReplyChatBot-ValidChatTypes": "Monitored Channel",
     "AutoReplyChatBot-WorldBook": "World Book",
     "AutoReplyChatBot-WorldBookEntryContent": "Enrty Explanation",
