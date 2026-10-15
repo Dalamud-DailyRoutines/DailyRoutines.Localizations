@@ -244,7 +244,7 @@
     "AutoDiscard-Notification-Removed": "{1} has been removed from the preset \"{0}\".",
     "AutoDiscardDescription": "Automatically discard or sell stacks of items according to the presets.",
     "AutoDiscardTitle": "Auto Discard Items",
-    "AutoDismountDescription": "Auto dismount when you are trying to use available actions on mount.",
+    "AutoDismountDescription": "骑乘坐骑时，若尝试发动需要在未骑乘状态下才可发动的技能，则自动下坐骑并发动技能。",
     "AutoDismountTitle": "Auto Dismount",
     "AutoDisplayDutyReadyLeftTimeDescription": "Automatically display remaining time for Ready Check.",
     "AutoDisplayDutyReadyLeftTimeTitle": "Auto Display Ready Check Remaining Time",
