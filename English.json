@@ -185,7 +185,7 @@
     "AutoConstantlyClick-MouseMode": "Mouse Mode",
     "AutoConstantlyClick-WaitTime": "Activation Delay",
     "AutoConstantlyClick-WaitTime-Help": "The delay before starting spamming a key. Set it to 0 to disable the delay.",
-    "AutoConstantlyClickDescription": "Automatically spam (frequently click) the key while keep holding a key on the keyboard.",
+    "AutoConstantlyClickDescription": "长按任一热键栏按键时，自动转为快速重复点击。",
     "AutoConstantlyClickTitle": "Auto Spam Key",
     "AutoConstantlyInspectDescription": "Auto click the \"Continue\" button when the Item Appraisal Result interface appears",
     "AutoConstantlyInspectTitle": "Auto Item Appraisal",
