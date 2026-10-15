@@ -185,7 +185,7 @@
     "AutoConstantlyClick-MouseMode": "Mode souris",
     "AutoConstantlyClick-WaitTime": "等待时间",
     "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
-    "AutoConstantlyClickDescription": "Maintenir une touche de barre d'action enclenchera automatiquement des pressions rapides répétées sur cette touche.",
+    "AutoConstantlyClickDescription": "长按任一热键栏按键时，自动转为快速重复点击。",
     "AutoConstantlyClickTitle": "Répétition automatique des clics",
     "AutoConstantlyInspectDescription": "Clique automatiquement sur le bouton \"Continuer\" lorsque l'interface de résultat d'expertise d'objet apparaît.",
     "AutoConstantlyInspectTitle": "Expertise automatique des objets",
