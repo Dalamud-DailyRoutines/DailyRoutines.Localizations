@@ -244,7 +244,7 @@
     "AutoDiscard-Notification-Removed": "从自动丢弃配置组“{0}”中移除了{1}。",
     "AutoDiscardDescription": "Jette ou vend automatiquement les objets selon les presets.",
     "AutoDiscardTitle": "Gestion automatique des objets à jeter",
-    "AutoDismountDescription": "Descend automatiquement de monture lorsque vous tentez d'utiliser une action disponible à monture.",
+    "AutoDismountDescription": "骑乘坐骑时，若尝试发动需要在未骑乘状态下才可发动的技能，则自动下坐骑并发动技能。",
     "AutoDismountTitle": "Descente automatique de monture",
     "AutoDisplayDutyReadyLeftTimeDescription": "Affiche automatiquement le temps restant du Ready Check.",
     "AutoDisplayDutyReadyLeftTimeTitle": "Affichage automatique du temps restant du Ready Check",
