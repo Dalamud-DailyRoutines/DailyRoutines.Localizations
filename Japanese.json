@@ -185,7 +185,7 @@
     "AutoConstantlyClick-MouseMode": "マウス操作モード",
     "AutoConstantlyClick-WaitTime": "待機時間",
     "AutoConstantlyClick-WaitTime-Help": "長押し時間が本設定値を超過した場合に連打入力を開始します。0 に設定した場合は待機せずに即時開始します。",
-    "AutoConstantlyClickDescription": "任意のホットバーのボタンを長押しすると、自動的にそのボタンを高速で繰り返しクリックします。",
+    "AutoConstantlyClickDescription": "长按任一热键栏按键时，自动转为快速重复点击。",
     "AutoConstantlyClickTitle": "ターボクリック機能",
     "AutoConstantlyInspectDescription": "埋もれた財宝鑑定結果UIが表示された時、自動的に「はい」ボタンを押し連続鑑定する。",
     "AutoConstantlyInspectTitle": "連続鑑定自動化",
