@@ -185,7 +185,7 @@
     "AutoConstantlyClick-MouseMode": "마우스 모드",
     "AutoConstantlyClick-WaitTime": "대기 시간",
     "AutoConstantlyClick-WaitTime-Help": "이 시간 이상 길게 누르면 반복 클릭을 시작하며, 0으로 설정하면 대기하지 않습니다.",
-    "AutoConstantlyClickDescription": "아무 단축바 버튼을 길게 누르면 자동으로 빠르게 연속 클릭합니다.",
+    "AutoConstantlyClickDescription": "长按任一热键栏按键时，自动转为快速重复点击。",
     "AutoConstantlyClickTitle": "터보 클릭",
     "AutoConstantlyInspectDescription": "파묻힌 보물 감정 UI가 표시되면 자동으로 '예'를 눌러 연속으로 감정합니다.",
     "AutoConstantlyInspectTitle": "연속 감정 자동화",
