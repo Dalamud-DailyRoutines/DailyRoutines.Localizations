@@ -185,7 +185,7 @@
     "AutoConstantlyClick-MouseMode": "鼠標模式",
     "AutoConstantlyClick-WaitTime": "等待时间",
     "AutoConstantlyClick-WaitTime-Help": "长按超过该时间后才会开始重复点击，为 0 时不等待。",
-    "AutoConstantlyClickDescription": "當長按任一快速鍵欄按鍵時, 自動轉為快速重複點擊該按鍵",
+    "AutoConstantlyClickDescription": "长按任一热键栏按键时，自动转为快速重复点击。",
     "AutoConstantlyClickTitle": "自動重複點擊",
     "AutoConstantlyInspectDescription": "道具鑑定結果界面出現後, 自動點擊繼續鑑定按鈕",
     "AutoConstantlyInspectTitle": "自動連續鑑定",
