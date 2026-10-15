@@ -244,7 +244,7 @@
     "AutoDiscard-Notification-Removed": "从自动丢弃配置组“{0}”中移除了{1}。",
     "AutoDiscardDescription": "允許快速丟棄/出售預設好中的一組物品",
     "AutoDiscardTitle": "自動丟棄物品",
-    "AutoDismountDescription": "當騎乘坐騎時, 若嘗試使用可用技能, 則自動下坐騎並使用技能",
+    "AutoDismountDescription": "骑乘坐骑时，若尝试发动需要在未骑乘状态下才可发动的技能，则自动下坐骑并发动技能。",
     "AutoDismountTitle": "自動下坐騎",
     "AutoDisplayDutyReadyLeftTimeDescription": "任務出發準備確認界面出現後, 自動在其內顯示距離超時的剩餘時間文本",
     "AutoDisplayDutyReadyLeftTimeTitle": "自動顯示準備確認剩餘時間",
