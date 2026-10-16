@@ -1106,7 +1106,7 @@
     "AutoSubmarineCollect-Notification-AllReturned": "All the submersibles have returned at {exactTimeText} ({timeAgoText}). Click to initiate an auto collection process.",
     "AutoSubmarineCollect-Notification-SomeExploring": "{count, plural, one {# submersible is} other {# submersibles are}} out for voyages now. Expected to return at {timeText}.",
     "AutoSubmarineCollect-NotifyCount": "Send a notification when at least {count, plural, one {# submersible has} other {# submersibles have}} returned.",
-    "AutoSubmarineCollectDescription": "自动批量确认潜水艇探索结果并重新委派，并在“航行管制面板”界面中显示物品“桶装青磷水”与“魔导机械修理材料”的信息数量及新增“自动收取潜水艇”按钮，同时支持发送预计归来时间通知与可点击的归来通知。玩家可通过点击界面按钮、点击归来通知或输入“/pdr submarine”指令开始自动收取与重新委派。",
+    "AutoSubmarineCollectDescription": "Automatically collect subaquatic voyages and deploy new ones. Provide inventory information of Ceruleum Tanks & Magitek Repair Materials and a button for auto collection in the voyage control panel. Introduce ETA prediction along with a optional shortcut notification. The automation process could be initiated via related buttons, the shortcut notification or the command \"/pdr submarine\".",
     "AutoSubmarineCollectTitle": "Auto Collect Subaquatic Voyages",
     "AutoSummonBuddyChocobo-AutoSwitchStance": "Auto Stance Control",
     "AutoSummonBuddyChocobo-NotBattleJobUsingGys": "Renew When DoH/DoL",
