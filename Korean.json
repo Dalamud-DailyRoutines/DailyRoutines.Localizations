@@ -1049,7 +1049,7 @@
     "AutoShopPurchase-UI-UnknownTarget": "알 수 없는 목표",
     "AutoShopPurchaseDescription": "'시작'을 클릭하면 지정된 상점의 아이템을 자동으로 반복 구매합니다.",
     "AutoShopPurchaseTitle": "상점 자동 반복 구매",
-    "AutoShowFrontlineKillCountDescription": "전장에서 플레이어를 처치하면, 화면 왼쪽에 처치 수를 강조 표시해 플레이어의 성취감을 강화합니다.",
+    "AutoShowFrontlineKillCountDescription": "在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。",
     "AutoShowFrontlineKillCountTitle": "전장 처치 수 강조 표시",
     "AutoShowItemNPCShopInfo-Addon-Destination": "NPC 상점 [사용처]",
     "AutoShowItemNPCShopInfo-Addon-Source": "NPC 상점 [교환처]",
