@@ -1049,7 +1049,7 @@
     "AutoShopPurchase-UI-UnknownTarget": "未知目标",
     "AutoShopPurchaseDescription": "配置完成并点击开始后, 自动重复购买指定的商店列表物品",
     "AutoShopPurchaseTitle": "自动商店重复购买",
-    "AutoShowFrontlineKillCountDescription": "进入纷争前线击倒玩家时, 自动在屏幕左侧强调显示击倒人数, 以加强游玩正反馈",
+    "AutoShowFrontlineKillCountDescription": "在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。",
     "AutoShowFrontlineKillCountTitle": "自动强调展示纷争前线击倒人数",
     "AutoShowItemNPCShopInfo-Addon-Destination": "商店交换去向",
     "AutoShowItemNPCShopInfo-Addon-Source": "商店交换来源",
