@@ -455,7 +455,7 @@
     "AutoGuardFishingStateTitle": "自動守衛釣魚狀態",
     "AutoHandleTeleportStuckDescription": "當遭遇 \"{0}\" 的特殊傳送狀態時, 自動執行上一次傳送以脫離",
     "AutoHandleTeleportStuckTitle": "自動處理無法傳送狀態",
-    "AutoHideBannersDescription": "配置完畢後, 自動阻止對應的遊戲橫幅與音效彈出",
+    "AutoHideBannersDescription": "配置后，自动阻止弹出横幅与播放音效。",
     "AutoHideBannersTitle": "自動隱藏橫幅",
     "AutoHideExpBarDescription": "若當前職業等級已滿, 則自動隱藏經驗值欄",
     "AutoHideExpBarTitle": "自動隱藏經驗值欄",
