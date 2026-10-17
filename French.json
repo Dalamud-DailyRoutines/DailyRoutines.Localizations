@@ -455,7 +455,7 @@
     "AutoGuardFishingStateTitle": "Maintien automatique de l'état de pêche",
     "AutoHandleTeleportStuckDescription": "Réexécute automatiquement la dernière téléportation si le joueur reste bloqué avec le message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Déblocage automatique des téléportations",
-    "AutoHideBannersDescription": "Empêche automatiquement l'apparition de textes spécifiques (comme Quête acceptée ou Quête terminée) ainsi que leurs effets sonores associés après configuration.",
+    "AutoHideBannersDescription": "配置后，自动阻止弹出横幅与播放音效。",
     "AutoHideBannersTitle": "Masquage automatique des pop-ups",
     "AutoHideExpBarDescription": "Masque automatiquement la barre d'expérience si le job actuel a atteint son niveau maximum.",
     "AutoHideExpBarTitle": "Masquage automatique de la barre d'EXP",
