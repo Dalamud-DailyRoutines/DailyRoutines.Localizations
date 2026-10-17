@@ -116,7 +116,7 @@
     "AutoCancelNPCEmoteTitle": "NPC 감정 동작 취소",
     "AutoCancelStarContributorDescription": "우주 개척 지역 입장 후, 자신에게 '공헌의 별' 상태가 부여되었는지 주기적으로 확인하여 자동으로 해제합니다.",
     "AutoCancelStarContributorTitle": "'공헌의 별' 상태 자동 해제",
-    "AutoCastMovementLock-EnabledJobs": "要启用的职业",
+    "AutoCastMovementLock-EnabledJobs": "사용할 잡",
     "AutoCastMovementLock-EnablePVP": "在玩家对战中启用",
     "AutoCastMovementLock-InCombatOnlyMoveWhenSlideCast": "在战斗中时仅可在滑步窗口内移动",
     "AutoCastMovementLock-KeyButtonSettings": "按键/按钮设定",
