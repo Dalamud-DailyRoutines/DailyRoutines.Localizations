@@ -1049,7 +1049,7 @@
     "AutoShopPurchase-UI-UnknownTarget": "未知の目標",
     "AutoShopPurchaseDescription": "「スタート」をクリックすると、指定されたショップリストのアイテムを自動で繰り返し購入する。",
     "AutoShopPurchaseTitle": "ショップの自動繰り返し購入",
-    "AutoShowFrontlineKillCountDescription": "フロントラインに突入し、プレイヤーを撃破した際に、画面左側へ撃破数を強調表示して、プレイのポジティブなフィードバックを強化する",
+    "AutoShowFrontlineKillCountDescription": "在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。",
     "AutoShowFrontlineKillCountTitle": "フロントラインでの撃破数を強調表示する",
     "AutoShowItemNPCShopInfo-Addon-Destination": "ショップ交換先一覧",
     "AutoShowItemNPCShopInfo-Addon-Source": "交換元の商店",
