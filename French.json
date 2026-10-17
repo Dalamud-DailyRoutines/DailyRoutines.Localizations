@@ -1049,7 +1049,7 @@
     "AutoShopPurchase-UI-UnknownTarget": "Cible inconnue",
     "AutoShopPurchaseDescription": "Achète automatiquement les objets depuis la liste de boutique spécifiée après configuration et clic sur démarrer.",
     "AutoShopPurchaseTitle": "Achats répétés automatiques en boutique",
-    "AutoShowFrontlineKillCountDescription": "Met en avant le nombre de joueurs mis K.O. par vous à chaque élimination pour une meilleure sensation d'accomplissement.",
+    "AutoShowFrontlineKillCountDescription": "在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。",
     "AutoShowFrontlineKillCountTitle": "Mise en avant automatique des K.O. en Front",
     "AutoShowItemNPCShopInfo-Addon-Destination": "商店交换去向",
     "AutoShowItemNPCShopInfo-Addon-Source": "商店交换来源",
