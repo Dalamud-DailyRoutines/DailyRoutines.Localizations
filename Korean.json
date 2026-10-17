@@ -455,7 +455,7 @@
     "AutoGuardFishingStateTitle": "낚시 상태 자동 유지",
     "AutoHandleTeleportStuckDescription": "'{0}' 오류가 발생했을 때 마지막으로 사용한 텔레포를 다시 실행합니다.",
     "AutoHandleTeleportStuckTitle": "텔레포 중복 시 자동 처리",
-    "AutoHideBannersDescription": "설정이 완료된 후, 해당 게임의 작은 알림 창과 효과음이 자동으로 차단됩니다.",
+    "AutoHideBannersDescription": "配置后，自动阻止弹出横幅与播放音效。",
     "AutoHideBannersTitle": "작은 알림 창 자동 숨김",
     "AutoHideExpBarDescription": "현재 직업이 레벨 상한에 도달하면 경험치 바를 숨깁니다.",
     "AutoHideExpBarTitle": "경험치 바 숨기기",
