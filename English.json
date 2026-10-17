@@ -1049,7 +1049,7 @@
     "AutoShopPurchase-UI-UnknownTarget": "Unknown Target",
     "AutoShopPurchaseDescription": "Auto purchase items from the specified shop list after config setup and clicking start",
     "AutoShopPurchaseTitle": "Auto Repeat Shop Purchase",
-    "AutoShowFrontlineKillCountDescription": "Emphasize the number of players knocked down so far every time a player was knocked down by self for a better sense of achievement.",
+    "AutoShowFrontlineKillCountDescription": "在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。",
     "AutoShowFrontlineKillCountTitle": "Auto Emphasize KO In Frontline",
     "AutoShowItemNPCShopInfo-Addon-Destination": "Usage",
     "AutoShowItemNPCShopInfo-Addon-Source": "Purchase",
