@@ -455,7 +455,7 @@
     "AutoGuardFishingStateTitle": "Persistent Fishing Status",
     "AutoHandleTeleportStuckDescription": "Automatically execute the teleportation last time if users get stuck in teleportation with the message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Auto Clear Teleportation Stuck",
-    "AutoHideBannersDescription": "Automatically prevent specified texts (like Quest Accepted or Quest Complete) from popping up and their corresponding sound effects from being played after proper configurations.",
+    "AutoHideBannersDescription": "配置后，自动阻止弹出横幅与播放音效。",
     "AutoHideBannersTitle": "Auto Hide Pop-ups",
     "AutoHideExpBarDescription": "Automatically hide the experience bar if the current job reaches its full level.",
     "AutoHideExpBarTitle": "Auto Hide Exp Bar",
