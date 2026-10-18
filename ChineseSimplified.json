@@ -2275,6 +2275,8 @@
     "OptimizedTargetInfo-ZeroPrecision": "英文数字表达 (保留整数)",
     "OptimizedTargetInfoDescription": "对目标情报与焦点目标情报界面进行优化, 显示目标体力值与目标技能咏唱剩余时间, 放大自身状态, 并支持快捷取消焦点目标",
     "OptimizedTargetInfoTitle": "目标情报界面优化",
+    "OptimizedWeeklyBingoDescription": "优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。",
+    "OptimizedWeeklyBingoTitle": "“天书奇谈”界面优化",
     "OptimizedXBMMonsterNotebookDescription": "优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。",
     "OptimizedXBMMonsterNotebookTitle": "魔兽图鉴界面优化",
     "Original": "原始",
