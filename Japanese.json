@@ -2275,6 +2275,8 @@
     "OptimizedTargetInfo-ZeroPrecision": "SI接頭語 (整数のみ)",
     "OptimizedTargetInfoDescription": "ターゲット情報とフォーカス対象情報のUIを最適化し、ターゲットのHPとスキル詠唱残り時間を表示、自身のステータス効果を拡大表示、さらにフォーカス対象の即時解除にも対応します。\n\nターゲット情報とフォーカスターゲット情報のUIを最適化し、ターゲットのHPとターゲットのアクションのキャスト時間を表示、自身のバフ・デバフを拡大表示し、さらにフォーカスターゲットの即時解除に対応させます。",
     "OptimizedTargetInfoTitle": "ターゲット情報UIの最適化",
+    "OptimizedWeeklyBingoDescription": "优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。",
+    "OptimizedWeeklyBingoTitle": "“天书奇谈”界面优化",
     "OptimizedXBMMonsterNotebookDescription": "「魔獣図鑑」 UI を改善し、未捕獲のモンスターの詳細情報を確認できるよう変更しました。また、画面上から直接モンスターのサイズを設定・変更可能になりました。",
     "OptimizedXBMMonsterNotebookTitle": "「魔獣図鑑」 UI の改善",
     "Original": "オリジナル",
