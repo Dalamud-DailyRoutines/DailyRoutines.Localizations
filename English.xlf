@@ -7055,10 +7055,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
         <source>退队并参加</source>
-        <target>Leave Then Join</target>
+        <target>Leave &amp; Join</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
         <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
+        <target>Provide a &quot;Leave &amp; Join&quot; button in the &quot;Recruitment Criteria&quot; interface, allowing to leave the current recruitment party and then join the new one immediately.</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -9717,7 +9718,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanelDescription" xml:space="preserve">
         <source>为“消息”界面聊天输入栏右侧新增按钮，用以发送待发送消息或打开全新的面板，可在面板中快捷发送消息、宏、系统音、特殊字符和查询游戏物品。</source>
-        <target>Provide buttons on the right of the chat panel, to send draft messages or to access a versatile panel. The versatile panel allows to inquire in-game items and send ready messages, macros, system sound triggers and special characters.</target>
+        <target>Provide buttons on the right of the chat panel to send draft messages or to access a versatile panel. The versatile panel allows to inquire in-game items and send ready messages, macros, system sound triggers and special characters.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanelTitle" xml:space="preserve">
         <source>快捷聊天面板</source>
@@ -10073,7 +10074,7 @@ Parameter(s): {2}</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
-        <target>Selectable Recruitment Texts</target>
+        <target>Selectable Recruitment Text</target>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>已选</source>
