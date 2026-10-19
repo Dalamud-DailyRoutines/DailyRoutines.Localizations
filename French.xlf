@@ -7060,8 +7060,7 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <target>Quitter puis rejoindre</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
-        <source>为招募详情界面新增按钮, 点击以一键退出当前队伍并加入目标招募</source>
-        <target>Ajoute un bouton « Quitter puis rejoindre » dans les détails de recrutement du PF, permettant de quitter rapidement son groupe actuel puis rejoindre un autre en un clic.</target>
+        <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -9672,9 +9671,21 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <source>宏呈现方式</source>
         <target>Mode d’affichage des macros</target>
       </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
+        <source>请编辑消息的内容。</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
+        <source>请输入要添加的消息的内容。</source>
+      </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
         <target>Messages</target>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
+        <source>水平偏移</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-Y" xml:space="preserve">
+        <source>垂直偏移</source>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
@@ -10053,8 +10064,7 @@ Paramètre(s) : {2}</target>
         <target>Sélectionner la cible</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
-        <source>使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑</source>
-        <target>Rend les textes de recrutement sélectionnables pour copie ou modification temporaire.</target>
+        <source>使“招募详情”界面内的留言文本可被自由选中，以便复制或临时编辑。</source>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
