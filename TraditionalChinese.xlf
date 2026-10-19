@@ -481,13 +481,13 @@
         <source>自动取消贡献之星状态</source>
         <target>自动取消贡献之星状态</target>
       </trans-unit>
-      <trans-unit id="AutoCastMovementLock-EnabledJobs" xml:space="preserve">
-        <source>要启用的职业</source>
-        <target>要启用的职业</target>
-      </trans-unit>
       <trans-unit id="AutoCastMovementLock-EnablePVP" xml:space="preserve">
         <source>在玩家对战中启用</source>
         <target>在玩家对战中启用</target>
+      </trans-unit>
+      <trans-unit id="AutoCastMovementLock-EnabledJobs" xml:space="preserve">
+        <source>要启用的职业</source>
+        <target>要启用的职业</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-InCombatOnlyMoveWhenSlideCast" xml:space="preserve">
         <source>在战斗中时仅可在滑步窗口内移动</source>
@@ -601,13 +601,13 @@
         <source>职业限制</source>
         <target>職業限制</target>
       </trans-unit>
-      <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
-        <source>自动食用了 {0}</source>
-        <target>自動食用了 {0}</target>
-      </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-NoZoneSelectHelp" xml:space="preserve">
         <source>如未选择区域, 则代表所有区域都生效</source>
         <target>如未選擇區域, 則代表所有區域都生效</target>
+      </trans-unit>
+      <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
+        <source>自动食用了 {0}</source>
+        <target>自動食用了 {0}</target>
       </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-RefreshThreshold" xml:space="preserve">
         <source>刷新阈值 (秒)</source>
@@ -1043,6 +1043,22 @@
         <source>自动显示 ID 信息</source>
         <target>自動顯示 ID 資訊</target>
       </trans-unit>
+      <trans-unit id="AutoDisplayMSQProgressDescription" xml:space="preserve">
+        <source>若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比</source>
+        <target>若尚有未完成的主線任務, 則自動在主線嚮導界面內顯示當前剩餘的主線任務件數與已完成進度百分比</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMSQProgressTitle" xml:space="preserve">
+        <source>自动显示主线任务完成进度</source>
+        <target>自動顯示主線任務完成進度</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMTQObjectDescription" xml:space="preserve">
+        <source>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</source>
+        <target>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMTQObjectTitle" xml:space="preserve">
+        <source>自动显示任务对象</source>
+        <target>自动显示任务对象</target>
+      </trans-unit>
       <trans-unit id="AutoDisplayMarkerInPartyList-HidePartyListIndexNumber" xml:space="preserve">
         <source>隐藏小队列表的队员序号</source>
         <target>隱藏小隊列表的隊員序號</target>
@@ -1062,22 +1078,6 @@
       <trans-unit id="AutoDisplayMitigationInfoTitle" xml:space="preserve">
         <source>自动显示减伤信息</source>
         <target>自動顯示減傷資訊</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMSQProgressDescription" xml:space="preserve">
-        <source>若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比</source>
-        <target>若尚有未完成的主線任務, 則自動在主線嚮導界面內顯示當前剩餘的主線任務件數與已完成進度百分比</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMSQProgressTitle" xml:space="preserve">
-        <source>自动显示主线任务完成进度</source>
-        <target>自動顯示主線任務完成進度</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMTQObjectDescription" xml:space="preserve">
-        <source>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</source>
-        <target>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMTQObjectTitle" xml:space="preserve">
-        <source>自动显示任务对象</source>
-        <target>自动显示任务对象</target>
       </trans-unit>
       <trans-unit id="AutoDisplayNetworkLatency-DefaultFormat" xml:space="preserve">
         <source>{0} 毫秒</source>
@@ -1294,6 +1294,14 @@
       <trans-unit id="AutoExpertDeliveryTitle" xml:space="preserve">
         <source>自动筹备稀有品</source>
         <target>自動籌備稀有品</target>
+      </trans-unit>
+      <trans-unit id="AutoFCWSDeliverDescription" xml:space="preserve">
+        <source>打开提供素材界面, 并点击开始后, 自动交纳当前所有可用素材</source>
+        <target>打開提供素材界面, 並點擊開始後, 自動交納當前所有可用素材</target>
+      </trans-unit>
+      <trans-unit id="AutoFCWSDeliverTitle" xml:space="preserve">
+        <source>自动部队合建交纳素材</source>
+        <target>自動部隊合建交納素材</target>
       </trans-unit>
       <trans-unit id="AutoFaceCameraDirection-CameraRotation" xml:space="preserve">
         <source>镜头面向</source>
@@ -1604,14 +1612,6 @@
       <trans-unit id="AutoFateTitle" xml:space="preserve">
         <source>自动临危受命</source>
         <target>自動臨危受命</target>
-      </trans-unit>
-      <trans-unit id="AutoFCWSDeliverDescription" xml:space="preserve">
-        <source>打开提供素材界面, 并点击开始后, 自动交纳当前所有可用素材</source>
-        <target>打開提供素材界面, 並點擊開始後, 自動交納當前所有可用素材</target>
-      </trans-unit>
-      <trans-unit id="AutoFCWSDeliverTitle" xml:space="preserve">
-        <source>自动部队合建交纳素材</source>
-        <target>自動部隊合建交納素材</target>
       </trans-unit>
       <trans-unit id="AutoFilterLogMessage-MessageToFilter" xml:space="preserve">
         <source>待过滤消息</source>
@@ -2303,6 +2303,44 @@
         <source>自动醒梦</source>
         <target>自動醒夢</target>
       </trans-unit>
+      <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
+        <source>因物体渲染距离限制, 初次使用请先在此处开启数据采集模式, 
+等待模块完成自动数据采集, 后续使用无需再次采集数据</source>
+        <target>因物體渲染距離限制, 初次使用請先在此處開啟數據採集模式, 
+等待模組完成自動數據採集, 後續使用無需再次採集數據</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
+        <source>数据采集</source>
+        <target>數據採集</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
+        <source>当前进度: {0} / {1}</source>
+        <target>當前進度: {0} / {1}</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
+        <source>未找到开拓管理面板, 已停止采集</source>
+        <target>未找到開拓管理面板, 已停止採集</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
+        <source>已选择的采集点数量过少 (≤ 10), 请重新选择</source>
+        <target>已選擇的採集點數量過少 (≤ 10), 請重新選擇</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
+        <source>无人岛素材达到上限, 已停止自动采集</source>
+        <target>無人島素材達到上限, 已停止自動採集</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
+        <source>达限时停止采集并发送通知</source>
+        <target>達限時停止採集並發送通知</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
+        <source>配置完成并点击开始后, 自动循环采集无人岛素材</source>
+        <target>配置完成並點擊開始後, 自動循環採集無人島素材</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
+        <source>自动无人岛采集</source>
+        <target>自動無人島採集</target>
+      </trans-unit>
       <trans-unit id="AutoManageInterruptActionDescription" xml:space="preserve">
         <source>若当前目标不在咏唱可打断的技能, 则禁止使用打断类技能 (插言、伤头)</source>
         <target>若當前目標不在詠唱可打斷的技能, 則禁止使用打斷類技能 (插言、傷頭)</target>
@@ -2319,13 +2357,13 @@
         <source>自动管控速行</source>
         <target>自動管控速行</target>
       </trans-unit>
-      <trans-unit id="AutoMarkAetherCurrents-Discovered" xml:space="preserve">
-        <source>已共鸣</source>
-        <target>已共鳴</target>
-      </trans-unit>
       <trans-unit id="AutoMarkAetherCurrents-DiscoverInfo" xml:space="preserve">
         <source>共鸣情况</source>
         <target>共鳴情況</target>
+      </trans-unit>
+      <trans-unit id="AutoMarkAetherCurrents-Discovered" xml:space="preserve">
+        <source>已共鸣</source>
+        <target>已共鳴</target>
       </trans-unit>
       <trans-unit id="AutoMarkAetherCurrents-DisplayLeftCurrents" xml:space="preserve">
         <source>显示剩余标点</source>
@@ -2471,10 +2509,6 @@
         <source>保存位置:</source>
         <target>保存位置:</target>
       </trans-unit>
-      <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
-        <source>扫描设置</source>
-        <target>掃描設置</target>
-      </trans-unit>
       <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
         <source>扫描点</source>
         <target>掃描點:</target>
@@ -2483,13 +2517,17 @@
         <source>扫描结果</source>
         <target>掃描結果</target>
       </trans-unit>
-      <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
-        <source>已选择 {0} 个目标区域</source>
-        <target>已選擇 {0} 個目標區域</target>
+      <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
+        <source>扫描设置</source>
+        <target>掃描設置</target>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SelectRoutes" xml:space="preserve">
         <source>选择路线</source>
         <target>選擇路線</target>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
+        <source>已选择 {0} 个目标区域</source>
+        <target>已選擇 {0} 個目標區域</target>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
         <source>狩猎行车器</source>
@@ -2659,22 +2697,6 @@ XivGear (xivgear.app)</target>
         <source>自动镶嵌魔晶石</source>
         <target>自動鑲嵌魔晶石</target>
       </trans-unit>
-      <trans-unit id="AutoMaterialize-Notice-ExtractFinish" xml:space="preserve">
-        <source>精制作业已完成</source>
-        <target>精製作業已完成</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterialize-Notice-ExtractNow" xml:space="preserve">
-        <source>正在精制装备: {0}</source>
-        <target>正在精製裝備: {0}</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterializeDescription" xml:space="preserve">
-        <source>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</source>
-        <target>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterializeTitle" xml:space="preserve">
-        <source>自动精制魔晶石</source>
-        <target>自動精製魔晶石</target>
-      </trans-unit>
       <trans-unit id="AutoMateriaRetrive-ManuallySelect" xml:space="preserve">
         <source>手动选择</source>
         <target>手動選擇</target>
@@ -2706,6 +2728,22 @@ XivGear (xivgear.app)</target>
       <trans-unit id="AutoMateriaTransmutationTitle" xml:space="preserve">
         <source>自动合成魔晶石</source>
         <target>自動合成魔晶石</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterialize-Notice-ExtractFinish" xml:space="preserve">
+        <source>精制作业已完成</source>
+        <target>精製作業已完成</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterialize-Notice-ExtractNow" xml:space="preserve">
+        <source>正在精制装备: {0}</source>
+        <target>正在精製裝備: {0}</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterializeDescription" xml:space="preserve">
+        <source>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</source>
+        <target>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterializeTitle" xml:space="preserve">
+        <source>自动精制魔晶石</source>
+        <target>自動精製魔晶石</target>
       </trans-unit>
       <trans-unit id="AutoMaximiseWindow-CommandHelp" xml:space="preserve">
         <source>最大化游戏窗口</source>
@@ -2742,44 +2780,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="AutoMiniCactpotTitle" xml:space="preserve">
         <source>自动完成仙人微彩</source>
         <target>自動完成仙人微彩</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
-        <source>因物体渲染距离限制, 初次使用请先在此处开启数据采集模式, 
-等待模块完成自动数据采集, 后续使用无需再次采集数据</source>
-        <target>因物體渲染距離限制, 初次使用請先在此處開啟數據採集模式, 
-等待模組完成自動數據採集, 後續使用無需再次採集數據</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
-        <source>数据采集</source>
-        <target>數據採集</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
-        <source>当前进度: {0} / {1}</source>
-        <target>當前進度: {0} / {1}</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
-        <source>未找到开拓管理面板, 已停止采集</source>
-        <target>未找到開拓管理面板, 已停止採集</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
-        <source>已选择的采集点数量过少 (≤ 10), 请重新选择</source>
-        <target>已選擇的採集點數量過少 (≤ 10), 請重新選擇</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
-        <source>无人岛素材达到上限, 已停止自动采集</source>
-        <target>無人島素材達到上限, 已停止自動採集</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
-        <source>达限时停止采集并发送通知</source>
-        <target>達限時停止採集並發送通知</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
-        <source>配置完成并点击开始后, 自动循环采集无人岛素材</source>
-        <target>配置完成並點擊開始後, 自動循環採集無人島素材</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
-        <source>自动无人岛采集</source>
-        <target>自動無人島採集</target>
       </trans-unit>
       <trans-unit id="AutoMode" xml:space="preserve">
         <source>自动模式</source>
@@ -4128,13 +4128,13 @@ XivGear (xivgear.app)</target>
         <source>预期价格</source>
         <target>預期價格</target>
       </trans-unit>
-      <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaximum" xml:space="preserve">
-        <source>最高可接受价格</source>
-        <target>最高可接受價格</target>
-      </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaxReduction" xml:space="preserve">
         <source>可接受降价值</source>
         <target>可接受降價值</target>
+      </trans-unit>
+      <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaximum" xml:space="preserve">
+        <source>最高可接受价格</source>
+        <target>最高可接受價格</target>
       </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMinimum" xml:space="preserve">
         <source>最低可接受价格</source>
@@ -4974,6 +4974,10 @@ XivGear (xivgear.app)</target>
         <source>批量启用</source>
         <target>批量啟用</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-AddTime" xml:space="preserve">
+        <source>添加时间</source>
+        <target>添加時間</target>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearAllEntries" xml:space="preserve">
         <source>移除所有黑名单</source>
         <target>移除所有黑名单</target>
@@ -4993,10 +4997,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</source>
         <target>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-AddTime" xml:space="preserve">
-        <source>添加时间</source>
-        <target>添加時間</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-ConfirmDeletePlayer" xml:space="preserve">
         <source>确认要删除该玩家吗？</source>
@@ -5062,18 +5062,6 @@ XivGear (xivgear.app)</target>
 访问密码：{1}
 （请妥善保管，之后将无法再次查看。）</target>
       </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToAddPlayerToGroup" xml:space="preserve">
-        <source>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</source>
-        <target>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
-        <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
-        <target>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
-        <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
-        <target>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</target>
-      </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToCreateGroup" xml:space="preserve">
         <source>创建共享黑名单失败，{0}。</source>
         <target>创建共享黑名单失败，{0}。</target>
@@ -5093,6 +5081,18 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterBlacklist-Notification-FailToShareList" xml:space="preserve">
         <source>分享本地黑名单失败，{0}。</source>
         <target>分享本地黑名单失败，{0}。</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToAddPlayerToGroup" xml:space="preserve">
+        <source>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</source>
+        <target>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
+        <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
+        <target>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
+        <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
+        <target>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-ImportedList" xml:space="preserve">
         <source>导入了本地黑名单“{0}”，共{1}名玩家。</source>
@@ -5195,6 +5195,64 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterCommandInputTitle" xml:space="preserve">
         <source>更好的命令输入</source>
         <target>更好的命令輸入</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-CommandHelp" xml:space="preserve">
+        <source>开启或关闭“帧数限制”界面。
+/pdr fps on 限制帧率。
+/pdr fps off 不限制帧率。
+/pdr fps toggle 限制或不限制帧率。
+/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</source>
+        <target>开启或关闭“帧数限制”界面。
+/pdr fps on 限制帧率。
+/pdr fps off 不限制帧率。
+/pdr fps toggle 限制或不限制帧率。
+/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-CurrentFPS" xml:space="preserve">
+        <source>当前帧数</source>
+        <target>當前幀數</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
+        <source>[左键] 打开帧数限制界面
+[右键] 打开帧数监测界面</source>
+        <target>[左鍵] 打開幀數限制界面
+[右鍵] 打開幀數監測界面</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
+        <source>快速设置</source>
+        <target>快速設置</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
+        <source>最高帧数</source>
+        <target>最高帧数</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
+        <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
+        <target>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle" xml:space="preserve">
+        <source>更好的游戏帧数限制</source>
+        <target>更好的遊戲幀數限制</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Notification-Set" xml:space="preserve">
+        <source>限制了最高帧数为每秒{fps}帧。</source>
+        <target>限制了最高帧数为每秒{fps}帧。</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
+        <source>取消了帧数限制。</source>
+        <target>取消了帧数限制。</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
+        <source>平均帧数</source>
+        <target>平均帧数</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
+        <source>最高帧数</source>
+        <target>最高帧数</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
+        <source>最低帧数</source>
+        <target>最低帧数</target>
       </trans-unit>
       <trans-unit id="BetterFateProgressUI-LeftFateAmount" xml:space="preserve">
         <source>剩余 {0} 次</source>
@@ -5356,63 +5414,39 @@ XivGear (xivgear.app)</target>
         <source>更好的自动跟随</source>
         <target>更好的自動跟隨</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-CommandHelp" xml:space="preserve">
-        <source>开启或关闭“帧数限制”界面。
-/pdr fps on 限制帧率。
-/pdr fps off 不限制帧率。
-/pdr fps toggle 限制或不限制帧率。
-/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</source>
-        <target>开启或关闭“帧数限制”界面。
-/pdr fps on 限制帧率。
-/pdr fps off 不限制帧率。
-/pdr fps toggle 限制或不限制帧率。
-/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</target>
+      <trans-unit id="BetterMKDSupportJobList-CommandHelp" xml:space="preserve">
+        <source>打开/关闭自定义辅助职业列表界面</source>
+        <target>打开/关闭自定义辅助职业列表界面</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-CurrentFPS" xml:space="preserve">
-        <source>当前帧数</source>
-        <target>當前幀數</target>
+      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon" xml:space="preserve">
+        <source>真实技能</source>
+        <target>真實技能</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
-        <source>[左键] 打开帧数限制界面
-[右键] 打开帧数监测界面</source>
-        <target>[左鍵] 打開幀數限制界面
-[右鍵] 打開幀數監測界面</target>
+      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon-Help" xml:space="preserve">
+        <source>拖拽出来的技能图标是否为真实技能
+
+若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更
+若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更</source>
+        <target>拖拽出來的技能圖示是否為真實技能
+
+若勾選, 拖拽出來的技能圖示為真實技能, 不會隨著輔助職業變更而變更
+若未選, 拖拽出來的技能圖示為任務指令, 輔助職業變更時也會一併變更</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
-        <source>快速设置</source>
-        <target>快速設置</target>
+      <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
+        <source>调整辅助职业显示顺序</source>
+        <target>调整辅助职业显示顺序</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
-        <source>最高帧数</source>
-        <target>最高帧数</target>
+      <trans-unit id="BetterMKDSupportJobList-SupportJobUnlockLink" xml:space="preserve">
+        <source>解锁方式</source>
+        <target>解鎖方式</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
-        <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
-        <target>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</target>
+      <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
+        <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
+        <target>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle" xml:space="preserve">
-        <source>更好的游戏帧数限制</source>
-        <target>更好的遊戲幀數限制</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Notification-Set" xml:space="preserve">
-        <source>限制了最高帧数为每秒{fps}帧。</source>
-        <target>限制了最高帧数为每秒{fps}帧。</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
-        <source>取消了帧数限制。</source>
-        <target>取消了帧数限制。</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
-        <source>平均帧数</source>
-        <target>平均帧数</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
-        <source>最高帧数</source>
-        <target>最高帧数</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
-        <source>最低帧数</source>
-        <target>最低帧数</target>
+      <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
+        <source>更好的辅助职业列表</source>
+        <target>更好的辅助职业列表</target>
       </trans-unit>
       <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
         <source>成交均价</source>
@@ -5466,6 +5500,10 @@ XivGear (xivgear.app)</target>
         <source>全部</source>
         <target>全部</target>
       </trans-unit>
+      <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
+        <source>HQ 占比</source>
+        <target>HQ 占比</target>
+      </trans-unit>
       <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
         <source>最近成交</source>
         <target>最近成交</target>
@@ -5477,10 +5515,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
         <source>本服</source>
         <target>本服</target>
-      </trans-unit>
-      <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
-        <source>HQ 占比</source>
-        <target>HQ 占比</target>
       </trans-unit>
       <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
         <source>在售</source>
@@ -5654,40 +5688,6 @@ XivGear (xivgear.app)</target>
         <source>更好的市场布告板</source>
         <target>更好的市場布告板</target>
       </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-CommandHelp" xml:space="preserve">
-        <source>打开/关闭自定义辅助职业列表界面</source>
-        <target>打开/关闭自定义辅助职业列表界面</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon" xml:space="preserve">
-        <source>真实技能</source>
-        <target>真實技能</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon-Help" xml:space="preserve">
-        <source>拖拽出来的技能图标是否为真实技能
-
-若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更
-若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更</source>
-        <target>拖拽出來的技能圖示是否為真實技能
-
-若勾選, 拖拽出來的技能圖示為真實技能, 不會隨著輔助職業變更而變更
-若未選, 拖拽出來的技能圖示為任務指令, 輔助職業變更時也會一併變更</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
-        <source>调整辅助职业显示顺序</source>
-        <target>调整辅助职业显示顺序</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-SupportJobUnlockLink" xml:space="preserve">
-        <source>解锁方式</source>
-        <target>解鎖方式</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
-        <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
-        <target>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
-        <source>更好的辅助职业列表</source>
-        <target>更好的辅助职业列表</target>
-      </trans-unit>
       <trans-unit id="BetterMountRouletteDescription" xml:space="preserve">
         <source>提供新的随机坐骑系统, 允许为不同类型区域指定不同的随机坐骑待选列表, 且列表可保存无限个坐骑</source>
         <target>提供新的隨機坐騎系統, 允許為不同類型區域指定不同的隨機坐騎待選列表, 且列表可保存無限個坐騎</target>
@@ -5695,6 +5695,16 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterMountRouletteTitle" xml:space="preserve">
         <source>更好的随机坐骑</source>
         <target>更好的隨機坐騎</target>
+      </trans-unit>
+      <trans-unit id="BetterPVPACCommandDescription" xml:space="preserve">
+        <source>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
+（示例：/对战技能 闪飒、/对战技能 暴乱剑）</source>
+        <target>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
+（示例：/对战技能 闪飒、/对战技能 暴乱剑）</target>
+      </trans-unit>
+      <trans-unit id="BetterPVPACCommandTitle" xml:space="preserve">
+        <source>“/对战技能”命令优化</source>
+        <target>“/对战技能”命令优化</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Category-Description" xml:space="preserve">
         <source>招募描述</source>
@@ -5767,16 +5777,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="BetterPartyFinderSortTitle" xml:space="preserve">
         <source>更好的队员招募升降排序</source>
         <target>更好的隊員招募升降排序</target>
-      </trans-unit>
-      <trans-unit id="BetterPVPACCommandDescription" xml:space="preserve">
-        <source>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
-（示例：/对战技能 闪飒、/对战技能 暴乱剑）</source>
-        <target>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
-（示例：/对战技能 闪飒、/对战技能 暴乱剑）</target>
-      </trans-unit>
-      <trans-unit id="BetterPVPACCommandTitle" xml:space="preserve">
-        <source>“/对战技能”命令优化</source>
-        <target>“/对战技能”命令优化</target>
       </trans-unit>
       <trans-unit id="BetterSoundEffectParamDescription" xml:space="preserve">
         <source>使系统音效参数 (&lt;se&gt;) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制</source>
@@ -6008,14 +6008,6 @@ XivGear (xivgear.app)</target>
         <source>点击</source>
         <target>點擊</target>
       </trans-unit>
-      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
-        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
-        <target>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</target>
-      </trans-unit>
-      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
-        <source>城内以太之晶地图传送</source>
-        <target>城内以太之晶地图传送</target>
-      </trans-unit>
       <trans-unit id="ClickToCopy" xml:space="preserve">
         <source>单击以复制</source>
         <target>單擊以複製</target>
@@ -6023,6 +6015,14 @@ XivGear (xivgear.app)</target>
       <trans-unit id="ClickToOpen" xml:space="preserve">
         <source>点击以打开</source>
         <target>點擊以打開</target>
+      </trans-unit>
+      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
+        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
+        <target>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</target>
+      </trans-unit>
+      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
+        <source>城内以太之晶地图传送</source>
+        <target>城内以太之晶地图传送</target>
       </trans-unit>
       <trans-unit id="ClipboardMultiLineToOneLineDescription" xml:space="preserve">
         <source>在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送</source>
@@ -6092,6 +6092,10 @@ XivGear (xivgear.app)</target>
         <source>打开主界面, 并搜索指定关键词</source>
         <target>打開主界面, 並搜索指定關鍵字</target>
       </trans-unit>
+      <trans-unit id="Commands-CommandHelp-TTS" xml:space="preserve">
+        <source>使用内置的 TTS 设置朗读指定的文本</source>
+        <target>使用內置的 TTS 設置朗讀指定的文本</target>
+      </trans-unit>
       <trans-unit id="Commands-CommandHelp-Toggle" xml:space="preserve">
         <source>切换指定模块的开关状态 (仅支持输入模块内部名称)</source>
         <target>切換指定模塊的開關狀態 (僅支持輸入模塊內部名稱)</target>
@@ -6099,10 +6103,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="Commands-CommandHelp-ToggleConfig" xml:space="preserve">
         <source>切换指定模块配置悬浮窗界面的开关状态</source>
         <target>切換指定模組配置懸浮窗界面的開關狀態</target>
-      </trans-unit>
-      <trans-unit id="Commands-CommandHelp-TTS" xml:space="preserve">
-        <source>使用内置的 TTS 设置朗读指定的文本</source>
-        <target>使用內置的 TTS 設置朗讀指定的文本</target>
       </trans-unit>
       <trans-unit id="Commands-CommandHelp-Unload" xml:space="preserve">
         <source>卸载指定的模块 (仅支持输入模块内部名称)</source>
@@ -6440,13 +6440,13 @@ XivGear (xivgear.app)</target>
         <source>导出分组</source>
         <target>导出分组</target>
       </trans-unit>
-      <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
-        <source>已将当前分组的地图标记导出至剪贴板</source>
-        <target>已将当前分组的地图标记导出至剪贴板</target>
-      </trans-unit>
       <trans-unit id="CustomizeMapMarker-ExportFailed" xml:space="preserve">
         <source>导出自定义地图标记失败</source>
         <target>导出自定义地图标记失败</target>
+      </trans-unit>
+      <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
+        <source>已将当前分组的地图标记导出至剪贴板</source>
+        <target>已将当前分组的地图标记导出至剪贴板</target>
       </trans-unit>
       <trans-unit id="CustomizeMapMarker-ExtraCommands" xml:space="preserve">
         <source>额外文本指令</source>
@@ -6468,10 +6468,6 @@ XivGear (xivgear.app)</target>
         <source>从剪贴板导入</source>
         <target>從剪貼簿導入</target>
       </trans-unit>
-      <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
-        <source>已导入 {0} 个自定义地图标记</source>
-        <target>已导入 {0} 个自定义地图标记</target>
-      </trans-unit>
       <trans-unit id="CustomizeMapMarker-ImportFailed" xml:space="preserve">
         <source>导入自定义地图标记失败</source>
         <target>导入自定义地图标记失败</target>
@@ -6479,6 +6475,10 @@ XivGear (xivgear.app)</target>
       <trans-unit id="CustomizeMapMarker-ImportInvalid" xml:space="preserve">
         <source>剪贴板中没有有效的自定义地图标记数据</source>
         <target>剪贴板中没有有效的自定义地图标记数据</target>
+      </trans-unit>
+      <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
+        <source>已导入 {0} 个自定义地图标记</source>
+        <target>已导入 {0} 个自定义地图标记</target>
       </trans-unit>
       <trans-unit id="CustomizeMapMarker-InvalidMap" xml:space="preserve">
         <source>无效的地图数据</source>
@@ -6564,21 +6564,21 @@ XivGear (xivgear.app)</target>
         <source>自定义视距</source>
         <target>自訂視距</target>
       </trans-unit>
-      <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
-        <source>已成功导出配置至剪贴板</source>
-        <target>已成功導出配置至剪貼板</target>
-      </trans-unit>
       <trans-unit id="DailyModuleBase-ExportError" xml:space="preserve">
         <source>尝试导出配置至剪贴板时发生错误</source>
         <target>嘗試導出配置至剪貼板時發生錯誤</target>
       </trans-unit>
-      <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
-        <source>已成功从剪贴板导入相关配置</source>
-        <target>已成功從剪貼板導入相關配置</target>
+      <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
+        <source>已成功导出配置至剪贴板</source>
+        <target>已成功導出配置至剪貼板</target>
       </trans-unit>
       <trans-unit id="DailyModuleBase-ImportError" xml:space="preserve">
         <source>尝试从剪贴板导入配置时发生错误</source>
         <target>嘗試從剪貼板導入配置時發生錯誤</target>
+      </trans-unit>
+      <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
+        <source>已成功从剪贴板导入相关配置</source>
+        <target>已成功從剪貼板導入相關配置</target>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
         <source>默认</source>
@@ -6632,10 +6632,6 @@ XivGear (xivgear.app)</target>
         <source>禁用</source>
         <target>禁用</target>
       </trans-unit>
-      <trans-unit id="Disabled" xml:space="preserve">
-        <source>已禁用</source>
-        <target>已禁用</target>
-      </trans-unit>
       <trans-unit id="DisableGroundActionAutoFaceDescription" xml:space="preserve">
         <source>在使用地面类技能(如庇护所, 地星等)时将不会再更改当前面向</source>
         <target>在使用地面類技能(如庇護所, 地星等)時將不會再更改當前面向</target>
@@ -6647,6 +6643,10 @@ XivGear (xivgear.app)</target>
       <trans-unit id="DisableWhenPlayersAround" xml:space="preserve">
         <source>当周围有其他玩家时禁用</source>
         <target>當周圍有其他玩家時禁用</target>
+      </trans-unit>
+      <trans-unit id="Disabled" xml:space="preserve">
+        <source>已禁用</source>
+        <target>已禁用</target>
       </trans-unit>
       <trans-unit id="Disactivated" xml:space="preserve">
         <source>未激活</source>
@@ -6776,14 +6776,6 @@ XivGear (xivgear.app)</target>
         <source>距离最远的小队成员</source>
         <target>距離最遠的小隊成員</target>
       </trans-unit>
-      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateEnemy" xml:space="preserve">
-        <source>仇恨最低的敌对目标</source>
-        <target>仇恨最低的敌对目标</target>
-      </trans-unit>
-      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateInListEnemy" xml:space="preserve">
-        <source>仇恨列表中仇恨最低的敌对目标</source>
-        <target>仇恨列表中仇恨最低的敌对目标</target>
-      </trans-unit>
       <trans-unit id="ExpandMacroTargetParameters-Param-LowHpEnemy" xml:space="preserve">
         <source>体力百分比最低的敌对目标</source>
         <target>體力百分比最低的敵對目標</target>
@@ -6795,6 +6787,14 @@ XivGear (xivgear.app)</target>
       <trans-unit id="ExpandMacroTargetParameters-Param-LowHpMember" xml:space="preserve">
         <source>体力百分比最低的小队成员</source>
         <target>體力百分比最低的小隊成員</target>
+      </trans-unit>
+      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateEnemy" xml:space="preserve">
+        <source>仇恨最低的敌对目标</source>
+        <target>仇恨最低的敌对目标</target>
+      </trans-unit>
+      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateInListEnemy" xml:space="preserve">
+        <source>仇恨列表中仇恨最低的敌对目标</source>
+        <target>仇恨列表中仇恨最低的敌对目标</target>
       </trans-unit>
       <trans-unit id="ExpandMacroTargetParameters-Param-MeAndMemberStatus" xml:space="preserve">
         <source>具有指定 ID 状态的小队成员 (包含自身)</source>
@@ -6868,6 +6868,70 @@ XivGear (xivgear.app)</target>
         <source>额外的青魔法技能组</source>
         <target>額外的青魔法技能組</target>
       </trans-unit>
+      <trans-unit id="FCMemberManagePanel-ConfirmKick" xml:space="preserve">
+        <source>确定要将{0}从部队中除名吗？</source>
+        <target>确定要将{0}从部队中除名吗？</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-ConfirmKickMulti" xml:space="preserve">
+        <source>确定要将{0}位成员从部队中除名吗？</source>
+        <target>确定要将{0}位成员从部队中除名吗？</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-CurrentPage" xml:space="preserve">
+        <source>当前页</source>
+        <target>當前頁</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-BeyondMonth" xml:space="preserve">
+        <source>超过 30 天</source>
+        <target>超过 30 天</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-Online" xml:space="preserve">
+        <source>在线</source>
+        <target>在线</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinDay" xml:space="preserve">
+        <source>1 天内</source>
+        <target>1 天内</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinHour" xml:space="preserve">
+        <source>1 小时内</source>
+        <target>1 小时内</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinMonth" xml:space="preserve">
+        <source>30 天内</source>
+        <target>30 天内</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinWeek" xml:space="preserve">
+        <source>7 天内</source>
+        <target>7 天内</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-PageDisplay" xml:space="preserve">
+        <source>第 {0} 页</source>
+        <target>第 {0} 頁</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-PositionLastTime" xml:space="preserve">
+        <source>位置 / 最后上线时间</source>
+        <target>位置 / 最後上線時間</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-Rank" xml:space="preserve">
+        <source>阶级</source>
+        <target>阶级</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-SelectedMembers" xml:space="preserve">
+        <source>选择了 {0} 名成员</source>
+        <target>选择了 {0} 名成员</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanelDescription" xml:space="preserve">
+        <source>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</source>
+        <target>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanelTitle" xml:space="preserve">
+        <source>部队成员管理面板</source>
+        <target>部隊成員管理面板</target>
+      </trans-unit>
+      <trans-unit id="FPS" xml:space="preserve">
+        <source>帧数</source>
+        <target>帧数</target>
+      </trans-unit>
       <trans-unit id="FastBLUSpellbookSearchBarDescription" xml:space="preserve">
         <source>为青魔法书界面左上角新增一个快捷搜索悬浮窗, 用于根据技能名称执行即时搜索</source>
         <target>為青魔法書界面左上角新增一個快捷搜索懸浮窗, 用於根據技能名稱執行即時搜索</target>
@@ -6911,14 +6975,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
         <source>快捷进出旅馆</source>
         <target>快捷進出旅館</target>
-      </trans-unit>
-      <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-        <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-        <target>加快區域內所有過圖行為的加載速度, 使遊戲人物能盡早脫離加載期間的禁用狀態</target>
-      </trans-unit>
-      <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-        <source>更快的区域内过图加载</source>
-        <target>更快的區域內過圖加載</target>
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchange-CommandHelp" xml:space="preserve">
         <source>&lt;物品名 (大小写不敏感)&gt; (&lt;数量&gt;) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)</source>
@@ -7430,69 +7486,17 @@ XivGear (xivgear.app)</target>
         <source>快捷跨界传送</source>
         <target>快捷跨界傳送</target>
       </trans-unit>
+      <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
+        <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
+        <target>加快區域內所有過圖行為的加載速度, 使遊戲人物能盡早脫離加載期間的禁用狀態</target>
+      </trans-unit>
+      <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
+        <source>更快的区域内过图加载</source>
+        <target>更快的區域內過圖加載</target>
+      </trans-unit>
       <trans-unit id="Favorite" xml:space="preserve">
         <source>收藏</source>
         <target>收藏</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-ConfirmKick" xml:space="preserve">
-        <source>确定要将{0}从部队中除名吗？</source>
-        <target>确定要将{0}从部队中除名吗？</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-ConfirmKickMulti" xml:space="preserve">
-        <source>确定要将{0}位成员从部队中除名吗？</source>
-        <target>确定要将{0}位成员从部队中除名吗？</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-CurrentPage" xml:space="preserve">
-        <source>当前页</source>
-        <target>當前頁</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-BeyondMonth" xml:space="preserve">
-        <source>超过 30 天</source>
-        <target>超过 30 天</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-Online" xml:space="preserve">
-        <source>在线</source>
-        <target>在线</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinDay" xml:space="preserve">
-        <source>1 天内</source>
-        <target>1 天内</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinHour" xml:space="preserve">
-        <source>1 小时内</source>
-        <target>1 小时内</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinMonth" xml:space="preserve">
-        <source>30 天内</source>
-        <target>30 天内</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinWeek" xml:space="preserve">
-        <source>7 天内</source>
-        <target>7 天内</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-PageDisplay" xml:space="preserve">
-        <source>第 {0} 页</source>
-        <target>第 {0} 頁</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-PositionLastTime" xml:space="preserve">
-        <source>位置 / 最后上线时间</source>
-        <target>位置 / 最後上線時間</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-Rank" xml:space="preserve">
-        <source>阶级</source>
-        <target>阶级</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-SelectedMembers" xml:space="preserve">
-        <source>选择了 {0} 名成员</source>
-        <target>选择了 {0} 名成员</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanelDescription" xml:space="preserve">
-        <source>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</source>
-        <target>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanelTitle" xml:space="preserve">
-        <source>部队成员管理面板</source>
-        <target>部隊成員管理面板</target>
       </trans-unit>
       <trans-unit id="FieldEntryCommand-CommandHelp" xml:space="preserve">
         <source>&lt;参数 / 副本名&gt; (不区分大小写 / 后者部分匹配) 进入指定的特殊场景探索</source>
@@ -7545,10 +7549,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="Format" xml:space="preserve">
         <source>格式</source>
         <target>格式</target>
-      </trans-unit>
-      <trans-unit id="FPS" xml:space="preserve">
-        <source>帧数</source>
-        <target>帧数</target>
       </trans-unit>
       <trans-unit id="FrontlineMapRadar-DotRadius" xml:space="preserve">
         <source>点半径</source>
@@ -7661,6 +7661,10 @@ XivGear (xivgear.app)</target>
       <trans-unit id="GlamourPlateApplyCommandTitle" xml:space="preserve">
         <source>投影模板切换指令</source>
         <target>投影模板切換指令</target>
+      </trans-unit>
+      <trans-unit id="HQ" xml:space="preserve">
+        <source>高品质</source>
+        <target>高品質</target>
       </trans-unit>
       <trans-unit id="HealerHelper-AutoPlayCard-CommonDescription" xml:space="preserve">
         <source>根据目前版本的职业输出能力高低</source>
@@ -7800,10 +7804,6 @@ XivGear (xivgear.app)</target>
         <source>小时</source>
         <target>小時</target>
       </trans-unit>
-      <trans-unit id="HQ" xml:space="preserve">
-        <source>高品质</source>
-        <target>高品質</target>
-      </trans-unit>
       <trans-unit id="HullbreakerIsleHelper-FakeTreasureTip" xml:space="preserve">
         <source>需要开启</source>
         <target>需要開啟</target>
@@ -7815,6 +7815,14 @@ XivGear (xivgear.app)</target>
       <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
         <source>&quot;财宝传说破舰岛&quot; 助手</source>
         <target>&quot;財寶傳說破艦島&quot; 助手</target>
+      </trans-unit>
+      <trans-unit id="ID" xml:space="preserve">
+        <source>唯一标识符</source>
+        <target>唯一标识符</target>
+      </trans-unit>
+      <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
+        <source>安装并启用了插件 {0}</source>
+        <target>安裝並啟用了插件 {0}</target>
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>图标</source>
@@ -7835,10 +7843,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="IconScale" xml:space="preserve">
         <source>图标缩放</source>
         <target>圖標縮放</target>
-      </trans-unit>
-      <trans-unit id="ID" xml:space="preserve">
-        <source>唯一标识符</source>
-        <target>唯一标识符</target>
       </trans-unit>
       <trans-unit id="IgnoreTransparencyWaitDescription" xml:space="preserve">
         <source>自动取消与 NPC 对话时, 对方因淡入淡出演出所产生的等待时间</source>
@@ -7876,14 +7880,6 @@ XivGear (xivgear.app)</target>
         <source>副本任务内</source>
         <target>副本任務內</target>
       </trans-unit>
-      <trans-unit id="Info" xml:space="preserve">
-        <source>信息</source>
-        <target>信息</target>
-      </trans-unit>
-      <trans-unit id="InnerLoop" xml:space="preserve">
-        <source>内环</source>
-        <target>内环</target>
-      </trans-unit>
       <trans-unit id="InOrder" xml:space="preserve">
         <source>顺序</source>
         <target>順序</target>
@@ -7892,13 +7888,21 @@ XivGear (xivgear.app)</target>
         <source>进行中</source>
         <target>進行中</target>
       </trans-unit>
-      <trans-unit id="Input" xml:space="preserve">
-        <source>输入</source>
-        <target>輸入</target>
-      </trans-unit>
       <trans-unit id="InReverseOrder" xml:space="preserve">
         <source>逆序</source>
         <target>逆序</target>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>信息</source>
+        <target>信息</target>
+      </trans-unit>
+      <trans-unit id="InnerLoop" xml:space="preserve">
+        <source>内环</source>
+        <target>内环</target>
+      </trans-unit>
+      <trans-unit id="Input" xml:space="preserve">
+        <source>输入</source>
+        <target>輸入</target>
       </trans-unit>
       <trans-unit id="Insert" xml:space="preserve">
         <source>新增</source>
@@ -7971,10 +7975,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="InvertSelection" xml:space="preserve">
         <source>反选</source>
         <target>反选</target>
-      </trans-unit>
-      <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-        <source>安装并启用了插件 {0}</source>
-        <target>安裝並啟用了插件 {0}</target>
       </trans-unit>
       <trans-unit id="Item" xml:space="preserve">
         <source>物品</source>
@@ -8356,10 +8356,6 @@ XivGear (xivgear.app)</target>
         <source>更多的消息过滤预设</source>
         <target>更多的消息過濾預設</target>
       </trans-unit>
-      <trans-unit id="MoveableOverlay" xml:space="preserve">
-        <source>悬浮窗可移动</source>
-        <target>懸浮窗可移動</target>
-      </trans-unit>
       <trans-unit id="MoveDown" xml:space="preserve">
         <source>下移</source>
         <target>下移</target>
@@ -8367,6 +8363,14 @@ XivGear (xivgear.app)</target>
       <trans-unit id="MoveUp" xml:space="preserve">
         <source>上移</source>
         <target>上移</target>
+      </trans-unit>
+      <trans-unit id="MoveableOverlay" xml:space="preserve">
+        <source>悬浮窗可移动</source>
+        <target>懸浮窗可移動</target>
+      </trans-unit>
+      <trans-unit id="NQ" xml:space="preserve">
+        <source>普通品质</source>
+        <target>普通品质</target>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>名称</source>
@@ -8400,10 +8404,6 @@ XivGear (xivgear.app)</target>
         <source>始终显示游戏内 UI 界面</source>
         <target>始終顯示遊戲內 UI 界面</target>
       </trans-unit>
-      <trans-unit id="None" xml:space="preserve">
-        <source>无</source>
-        <target>無</target>
-      </trans-unit>
       <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
         <source>仅在最小化时禁止渲染 (仅适用于 {0})</source>
         <target>僅在最小化時禁止渲染 (僅適用於 {0})</target>
@@ -8416,18 +8416,6 @@ XivGear (xivgear.app)</target>
         <source>后台禁止渲染游戏画面</source>
         <target>後台禁止渲染遊戲畫面</target>
       </trans-unit>
-      <trans-unit id="Note" xml:space="preserve">
-        <source>备注</source>
-        <target>備註</target>
-      </trans-unit>
-      <trans-unit id="Notification" xml:space="preserve">
-        <source>通知</source>
-        <target>通知</target>
-      </trans-unit>
-      <trans-unit id="NotUnlocked" xml:space="preserve">
-        <source>未解锁</source>
-        <target>未解鎖</target>
-      </trans-unit>
       <trans-unit id="NoUIFadeDescription" xml:space="preserve">
         <source>禁止游戏内各类用于过渡的黑屏与淡入淡出绘制, 以减少加载过程中不必要的等待时间</source>
         <target>禁止遊戲內各類用於過渡的黑屏與淡入淡出繪製, 以減少載入過程中不必要的等待時間</target>
@@ -8436,9 +8424,21 @@ XivGear (xivgear.app)</target>
         <source>无加载黑屏界面</source>
         <target>無載入黑屏界面</target>
       </trans-unit>
-      <trans-unit id="NQ" xml:space="preserve">
-        <source>普通品质</source>
-        <target>普通品质</target>
+      <trans-unit id="None" xml:space="preserve">
+        <source>无</source>
+        <target>無</target>
+      </trans-unit>
+      <trans-unit id="NotUnlocked" xml:space="preserve">
+        <source>未解锁</source>
+        <target>未解鎖</target>
+      </trans-unit>
+      <trans-unit id="Note" xml:space="preserve">
+        <source>备注</source>
+        <target>備註</target>
+      </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>通知</source>
+        <target>通知</target>
       </trans-unit>
       <trans-unit id="Number" xml:space="preserve">
         <source>数字</source>
@@ -8710,13 +8710,13 @@ XivGear (xivgear.app)</target>
         <source>仅当战斗中时</source>
         <target>僅當戰鬥中時</target>
       </trans-unit>
-      <trans-unit id="OnlyIncomplete" xml:space="preserve">
-        <source>仅未完成</source>
-        <target>僅未完成</target>
-      </trans-unit>
       <trans-unit id="OnlyInDuty" xml:space="preserve">
         <source>仅当位于副本中时</source>
         <target>僅當位於副本中時</target>
+      </trans-unit>
+      <trans-unit id="OnlyIncomplete" xml:space="preserve">
+        <source>仅未完成</source>
+        <target>僅未完成</target>
       </trans-unit>
       <trans-unit id="OnlyNotifyWhenBackground" xml:space="preserve">
         <source>仅当游戏位于后台时提醒</source>
@@ -9016,33 +9016,33 @@ XivGear (xivgear.app)</target>
         <source>覆盖预设前需要二次确认</source>
         <target>覆蓋預設前需要二次確認</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
-        <source>已删除宏指令预设 &quot;{0}&quot;</source>
-        <target>已刪除宏指令預設 &quot;{0}&quot;</target>
-      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-DeleteError" xml:space="preserve">
         <source>尝试删除宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>嘗試刪除宏指令預設 &quot;{0}&quot; 時發生錯誤</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
-        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
-        <target>已讀取並載入宏指令預設 &quot;{0}&quot;</target>
+      <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
+        <source>已删除宏指令预设 &quot;{0}&quot;</source>
+        <target>已刪除宏指令預設 &quot;{0}&quot;</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-LoadError" xml:space="preserve">
         <source>尝试读取宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>嘗試讀取宏指令預設 &quot;{0}&quot; 時發生錯誤</target>
       </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
+        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
+        <target>已讀取並載入宏指令預設 &quot;{0}&quot;</target>
+      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Overwritten" xml:space="preserve">
         <source>已使用当前全部宏指令覆盖 &quot;{0}&quot; 预设</source>
         <target>已使用當前全部宏指令覆蓋 &quot;{0}&quot; 預設</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
-        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
-        <target>已保存當前全部宏指令為 &quot;{0}&quot; 預設</target>
-      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError" xml:space="preserve">
         <source>尝试保存宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>嘗試保存宏指令預設 &quot;{0}&quot; 時發生錯誤</target>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
+        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
+        <target>已保存當前全部宏指令為 &quot;{0}&quot; 預設</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>对用户宏指令界面进行优化, 使其支持保存全部宏指令为多个预设, 以便随时切换使用</source>
@@ -9414,17 +9414,29 @@ XivGear (xivgear.app)</target>
         <source>时尚配饰技能使用指令</source>
         <target>时尚配饰技能使用指令</target>
       </trans-unit>
-      <trans-unit id="OuterLoop" xml:space="preserve">
-        <source>外环</source>
-        <target>外环</target>
-      </trans-unit>
       <trans-unit id="OutOfDuty" xml:space="preserve">
         <source>副本任务外</source>
         <target>副本任務外</target>
       </trans-unit>
+      <trans-unit id="OuterLoop" xml:space="preserve">
+        <source>外环</source>
+        <target>外环</target>
+      </trans-unit>
       <trans-unit id="Output" xml:space="preserve">
         <source>输出</source>
         <target>輸出</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
+        <source>单页显示数量</source>
+        <target>單頁顯示數量</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomizeDescription" xml:space="preserve">
+        <source>允许自定义队员招募中单页可显示的招募数量, 上限为单页 100 个招募</source>
+        <target>允許自訂隊員招募中單頁可顯示的招募數量, 上限為單頁 100 個招募</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomizeTitle" xml:space="preserve">
+        <source>自定义招募板单页显示数量</source>
+        <target>自訂招募板單頁顯示數量</target>
       </trans-unit>
       <trans-unit id="PairModules" xml:space="preserve">
         <source>可搭配模块</source>
@@ -9461,18 +9473,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="PetSizeContextMenuTitle" xml:space="preserve">
         <source>召唤兽体型右键菜单</source>
         <target>召唤兽体型右键菜单</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
-        <source>单页显示数量</source>
-        <target>單頁顯示數量</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomizeDescription" xml:space="preserve">
-        <source>允许自定义队员招募中单页可显示的招募数量, 上限为单页 100 个招募</source>
-        <target>允許自訂隊員招募中單頁可顯示的招募數量, 上限為單頁 100 個招募</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomizeTitle" xml:space="preserve">
-        <source>自定义招募板单页显示数量</source>
-        <target>自訂招募板單頁顯示數量</target>
       </trans-unit>
       <trans-unit id="PhantomJobSwitchCommand-CommandHelp" xml:space="preserve">
         <source>&lt;ID / 名称 (大小写不敏感, 部分包含)&gt; 切换至对应的辅助职业</source>
@@ -9602,13 +9602,13 @@ XivGear (xivgear.app)</target>
         <source>&quot;最终决战天幕魔导城&quot; 助手</source>
         <target>&quot;最終決戰天幕魔導城&quot; 助手</target>
       </trans-unit>
-      <trans-unit id="PrecedingModules" xml:space="preserve">
-        <source>前置模块</source>
-        <target>前置模組</target>
-      </trans-unit>
       <trans-unit id="PreCondition" xml:space="preserve">
         <source>先决条件</source>
         <target>先決條件</target>
+      </trans-unit>
+      <trans-unit id="PrecedingModules" xml:space="preserve">
+        <source>前置模块</source>
+        <target>前置模組</target>
       </trans-unit>
       <trans-unit id="Prefix" xml:space="preserve">
         <source>前缀</source>
@@ -10046,6 +10046,14 @@ XivGear (xivgear.app)</target>
         <source>秒</source>
         <target>秒</target>
       </trans-unit>
+      <trans-unit id="SelectAll" xml:space="preserve">
+        <source>全选</source>
+        <target>全选</target>
+      </trans-unit>
+      <trans-unit id="SelectTarget" xml:space="preserve">
+        <source>选择目标</source>
+        <target>选择目标</target>
+      </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
         <source>使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑</source>
         <target>使招募詳情的留言文本可以被自由選中, 以快捷複製或臨時編輯</target>
@@ -10054,10 +10062,6 @@ XivGear (xivgear.app)</target>
         <source>可选中的招募留言文本</source>
         <target>可選中的招募留言文本</target>
       </trans-unit>
-      <trans-unit id="SelectAll" xml:space="preserve">
-        <source>全选</source>
-        <target>全选</target>
-      </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>已选</source>
         <target>已选</target>
@@ -10065,10 +10069,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="SelectedXItems" xml:space="preserve">
         <source>已选中 {0} 项</source>
         <target>已選中 {0} 項</target>
-      </trans-unit>
-      <trans-unit id="SelectTarget" xml:space="preserve">
-        <source>选择目标</source>
-        <target>选择目标</target>
       </trans-unit>
       <trans-unit id="Send" xml:space="preserve">
         <source>发送</source>
@@ -10592,13 +10592,16 @@ XivGear (xivgear.app)</target>
         <source>可投影部位</source>
         <target>可投影部位</target>
       </trans-unit>
+      <trans-unit id="UnifiedGlamourManager-NoSearchResult" xml:space="preserve">
+        <source>没有符合条件的结果</source>
+        <target>沒有符合條件的結果</target>
+      </trans-unit>
       <trans-unit id="UnifiedGlamourManager-NonSetOnly" xml:space="preserve">
         <source>仅非套装相关</source>
         <target>僅非套裝相關</target>
       </trans-unit>
-      <trans-unit id="UnifiedGlamourManager-NoSearchResult" xml:space="preserve">
-        <source>没有符合条件的结果</source>
-        <target>沒有符合條件的結果</target>
+      <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
+        <source>保存了投影模板到投影模板管理器中。</source>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
