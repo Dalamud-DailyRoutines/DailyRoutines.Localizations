@@ -9383,6 +9383,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedWeeklyBingoTitle" xml:space="preserve">
         <source>“天书奇谈”界面优化</source>
+        <target>Better Wondrous Tails</target>
       </trans-unit>
       <trans-unit id="OptimizedXBMMonsterNotebookDescription" xml:space="preserve">
         <source>优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。</source>
