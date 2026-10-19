@@ -1,7 +1,11 @@
 # Daily Routines 本地化文本存储仓库
 
-**源语言文件**：`ChineseSimplified.json` 
-**译文**：其他以 `.json` 结尾的语言文件
+**源语言文件**：`ChineseSimplified.xlf`
+**译文**：其他以 `.xlf` 结尾的语言文件
+
+使用 XLIFF 1.2，Transifex 文件格式为 `XLIFF_ID_BASED`。每个 `trans-unit` 的 `id` 对应程序使用的字符串键，修改原文时保留原有 `id`。中文原文写在 `source` 中；译文文件通过 `target-language` 指定语言，并将译文写在 `target` 中。
+
+请保留 `xml:space="preserve"`，按 XML 规则转义 `&`、`<` 等字符。ICU 表达式直接写入文本，译文可以按对应语言的需要使用复数、选择和嵌套表达式。
 
 ## 提交原文或译文
 
