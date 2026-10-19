@@ -10620,7 +10620,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
-        <target>Double click to edit the name and detail.</target>
+        <target>Double Click To Edit Name / Comment</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-MissingItemsText" xml:space="preserve">
         <source>缺少以下装备</source>
@@ -10636,7 +10636,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-PresetDetail" xml:space="preserve">
         <source>模板详情</source>
-        <target>Plate Detail</target>
+        <target>Plate Details</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-SaveGlamourPreset" xml:space="preserve">
         <source>保存投影模板</source>
@@ -10652,7 +10652,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-RightClickFavoriteHint" xml:space="preserve">
         <source>右键添加/取消收藏</source>
-        <target>Right click to add/remove from favourites</target>
+        <target>Right Click To Favourite / Unfavourite</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-SetRelatedOnly" xml:space="preserve">
         <source>仅套装相关</source>
@@ -10660,7 +10660,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
         <source>新增模块界面, 编辑投影模板时, 可显示投影台与收藏柜中的全部装备; 提供快捷筛选和收藏功能; 支持投影模板的保存、导入与导出, 帮助高效管理装备投影</source>
-        <target>Introduce a new interface for better glamour management, which shows all the items in Glamour Dresser and Armoire while editing glamour plates, provides filter and favourite features, and supports plate import &amp; export.</target>
+        <target>Provide a dedicated interface for better glamour management, which shows all the gear in Glamour Dresser and Armoire while editing glamour plates, accompanied with filters, favourites, and import &amp; export of glamour plates.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
         <source>统一投影管理器</source>
