@@ -9329,8 +9329,8 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       <trans-unit id="OptimizedTargetInfo-DisplayStringFormatHelp" xml:space="preserve">
         <source>{0} - 最大体力值
 {1} - 当前体力值</source>
-        <target>{0} - Max Health
-{1} - Current Health</target>
+        <target>{0} - Max HP
+{1} - Current HP</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-FullNumber" xml:space="preserve">
         <source>完整数字表达</source>
@@ -9338,7 +9338,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-FullNumberSeparators" xml:space="preserve">
         <source>完整数字表达 (带分隔符)</source>
-        <target>Complete Format (with separators)</target>
+        <target>Complete Format (separators)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-HideAutoAttackIcon" xml:space="preserve">
         <source>隐藏自动攻击图标</source>
@@ -9346,7 +9346,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-NumberPreview" xml:space="preserve">
         <source>预览用数字</source>
-        <target>Number for previews</target>
+        <target>Number Preview</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-OnePrecision" xml:space="preserve">
         <source>英文数字表达 (保留一位)</source>
@@ -9358,7 +9358,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-TwoPrecision" xml:space="preserve">
         <source>英文数字表达 (保留两位)</source>
-        <target>English Format (2 decimal)</target>
+        <target>English Format (2 decimals)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-UnknownDisplayFormat" xml:space="preserve">
         <source>未知显示格式</source>
@@ -9366,11 +9366,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ZeroAlphaHelp" xml:space="preserve">
         <source>若设定颜色的不透明度 (α 值) 为 0, 则为不使用自定义颜色</source>
-        <target>If the opacity (alpha) of the colour is 0, the custom colour will be disabled.</target>
+        <target>Set the opacity (alpha) to 0 to disable the custom colour.</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ZeroPrecision" xml:space="preserve">
         <source>英文数字表达 (保留整数)</source>
-        <target>English Format (whole)</target>
+        <target>English Format (round-down)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
         <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
@@ -9678,7 +9678,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
-        <target>Please enter the content of the message.</target>
+        <target>Please enter the message content.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
