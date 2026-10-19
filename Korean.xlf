@@ -9381,8 +9381,7 @@ UI: {0}
         <target>SI 접두어 (정수만)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
-        <source>对目标情报与焦点目标情报界面进行优化, 显示目标体力值与目标技能咏唱剩余时间, 放大自身状态, 并支持快捷取消焦点目标</source>
-        <target>대상 및 주시 대상 정보 UI를 개선합니다. 대상의 HP와 기술 시전 남은 시간을 표시하고, 자신의 상태(효과) 아이콘을 확대하며, 주시 대상 빠른 취소 기능을 지원합니다.</target>
+        <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoTitle" xml:space="preserve">
         <source>目标情报界面优化</source>
