@@ -3,9 +3,8 @@
 **源语言文件**：`ChineseSimplified.json` 
 **译文**：其他以 `.json` 结尾的语言文件
 
-## 提交原文/译文
+## 提交原文或译文
 
-- 修改对应的 `.json` 文件，提交 **Pull Request**。合并后自动工作流会将原文与译文上传至 [Transifex](https://explore.transifex.com/dailyroutines/dailyroutines/)。
 - 在 [Transifex](https://explore.transifex.com/dailyroutines/dailyroutines/) 上直接提交对应语言的译文。
 - 提交新字符串时，请勿同时提交任何翻译文本，仅允许修改并提交**简体中文**字符串。
 
