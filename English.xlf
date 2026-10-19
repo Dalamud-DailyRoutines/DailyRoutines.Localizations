@@ -9380,6 +9380,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedWeeklyBingoDescription" xml:space="preserve">
         <source>优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。</source>
+        <target>Provide a better Wondrous Tails interface, allowing to redirect to Duty Finder or the list of applicable duties by clicking. The feature comes with a probability prediction in Reward List.</target>
       </trans-unit>
       <trans-unit id="OptimizedWeeklyBingoTitle" xml:space="preserve">
         <source>“天书奇谈”界面优化</source>
@@ -10597,6 +10598,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
         <source>保存了投影模板到投影模板管理器中。</source>
+        <target>The plate has been saved to Unified Glamour Manager.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
