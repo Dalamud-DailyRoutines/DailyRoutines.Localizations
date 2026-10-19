@@ -10572,15 +10572,15 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-ClearFavoriteConfirm" xml:space="preserve">
         <source>确定要取消当前筛选结果中的收藏吗</source>
-        <target>Confirm removing favourites in the current filtered results?</target>
+        <target>Unfavourite all the favourites in the current filtered results?</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-ClearFavorites" xml:space="preserve">
         <source>取消全部收藏</source>
-        <target>Remove All Favourites</target>
+        <target>Unfavourite All</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-CommandHelp" xml:space="preserve">
         <source>打开统一投影管理器界面</source>
-        <target>Access Unified Glamour Manager</target>
+        <target>to access Unified Glamour Manager.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-CurrentTargetSlotOnly" xml:space="preserve">
         <source>仅显示当前投影部位可用装备</source>
@@ -10596,7 +10596,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-GlamourPresetManagerTitle" xml:space="preserve">
         <source>投影模板管理器</source>
-        <target>Glamour Plate Management</target>
+        <target>Glamour Plate Manager</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-GlamourSource" xml:space="preserve">
         <source>投影来源</source>
@@ -10608,7 +10608,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-NoSearchResult" xml:space="preserve">
         <source>没有符合条件的结果</source>
-        <target>No matches.</target>
+        <target>No matches found.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-NonSetOnly" xml:space="preserve">
         <source>仅非套装相关</source>
@@ -10620,7 +10620,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
-        <target>Double Click To Edit Name / Comment</target>
+        <target>Double click to edit the name or comment.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-MissingItemsText" xml:space="preserve">
         <source>缺少以下装备</source>
@@ -10652,7 +10652,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-RightClickFavoriteHint" xml:space="preserve">
         <source>右键添加/取消收藏</source>
-        <target>Right Click To Favourite / Unfavourite</target>
+        <target>Right click to favourite or unfavourite.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-SetRelatedOnly" xml:space="preserve">
         <source>仅套装相关</source>
