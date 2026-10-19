@@ -7059,8 +7059,7 @@ XivGear (xivgear.app)</target>
         <target>退隊並參加</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
-        <source>为招募详情界面新增按钮, 点击以一键退出当前队伍并加入目标招募</source>
-        <target>為招募詳情界面新增按鈕, 點擊以一鍵退出當前隊伍並加入目標招募</target>
+        <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -9671,9 +9670,21 @@ XivGear (xivgear.app)</target>
         <source>宏呈现方式</source>
         <target>宏呈現方式</target>
       </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
+        <source>请编辑消息的内容。</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
+        <source>请输入要添加的消息的内容。</source>
+      </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
         <target>訊息</target>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
+        <source>水平偏移</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-Y" xml:space="preserve">
+        <source>垂直偏移</source>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
@@ -10052,8 +10063,7 @@ XivGear (xivgear.app)</target>
         <target>选择目标</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
-        <source>使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑</source>
-        <target>使招募詳情的留言文本可以被自由選中, 以快捷複製或臨時編輯</target>
+        <source>使“招募详情”界面内的留言文本可被自由选中，以便复制或临时编辑。</source>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
