@@ -9374,8 +9374,7 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <target>Format anglais (entier)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
-        <source>对目标情报与焦点目标情报界面进行优化, 显示目标体力值与目标技能咏唱剩余时间, 放大自身状态, 并支持快捷取消焦点目标</source>
-        <target>Optimise les interfaces d’informations de la cible et de la cible focus : affiche les PV de la cible et le temps d’incantation restant de ses actions, agrandit vos propres effets et permet d’annuler rapidement la cible focus.</target>
+        <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoTitle" xml:space="preserve">
         <source>目标情报界面优化</source>
