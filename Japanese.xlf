@@ -4777,9 +4777,11 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfit-TryOnAll" xml:space="preserve">
         <source>试穿全部装备</source>
+        <target>すべての装備を試着</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitDescription" xml:space="preserve">
         <source>为“玩家检视”界面内装备新增右键菜单项，用以一键试穿当前检视玩家全套装备外观。</source>
+        <target>他プレイヤーの「調べる」画面の右クリックメニューに項目を追加し、現在確認しているプレイヤーの全装備の外見を一括で試着できるようにしました。</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitTitle" xml:space="preserve">
         <source>自动试穿全套外观</source>
@@ -10615,6 +10617,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
         <source>保存了投影模板到投影模板管理器中。</source>
+        <target>ミラージュプレートにコーデを保存しました。</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
