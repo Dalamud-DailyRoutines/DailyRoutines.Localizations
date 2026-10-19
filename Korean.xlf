@@ -4775,12 +4775,10 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
         <target>자동 부활 업적작</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfit-TryOnAll" xml:space="preserve">
-        <source>试穿全部</source>
-        <target>전체 미리보기</target>
+        <source>试穿全部装备</source>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitDescription" xml:space="preserve">
-        <source>为玩家检视界面新增按钮, 以一键试穿当前检视玩家全套实际外观装备</source>
-        <target>캐릭터 살펴보기 창에 버튼을 추가해, 현재 대상이 착용 중인 모든 외형 장비를 버튼 한 번으로 미리 볼 수 있게 합니다.</target>
+        <source>为“玩家检视”界面内装备新增右键菜单项，用以一键试穿当前检视玩家全套装备外观。</source>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitTitle" xml:space="preserve">
         <source>自动试穿全套外观</source>
