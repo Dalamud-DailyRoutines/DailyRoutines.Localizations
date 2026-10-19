@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
     <body>
       <trans-unit id="Accept" xml:space="preserve">
@@ -42,10 +41,10 @@
         <source>不透明度</source>
       </trans-unit>
       <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 当 "{1}" 出现时, 自动重复对其使用任务指令 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 后, 当 &quot;{1}&quot; 出现时, 自动重复对其使用任务指令 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
-        <source>"欧米茄时空狭缝 阿尔法幻境3" 助手</source>
+        <source>&quot;欧米茄时空狭缝 阿尔法幻境3&quot; 助手</source>
       </trans-unit>
       <trans-unit id="AlwaysPathfinding" xml:space="preserve">
         <source>始终寻路</source>
@@ -200,7 +199,7 @@
         <source>对{0}使用了以太复制。</source>
       </trans-unit>
       <trans-unit id="AutoAethericMimicryDescription" xml:space="preserve">
-        <source>在未选中任一有效目标使用 "以太复制" 时, 自动打开快捷操作界面以一键吸取周围指定职能的玩家</source>
+        <source>在未选中任一有效目标使用 &quot;以太复制&quot; 时, 自动打开快捷操作界面以一键吸取周围指定职能的玩家</source>
       </trans-unit>
       <trans-unit id="AutoAethericMimicryTitle" xml:space="preserve">
         <source>自动以太复制</source>
@@ -687,7 +686,7 @@
         <source>在副本内仍自动禁止播放</source>
       </trans-unit>
       <trans-unit id="AutoDisableBattleBGM-EnableInDutyHelp" xml:space="preserve">
-        <source>大部分副本内的所谓 "战斗背景音乐" 均为副本设计时根据玩家实时进度手动制作的切换逻辑, 不属于本模块控制的 "自动切换的战斗背景音乐" 范畴</source>
+        <source>大部分副本内的所谓 &quot;战斗背景音乐&quot; 均为副本设计时根据玩家实时进度手动制作的切换逻辑, 不属于本模块控制的 &quot;自动切换的战斗背景音乐&quot; 范畴</source>
       </trans-unit>
       <trans-unit id="AutoDisableBattleBGMDescription" xml:space="preserve">
         <source>自动阻止进战时场景战斗背景音乐的播放, 而维持原有场景背景音乐不变</source>
@@ -1121,19 +1120,19 @@
         <source>前置插件/模块配置</source>
       </trans-unit>
       <trans-unit id="AutoFate-PluginPrerequisite-Config-AEAssist-Help" xml:space="preserve">
-        <source>启用 "目标选择器", 设置为 "FATE 模式", 使用非高难的 ACR</source>
+        <source>启用 &quot;目标选择器&quot;, 设置为 &quot;FATE 模式&quot;, 使用非高难的 ACR</source>
       </trans-unit>
       <trans-unit id="AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help" xml:space="preserve">
-        <source>启用 "自动切换陆行鸟战术", 请非防护职业设定为 "治疗战术"</source>
+        <source>启用 &quot;自动切换陆行鸟战术&quot;, 请非防护职业设定为 &quot;治疗战术&quot;</source>
       </trans-unit>
       <trans-unit id="AutoFate-PluginPrerequisite-Config-BossMod-Help" xml:space="preserve">
-        <source>启用 AI 功能, 打开 "战斗中跟随" 与 "跟随目标", 将 "跟随队伍成员" 设置为自身, "到目标最大距离" 设置为 10 (远程职业) 或 2 (近战职业), 不要设置 "自动循环预设"</source>
+        <source>启用 AI 功能, 打开 &quot;战斗中跟随&quot; 与 &quot;跟随目标&quot;, 将 &quot;跟随队伍成员&quot; 设置为自身, &quot;到目标最大距离&quot; 设置为 10 (远程职业) 或 2 (近战职业), 不要设置 &quot;自动循环预设&quot;</source>
       </trans-unit>
       <trans-unit id="AutoFate-PluginPrerequisite-Config-RotationSolver-Help" xml:space="preserve">
-        <source>将目标选择设置为 "手动"</source>
+        <source>将目标选择设置为 &quot;手动&quot;</source>
       </trans-unit>
       <trans-unit id="AutoFate-PluginPrerequisite-Config-WrathCombo-Help" xml:space="preserve">
-        <source>启用自动循环功能, 在对应职业页面将非高难的 "多目标" 循环加入自动循环, 将目标选择模式设置为 "手动"</source>
+        <source>启用自动循环功能, 在对应职业页面将非高难的 &quot;多目标&quot; 循环加入自动循环, 将目标选择模式设置为 &quot;手动&quot;</source>
       </trans-unit>
       <trans-unit id="AutoFate-Rest" xml:space="preserve">
         <source>定期休息</source>
@@ -1239,7 +1238,7 @@
         <source>自动丢弃配置组名称</source>
       </trans-unit>
       <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
-        <source>如果你希望在检测材料后自动清理背包, 请前往 "自动丢弃物品" 模块配置完成后, 将相关配置组名称填入此处, 留空以禁用</source>
+        <source>如果你希望在检测材料后自动清理背包, 请前往 &quot;自动丢弃物品&quot; 模块配置完成后, 将相关配置组名称填入此处, 留空以禁用</source>
       </trans-unit>
       <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
         <source>以太钻孔机目标黑名单</source>
@@ -1290,7 +1289,7 @@
         <source>行为:
 	- 每次等级变更时自动装备最强装备
 	- 仅采集第四期非最高级、特供材料
-	- "待采集物品名称" 设置不生效
+	- &quot;待采集物品名称&quot; 设置不生效
 	- 不会尝试采集任何梦幻材料
 	- 在每达到一个设定的等级阈值后, 会自动切换至另一个未达到该阈值的职业
 	- 在两个职业均达到设定的最高等级阈值后, 自动停止采集并退出副本
@@ -1392,13 +1391,13 @@
         <source>自动屏蔽非指令聊天信息发送</source>
       </trans-unit>
       <trans-unit id="AutoGuardFishingStateDescription" xml:space="preserve">
-        <source>钓鱼期间, 除非手动使用技能 "{0}" 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作</source>
+        <source>钓鱼期间, 除非手动使用技能 &quot;{0}&quot; 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作</source>
       </trans-unit>
       <trans-unit id="AutoGuardFishingStateTitle" xml:space="preserve">
         <source>自动守卫钓鱼状态</source>
       </trans-unit>
       <trans-unit id="AutoHandleTeleportStuckDescription" xml:space="preserve">
-        <source>当遭遇 "{0}" 的特殊传送状态时, 自动执行上一次传送以脱离</source>
+        <source>当遭遇 &quot;{0}&quot; 的特殊传送状态时, 自动执行上一次传送以脱离</source>
       </trans-unit>
       <trans-unit id="AutoHandleTeleportStuckTitle" xml:space="preserve">
         <source>自动处理无法传送状态</source>
@@ -1479,7 +1478,7 @@
         <source>自动高亮地图标点</source>
       </trans-unit>
       <trans-unit id="AutoHighlightSprintDescription" xml:space="preserve">
-        <source>进入副本后, 若当前未在战斗状态, 则自动高亮 "{0}" 技能</source>
+        <source>进入副本后, 若当前未在战斗状态, 则自动高亮 &quot;{0}&quot; 技能</source>
       </trans-unit>
       <trans-unit id="AutoHighlightSprintTitle" xml:space="preserve">
         <source>自动高亮冲刺</source>
@@ -1633,7 +1632,7 @@
         <source>不自动退出现版本高难副本</source>
       </trans-unit>
       <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
-        <source>即在当前版本会被"队员招募"界面分类为"高难度任务"的所有副本</source>
+        <source>即在当前版本会被&quot;队员招募&quot;界面分类为&quot;高难度任务&quot;的所有副本</source>
       </trans-unit>
       <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
         <source>已设定本次副本任务完成时立刻自动退出。</source>
@@ -1843,7 +1842,7 @@
       <trans-unit id="AutoMarksFinder-RelayArgsHelp" xml:space="preserve">
         <source>{0} - 恶名精英所在坐标
 {1} - 恶名精英名称
-{2} - 恶名精英所在分线 (如 "1 线") (若不存在分线则此项为空)</source>
+{2} - 恶名精英所在分线 (如 &quot;1 线&quot;) (若不存在分线则此项为空)</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
         <source>播报消息类型</source>
@@ -1985,10 +1984,10 @@
       </trans-unit>
       <trans-unit id="AutoMateriaAttach-WebsiteHelp" xml:space="preserve">
         <source>本模块仅支持 最终幻想14配装器 (asvel.github.io/ffxiv-gearing) 网站的配装计划解析, 但是该网站同时也支持导入其他一些网站配装计划。
-如果你的配装计划恰巧来源于下列支持网站之一, 可以点击网站右上角的 "导入" 按钮, 并按照相关指引操作。
+如果你的配装计划恰巧来源于下列支持网站之一, 可以点击网站右上角的 &quot;导入&quot; 按钮, 并按照相关指引操作。
 
 支持网站:
-	Ariyala's Final Fantasy XIV Toolkit (ffxiv.ariyala.com)
+	Ariyala&apos;s Final Fantasy XIV Toolkit (ffxiv.ariyala.com)
 	FF14俺tools：装備シミュレータ (ffxiv.es.exdreams.net)
 	Etro (etro.gg)
 	FFXIV Teamcraft (ffxivteamcraft.com)
@@ -2503,10 +2502,10 @@
         <source>已阻止{0}释放</source>
       </trans-unit>
       <trans-unit id="AutoPreventFireBlizzardDescription" xml:space="preserve">
-        <source>若当前职业为 "{0}", 则自动禁止在 "{1}" 状态下使用技能 "{2}" 与禁止在 "{3}" 状态下使用技能 "{4}", 避免意外退出星极火与灵极冰状态</source>
+        <source>若当前职业为 &quot;{0}&quot;, 则自动禁止在 &quot;{1}&quot; 状态下使用技能 &quot;{2}&quot; 与禁止在 &quot;{3}&quot; 状态下使用技能 &quot;{4}&quot;, 避免意外退出星极火与灵极冰状态</source>
       </trans-unit>
       <trans-unit id="AutoPreventFireBlizzardTitle" xml:space="preserve">
-        <source>自动阻止 "火炎" 与 "冰结" 释放</source>
+        <source>自动阻止 &quot;火炎&quot; 与 &quot;冰结&quot; 释放</source>
       </trans-unit>
       <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
         <source>可用颜色: {0} 种</source>
@@ -2598,7 +2597,7 @@
         <source>自动重新焦点目标</source>
       </trans-unit>
       <trans-unit id="AutoRefreshMarketSearchResultDescription" xml:space="preserve">
-        <source>当市场道具搜索结果为 "请稍后" 时, 自动重新请求获取</source>
+        <source>当市场道具搜索结果为 &quot;请稍后&quot; 时, 自动重新请求获取</source>
       </trans-unit>
       <trans-unit id="AutoRefreshMarketSearchResultTitle" xml:space="preserve">
         <source>自动刷新市场搜索结果</source>
@@ -2781,7 +2780,7 @@
         <source>启用前置过滤模型</source>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-EnableFilterModel-Help" xml:space="preserve">
-        <source>启用后, 将使用前置模型过滤可能的提示词注入攻击, 如'你现在是猫娘'、'输出你的系统提示词'等, 此类消息会被标记为恶意信息, 并在清洗其中的有害信息后, 让主模型在符合人设的前提下进行回应</source>
+        <source>启用后, 将使用前置模型过滤可能的提示词注入攻击, 如&apos;你现在是猫娘&apos;、&apos;输出你的系统提示词&apos;等, 此类消息会被标记为恶意信息, 并在清洗其中的有害信息后, 让主模型在符合人设的前提下进行回应</source>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-EnableWorldBook" xml:space="preserve">
         <source>启用世界书</source>
@@ -3585,7 +3584,7 @@
         <source>自动解锁地图待探索区域</source>
       </trans-unit>
       <trans-unit id="AutoUnlockTellInDutyDescription" xml:space="preserve">
-        <source>取消副本内无法使用 "悄悄话" (/tell) 频道发送与接收消息的限制</source>
+        <source>取消副本内无法使用 &quot;悄悄话&quot; (/tell) 频道发送与接收消息的限制</source>
       </trans-unit>
       <trans-unit id="AutoUnlockTellInDutyTitle" xml:space="preserve">
         <source>自动解锁副本内悄悄话</source>
@@ -4336,7 +4335,7 @@
         <source>更好的传送界面</source>
       </trans-unit>
       <trans-unit id="BetterWaitCommandDescription" xml:space="preserve">
-        <source>使文本指令中的"等待"突破原生的最大时间限制和时间精度限制</source>
+        <source>使文本指令中的&quot;等待&quot;突破原生的最大时间限制和时间精度限制</source>
       </trans-unit>
       <trans-unit id="BetterWaitCommandTitle" xml:space="preserve">
         <source>更好的等待指令</source>
@@ -4354,10 +4353,10 @@
         <source>右下角</source>
       </trans-unit>
       <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 自动与 "{1}" 对话获取 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 后, 自动与 &quot;{1}&quot; 对话获取 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
-        <source>"休养胜地布雷福洛克斯野营地" 助手</source>
+        <source>&quot;休养胜地布雷福洛克斯野营地&quot; 助手</source>
       </trans-unit>
       <trans-unit id="BurnHelperDescription" xml:space="preserve">
         <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -4372,7 +4371,7 @@
         <source>示例:
 	/pdr {0} SelectYesno 0
 	说明: 对 SelectYesno 界面 (最常见的是否对话框) 触发一次参数为 0 (int 类型) 的回调
-	效果: 等同于点击 "是" 按钮 (参数改为 1 则等同于 "否" 按钮)
+	效果: 等同于点击 &quot;是&quot; 按钮 (参数改为 1 则等同于 &quot;否&quot; 按钮)
 
 注:
 	- 界面内部名称可通过 /xldata AddonInspector 界面查询
@@ -4624,10 +4623,10 @@
         <source>创建</source>
       </trans-unit>
       <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 高亮显示 "{2}", 并标注其爆炸范围, 若当前未骑乘"{1}", 则禁止选中 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 后, 高亮显示 &quot;{2}&quot;, 并标注其爆炸范围, 若当前未骑乘&quot;{1}&quot;, 则禁止选中 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
-        <source>"亚历山大机神城 启动之章2" 助手</source>
+        <source>&quot;亚历山大机神城 启动之章2&quot; 助手</source>
       </trans-unit>
       <trans-unit id="Current" xml:space="preserve">
         <source>当前</source>
@@ -5797,10 +5796,10 @@
         <source>需要开启</source>
       </trans-unit>
       <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 自动标记地面所有的 "{1}" 与需要开启的 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 后, 自动标记地面所有的 &quot;{1}&quot; 与需要开启的 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
-        <source>"财宝传说破舰岛" 助手</source>
+        <source>&quot;财宝传说破舰岛&quot; 助手</source>
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
         <source>唯一标识符</source>
@@ -6010,7 +6009,7 @@
         <source>如果不想指定, 请留空
 
 如果你为国际服玩家, 请输入半角空格分隔的两段式名字
-如: "Naoki Yoshida"
+如: &quot;Naoki Yoshida&quot;
 
 修改本项后需要重启一次模块以生效</source>
       </trans-unit>
@@ -6145,7 +6144,7 @@
         <source>金碟</source>
       </trans-unit>
       <trans-unit id="ModuleCategory-GoldSaucer-Description" xml:space="preserve">
-        <source>与"金碟游乐场"相关的模块</source>
+        <source>与&quot;金碟游乐场&quot;相关的模块</source>
       </trans-unit>
       <trans-unit id="ModuleCategory-Interface" xml:space="preserve">
         <source>界面</source>
@@ -6163,7 +6162,7 @@
         <source>招募</source>
       </trans-unit>
       <trans-unit id="ModuleCategory-Recruitment-Description" xml:space="preserve">
-        <source>与"队员招募"、"任务搜索器"等招募组队功能相关的模块</source>
+        <source>与&quot;队员招募&quot;、&quot;任务搜索器&quot;等招募组队功能相关的模块</source>
       </trans-unit>
       <trans-unit id="ModuleCategory-Script" xml:space="preserve">
         <source>脚本</source>
@@ -6696,25 +6695,25 @@
         <source>覆盖预设前需要二次确认</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-DeleteError" xml:space="preserve">
-        <source>尝试删除宏指令预设 "{0}" 时发生错误</source>
+        <source>尝试删除宏指令预设 &quot;{0}&quot; 时发生错误</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
-        <source>已删除宏指令预设 "{0}"</source>
+        <source>已删除宏指令预设 &quot;{0}&quot;</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-LoadError" xml:space="preserve">
-        <source>尝试读取宏指令预设 "{0}" 时发生错误</source>
+        <source>尝试读取宏指令预设 &quot;{0}&quot; 时发生错误</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
-        <source>已读取并加载宏指令预设 "{0}"</source>
+        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Overwritten" xml:space="preserve">
-        <source>已使用当前全部宏指令覆盖 "{0}" 预设</source>
+        <source>已使用当前全部宏指令覆盖 &quot;{0}&quot; 预设</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError" xml:space="preserve">
-        <source>尝试保存宏指令预设 "{0}" 时发生错误</source>
+        <source>尝试保存宏指令预设 &quot;{0}&quot; 时发生错误</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
-        <source>已保存当前全部宏指令为 "{0}" 预设</source>
+        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>对用户宏指令界面进行优化, 使其支持保存全部宏指令为多个预设, 以便随时切换使用</source>
@@ -7105,10 +7104,10 @@
         <source>导航寻路</source>
       </trans-unit>
       <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 自动标记带有 "{1}" 状态的小队成员, 以快速击破正确的 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以快速击破正确的 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
-        <source>"须佐之男歼灭战" 助手</source>
+        <source>&quot;须佐之男歼灭战&quot; 助手</source>
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditor-AddonTitle" xml:space="preserve">
         <source>动作调整</source>
@@ -7129,10 +7128,10 @@
         <source>坐标</source>
       </trans-unit>
       <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 并骑乘上 "{1}" 后, 自动朝着最佳范围攻击目标所在处使用坐骑技能 "{2}"</source>
+        <source>进入副本 &quot;{0}&quot; 并骑乘上 &quot;{1}&quot; 后, 自动朝着最佳范围攻击目标所在处使用坐骑技能 &quot;{2}&quot;</source>
       </trans-unit>
       <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
-        <source>"最终决战天幕魔导城" 助手</source>
+        <source>&quot;最终决战天幕魔导城&quot; 助手</source>
       </trans-unit>
       <trans-unit id="PreCondition" xml:space="preserve">
         <source>先决条件</source>
@@ -7421,10 +7420,10 @@
         <source>正确的珊瑚机关: {0}</source>
       </trans-unit>
       <trans-unit id="SastashaHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 自动提示并高亮显示正确的珊瑚机关</source>
+        <source>进入副本 &quot;{0}&quot; 后, 自动提示并高亮显示正确的珊瑚机关</source>
       </trans-unit>
       <trans-unit id="SastashaHelperTitle" xml:space="preserve">
-        <source>"天然要害沙斯塔夏溶洞" 助手</source>
+        <source>&quot;天然要害沙斯塔夏溶洞&quot; 助手</source>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>保存</source>
@@ -7753,10 +7752,10 @@
         <source>结束</source>
       </trans-unit>
       <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
-        <source>进入副本 "{0}" 后, 自动标记带有 "{1}" 状态的小队成员, 以帮助快速解除</source>
+        <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以帮助快速解除</source>
       </trans-unit>
       <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
-        <source>"拉姆歼灭战" 助手</source>
+        <source>&quot;拉姆歼灭战&quot; 助手</source>
       </trans-unit>
       <trans-unit id="Style" xml:space="preserve">
         <source>样式</source>
