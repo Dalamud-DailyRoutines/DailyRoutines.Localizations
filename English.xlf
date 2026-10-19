@@ -7062,7 +7062,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
-        <target>Leave Recruitment Then Join Another</target>
+        <target>Leave Recruitment &amp; Join Another</target>
       </trans-unit>
       <trans-unit id="FastMinimizeWindow-AlwaysAddTrayIcon" xml:space="preserve">
         <source>始终创建托盘图标</source>
@@ -9373,6 +9373,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
         <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
+        <target>Provide a better Target Bar &amp; Focus Target Bar, including accurate target health, cast time, enlarged status that was applied by self, and shortcuts related to focus.</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoTitle" xml:space="preserve">
         <source>目标情报界面优化</source>
@@ -9672,9 +9673,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
         <source>请编辑消息的内容。</source>
+        <target>Please edit the message.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
+        <target>Please enter the content of the message.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
@@ -9682,9 +9685,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
         <source>水平偏移</source>
+        <target>Horizontal Offset</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-Y" xml:space="preserve">
         <source>垂直偏移</source>
+        <target>Vertical Offset</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
@@ -10064,6 +10069,7 @@ Parameter(s): {2}</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
         <source>使“招募详情”界面内的留言文本可被自由选中，以便复制或临时编辑。</source>
+        <target>Make the texts in Recruitment Criteria selectable for copying or editing purposes.</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
