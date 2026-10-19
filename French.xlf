@@ -481,13 +481,13 @@ Exemple : Naoki YoshidaChocobo</target>
         <source>自动取消贡献之星状态</source>
         <target>Annulation automatique de l’effet Étoile contributrice</target>
       </trans-unit>
-      <trans-unit id="AutoCastMovementLock-EnabledJobs" xml:space="preserve">
-        <source>要启用的职业</source>
-        <target>Jobs à activer</target>
-      </trans-unit>
       <trans-unit id="AutoCastMovementLock-EnablePVP" xml:space="preserve">
         <source>在玩家对战中启用</source>
         <target>Activer en JcJ</target>
+      </trans-unit>
+      <trans-unit id="AutoCastMovementLock-EnabledJobs" xml:space="preserve">
+        <source>要启用的职业</source>
+        <target>Jobs à activer</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-InCombatOnlyMoveWhenSlideCast" xml:space="preserve">
         <source>在战斗中时仅可在滑步窗口内移动</source>
@@ -601,13 +601,13 @@ Exemple : Naoki YoshidaChocobo</target>
         <source>职业限制</source>
         <target>Restrictions de job</target>
       </trans-unit>
-      <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
-        <source>自动食用了 {0}</source>
-        <target>{0} consommé automatiquement</target>
-      </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-NoZoneSelectHelp" xml:space="preserve">
         <source>如未选择区域, 则代表所有区域都生效</source>
         <target>Si aucune zone n’est sélectionnée, toutes les zones seront valides</target>
+      </trans-unit>
+      <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
+        <source>自动食用了 {0}</source>
+        <target>{0} consommé automatiquement</target>
       </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-RefreshThreshold" xml:space="preserve">
         <source>刷新阈值 (秒)</source>
@@ -1043,6 +1043,22 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
         <source>自动显示 ID 信息</source>
         <target>Affichage automatique des ID</target>
       </trans-unit>
+      <trans-unit id="AutoDisplayMSQProgressDescription" xml:space="preserve">
+        <source>若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比</source>
+        <target>S’il reste des quêtes de l’épopée à terminer, affiche le nombre restant ainsi que le pourcentage de progression dans l’interface du guide de scénario principal.</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMSQProgressTitle" xml:space="preserve">
+        <source>自动显示主线任务完成进度</source>
+        <target>Affichage automatique de la progression de l’épopée</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMTQObjectDescription" xml:space="preserve">
+        <source>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</source>
+        <target>Marque automatiquement autour de vous les objets de la quête en cours, pour faciliter leur recherche.</target>
+      </trans-unit>
+      <trans-unit id="AutoDisplayMTQObjectTitle" xml:space="preserve">
+        <source>自动显示任务对象</source>
+        <target>Affichage automatique des objets de quête</target>
+      </trans-unit>
       <trans-unit id="AutoDisplayMarkerInPartyList-HidePartyListIndexNumber" xml:space="preserve">
         <source>隐藏小队列表的队员序号</source>
         <target>Masquer le numéro d’index dans la liste d’équipe</target>
@@ -1062,22 +1078,6 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
       <trans-unit id="AutoDisplayMitigationInfoTitle" xml:space="preserve">
         <source>自动显示减伤信息</source>
         <target>Affichage automatique des détails de mitigation</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMSQProgressDescription" xml:space="preserve">
-        <source>若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比</source>
-        <target>S’il reste des quêtes de l’épopée à terminer, affiche le nombre restant ainsi que le pourcentage de progression dans l’interface du guide de scénario principal.</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMSQProgressTitle" xml:space="preserve">
-        <source>自动显示主线任务完成进度</source>
-        <target>Affichage automatique de la progression de l’épopée</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMTQObjectDescription" xml:space="preserve">
-        <source>自动在周围标记当前正在进行的任务中的任务对象，以方便找寻。</source>
-        <target>Marque automatiquement autour de vous les objets de la quête en cours, pour faciliter leur recherche.</target>
-      </trans-unit>
-      <trans-unit id="AutoDisplayMTQObjectTitle" xml:space="preserve">
-        <source>自动显示任务对象</source>
-        <target>Affichage automatique des objets de quête</target>
       </trans-unit>
       <trans-unit id="AutoDisplayNetworkLatency-DefaultFormat" xml:space="preserve">
         <source>{0} 毫秒</source>
@@ -1294,6 +1294,14 @@ Elles sont exécutées sous forme de macro, une commande par ligne, 15 lignes ma
       <trans-unit id="AutoExpertDeliveryTitle" xml:space="preserve">
         <source>自动筹备稀有品</source>
         <target>Remise experte automatique</target>
+      </trans-unit>
+      <trans-unit id="AutoFCWSDeliverDescription" xml:space="preserve">
+        <source>打开提供素材界面, 并点击开始后, 自动交纳当前所有可用素材</source>
+        <target>Ouvre l’interface de livraison de matériaux et, après clic sur « Démarrer », livre automatiquement tous les matériaux disponibles.</target>
+      </trans-unit>
+      <trans-unit id="AutoFCWSDeliverTitle" xml:space="preserve">
+        <source>自动部队合建交纳素材</source>
+        <target>Livraison automatique d’objets d’atelier de CL</target>
       </trans-unit>
       <trans-unit id="AutoFaceCameraDirection-CameraRotation" xml:space="preserve">
         <source>镜头面向</source>
@@ -1604,14 +1612,6 @@ Cependant, si vous descendez de monture dans la zone de l’ALÉA, la synchronis
       <trans-unit id="AutoFateTitle" xml:space="preserve">
         <source>自动临危受命</source>
         <target>ALÉAs automatiques</target>
-      </trans-unit>
-      <trans-unit id="AutoFCWSDeliverDescription" xml:space="preserve">
-        <source>打开提供素材界面, 并点击开始后, 自动交纳当前所有可用素材</source>
-        <target>Ouvre l’interface de livraison de matériaux et, après clic sur « Démarrer », livre automatiquement tous les matériaux disponibles.</target>
-      </trans-unit>
-      <trans-unit id="AutoFCWSDeliverTitle" xml:space="preserve">
-        <source>自动部队合建交纳素材</source>
-        <target>Livraison automatique d’objets d’atelier de CL</target>
       </trans-unit>
       <trans-unit id="AutoFilterLogMessage-MessageToFilter" xml:space="preserve">
         <source>待过滤消息</source>
@@ -2303,6 +2303,44 @@ Si cela reste bloqué trop longtemps, veuillez vérifier votre réseau local.</t
         <source>自动醒梦</source>
         <target>Rêve lucide automatique</target>
       </trans-unit>
+      <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
+        <source>因物体渲染距离限制, 初次使用请先在此处开启数据采集模式, 
+等待模块完成自动数据采集, 后续使用无需再次采集数据</source>
+        <target>En raison de la limite de distance d’affichage, lors de la première utilisation, activez ici le mode de collecte de données.
+Veuillez attendre que le module termine la collecte automatique. Il ne sera pas nécessaire de recommencer à l’avenir.</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
+        <source>数据采集</source>
+        <target>Collecte de données</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
+        <source>当前进度: {0} / {1}</source>
+        <target>Progression actuelle : {0}/{1}</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
+        <source>未找到开拓管理面板, 已停止采集</source>
+        <target>Index de l’insulaire introuvable, récolte arrêtée</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
+        <source>已选择的采集点数量过少 (≤ 10), 请重新选择</source>
+        <target>Moins de 10 points de récolte sélectionnés, veuillez en sélectionner davantage</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
+        <source>无人岛素材达到上限, 已停止自动采集</source>
+        <target>Certains objets de l’île ont atteint la limite maximale, la collecte automatique a été arrêtée</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
+        <source>达限时停止采集并发送通知</source>
+        <target>À la limite, arrêter la récolte et envoyer une notification</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
+        <source>配置完成并点击开始后, 自动循环采集无人岛素材</source>
+        <target>Récolte automatiquement en boucle les objets du Sanctuaire insulaire après configuration et clic sur démarrer.</target>
+      </trans-unit>
+      <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
+        <source>自动无人岛采集</source>
+        <target>Récolte automatique au Sanctuaire insulaire</target>
+      </trans-unit>
       <trans-unit id="AutoManageInterruptActionDescription" xml:space="preserve">
         <source>若当前目标不在咏唱可打断的技能, 则禁止使用打断类技能 (插言、伤头)</source>
         <target>Si la cible actuelle ne lance pas une action interruptible, empêche l’utilisation des actions d’interruption (ex. Interjection, Tir repoussant).</target>
@@ -2319,13 +2357,13 @@ Si cela reste bloqué trop longtemps, veuillez vérifier votre réseau local.</t
         <source>自动管控速行</source>
         <target>Gestion automatique de Peloton</target>
       </trans-unit>
-      <trans-unit id="AutoMarkAetherCurrents-Discovered" xml:space="preserve">
-        <source>已共鸣</source>
-        <target>Synchronisé</target>
-      </trans-unit>
       <trans-unit id="AutoMarkAetherCurrents-DiscoverInfo" xml:space="preserve">
         <source>共鸣情况</source>
         <target>État de découverte</target>
+      </trans-unit>
+      <trans-unit id="AutoMarkAetherCurrents-Discovered" xml:space="preserve">
+        <source>已共鸣</source>
+        <target>Synchronisé</target>
       </trans-unit>
       <trans-unit id="AutoMarkAetherCurrents-DisplayLeftCurrents" xml:space="preserve">
         <source>显示剩余标点</source>
@@ -2471,10 +2509,6 @@ Si cela reste bloqué trop longtemps, veuillez vérifier votre réseau local.</t
         <source>保存位置:</source>
         <target>Enregistrer dans :</target>
       </trans-unit>
-      <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
-        <source>扫描设置</source>
-        <target>Paramètres du scanner</target>
-      </trans-unit>
       <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
         <source>扫描点</source>
         <target>Points de scan :</target>
@@ -2483,13 +2517,17 @@ Si cela reste bloqué trop longtemps, veuillez vérifier votre réseau local.</t
         <source>扫描结果</source>
         <target>Résultats du scan</target>
       </trans-unit>
-      <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
-        <source>已选择 {0} 个目标区域</source>
-        <target>{0} zone(s) sélectionnée(s).</target>
+      <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
+        <source>扫描设置</source>
+        <target>Paramètres du scanner</target>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SelectRoutes" xml:space="preserve">
         <source>选择路线</source>
         <target>Sélectionner les itinéraires</target>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
+        <source>已选择 {0} 个目标区域</source>
+        <target>{0} zone(s) sélectionnée(s).</target>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
         <source>狩猎行车器</source>
@@ -2659,22 +2697,6 @@ asvel ffxiv gearing prend en charge :
         <source>自动镶嵌魔晶石</source>
         <target>Sertissage automatique de matérias</target>
       </trans-unit>
-      <trans-unit id="AutoMaterialize-Notice-ExtractFinish" xml:space="preserve">
-        <source>精制作业已完成</source>
-        <target>L’extraction est terminée.</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterialize-Notice-ExtractNow" xml:space="preserve">
-        <source>正在精制装备: {0}</source>
-        <target>Extraction de l’équipement : {0}</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterializeDescription" xml:space="preserve">
-        <source>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</source>
-        <target>Lorsque le lien spirituel d’une pièce d’équipement atteint 100 %, ou après ouverture de l’interface d’extraction de matérias et clic sur Démarrer, extrait automatiquement les matérias de tout l’équipement.</target>
-      </trans-unit>
-      <trans-unit id="AutoMaterializeTitle" xml:space="preserve">
-        <source>自动精制魔晶石</source>
-        <target>Extraction automatique de matérias</target>
-      </trans-unit>
       <trans-unit id="AutoMateriaRetrive-ManuallySelect" xml:space="preserve">
         <source>手动选择</source>
         <target>Sélection manuelle</target>
@@ -2706,6 +2728,22 @@ asvel ffxiv gearing prend en charge :
       <trans-unit id="AutoMateriaTransmutationTitle" xml:space="preserve">
         <source>自动合成魔晶石</source>
         <target>Transmutation automatique de matérias</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterialize-Notice-ExtractFinish" xml:space="preserve">
+        <source>精制作业已完成</source>
+        <target>L’extraction est terminée.</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterialize-Notice-ExtractNow" xml:space="preserve">
+        <source>正在精制装备: {0}</source>
+        <target>Extraction de l’équipement : {0}</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterializeDescription" xml:space="preserve">
+        <source>当任一装备精炼度达到 100%, 或打开精制魔晶石界面并点击开始后, 自动精制全部装备的魔晶石</source>
+        <target>Lorsque le lien spirituel d’une pièce d’équipement atteint 100 %, ou après ouverture de l’interface d’extraction de matérias et clic sur Démarrer, extrait automatiquement les matérias de tout l’équipement.</target>
+      </trans-unit>
+      <trans-unit id="AutoMaterializeTitle" xml:space="preserve">
+        <source>自动精制魔晶石</source>
+        <target>Extraction automatique de matérias</target>
       </trans-unit>
       <trans-unit id="AutoMaximiseWindow-CommandHelp" xml:space="preserve">
         <source>最大化游戏窗口</source>
@@ -2742,44 +2780,6 @@ asvel ffxiv gearing prend en charge :
       <trans-unit id="AutoMiniCactpotTitle" xml:space="preserve">
         <source>自动完成仙人微彩</source>
         <target>Mini Cactpot automatique</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
-        <source>因物体渲染距离限制, 初次使用请先在此处开启数据采集模式, 
-等待模块完成自动数据采集, 后续使用无需再次采集数据</source>
-        <target>En raison de la limite de distance d’affichage, lors de la première utilisation, activez ici le mode de collecte de données.
-Veuillez attendre que le module termine la collecte automatique. Il ne sera pas nécessaire de recommencer à l’avenir.</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
-        <source>数据采集</source>
-        <target>Collecte de données</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
-        <source>当前进度: {0} / {1}</source>
-        <target>Progression actuelle : {0}/{1}</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
-        <source>未找到开拓管理面板, 已停止采集</source>
-        <target>Index de l’insulaire introuvable, récolte arrêtée</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
-        <source>已选择的采集点数量过少 (≤ 10), 请重新选择</source>
-        <target>Moins de 10 points de récolte sélectionnés, veuillez en sélectionner davantage</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
-        <source>无人岛素材达到上限, 已停止自动采集</source>
-        <target>Certains objets de l’île ont atteint la limite maximale, la collecte automatique a été arrêtée</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
-        <source>达限时停止采集并发送通知</source>
-        <target>À la limite, arrêter la récolte et envoyer une notification</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
-        <source>配置完成并点击开始后, 自动循环采集无人岛素材</source>
-        <target>Récolte automatiquement en boucle les objets du Sanctuaire insulaire après configuration et clic sur démarrer.</target>
-      </trans-unit>
-      <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
-        <source>自动无人岛采集</source>
-        <target>Récolte automatique au Sanctuaire insulaire</target>
       </trans-unit>
       <trans-unit id="AutoMode" xml:space="preserve">
         <source>自动模式</source>
@@ -4129,13 +4129,13 @@ Prix actuel : {3} ({4} / {5})</target>
         <source>预期价格</source>
         <target>Prix attendu</target>
       </trans-unit>
-      <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaximum" xml:space="preserve">
-        <source>最高可接受价格</source>
-        <target>Prix maximal acceptable</target>
-      </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaxReduction" xml:space="preserve">
         <source>可接受降价值</source>
         <target>Réduction de prix acceptable</target>
+      </trans-unit>
+      <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMaximum" xml:space="preserve">
+        <source>最高可接受价格</source>
+        <target>Prix maximal acceptable</target>
       </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-PriceMinimum" xml:space="preserve">
         <source>最低可接受价格</source>
@@ -4975,6 +4975,10 @@ Remarque : sauf pour l’ID d’objet, toutes les entrées doivent correspondre 
         <source>批量启用</source>
         <target>Activer en lot</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-AddTime" xml:space="preserve">
+        <source>添加时间</source>
+        <target>Date d’ajout</target>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearAllEntries" xml:space="preserve">
         <source>移除所有黑名单</source>
         <target>Supprimer toute la liste noire</target>
@@ -4994,10 +4998,6 @@ Remarque : sauf pour l’ID d’objet, toutes les entrées doivent correspondre 
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</source>
         <target>Supprime les entrées de liste noire enregistrées entre les versions « Rencontre avec l’inconnu » et « Jalon de demain » avec l’ancien format d’identifiant de compte et désormais invalides.</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-AddTime" xml:space="preserve">
-        <source>添加时间</source>
-        <target>Date d’ajout</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-ConfirmDeletePlayer" xml:space="preserve">
         <source>确认要删除该玩家吗？</source>
@@ -5063,18 +5063,6 @@ ID unique : {0}
 Mot de passe d’accès : {1}
 (À conserver précieusement : il ne pourra plus être consulté ensuite.)</target>
       </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToAddPlayerToGroup" xml:space="preserve">
-        <source>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</source>
-        <target>Échec de l’ajout du joueur à la liste noire partagée « {0} ». Veuillez réessayer plus tard.</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
-        <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
-        <target>Échec du retrait du joueur de la liste noire partagée « {groupName} ». Veuillez réessayer plus tard.</target>
-      </trans-unit>
-      <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
-        <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
-        <target>Échec de la modification de la note du joueur dans la liste noire partagée « {groupName} ». Veuillez réessayer plus tard.</target>
-      </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToCreateGroup" xml:space="preserve">
         <source>创建共享黑名单失败，{0}。</source>
         <target>Échec de la création de la liste noire partagée : {0}.</target>
@@ -5094,6 +5082,18 @@ Mot de passe d’accès : {1}
       <trans-unit id="BetterBlacklist-Notification-FailToShareList" xml:space="preserve">
         <source>分享本地黑名单失败，{0}。</source>
         <target>Échec du partage de la liste noire locale : {0}.</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToAddPlayerToGroup" xml:space="preserve">
+        <source>添加玩家至共享黑名单“{0}”失败，请稍后再次尝试。</source>
+        <target>Échec de l’ajout du joueur à la liste noire partagée « {0} ». Veuillez réessayer plus tard.</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
+        <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
+        <target>Échec du retrait du joueur de la liste noire partagée « {groupName} ». Veuillez réessayer plus tard.</target>
+      </trans-unit>
+      <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
+        <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
+        <target>Échec de la modification de la note du joueur dans la liste noire partagée « {groupName} ». Veuillez réessayer plus tard.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-ImportedList" xml:space="preserve">
         <source>导入了本地黑名单“{0}”，共{1}名玩家。</source>
@@ -5196,6 +5196,64 @@ Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
       <trans-unit id="BetterCommandInputTitle" xml:space="preserve">
         <source>更好的命令输入</source>
         <target>Saisie de commandes améliorée</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-CommandHelp" xml:space="preserve">
+        <source>开启或关闭“帧数限制”界面。
+/pdr fps on 限制帧率。
+/pdr fps off 不限制帧率。
+/pdr fps toggle 限制或不限制帧率。
+/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</source>
+        <target>Ouvre ou ferme l’interface « Limitation des FPS ».
+/pdr fps on : limiter les FPS.
+/pdr fps off : ne pas limiter les FPS.
+/pdr fps toggle : activer ou désactiver la limitation des FPS.
+/pdr fps &lt;FPS&gt; : définit le nombre de FPS cible (entier entre 1 et 32767) et limite les FPS.</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-CurrentFPS" xml:space="preserve">
+        <source>当前帧数</source>
+        <target>FPS actuels</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
+        <source>[左键] 打开帧数限制界面
+[右键] 打开帧数监测界面</source>
+        <target>[Clic gauche] Limite FPS
+[Clic droit] Moniteur FPS</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
+        <source>快速设置</source>
+        <target>Définir rapidement la limite FPS</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
+        <source>最高帧数</source>
+        <target>FPS maximum</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
+        <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
+        <target>Permet de limiter les FPS du jeu à n’importe quelle valeur, affiche les FPS actuels en temps réel dans la barre d’informations du serveur, et propose une limitation rapide depuis l’interface native.</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle" xml:space="preserve">
+        <source>更好的游戏帧数限制</source>
+        <target>Limiteur de FPS amélioré</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Notification-Set" xml:space="preserve">
+        <source>限制了最高帧数为每秒{fps}帧。</source>
+        <target>FPS maximum limité à {fps} images par seconde.</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
+        <source>取消了帧数限制。</source>
+        <target>Limitation des FPS désactivée.</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
+        <source>平均帧数</source>
+        <target>FPS moyen</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
+        <source>最高帧数</source>
+        <target>FPS maximum</target>
+      </trans-unit>
+      <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
+        <source>最低帧数</source>
+        <target>FPS minimum</target>
       </trans-unit>
       <trans-unit id="BetterFateProgressUI-LeftFateAmount" xml:space="preserve">
         <source>剩余 {0} 次</source>
@@ -5357,63 +5415,39 @@ Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
         <source>更好的自动跟随</source>
         <target>Suivi automatique amélioré</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-CommandHelp" xml:space="preserve">
-        <source>开启或关闭“帧数限制”界面。
-/pdr fps on 限制帧率。
-/pdr fps off 不限制帧率。
-/pdr fps toggle 限制或不限制帧率。
-/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</source>
-        <target>Ouvre ou ferme l’interface « Limitation des FPS ».
-/pdr fps on : limiter les FPS.
-/pdr fps off : ne pas limiter les FPS.
-/pdr fps toggle : activer ou désactiver la limitation des FPS.
-/pdr fps &lt;FPS&gt; : définit le nombre de FPS cible (entier entre 1 et 32767) et limite les FPS.</target>
+      <trans-unit id="BetterMKDSupportJobList-CommandHelp" xml:space="preserve">
+        <source>打开/关闭自定义辅助职业列表界面</source>
+        <target>Ouvrir/fermer l’interface personnalisée de la liste des jobs fantômes</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-CurrentFPS" xml:space="preserve">
-        <source>当前帧数</source>
-        <target>FPS actuels</target>
+      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon" xml:space="preserve">
+        <source>真实技能</source>
+        <target>Actions persistantes</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
-        <source>[左键] 打开帧数限制界面
-[右键] 打开帧数监测界面</source>
-        <target>[Clic gauche] Limite FPS
-[Clic droit] Moniteur FPS</target>
+      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon-Help" xml:space="preserve">
+        <source>拖拽出来的技能图标是否为真实技能
+
+若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更
+若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更</source>
+        <target>Rend les actions assignées aux barres d’actions persistantes ou non.
+
+Si activé, les actions assignées aux barres resteront identiques même en changeant de job fantôme.
+Sinon, elles fonctionneront comme des actions de mission variant selon le job fantôme actuel.</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
-        <source>快速设置</source>
-        <target>Définir rapidement la limite FPS</target>
+      <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
+        <source>调整辅助职业显示顺序</source>
+        <target>Modifier l’ordre d’affichage des jobs fantômes</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
-        <source>最高帧数</source>
-        <target>FPS maximum</target>
+      <trans-unit id="BetterMKDSupportJobList-SupportJobUnlockLink" xml:space="preserve">
+        <source>解锁方式</source>
+        <target>Méthodes de déblocage</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
-        <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
-        <target>Permet de limiter les FPS du jeu à n’importe quelle valeur, affiche les FPS actuels en temps réel dans la barre d’informations du serveur, et propose une limitation rapide depuis l’interface native.</target>
+      <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
+        <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
+        <target>Remplace l’interface « Liste des jobs fantômes » du Occult Crescent par une interface native du module plus esthétique et plus pratique, avec tri personnalisé, affichage des noms de job, possibilité de faire glisser les actions réelles, affichage des conditions de déblocage, etc.</target>
       </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle" xml:space="preserve">
-        <source>更好的游戏帧数限制</source>
-        <target>Limiteur de FPS amélioré</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Notification-Set" xml:space="preserve">
-        <source>限制了最高帧数为每秒{fps}帧。</source>
-        <target>FPS maximum limité à {fps} images par seconde.</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
-        <source>取消了帧数限制。</source>
-        <target>Limitation des FPS désactivée.</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
-        <source>平均帧数</source>
-        <target>FPS moyen</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
-        <source>最高帧数</source>
-        <target>FPS maximum</target>
-      </trans-unit>
-      <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
-        <source>最低帧数</source>
-        <target>FPS minimum</target>
+      <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
+        <source>更好的辅助职业列表</source>
+        <target>Meilleure liste des jobs fantômes</target>
       </trans-unit>
       <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
         <source>成交均价</source>
@@ -5467,6 +5501,10 @@ Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
         <source>全部</source>
         <target>Tout</target>
       </trans-unit>
+      <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
+        <source>HQ 占比</source>
+        <target>Part de HQ</target>
+      </trans-unit>
       <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
         <source>最近成交</source>
         <target>Ventes récentes</target>
@@ -5478,10 +5516,6 @@ Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
       <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
         <source>本服</source>
         <target>Monde actuel</target>
-      </trans-unit>
-      <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
-        <source>HQ 占比</source>
-        <target>Part de HQ</target>
       </trans-unit>
       <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
         <source>在售</source>
@@ -5655,40 +5689,6 @@ Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
         <source>更好的市场布告板</source>
         <target>Tableau de marché amélioré</target>
       </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-CommandHelp" xml:space="preserve">
-        <source>打开/关闭自定义辅助职业列表界面</source>
-        <target>Ouvrir/fermer l’interface personnalisée de la liste des jobs fantômes</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon" xml:space="preserve">
-        <source>真实技能</source>
-        <target>Actions persistantes</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon-Help" xml:space="preserve">
-        <source>拖拽出来的技能图标是否为真实技能
-
-若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更
-若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更</source>
-        <target>Rend les actions assignées aux barres d’actions persistantes ou non.
-
-Si activé, les actions assignées aux barres resteront identiques même en changeant de job fantôme.
-Sinon, elles fonctionneront comme des actions de mission variant selon le job fantôme actuel.</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
-        <source>调整辅助职业显示顺序</source>
-        <target>Modifier l’ordre d’affichage des jobs fantômes</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobList-SupportJobUnlockLink" xml:space="preserve">
-        <source>解锁方式</source>
-        <target>Méthodes de déblocage</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
-        <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
-        <target>Remplace l’interface « Liste des jobs fantômes » du Occult Crescent par une interface native du module plus esthétique et plus pratique, avec tri personnalisé, affichage des noms de job, possibilité de faire glisser les actions réelles, affichage des conditions de déblocage, etc.</target>
-      </trans-unit>
-      <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
-        <source>更好的辅助职业列表</source>
-        <target>Meilleure liste des jobs fantômes</target>
-      </trans-unit>
       <trans-unit id="BetterMountRouletteDescription" xml:space="preserve">
         <source>提供新的随机坐骑系统, 允许为不同类型区域指定不同的随机坐骑待选列表, 且列表可保存无限个坐骑</source>
         <target>Fournit une roulette de montures améliorée permettant de définir des listes dédiées par zone et d’assigner un nombre illimité de montures à chaque liste.</target>
@@ -5696,6 +5696,16 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
       <trans-unit id="BetterMountRouletteTitle" xml:space="preserve">
         <source>更好的随机坐骑</source>
         <target>Roulette de montures améliorée</target>
+      </trans-unit>
+      <trans-unit id="BetterPVPACCommandDescription" xml:space="preserve">
+        <source>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
+（示例：/对战技能 闪飒、/对战技能 暴乱剑）</source>
+        <target>Permet à la commande « /pvpaction (/pvpac) » d’accepter le nom d’actions qui ne peuvent pas être placées dans la barre de raccourcis, comme les actions au sein d’un combo.
+(Exemple : /pvpaction Lame rapide, /pvpaction Lame émeutière)</target>
+      </trans-unit>
+      <trans-unit id="BetterPVPACCommandTitle" xml:space="preserve">
+        <source>“/对战技能”命令优化</source>
+        <target>Optimisation de la commande « /pvpaction »</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Category-Description" xml:space="preserve">
         <source>招募描述</source>
@@ -5768,16 +5778,6 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
       <trans-unit id="BetterPartyFinderSortTitle" xml:space="preserve">
         <source>更好的队员招募升降排序</source>
         <target>Tri amélioré du Party Finder</target>
-      </trans-unit>
-      <trans-unit id="BetterPVPACCommandDescription" xml:space="preserve">
-        <source>使“/对战技能（/pvpaction、/pvpac）”命令支持填写连击中技能等无法被设置到热键栏中的技能的名称。
-（示例：/对战技能 闪飒、/对战技能 暴乱剑）</source>
-        <target>Permet à la commande « /pvpaction (/pvpac) » d’accepter le nom d’actions qui ne peuvent pas être placées dans la barre de raccourcis, comme les actions au sein d’un combo.
-(Exemple : /pvpaction Lame rapide, /pvpaction Lame émeutière)</target>
-      </trans-unit>
-      <trans-unit id="BetterPVPACCommandTitle" xml:space="preserve">
-        <source>“/对战技能”命令优化</source>
-        <target>Optimisation de la commande « /pvpaction »</target>
       </trans-unit>
       <trans-unit id="BetterSoundEffectParamDescription" xml:space="preserve">
         <source>使系统音效参数 (&lt;se&gt;) 可在任意频道触发; 重复强化音量时，也不再受最多三次的限制</source>
@@ -6009,14 +6009,6 @@ Paramètre(s) : {1}</target>
         <source>点击</source>
         <target>Cliquer</target>
       </trans-unit>
-      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
-        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
-        <target>Permet de cliquer sur un éclat d’éthérite en ville directement sur la carte pour se téléporter, comme avec une éthérite.</target>
-      </trans-unit>
-      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
-        <source>城内以太之晶地图传送</source>
-        <target>Téléportation par la carte vers les éclats d’éthérite en ville</target>
-      </trans-unit>
       <trans-unit id="ClickToCopy" xml:space="preserve">
         <source>单击以复制</source>
         <target>Cliquer pour copier</target>
@@ -6024,6 +6016,14 @@ Paramètre(s) : {1}</target>
       <trans-unit id="ClickToOpen" xml:space="preserve">
         <source>点击以打开</source>
         <target>Cliquer pour ouvrir</target>
+      </trans-unit>
+      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
+        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
+        <target>Permet de cliquer sur un éclat d’éthérite en ville directement sur la carte pour se téléporter, comme avec une éthérite.</target>
+      </trans-unit>
+      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
+        <source>城内以太之晶地图传送</source>
+        <target>Téléportation par la carte vers les éclats d’éthérite en ville</target>
       </trans-unit>
       <trans-unit id="ClipboardMultiLineToOneLineDescription" xml:space="preserve">
         <source>在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送</source>
@@ -6093,6 +6093,10 @@ Paramètre(s) : {1}</target>
         <source>打开主界面, 并搜索指定关键词</source>
         <target>Ouvrir l’interface principale et rechercher des mots-clés spécifiques</target>
       </trans-unit>
+      <trans-unit id="Commands-CommandHelp-TTS" xml:space="preserve">
+        <source>使用内置的 TTS 设置朗读指定的文本</source>
+        <target>Lire le texte spécifié avec les paramètres TTS intégrés</target>
+      </trans-unit>
       <trans-unit id="Commands-CommandHelp-Toggle" xml:space="preserve">
         <source>切换指定模块的开关状态 (仅支持输入模块内部名称)</source>
         <target>Activer / désactiver un module spécifique (nom interne uniquement)</target>
@@ -6100,10 +6104,6 @@ Paramètre(s) : {1}</target>
       <trans-unit id="Commands-CommandHelp-ToggleConfig" xml:space="preserve">
         <source>切换指定模块配置悬浮窗界面的开关状态</source>
         <target>Afficher / masquer la fenêtre de configuration d’un module spécifique</target>
-      </trans-unit>
-      <trans-unit id="Commands-CommandHelp-TTS" xml:space="preserve">
-        <source>使用内置的 TTS 设置朗读指定的文本</source>
-        <target>Lire le texte spécifié avec les paramètres TTS intégrés</target>
       </trans-unit>
       <trans-unit id="Commands-CommandHelp-Unload" xml:space="preserve">
         <source>卸载指定的模块 (仅支持输入模块内部名称)</source>
@@ -6441,13 +6441,13 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>导出分组</source>
         <target>Exporter le groupe</target>
       </trans-unit>
-      <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
-        <source>已将当前分组的地图标记导出至剪贴板</source>
-        <target>Marqueurs de carte du groupe actuel exportés dans le presse-papiers</target>
-      </trans-unit>
       <trans-unit id="CustomizeMapMarker-ExportFailed" xml:space="preserve">
         <source>导出自定义地图标记失败</source>
         <target>Échec de l’exportation des marqueurs de carte personnalisés</target>
+      </trans-unit>
+      <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
+        <source>已将当前分组的地图标记导出至剪贴板</source>
+        <target>Marqueurs de carte du groupe actuel exportés dans le presse-papiers</target>
       </trans-unit>
       <trans-unit id="CustomizeMapMarker-ExtraCommands" xml:space="preserve">
         <source>额外文本指令</source>
@@ -6469,10 +6469,6 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>从剪贴板导入</source>
         <target>Importer depuis le presse-papiers</target>
       </trans-unit>
-      <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
-        <source>已导入 {0} 个自定义地图标记</source>
-        <target>{0} marqueur(s) de carte personnalisé(s) importé(s)</target>
-      </trans-unit>
       <trans-unit id="CustomizeMapMarker-ImportFailed" xml:space="preserve">
         <source>导入自定义地图标记失败</source>
         <target>Échec de l’importation des marqueurs de carte personnalisés</target>
@@ -6480,6 +6476,10 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
       <trans-unit id="CustomizeMapMarker-ImportInvalid" xml:space="preserve">
         <source>剪贴板中没有有效的自定义地图标记数据</source>
         <target>Aucune donnée de marqueur de carte personnalisé valide dans le presse-papiers</target>
+      </trans-unit>
+      <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
+        <source>已导入 {0} 个自定义地图标记</source>
+        <target>{0} marqueur(s) de carte personnalisé(s) importé(s)</target>
       </trans-unit>
       <trans-unit id="CustomizeMapMarker-InvalidMap" xml:space="preserve">
         <source>无效的地图数据</source>
@@ -6565,21 +6565,21 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>自定义视距</source>
         <target>Distance de vue personnalisée</target>
       </trans-unit>
-      <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
-        <source>已成功导出配置至剪贴板</source>
-        <target>La configuration a été exportée avec succès dans le presse-papiers.</target>
-      </trans-unit>
       <trans-unit id="DailyModuleBase-ExportError" xml:space="preserve">
         <source>尝试导出配置至剪贴板时发生错误</source>
         <target>Échec de l’export de la configuration vers le presse-papiers</target>
       </trans-unit>
-      <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
-        <source>已成功从剪贴板导入相关配置</source>
-        <target>La configuration a été importée avec succès depuis le presse-papiers.</target>
+      <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
+        <source>已成功导出配置至剪贴板</source>
+        <target>La configuration a été exportée avec succès dans le presse-papiers.</target>
       </trans-unit>
       <trans-unit id="DailyModuleBase-ImportError" xml:space="preserve">
         <source>尝试从剪贴板导入配置时发生错误</source>
         <target>Une erreur est survenue lors de l’import de la configuration depuis le presse-papiers.</target>
+      </trans-unit>
+      <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
+        <source>已成功从剪贴板导入相关配置</source>
+        <target>La configuration a été importée avec succès depuis le presse-papiers.</target>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
         <source>默认</source>
@@ -6633,10 +6633,6 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>禁用</source>
         <target>Désactiver</target>
       </trans-unit>
-      <trans-unit id="Disabled" xml:space="preserve">
-        <source>已禁用</source>
-        <target>Désactivé</target>
-      </trans-unit>
       <trans-unit id="DisableGroundActionAutoFaceDescription" xml:space="preserve">
         <source>在使用地面类技能(如庇护所, 地星等)时将不会再更改当前面向</source>
         <target>L’utilisation d’actions ciblant le sol (ex. : Asylum, Earthly Star) ne changera plus automatiquement la direction actuelle du personnage.</target>
@@ -6648,6 +6644,10 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
       <trans-unit id="DisableWhenPlayersAround" xml:space="preserve">
         <source>当周围有其他玩家时禁用</source>
         <target>Désactiver si d’autres joueurs sont à proximité</target>
+      </trans-unit>
+      <trans-unit id="Disabled" xml:space="preserve">
+        <source>已禁用</source>
+        <target>Désactivé</target>
       </trans-unit>
       <trans-unit id="Disactivated" xml:space="preserve">
         <source>未激活</source>
@@ -6777,14 +6777,6 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>距离最远的小队成员</source>
         <target>Le membre d’équipe le plus éloigné</target>
       </trans-unit>
-      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateEnemy" xml:space="preserve">
-        <source>仇恨最低的敌对目标</source>
-        <target>Cible ennemie avec la menace la plus faible</target>
-      </trans-unit>
-      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateInListEnemy" xml:space="preserve">
-        <source>仇恨列表中仇恨最低的敌对目标</source>
-        <target>Cible ennemie avec la menace la plus faible dans la liste de menace</target>
-      </trans-unit>
       <trans-unit id="ExpandMacroTargetParameters-Param-LowHpEnemy" xml:space="preserve">
         <source>体力百分比最低的敌对目标</source>
         <target>La cible hostile avec le plus faible pourcentage de PV</target>
@@ -6796,6 +6788,14 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
       <trans-unit id="ExpandMacroTargetParameters-Param-LowHpMember" xml:space="preserve">
         <source>体力百分比最低的小队成员</source>
         <target>Le membre d’équipe avec le plus faible pourcentage de PV</target>
+      </trans-unit>
+      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateEnemy" xml:space="preserve">
+        <source>仇恨最低的敌对目标</source>
+        <target>Cible ennemie avec la menace la plus faible</target>
+      </trans-unit>
+      <trans-unit id="ExpandMacroTargetParameters-Param-LowestHateInListEnemy" xml:space="preserve">
+        <source>仇恨列表中仇恨最低的敌对目标</source>
+        <target>Cible ennemie avec la menace la plus faible dans la liste de menace</target>
       </trans-unit>
       <trans-unit id="ExpandMacroTargetParameters-Param-MeAndMemberStatus" xml:space="preserve">
         <source>具有指定 ID 状态的小队成员 (包含自身)</source>
@@ -6869,6 +6869,70 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
         <source>额外的青魔法技能组</source>
         <target>Ensembles actifs supplémentaires de Mage bleu</target>
       </trans-unit>
+      <trans-unit id="FCMemberManagePanel-ConfirmKick" xml:space="preserve">
+        <source>确定要将{0}从部队中除名吗？</source>
+        <target>Voulez-vous vraiment exclure {0} de la compagnie libre ?</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-ConfirmKickMulti" xml:space="preserve">
+        <source>确定要将{0}位成员从部队中除名吗？</source>
+        <target>Voulez-vous vraiment exclure {0} membres de la compagnie libre ?</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-CurrentPage" xml:space="preserve">
+        <source>当前页</source>
+        <target>Page actuelle</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-BeyondMonth" xml:space="preserve">
+        <source>超过 30 天</source>
+        <target>Plus de 30 jours</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-Online" xml:space="preserve">
+        <source>在线</source>
+        <target>En ligne</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinDay" xml:space="preserve">
+        <source>1 天内</source>
+        <target>Moins d’1 jour</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinHour" xml:space="preserve">
+        <source>1 小时内</source>
+        <target>Moins d’1 heure</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinMonth" xml:space="preserve">
+        <source>30 天内</source>
+        <target>Moins de 30 jours</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-LastOnline-WithinWeek" xml:space="preserve">
+        <source>7 天内</source>
+        <target>Moins de 7 jours</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-PageDisplay" xml:space="preserve">
+        <source>第 {0} 页</source>
+        <target>Page {0}</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-PositionLastTime" xml:space="preserve">
+        <source>位置 / 最后上线时间</source>
+        <target>Position / Dernière connexion</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-Rank" xml:space="preserve">
+        <source>阶级</source>
+        <target>Rang</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanel-SelectedMembers" xml:space="preserve">
+        <source>选择了 {0} 名成员</source>
+        <target>{0} membre(s) sélectionné(s)</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanelDescription" xml:space="preserve">
+        <source>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</source>
+        <target>Ajoute une interface à « Membres de la compagnie libre » pour gérer les membres en lot (nominations, exclusions, etc.).</target>
+      </trans-unit>
+      <trans-unit id="FCMemberManagePanelTitle" xml:space="preserve">
+        <source>部队成员管理面板</source>
+        <target>Panneau de gestion des membres de CL</target>
+      </trans-unit>
+      <trans-unit id="FPS" xml:space="preserve">
+        <source>帧数</source>
+        <target>FPS</target>
+      </trans-unit>
       <trans-unit id="FastBLUSpellbookSearchBarDescription" xml:space="preserve">
         <source>为青魔法书界面左上角新增一个快捷搜索悬浮窗, 用于根据技能名称执行即时搜索</source>
         <target>Ajoute une barre de recherche rapide dans le coin supérieur gauche du Grimoire de magie bleue pour rechercher en temps réel selon le nom des actions.</target>
@@ -6912,14 +6976,6 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
       <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
         <source>快捷进出旅馆</source>
         <target>Accès amélioré aux auberges</target>
-      </trans-unit>
-      <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-        <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-        <target>Accélère tous les chargements internes aux zones afin de réduire le temps d’immobilisation du personnage.</target>
-      </trans-unit>
-      <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-        <source>更快的区域内过图加载</source>
-        <target>Chargement intra-zone accéléré</target>
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchange-CommandHelp" xml:space="preserve">
         <source>&lt;物品名 (大小写不敏感)&gt; (&lt;数量&gt;) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)</source>
@@ -7431,69 +7487,17 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
         <source>快捷跨界传送</source>
         <target>Visite intermonde améliorée</target>
       </trans-unit>
+      <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
+        <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
+        <target>Accélère tous les chargements internes aux zones afin de réduire le temps d’immobilisation du personnage.</target>
+      </trans-unit>
+      <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
+        <source>更快的区域内过图加载</source>
+        <target>Chargement intra-zone accéléré</target>
+      </trans-unit>
       <trans-unit id="Favorite" xml:space="preserve">
         <source>收藏</source>
         <target>Favori</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-ConfirmKick" xml:space="preserve">
-        <source>确定要将{0}从部队中除名吗？</source>
-        <target>Voulez-vous vraiment exclure {0} de la compagnie libre ?</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-ConfirmKickMulti" xml:space="preserve">
-        <source>确定要将{0}位成员从部队中除名吗？</source>
-        <target>Voulez-vous vraiment exclure {0} membres de la compagnie libre ?</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-CurrentPage" xml:space="preserve">
-        <source>当前页</source>
-        <target>Page actuelle</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-BeyondMonth" xml:space="preserve">
-        <source>超过 30 天</source>
-        <target>Plus de 30 jours</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-Online" xml:space="preserve">
-        <source>在线</source>
-        <target>En ligne</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinDay" xml:space="preserve">
-        <source>1 天内</source>
-        <target>Moins d’1 jour</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinHour" xml:space="preserve">
-        <source>1 小时内</source>
-        <target>Moins d’1 heure</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinMonth" xml:space="preserve">
-        <source>30 天内</source>
-        <target>Moins de 30 jours</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-LastOnline-WithinWeek" xml:space="preserve">
-        <source>7 天内</source>
-        <target>Moins de 7 jours</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-PageDisplay" xml:space="preserve">
-        <source>第 {0} 页</source>
-        <target>Page {0}</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-PositionLastTime" xml:space="preserve">
-        <source>位置 / 最后上线时间</source>
-        <target>Position / Dernière connexion</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-Rank" xml:space="preserve">
-        <source>阶级</source>
-        <target>Rang</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanel-SelectedMembers" xml:space="preserve">
-        <source>选择了 {0} 名成员</source>
-        <target>{0} membre(s) sélectionné(s)</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanelDescription" xml:space="preserve">
-        <source>为“部队成员”界面新增界面，用以批量管理（任命、除名等）部队成员。</source>
-        <target>Ajoute une interface à « Membres de la compagnie libre » pour gérer les membres en lot (nominations, exclusions, etc.).</target>
-      </trans-unit>
-      <trans-unit id="FCMemberManagePanelTitle" xml:space="preserve">
-        <source>部队成员管理面板</source>
-        <target>Panneau de gestion des membres de CL</target>
       </trans-unit>
       <trans-unit id="FieldEntryCommand-CommandHelp" xml:space="preserve">
         <source>&lt;参数 / 副本名&gt; (不区分大小写 / 后者部分匹配) 进入指定的特殊场景探索</source>
@@ -7546,10 +7550,6 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
       <trans-unit id="Format" xml:space="preserve">
         <source>格式</source>
         <target>Format</target>
-      </trans-unit>
-      <trans-unit id="FPS" xml:space="preserve">
-        <source>帧数</source>
-        <target>FPS</target>
       </trans-unit>
       <trans-unit id="FrontlineMapRadar-DotRadius" xml:space="preserve">
         <source>点半径</source>
@@ -7662,6 +7662,10 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
       <trans-unit id="GlamourPlateApplyCommandTitle" xml:space="preserve">
         <source>投影模板切换指令</source>
         <target>Commandes de changement de plaques de mirage</target>
+      </trans-unit>
+      <trans-unit id="HQ" xml:space="preserve">
+        <source>高品质</source>
+        <target>HQ</target>
       </trans-unit>
       <trans-unit id="HealerHelper-AutoPlayCard-CommonDescription" xml:space="preserve">
         <source>根据目前版本的职业输出能力高低</source>
@@ -7801,10 +7805,6 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
         <source>小时</source>
         <target>heure</target>
       </trans-unit>
-      <trans-unit id="HQ" xml:space="preserve">
-        <source>高品质</source>
-        <target>HQ</target>
-      </trans-unit>
       <trans-unit id="HullbreakerIsleHelper-FakeTreasureTip" xml:space="preserve">
         <source>需要开启</source>
         <target>Coffre factice détecté</target>
@@ -7816,6 +7816,14 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
       <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
         <source>&quot;财宝传说破舰岛&quot; 助手</source>
         <target>Assistant Île de Crèvecarène</target>
+      </trans-unit>
+      <trans-unit id="ID" xml:space="preserve">
+        <source>唯一标识符</source>
+        <target>Identifiant unique</target>
+      </trans-unit>
+      <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
+        <source>安装并启用了插件 {0}</source>
+        <target>Le plugin {0} est installé et activé.</target>
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>图标</source>
@@ -7836,10 +7844,6 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
       <trans-unit id="IconScale" xml:space="preserve">
         <source>图标缩放</source>
         <target>Échelle de l’icône</target>
-      </trans-unit>
-      <trans-unit id="ID" xml:space="preserve">
-        <source>唯一标识符</source>
-        <target>Identifiant unique</target>
       </trans-unit>
       <trans-unit id="IgnoreTransparencyWaitDescription" xml:space="preserve">
         <source>自动取消与 NPC 对话时, 对方因淡入淡出演出所产生的等待时间</source>
@@ -7877,14 +7881,6 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
         <source>副本任务内</source>
         <target>En mission</target>
       </trans-unit>
-      <trans-unit id="Info" xml:space="preserve">
-        <source>信息</source>
-        <target>Infos</target>
-      </trans-unit>
-      <trans-unit id="InnerLoop" xml:space="preserve">
-        <source>内环</source>
-        <target>Boucle intérieure</target>
-      </trans-unit>
       <trans-unit id="InOrder" xml:space="preserve">
         <source>顺序</source>
         <target>Dans l’Ordre</target>
@@ -7893,13 +7889,21 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
         <source>进行中</source>
         <target>En Progression</target>
       </trans-unit>
-      <trans-unit id="Input" xml:space="preserve">
-        <source>输入</source>
-        <target>entrée</target>
-      </trans-unit>
       <trans-unit id="InReverseOrder" xml:space="preserve">
         <source>逆序</source>
         <target>Ordre inversé</target>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>信息</source>
+        <target>Infos</target>
+      </trans-unit>
+      <trans-unit id="InnerLoop" xml:space="preserve">
+        <source>内环</source>
+        <target>Boucle intérieure</target>
+      </trans-unit>
+      <trans-unit id="Input" xml:space="preserve">
+        <source>输入</source>
+        <target>entrée</target>
       </trans-unit>
       <trans-unit id="Insert" xml:space="preserve">
         <source>新增</source>
@@ -7972,10 +7976,6 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
       <trans-unit id="InvertSelection" xml:space="preserve">
         <source>反选</source>
         <target>Inverser la sélection</target>
-      </trans-unit>
-      <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-        <source>安装并启用了插件 {0}</source>
-        <target>Le plugin {0} est installé et activé.</target>
       </trans-unit>
       <trans-unit id="Item" xml:space="preserve">
         <source>物品</source>
@@ -8357,10 +8357,6 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
         <source>更多的消息过滤预设</source>
         <target>Filtres de chat avancés</target>
       </trans-unit>
-      <trans-unit id="MoveableOverlay" xml:space="preserve">
-        <source>悬浮窗可移动</source>
-        <target>Déverrouiller la position de la fenêtre flottante</target>
-      </trans-unit>
       <trans-unit id="MoveDown" xml:space="preserve">
         <source>下移</source>
         <target>Bas</target>
@@ -8368,6 +8364,14 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
       <trans-unit id="MoveUp" xml:space="preserve">
         <source>上移</source>
         <target>Haut</target>
+      </trans-unit>
+      <trans-unit id="MoveableOverlay" xml:space="preserve">
+        <source>悬浮窗可移动</source>
+        <target>Déverrouiller la position de la fenêtre flottante</target>
+      </trans-unit>
+      <trans-unit id="NQ" xml:space="preserve">
+        <source>普通品质</source>
+        <target>NQ</target>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>名称</source>
@@ -8401,10 +8405,6 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
         <source>始终显示游戏内 UI 界面</source>
         <target>Toujours afficher l’interface</target>
       </trans-unit>
-      <trans-unit id="None" xml:space="preserve">
-        <source>无</source>
-        <target>Aucun</target>
-      </trans-unit>
       <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
         <source>仅在最小化时禁止渲染 (仅适用于 {0})</source>
         <target>Désactiver le rendu uniquement lorsque minimisé (s’applique uniquement à {0})</target>
@@ -8417,18 +8417,6 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
         <source>后台禁止渲染游戏画面</source>
         <target>Désactiver le rendu du jeu en arrière-plan</target>
       </trans-unit>
-      <trans-unit id="Note" xml:space="preserve">
-        <source>备注</source>
-        <target>Note</target>
-      </trans-unit>
-      <trans-unit id="Notification" xml:space="preserve">
-        <source>通知</source>
-        <target>Notification</target>
-      </trans-unit>
-      <trans-unit id="NotUnlocked" xml:space="preserve">
-        <source>未解锁</source>
-        <target>Verrouillé</target>
-      </trans-unit>
       <trans-unit id="NoUIFadeDescription" xml:space="preserve">
         <source>禁止游戏内各类用于过渡的黑屏与淡入淡出绘制, 以减少加载过程中不必要的等待时间</source>
         <target>Désactive les écrans noirs et fondus utilisés pendant les transitions afin de réduire le temps d’attente inutile durant les chargements.</target>
@@ -8437,9 +8425,21 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
         <source>无加载黑屏界面</source>
         <target>Pas d’écran noir pendant les chargements</target>
       </trans-unit>
-      <trans-unit id="NQ" xml:space="preserve">
-        <source>普通品质</source>
-        <target>NQ</target>
+      <trans-unit id="None" xml:space="preserve">
+        <source>无</source>
+        <target>Aucun</target>
+      </trans-unit>
+      <trans-unit id="NotUnlocked" xml:space="preserve">
+        <source>未解锁</source>
+        <target>Verrouillé</target>
+      </trans-unit>
+      <trans-unit id="Note" xml:space="preserve">
+        <source>备注</source>
+        <target>Note</target>
+      </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>通知</source>
+        <target>Notification</target>
       </trans-unit>
       <trans-unit id="Number" xml:space="preserve">
         <source>数字</source>
@@ -8711,13 +8711,13 @@ Notes :
         <source>仅当战斗中时</source>
         <target>Uniquement en combat</target>
       </trans-unit>
-      <trans-unit id="OnlyIncomplete" xml:space="preserve">
-        <source>仅未完成</source>
-        <target>Uniquement incomplet</target>
-      </trans-unit>
       <trans-unit id="OnlyInDuty" xml:space="preserve">
         <source>仅当位于副本中时</source>
         <target>Uniquement en mission</target>
+      </trans-unit>
+      <trans-unit id="OnlyIncomplete" xml:space="preserve">
+        <source>仅未完成</source>
+        <target>Uniquement incomplet</target>
       </trans-unit>
       <trans-unit id="OnlyNotifyWhenBackground" xml:space="preserve">
         <source>仅当游戏位于后台时提醒</source>
@@ -9017,33 +9017,33 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <source>覆盖预设前需要二次确认</source>
         <target>Double confirmation avant écrasement d’un preset.</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
-        <source>已删除宏指令预设 &quot;{0}&quot;</source>
-        <target>Le preset de macros « {0} » a été supprimé.</target>
-      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-DeleteError" xml:space="preserve">
         <source>尝试删除宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>Une exception est survenue lors de la suppression du preset de macros « {0} ».</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
-        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
-        <target>Le preset de macros « {0} » a été appliqué.</target>
+      <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
+        <source>已删除宏指令预设 &quot;{0}&quot;</source>
+        <target>Le preset de macros « {0} » a été supprimé.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-LoadError" xml:space="preserve">
         <source>尝试读取宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>Une exception est survenue lors de la lecture du preset de macros « {0} ».</target>
       </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
+        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
+        <target>Le preset de macros « {0} » a été appliqué.</target>
+      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Overwritten" xml:space="preserve">
         <source>已使用当前全部宏指令覆盖 &quot;{0}&quot; 预设</source>
         <target>Le preset de macros « {0} » a été écrasé par toutes les macros actuelles.</target>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
-        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
-        <target>Toutes les macros actuelles ont été enregistrées dans le preset de macros « {0} ».</target>
-      </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError" xml:space="preserve">
         <source>尝试保存宏指令预设 &quot;{0}&quot; 时发生错误</source>
         <target>Une exception est survenue lors de l’enregistrement du preset de macros « {0} ».</target>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
+        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
+        <target>Toutes les macros actuelles ont été enregistrées dans le preset de macros « {0} ».</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>对用户宏指令界面进行优化, 使其支持保存全部宏指令为多个预设, 以便随时切换使用</source>
@@ -9415,17 +9415,29 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <source>时尚配饰技能使用指令</source>
         <target>Commande d’utilisation des actions d’accessoire de mode</target>
       </trans-unit>
-      <trans-unit id="OuterLoop" xml:space="preserve">
-        <source>外环</source>
-        <target>Boucle extérieure</target>
-      </trans-unit>
       <trans-unit id="OutOfDuty" xml:space="preserve">
         <source>副本任务外</source>
         <target>Hors mission</target>
       </trans-unit>
+      <trans-unit id="OuterLoop" xml:space="preserve">
+        <source>外环</source>
+        <target>Boucle extérieure</target>
+      </trans-unit>
       <trans-unit id="Output" xml:space="preserve">
         <source>输出</source>
         <target>sortie</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
+        <source>单页显示数量</source>
+        <target>Taille de page</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomizeDescription" xml:space="preserve">
+        <source>允许自定义队员招募中单页可显示的招募数量, 上限为单页 100 个招募</source>
+        <target>Permet de personnaliser le nombre d’annonces par page dans le Party Finder, jusqu’à un maximum de 100 annonces par page</target>
+      </trans-unit>
+      <trans-unit id="PFPageSizeCustomizeTitle" xml:space="preserve">
+        <source>自定义招募板单页显示数量</source>
+        <target>Personnaliser le nombre d’entrées du Party Finder</target>
       </trans-unit>
       <trans-unit id="PairModules" xml:space="preserve">
         <source>可搭配模块</source>
@@ -9462,18 +9474,6 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
       <trans-unit id="PetSizeContextMenuTitle" xml:space="preserve">
         <source>召唤兽体型右键菜单</source>
         <target>Menu contextuel de taille du familier</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
-        <source>单页显示数量</source>
-        <target>Taille de page</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomizeDescription" xml:space="preserve">
-        <source>允许自定义队员招募中单页可显示的招募数量, 上限为单页 100 个招募</source>
-        <target>Permet de personnaliser le nombre d’annonces par page dans le Party Finder, jusqu’à un maximum de 100 annonces par page</target>
-      </trans-unit>
-      <trans-unit id="PFPageSizeCustomizeTitle" xml:space="preserve">
-        <source>自定义招募板单页显示数量</source>
-        <target>Personnaliser le nombre d’entrées du Party Finder</target>
       </trans-unit>
       <trans-unit id="PhantomJobSwitchCommand-CommandHelp" xml:space="preserve">
         <source>&lt;ID / 名称 (大小写不敏感, 部分包含)&gt; 切换至对应的辅助职业</source>
@@ -9603,13 +9603,13 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <source>&quot;最终决战天幕魔导城&quot; 助手</source>
         <target>Assistant Praetorium</target>
       </trans-unit>
-      <trans-unit id="PrecedingModules" xml:space="preserve">
-        <source>前置模块</source>
-        <target>Modules prérequis</target>
-      </trans-unit>
       <trans-unit id="PreCondition" xml:space="preserve">
         <source>先决条件</source>
         <target>Précondition</target>
+      </trans-unit>
+      <trans-unit id="PrecedingModules" xml:space="preserve">
+        <source>前置模块</source>
+        <target>Modules prérequis</target>
       </trans-unit>
       <trans-unit id="Prefix" xml:space="preserve">
         <source>前缀</source>
@@ -10047,6 +10047,14 @@ Paramètre(s) : {2}</target>
         <source>秒</source>
         <target>seconde</target>
       </trans-unit>
+      <trans-unit id="SelectAll" xml:space="preserve">
+        <source>全选</source>
+        <target>Tout sélectionner</target>
+      </trans-unit>
+      <trans-unit id="SelectTarget" xml:space="preserve">
+        <source>选择目标</source>
+        <target>Sélectionner la cible</target>
+      </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
         <source>使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑</source>
         <target>Rend les textes de recrutement sélectionnables pour copie ou modification temporaire.</target>
@@ -10055,10 +10063,6 @@ Paramètre(s) : {2}</target>
         <source>可选中的招募留言文本</source>
         <target>Textes de recrutement sélectionnables</target>
       </trans-unit>
-      <trans-unit id="SelectAll" xml:space="preserve">
-        <source>全选</source>
-        <target>Tout sélectionner</target>
-      </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>已选</source>
         <target>Sélectionné</target>
@@ -10066,10 +10070,6 @@ Paramètre(s) : {2}</target>
       <trans-unit id="SelectedXItems" xml:space="preserve">
         <source>已选中 {0} 项</source>
         <target>{0} objet(s) sélectionné(s).</target>
-      </trans-unit>
-      <trans-unit id="SelectTarget" xml:space="preserve">
-        <source>选择目标</source>
-        <target>Sélectionner la cible</target>
       </trans-unit>
       <trans-unit id="Send" xml:space="preserve">
         <source>发送</source>
@@ -10593,13 +10593,16 @@ Paramètre(s) : {2}</target>
         <source>可投影部位</source>
         <target>Emplacement compatible</target>
       </trans-unit>
+      <trans-unit id="UnifiedGlamourManager-NoSearchResult" xml:space="preserve">
+        <source>没有符合条件的结果</source>
+        <target>Aucun résultat correspondant</target>
+      </trans-unit>
       <trans-unit id="UnifiedGlamourManager-NonSetOnly" xml:space="preserve">
         <source>仅非套装相关</source>
         <target>Éléments hors ensemble uniquement</target>
       </trans-unit>
-      <trans-unit id="UnifiedGlamourManager-NoSearchResult" xml:space="preserve">
-        <source>没有符合条件的结果</source>
-        <target>Aucun résultat correspondant</target>
+      <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
+        <source>保存了投影模板到投影模板管理器中。</source>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
