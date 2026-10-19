@@ -4764,12 +4764,10 @@ The target player is {4} ({5} {6}).</target>
         <target>Auto Revival Farm</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfit-TryOnAll" xml:space="preserve">
-        <source>试穿全部</source>
-        <target>Set Try On</target>
+        <source>试穿全部装备</source>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitDescription" xml:space="preserve">
-        <source>为玩家检视界面新增按钮, 以一键试穿当前检视玩家全套实际外观装备</source>
-        <target>Introduce a new button in the player inspection interface, allowing to try on the appearance set of the inspected character.</target>
+        <source>为“玩家检视”界面内装备新增右键菜单项，用以一键试穿当前检视玩家全套装备外观。</source>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitTitle" xml:space="preserve">
         <source>自动试穿全套外观</source>
