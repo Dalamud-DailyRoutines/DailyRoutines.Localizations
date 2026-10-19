@@ -7070,8 +7070,7 @@ UI: {0}
         <target>파티 변경</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
-        <source>为招募详情界面新增按钮, 点击以一键退出当前队伍并加入目标招募</source>
-        <target>모집 상세 화면에 새 버튼을 추가해, 클릭 시 현재 파티를 즉시 나가고 원하는 모집에 참가합니다.</target>
+        <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -9680,9 +9679,21 @@ UI: {0}
         <source>宏呈现方式</source>
         <target>매크로 표시 방식</target>
       </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
+        <source>请编辑消息的内容。</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
+        <source>请输入要添加的消息的内容。</source>
+      </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
         <target>메시지</target>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
+        <source>水平偏移</source>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-Offset-Y" xml:space="preserve">
+        <source>垂直偏移</source>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
@@ -10061,8 +10072,7 @@ UI: {0}
         <target>대상 선택</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
-        <source>使招募详情的留言文本可以被自由选中, 以快捷复制或临时编辑</source>
-        <target>모집 세부사항의 텍스트를 자유롭게 선택하여 빠르게 복사하거나 임시로 편집할 수 있도록 합니다.</target>
+        <source>使“招募详情”界面内的留言文本可被自由选中，以便复制或临时编辑。</source>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
