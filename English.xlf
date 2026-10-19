@@ -9304,15 +9304,15 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ChineseTwoPrecision" xml:space="preserve">
         <source>中文数字表达 (保留两位)</source>
-        <target>Chinese Format (2 decimal)</target>
+        <target>Chinese Format (2 decimals)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ChineseZeroPrecision" xml:space="preserve">
         <source>中文数字表达 (保留整数)</source>
-        <target>Chinese Format (whole)</target>
+        <target>Chinese Format (round-down)</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ClearFocusTarget" xml:space="preserve">
         <source>清除焦点目标</source>
-        <target>Disable Focus Target</target>
+        <target>Clear Focus</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-CustomColor" xml:space="preserve">
         <source>自定义颜色</source>
