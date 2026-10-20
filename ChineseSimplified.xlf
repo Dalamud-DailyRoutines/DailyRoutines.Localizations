@@ -3466,16 +3466,13 @@
         <source>自动盾姿</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
-        <source>结印完成后自动释放忍术</source>
-      </trans-unit>
-      <trans-unit id="AutoTenChiJin-Notification" xml:space="preserve">
-        <source>准备发动: {0}</source>
+        <source>结印后自动发动忍术</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
-        <source>配置完成后, 在自动模式下: 点击目标忍术技能后自动按顺序结印、释放; 在手动模式下: 自动使每个结印技能在一次结印期间仅能释放一次</source>
+        <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -4976,6 +4973,9 @@
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>编辑</source>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
@@ -8047,9 +8047,6 @@
       </trans-unit>
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
-      </trans-unit>
-      <trans-unit id="Emote" xml:space="preserve">
-        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
