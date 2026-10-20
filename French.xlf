@@ -4206,16 +4206,32 @@ Prix actuel : {3} ({4} / {5})</target>
         <target>Gestion automatique des servants</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
-        <source>&lt;情感动作名称/命令&gt; (&lt;间隔 (ms)&gt;) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作</source>
-        <target>&lt;Nom / commande d’emote&gt; (&lt;Intervalle (ms)&gt;) pour répéter une emote à l’intervalle défini (2000 ms par défaut).</target>
+        <source>停止重复执行情感动作。
+/pdr {command} &lt;情感动作&gt; (&lt;间隔&gt;) 以指定毫秒间隔（不传入间隔则使用默认值）重复执行对应的情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
+        <source>设置重复执行间隔</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
+        <source>要设置间隔为多少毫秒？</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
+        <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
+        <source>停止了重复执行情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
+        <source>重复执行</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
+        <source>停止重复执行</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
-        <source>添加 /pdr {0} {1}</source>
-        <target>Ajoute /pdr {0} {1}</target>
+        <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
-        <source>自动重复使用表情</source>
-        <target>Réutilisation automatique des emotes</target>
+        <source>自动重复执行表情</source>
       </trans-unit>
       <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
         <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -8859,12 +8875,7 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <target>Optimisation de l’interface « Liste des ennemis »</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
-        <source>默认页面</source>
-        <target>Coffre par défaut</target>
-      </trans-unit>
-      <trans-unit id="OptimizedFreeCompanyChest-DefaultPageHelp" xml:space="preserve">
-        <source>打开部队储物柜时的默认页面</source>
-        <target>Le coffre affiché par défaut lors de l’accès au coffre de compagnie libre.</target>
+        <source>设置为默认道具箱</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8875,16 +8886,13 @@ Exemple : pendant le combat contre le boss Doga de la mission « Tour de Zot »,
         <target>Transfert rapide amélioré</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
-        <source>启用时, 右键物品则会自动存入当前道具箱或取出至背包</source>
-        <target>Les objets peuvent être déposés ou récupérés par clic droit si activé</target>
+        <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
-        <source>对部队储物柜界面进行优化, 移除操作锁, 并提供右键快捷存取物品、修改默认页面等功能与额外信息显示</source>
-        <target>Fournit un coffre de compagnie libre amélioré sans délai obligatoire entre les actions, permettant le transfert rapide par clic droit, la personnalisation de la page par défaut, ainsi que l’affichage d’informations et statistiques utiles.</target>
+        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
-        <source>部队储物柜界面优化</source>
-        <target>Coffre de compagnie libre amélioré</target>
+        <source>“部队储物柜”界面优化</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
@@ -10806,6 +10814,9 @@ Pour utiliser ces modules, rejoignez notre serveur Discord (voir en bas à gauch
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>Zone</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
