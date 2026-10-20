@@ -4664,7 +4664,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
         <source>结印后自动发动忍术</source>
-        <target>Auto Ninjutsu After Mudras</target>
+        <target>Auto Ninjutsu After Mudra</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
@@ -4672,6 +4672,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
         <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
+        <target>Provide assistance while making Mudra for Ninjutsu.</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
