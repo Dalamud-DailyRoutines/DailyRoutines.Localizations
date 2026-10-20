@@ -4205,16 +4205,32 @@ XivGear (xivgear.app)</target>
         <target>自动管理雇员</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
-        <source>&lt;情感动作名称/命令&gt; (&lt;间隔 (ms)&gt;) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作</source>
-        <target>&lt;情感動作名稱/命令&gt; (&lt;間隔 (ms)&gt;) 以指定間隔 (默認 2000ms) 重複使用對應的情感動作</target>
+        <source>停止重复执行情感动作。
+/pdr {command} &lt;情感动作&gt; (&lt;间隔&gt;) 以指定毫秒间隔（不传入间隔则使用默认值）重复执行对应的情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
+        <source>设置重复执行间隔</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
+        <source>要设置间隔为多少毫秒？</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
+        <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
+        <source>停止了重复执行情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
+        <source>重复执行</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
+        <source>停止重复执行</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
-        <source>添加 /pdr {0} {1}</source>
-        <target>添加 /pdr {0} {1}</target>
+        <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
-        <source>自动重复使用表情</source>
-        <target>自動重複使用表情</target>
+        <source>自动重复执行表情</source>
       </trans-unit>
       <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
         <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -8858,12 +8874,7 @@ XivGear (xivgear.app)</target>
         <target>“敌对列表”界面优化</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
-        <source>默认页面</source>
-        <target>默認頁面</target>
-      </trans-unit>
-      <trans-unit id="OptimizedFreeCompanyChest-DefaultPageHelp" xml:space="preserve">
-        <source>打开部队储物柜时的默认页面</source>
-        <target>打開部隊置物櫃時的默認頁面</target>
+        <source>设置为默认道具箱</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8874,16 +8885,13 @@ XivGear (xivgear.app)</target>
         <target>快捷存取</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
-        <source>启用时, 右键物品则会自动存入当前道具箱或取出至背包</source>
-        <target>啟用時, 右鍵物品則會自動存入當前道具箱或取出至背包</target>
+        <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
-        <source>对部队储物柜界面进行优化, 移除操作锁, 并提供右键快捷存取物品、修改默认页面等功能与额外信息显示</source>
-        <target>對部隊置物櫃界面進行最佳化, 移除操作鎖, 並提供右鍵快捷存取物品、修改默認頁面等功能與額外資訊顯示</target>
+        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
-        <source>部队储物柜界面优化</source>
-        <target>部隊置物櫃界面最佳化</target>
+        <source>“部队储物柜”界面优化</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
@@ -10805,6 +10813,9 @@ XivGear (xivgear.app)</target>
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>區域</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
