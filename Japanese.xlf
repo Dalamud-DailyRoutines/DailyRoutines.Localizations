@@ -3024,6 +3024,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
         <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
+        <target>現在のギルドリーヴ受注権は{count}です。{date}（{relativeTimeText}）に上限となります。</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -4214,6 +4215,8 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
         <source>停止重复执行情感动作。
 /pdr {command} &lt;情感动作&gt; (&lt;间隔&gt;) 以指定毫秒间隔（不传入间隔则使用默认值）重复执行对应的情感动作。</source>
+        <target>エモートの繰り返し実行を停止します。
+/pdr {command} &lt;エモート&gt; (&lt;間隔&gt;) 指定したミリ秒間隔（間隔を渡さない場合はデフォルト値を使用）で対応するエモートを繰り返し実行します。</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
         <source>设置重复执行间隔</source>
