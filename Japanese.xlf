@@ -4220,18 +4220,23 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
         <source>设置重复执行间隔</source>
+        <target>繰り返し実行間隔を設定</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
         <source>要设置间隔为多少毫秒？</source>
+        <target>インターバルを何ミリ秒に設定しますか？</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
         <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
+        <target>{ms}ミリ秒のインターバルでエモート「{emote}」の繰り返し実行を開始します。</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
         <source>停止了重复执行情感动作。</source>
+        <target>エモートの繰り返し実行を停止しました。</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
         <source>重复执行</source>
+        <target>繰り返し実行</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
         <source>停止重复执行</source>
