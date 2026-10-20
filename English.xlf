@@ -3015,6 +3015,7 @@ Remaining Time: {0} second(s)</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
         <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
+        <target>{count, plural, one {# leve allowance} other {# leve allowances}} available at the moment. The cap will be reached on {date} ({relativeTimeText}).</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -3022,7 +3023,7 @@ Remaining Time: {0} second(s)</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdateDescription" xml:space="preserve">
         <source>配置后，在理符限额超过设定阈值时，自动发送通知提醒。</source>
-        <target>Automatically send a notification if the count of available Leve Allowances reaches the given threshold.</target>
+        <target>Automatically send a notification if the count of leve allowances reaches the given threshold.</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdateTitle" xml:space="preserve">
         <source>自动通知理符限额刷新</source>
@@ -4672,7 +4673,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
         <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
-        <target>Provide assistance while making Mudra for Ninjutsu.</target>
+        <target>Provide assistance while making Mudra for Ninjutsu. In auto mode, Mudra will be made in order automatically after clicking a Ninjutsu. In manual mode, each Mudra could only be made once before executing a Ninjutsu.</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
