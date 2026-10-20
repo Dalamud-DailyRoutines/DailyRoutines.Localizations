@@ -4217,16 +4217,19 @@ Price Now: {3} ({4} / {5})</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
         <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
-        <target>Now spamming the emote &quot;{emote}&quot; at an interval of {ms}</target>
+        <target>Now spamming the emote &quot;{emote}&quot; at an interval of {ms, plural, one {# millisecond} other {# milliseconds}}.</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
         <source>停止了重复执行情感动作。</source>
+        <target>Auto spam has been terminated.</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
         <source>重复执行</source>
+        <target>Spam</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
         <source>停止重复执行</source>
+        <target>Stop</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
         <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
