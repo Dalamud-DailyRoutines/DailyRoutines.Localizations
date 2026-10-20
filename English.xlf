@@ -3014,8 +3014,7 @@ Remaining Time: {0} second(s)</target>
         <target>Auto Duty Start Notification</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
-        <source>当前理符受理限额已达到{count}，将在{date}达到上限。</source>
-        <target>{count, plural, one {# leve allowance} other {# leve allowances}} available at the moment. The cap will be reached on {date}.</target>
+        <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -4654,20 +4653,14 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
         <target>Auto Tank Stance</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
-        <source>结印完成后自动释放忍术</source>
-        <target>Execute the Ninjutsu after making mudras</target>
-      </trans-unit>
-      <trans-unit id="AutoTenChiJin-Notification" xml:space="preserve">
-        <source>准备发动: {0}</source>
-        <target>Now executing {0}:</target>
+        <source>结印后自动发动忍术</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
         <target>Open the Ninjutsu interface</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
-        <source>配置完成后, 在自动模式下: 点击目标忍术技能后自动按顺序结印、释放; 在手动模式下: 自动使每个结印技能在一次结印期间仅能释放一次</source>
-        <target>Offer different assistance for Ninjutsu. Automatically perform Mudras in order and then perform the corresponding Ninjutsu in auto mode. Allow each mudra to be performed only once in manual mode.</target>
+        <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -6700,6 +6693,9 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
       <trans-unit id="Edit" xml:space="preserve">
         <source>编辑</source>
         <target>Edit</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
@@ -10821,9 +10817,6 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>Zone</target>
-      </trans-unit>
-      <trans-unit id="Emote" xml:space="preserve">
-        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
