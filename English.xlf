@@ -8890,7 +8890,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMove" xml:space="preserve">
         <source>快捷存取</source>
-        <target>Better Shuttling</target>
+        <target>Better Storage &amp; Retrieval</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
         <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
@@ -8900,6 +8900,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
+        <target>Better Company Chest</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
