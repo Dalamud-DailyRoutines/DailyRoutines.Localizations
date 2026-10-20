@@ -2237,7 +2237,7 @@
         <source>自动通知副本开始</source>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
-        <source>当前理符受理限额已达到{count}，将在{date}达到上限。</source>
+        <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
