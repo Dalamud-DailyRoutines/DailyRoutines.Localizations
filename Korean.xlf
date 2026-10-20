@@ -3021,8 +3021,7 @@
         <target>콘텐츠 시작 알림</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
-        <source>当前理符受理限额已达到{count}，将在{date}达到上限。</source>
-        <target>현재 의뢰 수주권 {count}장, {date}에 최대치에 도달합니다.</target>
+        <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -4664,21 +4663,14 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
         <target>【탱커】 자동 스탠스</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
-        <source>结印完成后自动释放忍术</source>
-        <target>자동으로 인술 발동</target>
-      </trans-unit>
-      <trans-unit id="AutoTenChiJin-Notification" xml:space="preserve">
-        <source>准备发动: {0}</source>
-        <target>발동 준비: {0}</target>
+        <source>结印后自动发动忍术</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
         <target>인술 스킬 창 열기</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
-        <source>配置完成后, 在自动模式下: 点击目标忍术技能后自动按顺序结印、释放; 在手动模式下: 自动使每个结印技能在一次结印期间仅能释放一次</source>
-        <target>설정 완료 후, 자동 모드에서는: 대상한테 인술 기술을 클릭하면 순서대로 인을 사용하고 인술을 발동합니다.
-수동 모드에서는: 각 인 기술이 한 번의 인들을 사용하는 동안 단 한 번만 발동되도록 자동으로 설정됩니다.</target>
+        <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -6709,6 +6701,9 @@ UI: {0}
       <trans-unit id="Edit" xml:space="preserve">
         <source>编辑</source>
         <target>편집</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
@@ -10825,9 +10820,6 @@ UI: {0}
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>존</target>
-      </trans-unit>
-      <trans-unit id="Emote" xml:space="preserve">
-        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
