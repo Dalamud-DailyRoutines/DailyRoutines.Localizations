@@ -653,7 +653,7 @@ For example: Naoki YoshidaChocobo</target>
       </trans-unit>
       <trans-unit id="AutoCheckItemLevelDescription" xml:space="preserve">
         <source>进入副本后，自动检查小队成员等级与装备品级信息，突出标记可能仅堪堪满足任务要求的成员。</source>
-        <target>Automatically scan the character levels and item levels of the party, then highlight the members that barely satisfy the requirement.</target>
+        <target>Automatically scan all the party members in order to check their character level and item level, then highlight ones that barely satisfy the duty requirement.</target>
       </trans-unit>
       <trans-unit id="AutoCheckItemLevelTitle" xml:space="preserve">
         <source>自动检查装备品级</source>
@@ -705,11 +705,11 @@ For example: Naoki YoshidaChocobo</target>
       </trans-unit>
       <trans-unit id="AutoCollectableExchange-Notification-NoInclusionShop" xml:space="preserve">
         <source>附近没有可以对话的工票交易员。</source>
-        <target>No scrip exchange available nearby.</target>
+        <target>No scrip exchange NPC available nearby.</target>
       </trans-unit>
       <trans-unit id="AutoCollectableExchangeDescription" xml:space="preserve">
         <source>支持在“收藏品交易”界面中按住打断热键批量交换全部收藏品，并添加“工票交易”按钮以快捷对话工票交易员。</source>
-        <target>Enable batch collectables exchange by holding the interrupt hotkey. Provide better access to scrip exchange NPCs nearby by introducing a &quot;Scrip Exchange&quot; button.</target>
+        <target>Allow to enable batch collectables exchange by holding the interrupt hotkey. Provide better access to scrip exchange NPCs nearby by introducing a &quot;Scrip Exchange&quot; button.</target>
       </trans-unit>
       <trans-unit id="AutoCollectableExchangeTitle" xml:space="preserve">
         <source>自动交易收藏品</source>
