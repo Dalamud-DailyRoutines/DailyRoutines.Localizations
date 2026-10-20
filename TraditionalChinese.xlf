@@ -3015,8 +3015,7 @@ XivGear (xivgear.app)</target>
         <target>自動通知副本開始</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
-        <source>当前理符受理限额已达到{count}，将在{date}达到上限。</source>
-        <target>当前理符受理限额已达到{count}，将在{date}达到上限。</target>
+        <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -4657,20 +4656,14 @@ XivGear (xivgear.app)</target>
         <target>自動盾姿</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
-        <source>结印完成后自动释放忍术</source>
-        <target>結印完成後自動釋放忍術</target>
-      </trans-unit>
-      <trans-unit id="AutoTenChiJin-Notification" xml:space="preserve">
-        <source>准备发动: {0}</source>
-        <target>準備發動: {0}</target>
+        <source>结印后自动发动忍术</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
         <target>打開忍術技能界面</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
-        <source>配置完成后, 在自动模式下: 点击目标忍术技能后自动按顺序结印、释放; 在手动模式下: 自动使每个结印技能在一次结印期间仅能释放一次</source>
-        <target>配置完成後, 在自動模式下: 點擊目標忍術技能後自動按順序結印、釋放; 在手動模式下: 自動使每個結印技能在一次結印期間僅能釋放一次</target>
+        <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -6701,6 +6694,9 @@ XivGear (xivgear.app)</target>
       <trans-unit id="Edit" xml:space="preserve">
         <source>编辑</source>
         <target>編輯</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
@@ -10813,9 +10809,6 @@ XivGear (xivgear.app)</target>
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>區域</target>
-      </trans-unit>
-      <trans-unit id="Emote" xml:space="preserve">
-        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
