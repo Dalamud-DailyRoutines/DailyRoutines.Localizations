@@ -4211,16 +4211,32 @@
         <target>自动管理雇员</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
-        <source>&lt;情感动作名称/命令&gt; (&lt;间隔 (ms)&gt;) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作</source>
-        <target>&lt;감정 표현명/명령어&gt; (&lt;간격(ms)&gt;) 지정한 간격(기본값은 2000ms)으로 해당 감정 표현 반복 사용</target>
+        <source>停止重复执行情感动作。
+/pdr {command} &lt;情感动作&gt; (&lt;间隔&gt;) 以指定毫秒间隔（不传入间隔则使用默认值）重复执行对应的情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
+        <source>设置重复执行间隔</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
+        <source>要设置间隔为多少毫秒？</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
+        <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
+        <source>停止了重复执行情感动作。</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
+        <source>重复执行</source>
+      </trans-unit>
+      <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
+        <source>停止重复执行</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
-        <source>添加 /pdr {0} {1}</source>
-        <target>/pdr {0} {1} 을 추가합니다.</target>
+        <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
-        <source>自动重复使用表情</source>
-        <target>감정 표현 자동 재사용</target>
+        <source>自动重复执行表情</source>
       </trans-unit>
       <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
         <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -8866,12 +8882,7 @@ UI: {0}
         <target>“敌对列表”界面优化</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
-        <source>默认页面</source>
-        <target>기본 페이지</target>
-      </trans-unit>
-      <trans-unit id="OptimizedFreeCompanyChest-DefaultPageHelp" xml:space="preserve">
-        <source>打开部队储物柜时的默认页面</source>
-        <target>부대 금고를 열었을 때의 기본 페이지</target>
+        <source>设置为默认道具箱</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8882,16 +8893,13 @@ UI: {0}
         <target>퀵 액세스</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
-        <source>启用时, 右键物品则会自动存入当前道具箱或取出至背包</source>
-        <target>아이템을 우클릭해 현재 금고에 넣거나 가방으로 꺼낼 수 있습니다.</target>
+        <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
-        <source>对部队储物柜界面进行优化, 移除操作锁, 并提供右键快捷存取物品、修改默认页面等功能与额外信息显示</source>
-        <target>부대 금고 화면을 개량하여 조작 잠금을 해제했습니다. 우클릭 입출고, 기본 페이지 변경, 추가 정보 표시 기능을 추가합니다.</target>
+        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
-        <source>部队储物柜界面优化</source>
-        <target>부대 금고 개선</target>
+        <source>“部队储物柜”界面优化</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
@@ -10817,6 +10825,9 @@ UI: {0}
       <trans-unit id="Zone" xml:space="preserve">
         <source>区域</source>
         <target>존</target>
+      </trans-unit>
+      <trans-unit id="Emote" xml:space="preserve">
+        <source>情感动作</source>
       </trans-unit>
     </body>
   </file>
