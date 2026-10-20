@@ -2935,7 +2935,7 @@ Remaining Time: {0} second(s)</target>
       </trans-unit>
       <trans-unit id="AutoNotifyCutsceneEndTitle" xml:space="preserve">
         <source>自动通知过场剧情结束</source>
-        <target>Auto In-duty Cutscene Notification</target>
+        <target>Auto Cutscene Finishing Notification</target>
       </trans-unit>
       <trans-unit id="AutoNotifyDiademWeather-Notification" xml:space="preserve">
         <source>特殊天气“{weather}”出现了！</source>
