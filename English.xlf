@@ -4664,10 +4664,11 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
         <source>结印后自动发动忍术</source>
+        <target>Auto Ninjutsu After Mudras</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
-        <target>Open the Ninjutsu interface</target>
+        <target>Access Ninjutsu Interface</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
         <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
@@ -8883,6 +8884,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
         <source>设置为默认道具箱</source>
+        <target>Set As Default</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8894,9 +8896,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
         <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
+        <target>Right click to store or retrieve items between the company chest and the inventory.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
         <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
+        <target>Provide a better Company Chest allowing to store or retrieve items by right clicking and customize the default tab upon accessing. The action lock will be disabled too. The feature also comes with a price estimate for exchangeable items.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
