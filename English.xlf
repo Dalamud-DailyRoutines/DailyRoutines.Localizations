@@ -9696,7 +9696,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
-        <target>Please enter the message content.</target>
+        <target>Please enter the message.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
@@ -9704,6 +9704,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
         <source>复制了“{text}”到剪贴板。</source>
+        <target>&quot;{text}&quot; has been copied to the clipboard.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
         <source>水平偏移</source>
@@ -9727,6 +9728,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialChar-Copy" xml:space="preserve">
         <source>复制“{text}”（{hexText}）到剪贴板</source>
+        <target>Copy &quot;{text}&quot; ({hexText}) To Clipboard</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialIconChar" xml:space="preserve">
         <source>特殊字符</source>
@@ -9738,6 +9740,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSound-EditPrompt" xml:space="preserve">
         <source>请输入想要为系统音{soundEffectIndex}指定的备注。</source>
+        <target>Please enter the comment for the system sound {soundEffectIndex}.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSoundHelp" xml:space="preserve">
         <source>左键试听，右键发送。</source>
@@ -10695,9 +10698,11 @@ Recommended modules are the modules officially recommended by Daily Routines dev
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpDescription" xml:space="preserve">
         <source>使所有职业拔出武器时的跳跃动作都变成忍者的后空翻动作。</source>
+        <target>Replace the jump with Ninja Flip while drawing the weapon regardless of the current job.</target>
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpTitle" xml:space="preserve">
         <source>全职业忍者跳跃动作</source>
+        <target>Ninja Flip For Everyone</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>未知</source>
