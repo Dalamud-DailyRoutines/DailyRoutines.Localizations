@@ -6030,14 +6030,6 @@ UI: {0}
         <source>点击以打开</source>
         <target>클릭해 열기</target>
       </trans-unit>
-      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
-        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
-        <target>지도에서 도시 내 에테라이트를 직접 클릭하여 텔레포할 수 있습니다. 일반 에테라이트와 동일하게 이용할 수 있습니다.</target>
-      </trans-unit>
-      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
-        <source>城内以太之晶地图传送</source>
-        <target>도시 내 에테라이트 지도 텔레포</target>
-      </trans-unit>
       <trans-unit id="ClipboardMultiLineToOneLineDescription" xml:space="preserve">
         <source>在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送</source>
         <target>게임 내 한 줄 입력창에 텍스트를 붙여넣을 때는 여러 줄의 텍스트를 강제로 한 줄로 변환하여 입력합니다. 여러 줄 입력창에 텍스트를 붙여넣을 때는 각종 줄 바꿈 문자를 게임에서 지원하는 줄 바꿈 형식으로 강제 변환하여 편집 및 전송이 용이하도록 합니다.</target>
@@ -9057,6 +9049,12 @@ UI: {0}
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>用户宏指令界面优化</source>
         <target>사용자 매크로 UI 최적화</target>
+      </trans-unit>
+      <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
+        <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
+        <source>“地图”界面以太之光优化</source>
       </trans-unit>
       <trans-unit id="OptimizedPVPProfileActionDescription" xml:space="preserve">
         <source>优化“对战专用特职技能”界面，使原本不可被设置到热键栏的技能也可被拖出设置到对战专用热键栏。</source>
