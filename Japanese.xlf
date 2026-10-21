@@ -8718,9 +8718,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Apartment" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号房间）</source>
+        <target>{houseType}（{zoneName}第{ward}区{plot}号室）</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Estate" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号）</source>
+        <target>{houseType}（{zoneName}第{ward}区{plot}番地）</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-HouseType-FreeCompany" xml:space="preserve">
         <source>部队房屋</source>
@@ -9721,6 +9723,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
         <source>复制了“{text}”到剪贴板。</source>
+        <target>「{text}」をクリップボードにコピーしました。</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
         <source>水平偏移</source>
@@ -9744,6 +9747,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialChar-Copy" xml:space="preserve">
         <source>复制“{text}”（{hexText}）到剪贴板</source>
+        <target>「{text}」（{hexText}）をクリップボードにコピーしました</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialIconChar" xml:space="preserve">
         <source>特殊字符</source>
@@ -9755,6 +9759,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSound-EditPrompt" xml:space="preserve">
         <source>请输入想要为系统音{soundEffectIndex}指定的备注。</source>
+        <target>システム音{soundEffectIndex}に指定するメモを入力してください。</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSoundHelp" xml:space="preserve">
         <source>左键试听，右键发送。</source>
