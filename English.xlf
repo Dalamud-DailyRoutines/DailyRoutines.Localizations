@@ -9066,9 +9066,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
+        <target>Provide better aetherytes and aethernet shards on the map, by making them always on top and making aethernet shards interactable for teleportation purposes.</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
         <source>“地图”界面以太之光优化</source>
+        <target>Better Aetheryte On Map</target>
       </trans-unit>
       <trans-unit id="OptimizedPVPProfileActionDescription" xml:space="preserve">
         <source>优化“对战专用特职技能”界面，使原本不可被设置到热键栏的技能也可被拖出设置到对战专用热键栏。</source>
