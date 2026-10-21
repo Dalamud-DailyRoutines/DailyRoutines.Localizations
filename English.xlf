@@ -10688,6 +10688,12 @@ Recommended modules are the modules officially recommended by Daily Routines dev
         <source>统一投影管理器</source>
         <target>Unified Glamour Manager</target>
       </trans-unit>
+      <trans-unit id="UniversalNinjaJumpDescription" xml:space="preserve">
+        <source>使所有职业拔出武器时的跳跃动作都变成忍者的后空翻动作。</source>
+      </trans-unit>
+      <trans-unit id="UniversalNinjaJumpTitle" xml:space="preserve">
+        <source>全职业忍者跳跃动作</source>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>未知</source>
         <target>Unknown</target>
