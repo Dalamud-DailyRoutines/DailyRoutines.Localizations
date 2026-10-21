@@ -10705,9 +10705,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpDescription" xml:space="preserve">
         <source>使所有职业拔出武器时的跳跃动作都变成忍者的后空翻动作。</source>
+        <target>抜刀時のジャンプアクションを、全ジョブで忍者のバク転動作に変更します。</target>
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpTitle" xml:space="preserve">
         <source>全职业忍者跳跃动作</source>
+        <target>全ジョブ忍者のジャンプモーション</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>未知</source>
