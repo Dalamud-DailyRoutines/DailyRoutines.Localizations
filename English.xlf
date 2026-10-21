@@ -6035,14 +6035,6 @@ Parameter(s): {1}</target>
         <source>点击以打开</source>
         <target>Click to Open</target>
       </trans-unit>
-      <trans-unit id="ClickableAethernetDescription" xml:space="preserve">
-        <source>允许在地图中直接点击城内以太之晶发起传送，如同以太之光。</source>
-        <target>Allow to directly teleport to an aethernet shard by clicking it on the map, like how aetherytes work.</target>
-      </trans-unit>
-      <trans-unit id="ClickableAethernetTitle" xml:space="preserve">
-        <source>城内以太之晶地图传送</source>
-        <target>Teleportable Aethernet On Map</target>
-      </trans-unit>
       <trans-unit id="ClipboardMultiLineToOneLineDescription" xml:space="preserve">
         <source>在游戏内单行文本输入框粘贴文本时, 强制将多行文本转成单行; 在多行文本输入框时, 强制将各类换行符都转换为游戏支持的换行符, 以方便编辑发送</source>
         <target>Multi-line texts would be automatically converted into single-line texts while pasting in any single-line input bar. End-of-line characters would be converted into ones valid for the game while pasting in any multi-line input bar.</target>
@@ -9069,6 +9061,12 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>用户宏指令界面优化</source>
         <target>Better Macro Storage</target>
+      </trans-unit>
+      <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
+        <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
+        <source>“地图”界面以太之光优化</source>
       </trans-unit>
       <trans-unit id="OptimizedPVPProfileActionDescription" xml:space="preserve">
         <source>优化“对战专用特职技能”界面，使原本不可被设置到热键栏的技能也可被拖出设置到对战专用热键栏。</source>
