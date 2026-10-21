@@ -4240,12 +4240,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
         <source>停止重复执行</source>
+        <target>繰り返し実行を停止</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
         <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
+        <target>指定したエモートを一定間隔で繰り返し実行します。「エモート」ウィンドウのエモートの右クリックメニュー、またはテキストコマンド「/pdr {command}」から繰り返し実行を開始できます。</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
         <source>自动重复执行表情</source>
+        <target>エモートの自動繰り返し実行</target>
       </trans-unit>
       <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
         <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -4674,6 +4677,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
         <source>结印后自动发动忍术</source>
+        <target>印を結んだ後に忍術を自動発動</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
@@ -4681,6 +4685,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
         <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
+        <target>忍術の発動プロセスを最適化します。自動モードでは、忍術アクションをクリックすると、自動で順番に印を結びその忍術を発動します。手動モードでは、結印中に単一の印アクションが1回のみ発動されるよう自動で制限します。</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -6715,6 +6720,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="Emote" xml:space="preserve">
         <source>情感动作</source>
+        <target>エモート</target>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
