@@ -8916,9 +8916,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
         <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
+        <target>「FCチェスト」ウィンドウを拡張します。右クリックによるアイテムのクイック入出庫に対応し、開く際の初期ページを変更可能にします。ページ内の換金用アイテムの総額を表示し、出し入れ時の操作クールダウンを撤廃します。</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
+        <target>「FCチェスト」ウィンドウの拡張</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
@@ -9408,6 +9410,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
         <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
+        <target>「ターゲット情報」および「フォーカスタゲット情報」ウィンドウを拡張します。詳細なHPやスキル詠唱時間を常時表示し、自身が与えたステータス効果を拡大表示するほか、フォーカスタゲットを迅速に解除できるボタンを追加します。</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoTitle" xml:space="preserve">
         <source>目标情报界面优化</source>
@@ -9708,6 +9711,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
         <source>请编辑消息的内容。</source>
+        <target>メッセージの内容を編集してください。</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
