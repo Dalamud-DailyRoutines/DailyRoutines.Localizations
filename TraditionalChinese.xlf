@@ -8688,12 +8688,10 @@ XivGear (xivgear.app)</target>
         <target>偏移</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Apartment" xml:space="preserve">
-        <source>{0} {1} (第 {2} 区 {3} 号房间)</source>
-        <target>{0} {1} (第 {2} 區 {3} 號房間)</target>
+        <source>{houseType}（{zoneName}第{ward}区{plot}号房间）</source>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Estate" xml:space="preserve">
-        <source>{0} {1} (第 {2} 区 {3} 号)</source>
-        <target>{0} {1} (第 {2} 區 {3} 號)</target>
+        <source>{houseType}（{zoneName}第{ward}区{plot}号）</source>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-HouseType-FreeCompany" xml:space="preserve">
         <source>部队房屋</source>
@@ -9684,6 +9682,9 @@ XivGear (xivgear.app)</target>
         <source>消息</source>
         <target>訊息</target>
       </trans-unit>
+      <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
+        <source>复制了“{text}”到剪贴板。</source>
+      </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
         <source>水平偏移</source>
       </trans-unit>
@@ -9702,6 +9703,9 @@ XivGear (xivgear.app)</target>
         <source>左键复制，右键发送。</source>
         <target>左键复制，右键发送。</target>
       </trans-unit>
+      <trans-unit id="QuickChatPanel-SpecialChar-Copy" xml:space="preserve">
+        <source>复制“{text}”（{hexText}）到剪贴板</source>
+      </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialIconChar" xml:space="preserve">
         <source>特殊字符</source>
         <target>特殊字元</target>
@@ -9709,6 +9713,9 @@ XivGear (xivgear.app)</target>
       <trans-unit id="QuickChatPanel-SystemSound" xml:space="preserve">
         <source>系统音效</source>
         <target>系统音效</target>
+      </trans-unit>
+      <trans-unit id="QuickChatPanel-SystemSound-EditPrompt" xml:space="preserve">
+        <source>请输入想要为系统音{soundEffectIndex}指定的备注。</source>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSoundHelp" xml:space="preserve">
         <source>左键试听，右键发送。</source>
