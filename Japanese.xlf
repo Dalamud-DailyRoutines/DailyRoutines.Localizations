@@ -7099,6 +7099,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
         <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
+        <target>「募集詳細」ウィンドウに、現在のパーティを脱退して対象の募集パーティへ即座に参加するためのボタンを追加します。</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -8899,6 +8900,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
         <source>设置为默认道具箱</source>
+        <target>デフォルトのページに設定</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8910,6 +8912,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
         <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
+        <target>アイテムを右クリックすると、現在開いているページのチェストへ直接収納、または所持品へ取り出します。</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
         <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
