@@ -1800,6 +1800,60 @@
       <trans-unit id="AutoMarksFinder-AddPoint" xml:space="preserve">
         <source>录入点位</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilot" xml:space="preserve">
+        <source>自动驾驶</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotApply" xml:space="preserve">
+        <source>应用出发时间</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotCalibOffset" xml:space="preserve">
+        <source>校准偏差: {0} 秒</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotCalibrate" xml:space="preserve">
+        <source>校准服务器时间</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotDepartNow" xml:space="preserve">
+        <source>已到达出发时间</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotDepartTime" xml:space="preserve">
+        <source>出发时间 (HH:mm)</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotDepartTimeSet" xml:space="preserve">
+        <source>已将出发时间设置为 {0}</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotInvalidDepartTime" xml:space="preserve">
+        <source>出发时间格式无效, 请使用 HH:mm 格式</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotLocalTime" xml:space="preserve">
+        <source>本地时间: {0}</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotOn" xml:space="preserve">
+        <source>自动驾驶中</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotProgress" xml:space="preserve">
+        <source>正在前往第 {0} 个点位</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotRemain" xml:space="preserve">
+        <source>距出发还有 {0}</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotServerTime" xml:space="preserve">
+        <source>服务器时间: {0}</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotServerTimeUncalibrated" xml:space="preserve">
+        <source>服务器时间未校准</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotSettings" xml:space="preserve">
+        <source>自动驾驶设置</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotStartTip" xml:space="preserve">
+        <source>已启动自动驾驶, 即将前往第一个点位</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotTooltipStart" xml:space="preserve">
+        <source>左键启动自动驾驶, 右键打开设置</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoPilotTooltipStop" xml:space="preserve">
+        <source>左键停止自动驾驶, 右键打开设置</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoSort" xml:space="preserve">
         <source>自动排序</source>
       </trans-unit>
@@ -1876,6 +1930,12 @@
         <source>{0} - 恶名精英所在坐标
 {1} - 恶名精英名称
 {2} - 恶名精英所在分线 (如 &quot;1 线&quot;) (若不存在分线则此项为空)</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RelayAutoPilotEnd" xml:space="preserve">
+        <source>自动驾驶结束宏</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RelayAutoPilotStart" xml:space="preserve">
+        <source>自动驾驶开始宏</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
         <source>播报消息类型</source>
