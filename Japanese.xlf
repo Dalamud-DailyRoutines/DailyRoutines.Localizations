@@ -9092,15 +9092,19 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
+        <target>「マクロ」ウィンドウを拡張します。すべてのマクロコマンドを切り替え可能な複数のプリセットとして保存できるようにし、マクロコマンドに行番号を表示します。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>“用户宏指令”界面优化</source>
+        <target>「マクロ」ウィンドウの拡張</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
+        <target>「マップ」ウィンドウ内のエーテライトおよび都市内エーテライトを常に最前面へ表示するように拡張し、都市内エーテライトからもエーテライトと同様に相互テレポできるようにします。</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
         <source>“地图”界面以太之光优化</source>
+        <target>「マップ」ウィンドウのエーテライト表示拡張</target>
       </trans-unit>
       <trans-unit id="OptimizedPVPProfileActionDescription" xml:space="preserve">
         <source>优化“对战专用特职技能”界面，使原本不可被设置到热键栏的技能也可被拖出设置到对战专用热键栏。</source>
