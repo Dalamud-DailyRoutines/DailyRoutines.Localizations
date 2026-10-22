@@ -9063,9 +9063,11 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
+        <target>Provide a better macro system, allowing to save available macros as a whole in a preset and switch among presets. The feature comes with a line indicator for macros.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>“用户宏指令”界面优化</source>
+        <target>Better Macro</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
