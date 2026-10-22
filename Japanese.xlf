@@ -9032,27 +9032,35 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
         <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
+        <target>&lt;表示名&gt; 指定した表示名のマクロプリセットを読み込みます。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
         <source>确定要删除预设“{presetName}”吗？</source>
+        <target>プリセット「{presetName}」を削除してもよろしいですか？</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
         <source>请输入待保存预设的显示名称。</source>
+        <target>保存するプリセットの表示名を入力してください。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-UpdateInput" xml:space="preserve">
         <source>请输入预设更新后的显示名称。</source>
+        <target>更新後のプリセットの表示名を入力してください。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Delete-NotFound" xml:space="preserve">
         <source>删除宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>マクロプリセットの削除に失敗しました。表示名が「{preset}」のマクロプリセットが見つかりません。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
         <source>删除了宏预设“{presetName}”。</source>
+        <target>マクロプリセット「{presetName}」を削除しました。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Load-NotFound" xml:space="preserve">
         <source>读取宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>マクロプリセットの読み込みに失敗しました。表示名が「{preset}」のマクロプリセットが見つかりません。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
         <source>读取了宏预设“{presetName}”。</source>
+        <target>マクロプリセット「{presetName}」を読み込みました。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
         <source>无法完成操作，宏预设的显示名称为空。</source>
