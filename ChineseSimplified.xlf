@@ -1797,20 +1797,38 @@
       <trans-unit id="AutoMarkAetherCurrentsTitle" xml:space="preserve">
         <source>自动标记风脉泉</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-AddPoint" xml:space="preserve">
+        <source>录入点位</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-AutoSort" xml:space="preserve">
+        <source>自动排序</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-CantSortEmptyList" xml:space="preserve">
         <source>恶名精英列表为空, 无法排序</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-CantSortNullStartingPoint" xml:space="preserve">
         <source>起始点为空，无法排序</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-ClearZonePoints" xml:space="preserve">
+        <source>清空本区点位</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
         <source>创建时间: {0}</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-DeleteRoute" xml:space="preserve">
+        <source>删除配置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
         <source>发现 {0} 级恶名精英: {1} 于 {2}</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-ExportRoutes" xml:space="preserve">
+        <source>导出全部配置</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
         <source>打开微型狩猎行车界面</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-ImportRoutes" xml:space="preserve">
+        <source>导入配置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-IntendedStartingPoint" xml:space="preserve">
         <source>指定出发点</source>
@@ -1821,20 +1839,35 @@
       <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
         <source>最近的以太之光</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-NewRoute" xml:space="preserve">
+        <source>新建路线配置</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-NewTrainListTip" xml:space="preserve">
         <source>新建列表, 按下 Enter 键确认</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-NoPoints" xml:space="preserve">
+        <source>该配置暂无点位</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
         <source>当前无任何正在运行的扫描器</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-NoUpstreamPoints" xml:space="preserve">
+        <source>尚未获取上游点位，点击“更新点位数据”获取</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-PointDelayMS" xml:space="preserve">
         <source>单点位延迟 (ms)</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-PointTooClose" xml:space="preserve">
+        <source>与上一点距离过近，需至少 {0} 米</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-Rank" xml:space="preserve">
         <source>级别</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RankForEachMark" xml:space="preserve">
         <source>{0} 级</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-Recorder" xml:space="preserve">
+        <source>路线录制</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
         <source>播报以太之光</source>
@@ -1856,8 +1889,26 @@
       <trans-unit id="AutoMarksFinder-RelaySetting" xml:space="preserve">
         <source>播报设置</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-ReverseSort" xml:space="preserve">
+        <source>倒序</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RouteConfig" xml:space="preserve">
+        <source>路线配置</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RouteName" xml:space="preserve">
+        <source>配置名称</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RouteSaved" xml:space="preserve">
+        <source>路线配置已保存</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
         <source>路线</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-RoutesImported" xml:space="preserve">
+        <source>已导入 {0} 个路线配置</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-SaveRoute" xml:space="preserve">
+        <source>保存配置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SaveTo" xml:space="preserve">
         <source>保存位置:</source>
@@ -1868,11 +1919,20 @@
       <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
         <source>扫描结果</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-ScanSourceLocal" xml:space="preserve">
+        <source>当前扫描使用：本地录制</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-ScanSourceUpstream" xml:space="preserve">
+        <source>当前扫描使用：上游点位</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
         <source>扫描设置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SelectRoutes" xml:space="preserve">
         <source>选择路线</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-SelectedRoutePreview" xml:space="preserve">
+        <source>已选 {0} 个配置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
         <source>已选择 {0} 个目标区域</source>
@@ -1882,6 +1942,12 @@
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SortAccordingToStartingPoint" xml:space="preserve">
         <source>根据出发点排序</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-StartRecording" xml:space="preserve">
+        <source>开始录制</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-StopRecording" xml:space="preserve">
+        <source>停止录制</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-SwitchMarkAlive" xml:space="preserve">
         <source>切换存活状态</source>
@@ -1895,11 +1961,20 @@
       <trans-unit id="AutoMarksFinder-TeleportToMobsZone" xml:space="preserve">
         <source>传送至对应区域</source>
       </trans-unit>
+      <trans-unit id="AutoMarksFinder-UndoPoint" xml:space="preserve">
+        <source>撤销上一点</source>
+      </trans-unit>
       <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
         <source>更新点位数据</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
         <source>更新了 {0} 个恶名精英点位</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-UpstreamPointsInfo" xml:space="preserve">
+        <source>共 {0} 个区域 / {1} 个点位</source>
+      </trans-unit>
+      <trans-unit id="AutoMarksFinder-UseUpstreamPoints" xml:space="preserve">
+        <source>使用上游点位</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
         <source>{0} {1} 线</source>
