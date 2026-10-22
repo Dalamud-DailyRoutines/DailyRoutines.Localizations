@@ -9021,21 +9021,26 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
         <source>确定要删除预设“{presetName}”吗？</source>
+        <target>Delete the preset &quot;{presetName}&quot;?</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
         <source>请输入待保存预设的显示名称。</source>
+        <target>Please enter a preset name.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-UpdateInput" xml:space="preserve">
         <source>请输入预设更新后的显示名称。</source>
+        <target>Please enter a new name for the preset.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Delete-NotFound" xml:space="preserve">
         <source>删除宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>Deletion failed since there is no preset named &quot;{preset}&quot;.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
         <source>删除了宏预设“{presetName}”。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Load-NotFound" xml:space="preserve">
         <source>读取宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>Read failed since there is no preset named &quot;{preset}&quot;.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
         <source>读取了宏预设“{presetName}”。</source>
@@ -9046,6 +9051,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
         <source>保存了当前全部宏指令为“{presetName}”预设。</source>
+        <target>All the current macros have been saved to the preset &quot;{presetName}&quot;.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
         <source>更新宏预设失败，显示名称不能留空。</source>
@@ -9711,7 +9717,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
-        <target>Please enter the message.</target>
+        <target>Please enter a message.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
