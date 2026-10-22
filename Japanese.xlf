@@ -9064,24 +9064,31 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
         <source>无法完成操作，宏预设的显示名称为空。</source>
+        <target>操作を完了できません。マクロプリセットの表示名が空です。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
         <source>保存了当前全部宏指令为“{presetName}”预设。</source>
+        <target>現在のすべてのマクロコマンドを「{presetName}」プリセットとして保存しました。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
         <source>更新宏预设失败，显示名称不能留空。</source>
+        <target>マクロプリセットの更新に失敗しました。表示名を空にすることはできません。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Existed" xml:space="preserve">
         <source>更新宏预设失败，修改后的显示名称与其他预设重名。</source>
+        <target>マクロプリセットの更新に失敗しました。変更後の表示名が他のプリセットと重複しています。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-NotFound" xml:space="preserve">
         <source>更新宏预设失败，无法确定要更新的预设。</source>
+        <target>マクロプリセットの更新に失敗しました。更新対象のプリセットを特定できません。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-SameAsBefore" xml:space="preserve">
         <source>更新宏预设失败，修改前后的显示名称相同。</source>
+        <target>マクロプリセットの更新に失敗しました。変更前後の表示名が同じです。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
         <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
+        <target>マクロプリセット「{beforeName}」の表示名を「{afterName}」に変更しました。</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
