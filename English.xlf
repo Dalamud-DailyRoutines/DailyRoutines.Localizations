@@ -9018,6 +9018,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
         <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
+        <target>&lt;preset name&gt; to load the specified macro preset.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
         <source>确定要删除预设“{presetName}”吗？</source>
@@ -9037,6 +9038,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
         <source>删除了宏预设“{presetName}”。</source>
+        <target>The macro preset &quot;{presetName}&quot; has been deleted.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Load-NotFound" xml:space="preserve">
         <source>读取宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
@@ -9044,6 +9046,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
         <source>读取了宏预设“{presetName}”。</source>
+        <target>The macro preset &quot;{presetName}&quot; has been loaded.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
         <source>无法完成操作，宏预设的显示名称为空。</source>
