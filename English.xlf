@@ -9042,32 +9042,38 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
         <source>无法完成操作，宏预设的显示名称为空。</source>
+        <target>Save failed due to an empty preset name.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
         <source>保存了当前全部宏指令为“{presetName}”预设。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
         <source>更新宏预设失败，显示名称不能留空。</source>
+        <target>Update failed due to an empty preset name.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Existed" xml:space="preserve">
         <source>更新宏预设失败，修改后的显示名称与其他预设重名。</source>
+        <target>Update failed due to a duplicate preset name.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-NotFound" xml:space="preserve">
         <source>更新宏预设失败，无法确定要更新的预设。</source>
+        <target>Update failed since the preset to be renamed has not been specified.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-SameAsBefore" xml:space="preserve">
         <source>更新宏预设失败，修改前后的显示名称相同。</source>
+        <target>Update failed due to an identical preset name.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
         <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
+        <target>The macro preset &quot;{beforeName}&quot; has been renamed to &quot;{afterName}&quot;.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
-        <target>Provide a better macro system, allowing to save available macros as a whole in a preset and switch among presets. The feature comes with a line indicator for macros.</target>
+        <target>Provide better macro management, allowing to save available macros as a whole in a preset and switch among presets. The feature comes with line numbers for macros.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>“用户宏指令”界面优化</source>
-        <target>Better Macro</target>
+        <target>Better Macro Management</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
