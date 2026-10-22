@@ -9017,52 +9017,55 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
         <target>Better Letters</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
-        <source>&lt;预设名称&gt; 读取指定名称的宏指令预设</source>
-        <target>&lt;preset name&gt; to apply the specified macro preset.</target>
+        <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-ConfirmBeforeDelete" xml:space="preserve">
-        <source>删除预设前需要二次确认</source>
-        <target>Double confirm before deleting a preset.</target>
+      <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
+        <source>确定要删除预设“{presetName}”吗？</source>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-ConfirmBeforeOverwrite" xml:space="preserve">
-        <source>覆盖预设前需要二次确认</source>
-        <target>Double confirm before overwriting a preset.</target>
+      <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
+        <source>请输入待保存预设的显示名称。</source>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-DeleteError" xml:space="preserve">
-        <source>尝试删除宏指令预设 &quot;{0}&quot; 时发生错误</source>
-        <target>An exception occurred while attempting to delete the macro preset &quot;{0}&quot;.</target>
+      <trans-unit id="OptimizedMacro-Dialogue-UpdateInput" xml:space="preserve">
+        <source>请输入预设更新后的显示名称。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Delete-NotFound" xml:space="preserve">
+        <source>删除宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
-        <source>已删除宏指令预设 &quot;{0}&quot;</source>
-        <target>The macro preset &quot;{0}&quot; has been deleted.</target>
+        <source>删除了宏预设“{presetName}”。</source>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-LoadError" xml:space="preserve">
-        <source>尝试读取宏指令预设 &quot;{0}&quot; 时发生错误</source>
-        <target>An exception occurred while attempting to read the macro preset &quot;{0}&quot;.</target>
+      <trans-unit id="OptimizedMacro-Notification-Load-NotFound" xml:space="preserve">
+        <source>读取宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
-        <source>已读取并加载宏指令预设 &quot;{0}&quot;</source>
-        <target>The macro preset &quot;{0}&quot; has been applied.</target>
+        <source>读取了宏预设“{presetName}”。</source>
       </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-Overwritten" xml:space="preserve">
-        <source>已使用当前全部宏指令覆盖 &quot;{0}&quot; 预设</source>
-        <target>The macro preset &quot;{0}&quot; has been overwritten by all the current macros.</target>
-      </trans-unit>
-      <trans-unit id="OptimizedMacro-Notification-SaveError" xml:space="preserve">
-        <source>尝试保存宏指令预设 &quot;{0}&quot; 时发生错误</source>
-        <target>An exception occurred while attempting to save the macro preset &quot;{0}&quot;.</target>
+      <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
+        <source>无法完成操作，宏预设的显示名称为空。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
-        <source>已保存当前全部宏指令为 &quot;{0}&quot; 预设</source>
-        <target>All the current macros have been saved as the macro preset &quot;{0}&quot;.</target>
+        <source>保存了当前全部宏指令为“{presetName}”预设。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
+        <source>更新宏预设失败，显示名称不能留空。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-UpdateError-Existed" xml:space="preserve">
+        <source>更新宏预设失败，修改后的显示名称与其他预设重名。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-UpdateError-NotFound" xml:space="preserve">
+        <source>更新宏预设失败，无法确定要更新的预设。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-UpdateError-SameAsBefore" xml:space="preserve">
+        <source>更新宏预设失败，修改前后的显示名称相同。</source>
+      </trans-unit>
+      <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
+        <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
-        <source>对用户宏指令界面进行优化, 使其支持保存全部宏指令为多个预设, 以便随时切换使用</source>
-        <target>Provide a better macro storage system, which allows to save all the current macros as a preset and to switch among presets.</target>
+        <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
       </trans-unit>
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
-        <source>用户宏指令界面优化</source>
-        <target>Better Macro Storage</target>
+        <source>“用户宏指令”界面优化</source>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
