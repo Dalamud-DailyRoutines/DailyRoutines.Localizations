@@ -8902,8 +8902,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
         <target>Right click to store or retrieve items between the company chest and the inventory.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
-        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
-        <target>Provide a better Company Chest allowing to store or retrieve items by right clicking and customize the default tab upon accessing. The action lock will be disabled too. The feature also comes with a price estimate for exchangeable items.</target>
+        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，预先请求所有道具箱数据，并移除切换页面和存取物品时的操作冷却。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
