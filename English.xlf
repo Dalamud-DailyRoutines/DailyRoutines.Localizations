@@ -5142,10 +5142,10 @@ Access Password: {1}
 过期时间：{2:yyyy/MM/dd HH:mm:ss}</source>
         <target>The local blacklist has been shared.
 Unique ID: {0}
-(The unique ID has been copied to the clipboard. Please consider saving the information, since it&apos;s unable to check again in future.)
+(The unique ID has been copied to the clipboard. Please consider saving the ID, since it&apos;s unable to check it again in future.)
 Access Password: {1}
-(Please consider saving the information, since it&apos;s unable to check again in future.)
-Expires at: {2:yyyy/MM/dd HH:mm:ss}</target>
+(Please consider saving the password, since it&apos;s unable to check it again in future.)
+Expires At: {2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
         <source>遇到黑名单玩家时发送通知</source>
@@ -5180,11 +5180,11 @@ Expires at: {2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-SourcePlayer" xml:space="preserve">
         <source>来源</source>
-        <target>Source</target>
+        <target>Added By</target>
       </trans-unit>
       <trans-unit id="BetterBlacklistDescription" xml:space="preserve">
         <source>提供增强的黑名单系统，支持保存无限多的黑名单玩家，分类、分享、导入多个黑名单列表，以及加入多人协作的共享黑名单。</source>
-        <target>Provide a better blacklist system, which allows to add an unlimited number of players to a blacklist, to import, export and sort blacklists, and to join shared blacklists online.</target>
+        <target>Provide a better blacklist system, allowing to add an unlimited amount of players to a blacklist, categorize, import &amp; export blacklists, and join shared blacklists online.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklistTitle" xml:space="preserve">
         <source>更好的黑名单</source>
