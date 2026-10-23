@@ -1018,9 +1018,11 @@
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
         <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+        <target>マップのエリア境界線に、そこから移動できる移行先エリア名を直接表示します。</target>
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
         <source>自动显示过图线目的地</source>
+        <target>エリア境界線に移動先を表示する</target>
       </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
@@ -5160,6 +5162,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
       </trans-unit>
       <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
         <source>遇到黑名单玩家时发送通知</source>
+        <target>ブラックリストプレイヤー検知時に通知を送信</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
@@ -8917,6 +8920,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
         <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，预先请求所有道具箱数据，并移除切换页面和存取物品时的操作冷却。</source>
+        <target>「カンパニーチェスト」ウィンドウを拡張し、右クリックによるアイテムのクイックアクセスに対応します。また、開いた時のデフォルトページの変更、ページ内の換金用アイテム合計価値の表示、すべてのカンパニーボックスデータの事前リクエストを行うほか、ページ切り替え時およびアイテム入出力時の操作クールダウンを解除します。</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
