@@ -1016,6 +1016,12 @@
         <source>自动显示准备确认剩余时间</source>
         <target>コンテンツ突入準備の残り時間を表示</target>
       </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
+        <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+      </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
+        <source>自动显示过图线目的地</source>
+      </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
         <target>納品数</target>
