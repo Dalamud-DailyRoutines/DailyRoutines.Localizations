@@ -5141,6 +5141,9 @@ Access Password: {1}
 (Please consider saving the information, since it&apos;s unable to check again in future.)
 Expires at: {2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
+        <source>遇到黑名单玩家时发送通知</source>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
         <target>Previous Comment</target>
