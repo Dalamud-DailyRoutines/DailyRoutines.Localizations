@@ -1015,6 +1015,12 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
         <source>自动显示准备确认剩余时间</source>
         <target>Auto Display Ready Check Remaining Time</target>
       </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
+        <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+      </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
+        <source>自动显示过图线目的地</source>
+      </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
         <target>Submitted</target>
