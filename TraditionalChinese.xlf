@@ -8883,7 +8883,7 @@ XivGear (xivgear.app)</target>
         <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
-        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，并移除存取物品时的操作冷却。</source>
+        <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，预先请求所有道具箱数据，并移除切换页面和存取物品时的操作冷却。</source>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
