@@ -5152,6 +5152,9 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
 （大切に保管してください。これ以降は再度確認することはできません。）
 有効期限：{2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
+        <source>遇到黑名单玩家时发送通知</source>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
         <target>元のメモ</target>
