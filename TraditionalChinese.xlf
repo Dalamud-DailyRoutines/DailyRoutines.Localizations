@@ -5129,6 +5129,9 @@ XivGear (xivgear.app)</target>
 （请妥善保管，之后将无法再次查看。）
 过期时间：{2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
+        <source>遇到黑名单玩家时发送通知</source>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
         <target>原備註</target>
