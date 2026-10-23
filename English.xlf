@@ -1017,9 +1017,11 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
         <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+        <target>Explicitly display the destination above each dotted line of map connection.</target>
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
         <source>自动显示过图线目的地</source>
+        <target>Destination Above Dotted Line</target>
       </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
@@ -3057,7 +3059,7 @@ Remaining Time: {0} second(s)</target>
       </trans-unit>
       <trans-unit id="AutoNotifyMentorRouletteProgres-Notification-CurrentProgress" xml:space="preserve">
         <source>当前进度</source>
-        <target>Current Progress</target>
+        <target>Progress</target>
       </trans-unit>
       <trans-unit id="AutoNotifyMentorRouletteProgres-Notification-TargetAchievement" xml:space="preserve">
         <source>目标成就</source>
