@@ -5130,6 +5130,9 @@ Mot de passe d’accès : {1}
 (À conserver précieusement : il ne pourra plus être consulté ensuite.)
 Date d’expiration : {2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
+      <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
+        <source>遇到黑名单玩家时发送通知</source>
+      </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
         <target>Commentaires précédents</target>
