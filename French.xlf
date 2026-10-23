@@ -1015,6 +1015,12 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
         <source>自动显示准备确认剩余时间</source>
         <target>Affichage automatique du temps restant du Ready Check</target>
       </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
+        <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+      </trans-unit>
+      <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
+        <source>自动显示过图线目的地</source>
+      </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
         <target>Remis</target>
