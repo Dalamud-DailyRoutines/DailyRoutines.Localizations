@@ -4158,7 +4158,7 @@ Price Now: {3} ({4} / {5})</target>
       </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-SendProcessMessage" xml:space="preserve">
         <source>通知自动改价详情</source>
-        <target>Send Notification For Price Adjustment</target>
+        <target>Send Notification Regarding Price Adjustment</target>
       </trans-unit>
       <trans-unit id="AutoRetainerWork-PriceAdjust-SortOrder" xml:space="preserve">
         <source>显示顺序</source>
@@ -5005,7 +5005,7 @@ Note: Except for the Item ID, all inputs should match the current client languag
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearAllEntries" xml:space="preserve">
         <source>移除所有黑名单</source>
-        <target>Remove All Entries</target>
+        <target>Remove All</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearContentEntries" xml:space="preserve">
         <source>移除旧黑名单</source>
@@ -5013,7 +5013,7 @@ Note: Except for the Item ID, all inputs should match the current client languag
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearContentEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”之前的版本中以角色标识符记录的黑名单项。</source>
-        <target>Remove legacy entries based on the stale character ID format before Patch &quot;Crossroads&quot;.</target>
+        <target>Remove all the legacy entries based on the stale character ID format before Patch &quot;Crossroads&quot;.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries" xml:space="preserve">
         <source>移除失效黑名单</source>
@@ -5021,7 +5021,7 @@ Note: Except for the Item ID, all inputs should match the current client languag
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</source>
-        <target>Remove invalid entries based on the stale account ID format between Patch &quot;Crossroads&quot; and Patch &quot;The Promise of Tomorrow&quot;.</target>
+        <target>Remove all the invalid entries based on the stale account ID format between Patch &quot;Crossroads&quot; and Patch &quot;The Promise of Tomorrow&quot;.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-ConfirmDeletePlayer" xml:space="preserve">
         <source>确认要删除该玩家吗？</source>
@@ -5149,6 +5149,7 @@ Expires At: {2:yyyy/MM/dd HH:mm:ss}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
         <source>遇到黑名单玩家时发送通知</source>
+        <target>Send Notification When Blacklisted Player Nearby</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
