@@ -5065,7 +5065,7 @@ Note: Except for the Item ID, all inputs should match the current client languag
       </trans-unit>
       <trans-unit id="BetterBlacklist-NoChangeLogsOrLoading" xml:space="preserve">
         <source>无变更日志或正在加载中</source>
-        <target>No change logs at the moment. The logs may still be loading.</target>
+        <target>No change logs available at the moment. The logs may still be loading.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-AddedPlayerToGroup" xml:space="preserve">
         <source>已将{0}加入到共享黑名单“{1}”中。</source>
@@ -5083,9 +5083,9 @@ Note: Except for the Item ID, all inputs should match the current client languag
 （请妥善保管，之后将无法再次查看。）</source>
         <target>The shared blacklist has been created.
 Unique ID: {0}
-(The unique ID has been copied to the clipboard. You can check it later in the configuration.)
+(The unique ID has been copied to the clipboard. You could check it later in the configuration interface.)
 Access Password: {1}
-(Please consider saving the information, since it&apos;s unable to check again in future.)</target>
+(Please consider saving the password, since it&apos;s unable to check it again in future.)</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToCreateGroup" xml:space="preserve">
         <source>创建共享黑名单失败，{0}。</source>
@@ -5093,7 +5093,7 @@ Access Password: {1}
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToImportEmptyGroup" xml:space="preserve">
         <source>无法导入空的共享黑名单，请先联系已在该共享黑名单内的玩家，等待其添加任一玩家后再次尝试。</source>
-        <target>Failed to import due to empty blacklist. Please contact a blacklist collaborator to add at least one player to the blacklist before importing it.</target>
+        <target>Failed to import due to an empty blacklist. Please contact a collaborator and request to add at least one player to the blacklist before importing it.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToImportGroup" xml:space="preserve">
         <source>导入共享黑名单失败，{0}。</source>
@@ -5113,15 +5113,15 @@ Access Password: {1}
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
         <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
-        <target>Failed to remove the player from the shared blacklist &quot;{groupName}&quot;. Maybe try again later.</target>
+        <target>Failed to remove the player from the shared blacklist &quot;{groupName}&quot;. Please try again later.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
         <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
-        <target>Failed to edit the player comment in the shared blacklist &quot;{groupName}&quot;. Maybe try again later.</target>
+        <target>Failed to edit the player comment in the shared blacklist &quot;{groupName}&quot;. Please try again later.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-ImportedList" xml:space="preserve">
         <source>导入了本地黑名单“{0}”，共{1}名玩家。</source>
-        <target>The local blacklist &quot;{0}&quot; has been imported. There are {1} player(s) in the blacklist.</target>
+        <target>The local blacklist &quot;{0}&quot; has been imported. There are {1} player(s) on the blacklist.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-JoinedGroup" xml:space="preserve">
         <source>加入了共享黑名单“{0}”。</source>
