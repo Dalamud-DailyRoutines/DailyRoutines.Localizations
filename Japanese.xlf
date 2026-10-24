@@ -215,42 +215,27 @@
         <source>自动调整目标标记</source>
         <target>ターゲットマーカーの自動調整</target>
       </trans-unit>
+      <trans-unit id="AutoAdventure-CountdownUntilAvailable" xml:space="preserve">
+        <source>（{timePeriod}后可记录）</source>
+      </trans-unit>
+      <trans-unit id="AutoAdventure-CountdownUntilEnd" xml:space="preserve">
+        <source>（{timePeriod}后结束）</source>
+      </trans-unit>
       <trans-unit id="AutoAdventure-CurrentAvailable" xml:space="preserve">
-        <source>当前可解锁</source>
-        <target>現在利用可能</target>
+        <source>当前可记录{count}条</source>
       </trans-unit>
-      <trans-unit id="AutoAdventure-Message-CancelEmote" xml:space="preserve">
-        <source>准备打断当前情感动作</source>
-        <target>現在のエモートを中断させる準備をする</target>
-      </trans-unit>
-      <trans-unit id="AutoAdventure-Message-ExecuteEmote" xml:space="preserve">
-        <source>准备使用表情: {0}</source>
-        <target>すぐに使えるエモート: {0}</target>
-      </trans-unit>
-      <trans-unit id="AutoAdventure-Message-TeleportToPoint" xml:space="preserve">
-        <source>准备移动至位置: {0}</source>
-        <target>ポジション移動の準備完了: {0}</target>
-      </trans-unit>
-      <trans-unit id="AutoAdventure-Message-TeleportToZone" xml:space="preserve">
-        <source>准备传送至区域: {0}</source>
-        <target>エリアへのテレポ準備: {0}</target>
-      </trans-unit>
-      <trans-unit id="AutoAdventure-PreCondition-AbleToFly" xml:space="preserve">
-        <source>所有野外区域均可飞行 (没有对此条件进行检查, 如果某一野外区域无法飞行, 流程将会卡死)</source>
-        <target>すべてのフィールドエリアで飛行が可能であることが前提です (この条件の確認は行っていません。もし一部のフィールドで飛行できない場合、処理が停止する可能性があります) 。</target>
+      <trans-unit id="AutoAdventure-NoConditions" xml:space="preserve">
+        <source>无条件</source>
       </trans-unit>
       <trans-unit id="AutoAdventure-PreCondition-QuestFinished" xml:space="preserve">
         <source>相关任务</source>
         <target>関連クエスト</target>
       </trans-unit>
-      <trans-unit id="AutoAdventure-RunState" xml:space="preserve">
-        <source>运行状态</source>
-        <target>実行状態</target>
+      <trans-unit id="AutoAdventure-UnlockConditions" xml:space="preserve">
+        <source>解锁条件</source>
       </trans-unit>
       <trans-unit id="AutoAdventureDescription" xml:space="preserve">
-        <source>点击开始后, 自动完成当前时间段/天气下允许完成的所有探索笔记</source>
-        <target>「スタート」をクリックすると、現在の時間帯や天候で完了可能なすべての探索ノートを自動的に完了します
-※ワープするので注意</target>
+        <source>自动完成当前时间段与天气条件下允许记录的所有探索笔记，并可快捷查询探索笔记。</source>
       </trans-unit>
       <trans-unit id="AutoAdventureTitle" xml:space="preserve">
         <source>自动完成探索笔记</source>
