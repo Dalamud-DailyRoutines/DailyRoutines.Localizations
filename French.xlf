@@ -215,6 +215,9 @@ Exemple : Naoki YoshidaChocobo</target>
         <source>自动调整目标标记</source>
         <target>Ajustement automatique des icônes des plaques nominatives</target>
       </trans-unit>
+      <trans-unit id="AutoAdventure-Available" xml:space="preserve">
+        <source>当前可记录</source>
+      </trans-unit>
       <trans-unit id="AutoAdventure-CountdownUntilAvailable" xml:space="preserve">
         <source>（{timePeriod}后可记录）</source>
       </trans-unit>
@@ -230,6 +233,9 @@ Exemple : Naoki YoshidaChocobo</target>
       <trans-unit id="AutoAdventure-PreCondition-QuestFinished" xml:space="preserve">
         <source>相关任务</source>
         <target>Quêtes associées</target>
+      </trans-unit>
+      <trans-unit id="AutoAdventure-UnavailableUnlock" xml:space="preserve">
+        <source>不可记录</source>
       </trans-unit>
       <trans-unit id="AutoAdventure-UnlockConditions" xml:space="preserve">
         <source>解锁条件</source>
