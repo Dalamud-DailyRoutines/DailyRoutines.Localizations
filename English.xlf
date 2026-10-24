@@ -221,12 +221,15 @@ For example: Naoki YoshidaChocobo</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CountdownUntilAvailable" xml:space="preserve">
         <source>（{timePeriod}后可记录）</source>
+        <target>(available after {timePeriod})</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CountdownUntilEnd" xml:space="preserve">
         <source>（{timePeriod}后结束）</source>
+        <target>(available till {timePeriod})</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CurrentAvailable" xml:space="preserve">
         <source>当前可记录{count}条</source>
+        <target>{count, plural, one {# entry in Sightseeing Log is} other {# entries in Sightseeing Log are}} available at the moment. </target>
       </trans-unit>
       <trans-unit id="AutoAdventure-NoConditions" xml:space="preserve">
         <source>无条件</source>
