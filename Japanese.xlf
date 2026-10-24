@@ -99,6 +99,7 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
         <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+        <target>クリックすると、セルフサービス認証用暗号化トークンをコピーします。</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
@@ -106,6 +107,7 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
         <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
+        <target>1台のデバイスに紐付けられ、アクティベート後はそのデバイス上で動作するプラグインが有効化済みとして扱われます</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
@@ -133,6 +135,7 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
         <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
+        <target>この認証タイプは廃止予定となります。他の認証タイプの使用をご検討ください。</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
         <source>内部测试凭证</source>
@@ -216,12 +219,15 @@
       </trans-unit>
       <trans-unit id="AutoAdventure-Available" xml:space="preserve">
         <source>当前可记录</source>
+        <target>現在記録可能</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CountdownUntilAvailable" xml:space="preserve">
         <source>（{timePeriod}后可记录）</source>
+        <target>（{timePeriod}後に記録可能）</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CountdownUntilEnd" xml:space="preserve">
         <source>（{timePeriod}后结束）</source>
+        <target>（{timePeriod}後に終了）</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-CurrentAvailable" xml:space="preserve">
         <source>当前可记录{count}条</source>
