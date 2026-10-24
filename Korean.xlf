@@ -97,15 +97,15 @@
         <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
         <target>현재 접속 중인 게임 계정을 연동합니다. 활성화 이후 해당 계정에서 실행되는 플러그인은 활성화된 것으로 처리됩니다.</target>
       </trans-unit>
+      <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
+        <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+      </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
         <target>장치 인증 증명서</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。
-相比于“机器认证凭证”，采用了更加稳定、现代且联网的算法, 更不易发生变更。</source>
-        <target>단일 기기에 연동합니다. 활성화 이후 해당 기기에서 실행되는 플러그인은 활성화된 것으로 처리됩니다. 
-기존의 &quot;기기 인증 자격 증명&quot; 방식보다 더욱 안정적이고 최신화된 네트워크 기반 알고리즘을 적용하여 인증 정보가 쉽게 변경되지 않습니다.</target>
+        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
@@ -132,8 +132,7 @@
         <target>PC 식별 인증서</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-        <target>단일 기기에 연동합니다. 활성화 이후 해당 기기에서 실행되는 플러그인은 활성화된 것으로 처리됩니다.</target>
+        <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
         <source>内部测试凭证</source>
