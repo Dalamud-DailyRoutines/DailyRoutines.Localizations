@@ -97,15 +97,15 @@
         <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
         <target>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</target>
       </trans-unit>
+      <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
+        <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+      </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
         <target>設備認證憑證</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。
-相比于“机器认证凭证”，采用了更加稳定、现代且联网的算法, 更不易发生变更。</source>
-        <target>綁定單一設備，啟用後運行在該設備上的插件視為已啟用。
-相比於“機器認證憑證”，採用了更加穩定、現代且聯網的算法, 更不易發生變更。</target>
+        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
@@ -132,8 +132,7 @@
         <target>機器認證憑證</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-        <target>綁定單一設備，激活後運行在該設備上的插件視為已激活。</target>
+        <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
         <source>内部测试凭证</source>
