@@ -97,15 +97,15 @@
         <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
         <target>現在ログイン中のゲームアカウントに紐付けます。有効化すると、このアカウントで動くプラグインも有効化済みとして扱われます。</target>
       </trans-unit>
+      <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
+        <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+      </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
         <target>デバイス認証情報</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。
-相比于“机器认证凭证”，采用了更加稳定、现代且联网的算法, 更不易发生变更。</source>
-        <target>単一デバイスに紐付け。アクティベート後、当該デバイスで実行されるプラグインはアクティベート済みとみなされます。
-「マシン認証コード」に比べ、より安定・モダンかつオンライン対応のアルゴリズムを採用しているため、識別子の変動が発生しにくくなっています。</target>
+        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
@@ -132,8 +132,7 @@
         <target>マシン認証情報</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-        <target>単一の端末にバインドし、アクティベート後は該当端末上で動作するプラグインがアクティベート済みとみなされます。</target>
+        <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
         <source>内部测试凭证</source>
