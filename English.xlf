@@ -99,6 +99,7 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
         <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+        <target>Click to copy the encrypted token for authentication purposes.</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
@@ -249,6 +250,7 @@ For example: Naoki YoshidaChocobo</target>
       </trans-unit>
       <trans-unit id="AutoAdventureDescription" xml:space="preserve">
         <source>自动完成当前时间段与天气条件下允许记录的所有探索笔记，并可快捷查询探索笔记。</source>
+        <target>Automatically complete all available entries in Sightseeing Log at the moment after clicking start. The feature comes with better search in Sightseeing Log.</target>
       </trans-unit>
       <trans-unit id="AutoAdventureTitle" xml:space="preserve">
         <source>自动完成探索笔记</source>
