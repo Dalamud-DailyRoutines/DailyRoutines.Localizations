@@ -97,15 +97,15 @@
         <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
         <target>A unique credential to identify the Square Enix account. All modules require authentication would be available on all characters belong to the Square Enix account after a successful authentication.</target>
       </trans-unit>
+      <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
+        <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+      </trans-unit>
       <trans-unit id="Auth-Credential-Device" xml:space="preserve">
         <source>设备认证凭证</source>
         <target>TID</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。
-相比于“机器认证凭证”，采用了更加稳定、现代且联网的算法, 更不易发生变更。</source>
-        <target>A unique credential to identify the device. All modules require authentication would be available on the device after a successful authentication.
-Compared with the existing Machine Credential (MID), TID is created on an online modern algorithm with better stability, making it significantly less likely to vary across different scenarios.</target>
+        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
@@ -132,8 +132,7 @@ Compared with the existing Machine Credential (MID), TID is created on an online
         <target>MID</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-        <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-        <target>A unique credential to identify the device. All modules require authentication would be available on the device after a successful authentication.</target>
+        <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
       </trans-unit>
       <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
         <source>内部测试凭证</source>
