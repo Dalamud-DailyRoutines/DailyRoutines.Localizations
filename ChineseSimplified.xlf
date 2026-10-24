@@ -1872,7 +1872,7 @@
         <source>扫描点</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-ScanRadius" xml:space="preserve">
-        <source>扫描范围（码）</source>
+        <source>扫描范围</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
         <source>扫描结果</source>
