@@ -231,9 +231,11 @@
       </trans-unit>
       <trans-unit id="AutoAdventure-CurrentAvailable" xml:space="preserve">
         <source>当前可记录{count}条</source>
+        <target>現在{count}件記録可能</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-NoConditions" xml:space="preserve">
         <source>无条件</source>
+        <target>無条件</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-PreCondition-QuestFinished" xml:space="preserve">
         <source>相关任务</source>
@@ -241,12 +243,15 @@
       </trans-unit>
       <trans-unit id="AutoAdventure-UnavailableUnlock" xml:space="preserve">
         <source>不可记录</source>
+        <target>記録不可</target>
       </trans-unit>
       <trans-unit id="AutoAdventure-UnlockConditions" xml:space="preserve">
         <source>解锁条件</source>
+        <target>解放条件</target>
       </trans-unit>
       <trans-unit id="AutoAdventureDescription" xml:space="preserve">
         <source>自动完成当前时间段与天气条件下允许记录的所有探索笔记，并可快捷查询探索笔记。</source>
+        <target>現在の時間と天候で記録可能な「探検手帳」の項目を自動で達成し、手軽に検索できるようにします。</target>
       </trans-unit>
       <trans-unit id="AutoAdventureTitle" xml:space="preserve">
         <source>自动完成探索笔记</source>
