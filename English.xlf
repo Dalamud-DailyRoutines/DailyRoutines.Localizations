@@ -111,11 +111,11 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
         <source>无法生成有效的认证凭证，原因可能为：</source>
-        <target>It&apos;s unable to generate a valid credential. Potential reasons are as follows:</target>
+        <target>Failed to generate a valid credential. Potential reasons are as follows:</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
         <source>设备缺乏有效辨识信息 (如: 虚拟机)</source>
-        <target>The device couldn&apos;t be identified properly. (e.g. on a virtual machine)</target>
+        <target>The device couldn&apos;t be identified properly for some reasons. (e.g. in a virtual machine)</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
         <source>尚未登录</source>
@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="Auth-Credential-ExpireTime" xml:space="preserve">
         <source>过期时间</source>
-        <target>Expiration time</target>
+        <target>Expired At</target>
       </trans-unit>
       <trans-unit id="Auth-Credential-Machine" xml:space="preserve">
         <source>机器认证凭证</source>
@@ -144,7 +144,7 @@
       <trans-unit id="Auth-Credential-Tester-UsageHint" xml:space="preserve">
         <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
         <target>Tester qualifications are distributed to developers and contributors for testing purposes.
-Tester qualifications are not available to the public, which means there&apos;s no guaranteed approach to acquire a tester qualification. Sponsorship will NOT grant you a tester qualification. No individual in Daily Routines Team would privately provide tester qualifications. There are many scams around this, so please be cautious.</target>
+Tester qualifications are not available to the public, which means there&apos;s no guaranteed approach to acquire a tester qualification. Sponsorship will NOT grant you a tester qualification. No individual in Daily Routines Team would provide tester qualifications through private contact. There are many scams around this, so please be cautious.</target>
       </trans-unit>
       <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
         <source>无法获取在线验证信息, 请检查本地网络设置。</source>
