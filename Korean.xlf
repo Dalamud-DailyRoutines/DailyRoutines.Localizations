@@ -3584,31 +3584,31 @@
       </trans-unit>
       <trans-unit id="AutoRepair-AllowNPCRepair" xml:space="preserve">
         <source>允许委托非玩家角色修理</source>
-        <target>允许委托非玩家角色修理</target>
+        <target>NPC 수리 의뢰 허용</target>
       </trans-unit>
       <trans-unit id="AutoRepair-AllowNPCRepair-Help" xml:space="preserve">
         <source>若自身不能全部修理装备中装备，则会尝试消耗金币委托附近的非玩家角色修理。</source>
-        <target>若自身不能全部修理装备中装备，则会尝试消耗金币委托附近的非玩家角色修理。</target>
+        <target>장착 중인 장비를 직접 전부 수리할 수 없는 경우, 길을 사용해 가까운 수리NPC에게 수리를 의뢰합니다.</target>
       </trans-unit>
       <trans-unit id="AutoRepair-Notification-AutoStart" xml:space="preserve">
         <source>装备耐久度已降到设定的{repairThreshold}%以下，开始自动修理。</source>
-        <target>装备耐久度已降到设定的{repairThreshold}%以下，开始自动修理。</target>
+        <target>장비의 내구도가 설정한 {repairThreshold}% 미만이 되어 자동 수리를 시작합니다.</target>
       </trans-unit>
       <trans-unit id="AutoRepair-PrioritizeNPCRepair" xml:space="preserve">
         <source>优先委托非玩家角色修理</source>
-        <target>优先委托非玩家角色修理</target>
+        <target>NPC 수리를 우선</target>
       </trans-unit>
       <trans-unit id="AutoRepair-PrioritizeNPCRepair-Help" xml:space="preserve">
         <source>优先消耗金币委托附近的非玩家角色修理。</source>
-        <target>优先消耗金币委托附近的非玩家角色修理。</target>
+        <target>길을 소모하는 NPC 수리를 우선합니다.</target>
       </trans-unit>
       <trans-unit id="AutoRepair-RepairThreshold" xml:space="preserve">
         <source>耐久度下限（%）</source>
-        <target>耐久度下限（%）</target>
+        <target>내구도하한（%）</target>
       </trans-unit>
       <trans-unit id="AutoRepairDescription" xml:space="preserve">
         <source>配置后，在装备中装备耐久度低于设定下限时自动修理，并取消修理时的前后摇限制。</source>
-        <target>配置后，在装备中装备耐久度低于设定下限时自动修理，并取消修理时的前后摇限制。</target>
+        <target>활성화 시, 장착 중인 장비의 내구력이 설정한 하한값 아래로 떨어지면 자동으로 수리하며, 수리 전후의 경직 제한을 해제합니다.</target>
       </trans-unit>
       <trans-unit id="AutoRepairTitle" xml:space="preserve">
         <source>自动修理</source>
@@ -3772,7 +3772,7 @@
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-FilterRequestOptions-Help" xml:space="preserve">
         <source>过滤模型需要单独选择长度参数。发送温度参数时，温度固定为零；模型不支持该参数时，请取消勾选。</source>
-        <target>过滤模型需要单独选择长度参数。发送温度参数时，温度固定为零；模型不支持该参数时，请取消勾选。</target>
+        <target>필터 모델은 길이 파라미터를 개별적으로 선택해야 합니다. 온도 파라미터를 전송할 때는 온도가 0으로 고정되며, 모델이 이 파라미터를 지원하지 않는 경우 체크를 해제해 주세요.</target>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-FilterSettings" xml:space="preserve">
         <source>安全过滤</source>
@@ -3868,11 +3868,11 @@
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-UseMaxCompletionTokens" xml:space="preserve">
         <source>使用补全长度参数</source>
-        <target>使用补全长度参数</target>
+        <target>보완용 길이 파라미터 사용</target>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-UseMaxCompletionTokens-Help" xml:space="preserve">
         <source>勾选后使用补全长度参数，否则使用回复长度参数。部分推理模型要求使用补全长度参数，并关闭温度参数。长度上限包含推理所用的额度，请为回复留出足够空间。此设置同时用于对话摘要。</source>
-        <target>勾选后使用补全长度参数，否则使用回复长度参数。部分推理模型要求使用补全长度参数，并关闭温度参数。长度上限包含推理所用的额度，请为回复留出足够空间。此设置同时用于对话摘要。</target>
+        <target>활성화하면 보완용 길이 매개변수가 적용되고, 비활성화하면 응답용 길이 매개변수가 적용됩니다. 일부 사고·추론 모델에서는 보완 길이 파라미터 사용과 온도 파라미터 끄기가 필수입니다. 최대 토큰 수에는 추론 처리분도 포함되므로, 답변용 칸을 충분히 확보해 주세요. 이 설정은 대화 요약 처리에도 공통으로 사용됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-ValidChatTypes" xml:space="preserve">
         <source>有效频道</source>
@@ -3912,19 +3912,19 @@
       </trans-unit>
       <trans-unit id="AutoRestoreFurniture-PlacedToInventory" xml:space="preserve">
         <source>收回已布置家具到背包</source>
-        <target>收回已布置家具到背包</target>
+        <target>설치 완료 가구를 소지품으로 회수</target>
       </trans-unit>
       <trans-unit id="AutoRestoreFurniture-PlacedToStoreRoom" xml:space="preserve">
         <source>收回已布置家具到仓库</source>
-        <target>收回已布置家具到仓库</target>
+        <target>설치 완료 가구 창고 회수</target>
       </trans-unit>
       <trans-unit id="AutoRestoreFurniture-Return" xml:space="preserve">
         <source>全部收回家具</source>
-        <target>全部收回家具</target>
+        <target>가구 일괄 회수</target>
       </trans-unit>
       <trans-unit id="AutoRestoreFurniture-StoredToInventory" xml:space="preserve">
         <source>收回仓库家具到背包</source>
-        <target>收回仓库家具到背包</target>
+        <target>창고에서 가구를 소지품으로 회수</target>
       </trans-unit>
       <trans-unit id="AutoRestoreFurnitureDescription" xml:space="preserve">
         <source>打开家具界面, 并点击开始后, 自动将所有仓库家具取回背包/已布置家具存入仓库</source>
