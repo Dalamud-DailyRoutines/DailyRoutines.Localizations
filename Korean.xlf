@@ -162,7 +162,8 @@
 凭证类型：{0}
 过期时间：{1}
 剩余时间：{2} 天</source>
-        <target>인증 타입：{0}
+        <target>[온라인 인증 정보]
+인증 타입：{0}
 유효 기한：{1}
 남은 시간：{2} 일</target>
       </trans-unit>
@@ -492,39 +493,39 @@
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-InCombatOnlyMoveWhenSlideCast" xml:space="preserve">
         <source>在战斗中时仅可在滑步窗口内移动</source>
-        <target>在战斗中时仅可在滑步窗口内移动</target>
+        <target>전투 중에는 슬라이드 캐스팅 판정 시간 내에만 이동 가능</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-KeyButtonSettings" xml:space="preserve">
         <source>按键/按钮设定</source>
-        <target>按键/按钮设定</target>
+        <target>버튼/버튼 설정</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-KeyButtonToTempLock" xml:space="preserve">
         <source>临时禁止移动的按键/按钮</source>
-        <target>临时禁止移动的按键/按钮</target>
+        <target>임시이동이 금지된 키/버튼</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-KeyButtonToTempUnlock" xml:space="preserve">
         <source>临时允许移动的按键/按钮</source>
-        <target>临时允许移动的按键/按钮</target>
+        <target>임시로 이동이 금지된 키/버튼</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-LockReturnCast" xml:space="preserve">
         <source>咏唱“返回”时禁止移动</source>
-        <target>咏唱“返回”时禁止移动</target>
+        <target>&quot;부활&quot; 캐스팅 시 이동이 금지됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-LockTeleportCast" xml:space="preserve">
         <source>咏唱“传送”时禁止移动</source>
-        <target>咏唱“传送”时禁止移动</target>
+        <target>텔레포 캐스팅시 이동 금지</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLock-MouseButtonsToTempUnlock" xml:space="preserve">
         <source>同时按住鼠标左右键时临时允许移动</source>
-        <target>同时按住鼠标左右键时临时允许移动</target>
+        <target>마우스 좌우 버튼을 동시에 클릭시 임시로 이동이 허용됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLockDescription" xml:space="preserve">
         <source>技能咏唱时自动禁止移动，以避免意外打断咏唱。</source>
-        <target>技能咏唱时自动禁止移动，以避免意外打断咏唱。</target>
+        <target>캐스팅 중 시전이 끊기는 것을 방지하기 위해 이동이 금지됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoCastMovementLockTitle" xml:space="preserve">
         <source>自动禁止咏唱期间移动</source>
-        <target>自动禁止咏唱期间移动</target>
+        <target>캐스팅 중 이동 금지</target>
       </trans-unit>
       <trans-unit id="AutoChakraFormShiftDescription" xml:space="preserve">
         <source>若当前职业为武僧，则在进入副本、重新挑战或脱战后，自动发动“阴阳斗气”与“演武”。</source>
@@ -608,7 +609,7 @@
       </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
         <source>自动食用了 {0}</source>
-        <target>{0} 을(를) 먹었습니다.</target>
+        <target>{0} 을 먹었습니다.</target>
       </trans-unit>
       <trans-unit id="AutoCheckFoodUsage-RefreshThreshold" xml:space="preserve">
         <source>刷新阈值 (秒)</source>
@@ -762,7 +763,7 @@
       </trans-unit>
       <trans-unit id="AutoConstantlyClickDescription" xml:space="preserve">
         <source>长按任一热键栏按键时，自动转为快速重复点击。</source>
-        <target>长按任一热键栏按键时，自动转为快速重复点击。</target>
+        <target>단축바의 버튼을 길게 누르면 자동 연타 모드로 전환됩니다</target>
       </trans-unit>
       <trans-unit id="AutoConstantlyClickTitle" xml:space="preserve">
         <source>自动重复点击</source>
