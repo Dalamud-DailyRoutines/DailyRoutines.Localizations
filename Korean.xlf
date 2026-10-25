@@ -983,7 +983,7 @@
       </trans-unit>
       <trans-unit id="AutoDiscard-Notification-Added" xml:space="preserve">
         <source>将{0}加入到了自动丢弃配置组“{1}”。</source>
-        <target>{0}을(를) 자동 버리기 설정 그룹 “{1}”에 추가했습니다</target>
+        <target>{0}을 자동 버리기 설정 그룹 “{1}”에 추가했습니다</target>
       </trans-unit>
       <trans-unit id="AutoDiscard-Notification-BatchAdded" xml:space="preserve">
         <source>批量添加了{0}个物品至自动丢弃配置组“{1}”。</source>
@@ -991,7 +991,7 @@
       </trans-unit>
       <trans-unit id="AutoDiscard-Notification-Removed" xml:space="preserve">
         <source>从自动丢弃配置组“{0}”中移除了{1}。</source>
-        <target>자동 버리기 설정 그룹 “{0}”에서 {1}을(를) 제거했습니다.</target>
+        <target>자동 버리기 설정 그룹 “{0}”에서 {1}을 제거했습니다.</target>
       </trans-unit>
       <trans-unit id="AutoDiscardDescription" xml:space="preserve">
         <source>允许快速丢弃/出售预设好中的一组物品</source>
@@ -1127,15 +1127,15 @@
       </trans-unit>
       <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
         <source>灵魂凝聚度</source>
-        <target>灵魂凝聚度</target>
+        <target>영혼응축도</target>
       </trans-unit>
       <trans-unit id="AutoDisplayRelicGrowthProgressDescription" xml:space="preserve">
         <source>在“改良型元灵透镜”界面中外显当前所持元灵武器的灵魂凝聚度数值。</source>
-        <target>在“改良型元灵透镜”界面中外显当前所持元灵武器的灵魂凝聚度数值。</target>
+        <target>&quot;아니마 글라스&quot; UI에서 현재 보유 중인 아니마 웨폰의 응집도를 수치로 표시</target>
       </trans-unit>
       <trans-unit id="AutoDisplayRelicGrowthProgressTitle" xml:space="preserve">
         <source>自动显示元灵武器灵魂凝聚度</source>
-        <target>自动显示元灵武器灵魂凝聚度</target>
+        <target>아니마 웨폰의 응축도를 수치로 표시</target>
       </trans-unit>
       <trans-unit id="AutoDisplayStatusFullTime-Mode-Full" xml:space="preserve">
         <source>小时级</source>
@@ -1259,7 +1259,7 @@
       </trans-unit>
       <trans-unit id="AutoEnableDLSSSupportDescription" xml:space="preserve">
         <source>使非国际服客户端能被 NVIDIA APP 识别为国际服客户端, 从而自动启用程序的 DLSS 优设修改支持</source>
-        <target>글로벌 서버가 아닌 클라이언트를 NVIDIA 앱에서 글로벌 서버로 인식하도록 수정 (DLSS 최적화 기능 활성화)</target>
+        <target>글로벌 서버가 아닌 클라이언트를 NVIDIA 앱에서 글로벌 서버로 인식하도록 수정 DLSS 최적화 기능 활성화</target>
       </trans-unit>
       <trans-unit id="AutoEnableDLSSSupportTitle" xml:space="preserve">
         <source>自动开启 DLSS 优设支持</source>
@@ -1907,7 +1907,7 @@
       </trans-unit>
       <trans-unit id="AutoHideBannersDescription" xml:space="preserve">
         <source>配置后，自动阻止弹出横幅与播放音效。</source>
-        <target>配置后，自动阻止弹出横幅与播放音效。</target>
+        <target>배치 후 팝업 배너와 재생 음향 효과가 자동으로 차단됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoHideBannersTitle" xml:space="preserve">
         <source>自动隐藏横幅</source>
@@ -3484,7 +3484,7 @@
       </trans-unit>
       <trans-unit id="AutoRecordPartyFinderSettingDescription" xml:space="preserve">
         <source>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</source>
-        <target>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</target>
+        <target>&quot;파티 모집 내용 편집&quot; 창에서 설정한 각 정보를 프리셋으로 저장할 수 있도록 하여, 다음에 표시할 때 자동 입력되도록 이전 설정 내용을 자동 저장합니다.</target>
       </trans-unit>
       <trans-unit id="AutoRecordPartyFinderSettingTitle" xml:space="preserve">
         <source>自动保存招募编辑信息</source>
