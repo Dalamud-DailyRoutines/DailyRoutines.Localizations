@@ -9775,6 +9775,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialChar-Copy" xml:space="preserve">
         <source>复制“{text}”（{hexText}）到剪贴板</source>
+        <target>&quot;{text}&quot; ({hexText})를 클립보드에 복사했습니다</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialIconChar" xml:space="preserve">
         <source>特殊字符</source>
@@ -9786,6 +9787,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSound-EditPrompt" xml:space="preserve">
         <source>请输入想要为系统音{soundEffectIndex}指定的备注。</source>
+        <target>시스템 소리 {soundEffectIndex}에 지정할 메모를 입력해 주세요.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SystemSoundHelp" xml:space="preserve">
         <source>左键试听，右键发送。</source>
@@ -10145,6 +10147,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextDescription" xml:space="preserve">
         <source>使“招募详情”界面内的留言文本可被自由选中，以便复制或临时编辑。</source>
+        <target>&quot;모집 상세&quot; 창 내의 텍스트를 자유롭게 선택할 수 있도록 하여, 복사 및 임시 편집이 가능해집니다.</target>
       </trans-unit>
       <trans-unit id="SelectableRecruitmentTextTitle" xml:space="preserve">
         <source>可选中的招募留言文本</source>
@@ -10693,6 +10696,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
         <source>保存了投影模板到投影模板管理器中。</source>
+        <target>투영 프리셋을 투영 프리셋 관리자에 저장했습니다.</target>
       </trans-unit>
       <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
         <source>双击可以修改标题/备注</source>
@@ -10744,9 +10748,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpDescription" xml:space="preserve">
         <source>使所有职业拔出武器时的跳跃动作都变成忍者的后空翻动作。</source>
+        <target> 모든 잡의 발도시 점프 액션을 닌자로 변경합니다.</target>
       </trans-unit>
       <trans-unit id="UniversalNinjaJumpTitle" xml:space="preserve">
         <source>全职业忍者跳跃动作</source>
+        <target>모든 잡 닌자 점프</target>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>未知</source>
