@@ -9040,45 +9040,59 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
         <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
+        <target>&lt;표시명&gt; 지정한 표시명의 매크로 프리셋을 불러옵니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
         <source>确定要删除预设“{presetName}”吗？</source>
+        <target>프리셋 &quot;{presetName}&quot;을 삭제합니까?</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
         <source>请输入待保存预设的显示名称。</source>
+        <target>저장할 프리셋의 표시 이름을 입력해 주세요.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Dialogue-UpdateInput" xml:space="preserve">
         <source>请输入预设更新后的显示名称。</source>
+        <target>업데이트된 프리셋의 표시 이름을 입력해 주세요.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Delete-NotFound" xml:space="preserve">
         <source>删除宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>매크로 프리셋 삭제에 실패했습니다. 표시 이름이 &quot;{preset}&quot;인 매크로 프리셋을 찾을 수 없습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Deleted" xml:space="preserve">
         <source>删除了宏预设“{presetName}”。</source>
+        <target>매크로 프리셋 &quot;{presetName}&quot; 을 삭제했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Load-NotFound" xml:space="preserve">
         <source>读取宏预设失败，未找到显示名称为“{preset}”的宏预设。</source>
+        <target>매크로 프리셋을 불러오지 못했습니다. 표시 이름이 &quot;{preset}&quot;인 매크로 프리셋을 찾을 수 없습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Loaded" xml:space="preserve">
         <source>读取了宏预设“{presetName}”。</source>
+        <target>매크로 프리셋 &quot;{presetName}&quot;을 불러왔습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
         <source>无法完成操作，宏预设的显示名称为空。</source>
+        <target>작업을 완료할 수 없습니다. 매크로 프리셋의 표시 이름이 비어 있습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
         <source>保存了当前全部宏指令为“{presetName}”预设。</source>
+        <target>현재의 모든 매크로 명령어를 &quot;{presetName}&quot; 프리셋으로 저장했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
         <source>更新宏预设失败，显示名称不能留空。</source>
+        <target>매크로 프리셋 업데이트에 실패했습니다. 표시 이름을 비워둘 수 없습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-Existed" xml:space="preserve">
         <source>更新宏预设失败，修改后的显示名称与其他预设重名。</source>
+        <target>매크로 프리셋 업데이트에 실패했습니다. 이름이 다른 프리셋과 중복됩니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-NotFound" xml:space="preserve">
         <source>更新宏预设失败，无法确定要更新的预设。</source>
+        <target>매크로 프리셋 업데이트에 실패했습니다. 업데이트 대상 프리셋을 찾을 수 없습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-UpdateError-SameAsBefore" xml:space="preserve">
         <source>更新宏预设失败，修改前后的显示名称相同。</source>
+        <target>매크로 프리셋 업데이트에 실패했습니다. 변경 전후의 표시 이름이 같습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
         <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
