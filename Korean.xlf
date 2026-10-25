@@ -4442,19 +4442,19 @@
       </trans-unit>
       <trans-unit id="AutoSortItems-Addon" xml:space="preserve">
         <source>自动整理规则</source>
-        <target>自动整理规则</target>
+        <target>자동 정리 규칙</target>
       </trans-unit>
       <trans-unit id="AutoSortItems-ArmouryCategoryDesc" xml:space="preserve">
         <source>选择“降序”时，会按照生产采集职业装备在前、战斗职业/特职装备在后排列物品。</source>
-        <target>选择“降序”时，会按照生产采集职业装备在前、战斗职业/特职装备在后排列物品。</target>
+        <target>&quot;내림차순&quot;을 선택하면 제작·채집 장비가 앞, 전투/특수 잡 장비가 뒤로 정렬됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoSortItems-ContextMenu" xml:space="preserve">
         <source>设置自动整理规则</source>
-        <target>设置自动整理规则</target>
+        <target>자동 정리 규칙 설정</target>
       </trans-unit>
       <trans-unit id="AutoSortItems-InventoryCategoryDesc" xml:space="preserve">
         <source>选择“降序”时，会按照生产采集素材、魔晶石、食品药品、杂货的顺序排列物品。</source>
-        <target>选择“降序”时，会按照生产采集素材、魔晶石、食品药品、杂货的顺序排列物品。</target>
+        <target>&quot;내림차순&quot;을 선택하면 생산, 수집 소재, 마테리아, 식품약품, 잡화 순서로 아이템이 정렬됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoSortItems-InventoryTabDesc" xml:space="preserve">
         <source>选择“分页”时，会按照装备优先单独占据一页的原则排列物品。</source>
