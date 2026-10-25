@@ -9096,18 +9096,23 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
         <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
+        <target>매크로 프리셋 &quot;{beforeName}&quot;의 표시 이름을 &quot;{afterName}&quot;으로 변경했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroDescription" xml:space="preserve">
         <source>优化“用户宏指令”界面，支持保存全部宏指令为多个可随时切换的预设，并为宏指令显示行号。</source>
+        <target>&quot;매크로&quot; 창을 최적화. 모든 매크로 명령을 전환 가능한 여러 프리셋으로 저장할 수 있으며, 매크로 명령에 행 번호를 표시합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMacroTitle" xml:space="preserve">
         <source>“用户宏指令”界面优化</source>
+        <target>사용자 매크로 UI 최적화</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
         <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
+        <target>&quot;지도&quot; 창의 에테라이트 및 도시 내 에테라이트를 항상 앞에 표시, 도시 내 에테라이트에서도 에테라이트와 동일하게 텔레포트할 수 있도록 합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
         <source>“地图”界面以太之光优化</source>
+        <target>&quot;지도&quot; 창의 에테라이트 표시 확장</target>
       </trans-unit>
       <trans-unit id="OptimizedPVPProfileActionDescription" xml:space="preserve">
         <source>优化“对战专用特职技能”界面，使原本不可被设置到热键栏的技能也可被拖出设置到对战专用热键栏。</source>
@@ -9433,6 +9438,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoDescription" xml:space="preserve">
         <source>优化“目标情报”与“焦点目标情报”界面，外显详细体力值与技能咏唱时间，放大自身赋予的状态，并新增快捷取消焦点目标按钮。</source>
+        <target>&quot;대상&quot; 및 &quot;주시 대상&quot; UI를 최적화합니다. 상세한 HP와 스킬 시전 시간을 항상 표시하고, 자신이 부여한 스테이터스 효과를 확대 표시하는 것은 물론, 주시 대상을 빠르게 해제할 수 있는 버튼을 추가합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfoTitle" xml:space="preserve">
         <source>目标情报界面优化</source>
@@ -9733,9 +9739,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-EditPrompt" xml:space="preserve">
         <source>请编辑消息的内容。</source>
+        <target>메시지 내용을 편집해 주세요.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Message-InputPrompt" xml:space="preserve">
         <source>请输入要添加的消息的内容。</source>
+        <target>추가할 메시지 내용을 입력해 주세요.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Messages" xml:space="preserve">
         <source>消息</source>
@@ -9743,12 +9751,15 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
         <source>复制了“{text}”到剪贴板。</source>
+        <target>&quot;{text}&quot;를 클립보드에 복사했습니다.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
         <source>水平偏移</source>
+        <target>수평 오프셋</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-Offset-Y" xml:space="preserve">
         <source>垂直偏移</source>
+        <target>수직 오프셋</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
