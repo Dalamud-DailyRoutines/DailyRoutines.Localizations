@@ -5890,12 +5890,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
         <target>텔레포 UI 최적화</target>
       </trans-unit>
       <trans-unit id="BetterWaitCommandDescription" xml:space="preserve">
-        <source>使文本指令中的&quot;等待&quot;突破原生的最大时间限制和时间精度限制</source>
-        <target>&apos;wait&apos; 명령어 사용 시, 기본 최대 대기 시간과 시간 단위 제한이 해제됩니다.</target>
+        <source>使“/等待（/wait、&lt;wait.&gt;）”命令等待的时间可超过60秒，并支持等待最多小数点后两位的非整数秒。
+（示例：/wait 180、&lt;wait.54.87&gt;）</source>
       </trans-unit>
       <trans-unit id="BetterWaitCommandTitle" xml:space="preserve">
-        <source>更好的等待指令</source>
-        <target>&apos;wait&apos; 명령어 개선</target>
+        <source>“/等待”命令优化</source>
       </trans-unit>
       <trans-unit id="Blacklist" xml:space="preserve">
         <source>黑名单</source>
