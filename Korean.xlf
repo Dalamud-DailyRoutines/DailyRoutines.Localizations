@@ -4810,6 +4810,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitDescription" xml:space="preserve">
         <source>为“玩家检视”界面内装备新增右键菜单项，用以一键试穿当前检视玩家全套装备外观。</source>
+        <target>다른 플레이어의 「조사하기」 화면 오른쪽 클릭 메뉴에 항목을 추가하여, 현재 확인 중인 플레이어의 모든 장비 외형을 한 번에 착용해 볼 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitTitle" xml:space="preserve">
         <source>自动试穿全套外观</source>
@@ -5161,6 +5162,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-NotifyBlacklistPlayer" xml:space="preserve">
         <source>遇到黑名单玩家时发送通知</source>
+        <target>블랙리스트 플레이어를 만났을 때 알림 전송</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-OldRemark" xml:space="preserve">
         <source>原备注</source>
@@ -6722,6 +6724,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="Emote" xml:space="preserve">
         <source>情感动作</source>
+        <target>감정표현</target>
       </trans-unit>
       <trans-unit id="Enable" xml:space="preserve">
         <source>启用</source>
@@ -7100,6 +7103,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentDescription" xml:space="preserve">
         <source>为“招募详情”界面新增按钮，用以一键退出当前队伍并加入目标招募队伍。</source>
+        <target>모집 상세 화면에 새 버튼을 추가해, 클릭 시 현재 파티를 즉시 나가고 원하는 모집에 참가합니다.</target>
       </trans-unit>
       <trans-unit id="FastJoinAnotherPartyRecruitmentTitle" xml:space="preserve">
         <source>快捷退队加入招募</source>
@@ -8714,9 +8718,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Apartment" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号房间）</source>
+        <target>{houseType} ({zoneName}{ward}구 {plot}호실)</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Estate" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号）</source>
+        <target>{houseType} ({zoneName}{ward}구 {plot}번지)</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-HouseType-FreeCompany" xml:space="preserve">
         <source>部队房屋</source>
@@ -8894,6 +8900,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
         <source>设置为默认道具箱</source>
+        <target>기본 페이지로 설정</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-ExchangableItemsTotalValue" xml:space="preserve">
         <source>变卖用道具总价值</source>
@@ -8905,12 +8912,15 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-FastMoveHelp" xml:space="preserve">
         <source>右键物品即可直接存入当前道具箱或取出至背包。</source>
+        <target>아이템을 우클릭해 현재 금고에 넣거나 가방으로 꺼낼 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestDescription" xml:space="preserve">
         <source>优化“部队储物柜”界面，支持右键快捷存取物品，修改打开时默认页面，显示页面内变卖用道具总价值，预先请求所有道具箱数据，并移除切换页面和存取物品时的操作冷却。</source>
+        <target>‘부대금고’ 창을 확장하여 마우스 오른쪽 클릭으로 아이템을 빠르게 접근할 수 있도록 지원합니다. 또한, 열었을 때의 기본 페이지 변경, 페이지 내 환전용 아이템 총가치 표시, 모든 부대금고 데이터의 사전 요청을 제공하는 것 외에도, 페이지 전환 시 및 아이템 입출력 시의 조작 쿨타임을 해제합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChestTitle" xml:space="preserve">
         <source>“部队储物柜”界面优化</source>
+        <target>부대 금고 개선</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
