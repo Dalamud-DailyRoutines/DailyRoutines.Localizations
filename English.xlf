@@ -5882,9 +5882,11 @@ If not, actions will behave like Duty Actions, which means it will vary based on
       <trans-unit id="BetterWaitCommandDescription" xml:space="preserve">
         <source>使“/等待（/wait、&lt;wait.&gt;）”命令等待的时间可超过60秒，并支持等待最多小数点后两位的非整数秒。
 （示例：/wait 180、&lt;wait.54.87&gt;）</source>
+        <target>Remove the 60-second wait cap for both the &quot;/wait&quot; and &quot;&lt;wait&gt;&quot; commands. Allow for higher precision up to two decimal places.</target>
       </trans-unit>
       <trans-unit id="BetterWaitCommandTitle" xml:space="preserve">
         <source>“/等待”命令优化</source>
+        <target>Better Wait Command</target>
       </trans-unit>
       <trans-unit id="Blacklist" xml:space="preserve">
         <source>黑名单</source>
