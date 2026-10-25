@@ -4231,24 +4231,31 @@
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
         <source>要设置间隔为多少毫秒？</source>
+        <target>간격을 몇 ms초로 설정?</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Start" xml:space="preserve">
         <source>开始以{ms}毫秒的间隔重复执行情感动作“{emote}”。</source>
+        <target>{ms}밀리초 간격으로 감정표현 &quot;{emote}&quot;을 반복 실행합니다.</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-Notification-Stop" xml:space="preserve">
         <source>停止了重复执行情感动作。</source>
+        <target>감정표현 반복 수행을 멈췄습니다.</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StartReuse" xml:space="preserve">
         <source>重复执行</source>
+        <target>반복 실행</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-StopReuse" xml:space="preserve">
         <source>停止重复执行</source>
+        <target>반복 실행 중지</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteDescription" xml:space="preserve">
         <source>以固定间隔重复执行指定的情感动作，支持从“情感动作”界面的情感动作的右键菜单中或使用“/pdr {command}”文本指令开始重复执行。</source>
+        <target>지정된 감정표현을 일정한 간격으로 반복 실행하며, &quot;감정표현&quot; 화면의 감정표현 후우클릭 메뉴에서 실행하거나 &quot;/pdr {command}&quot; 명령어를 사용하여 시작할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
         <source>自动重复执行表情</source>
+        <target>감정 표현 자동 재실행</target>
       </trans-unit>
       <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
         <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -4677,6 +4684,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoTenChiJin-AutoCastNinJiTsu" xml:space="preserve">
         <source>结印后自动发动忍术</source>
+        <target>자동으로 인술 발동</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJin-OpenNijutsuActionsAddon" xml:space="preserve">
         <source>打开忍术技能界面</source>
@@ -4684,6 +4692,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoTenChiJinDescription" xml:space="preserve">
         <source>优化发动忍术的过程。自动模式下，点击忍术技能后，自动按顺序结印并发动该忍术；手动模式下，自动限制结印期间单个结印技能仅能被发动一次。</source>
+        <target>인술 발동을 최적화합니다. 자동 모드에서는 인술 스킬을 클릭하면 순서대로 자동으로 인을 맺어 발동됩니다. 수동 모드에서는 각 인 기술이 한 번의 인들을 사용하는 동안 단 한 번만 발동되도록 자동으로 설정됩니다</target>
       </trans-unit>
       <trans-unit id="AutoTenChiJinTitle" xml:space="preserve">
         <source>自动结印</source>
@@ -4797,6 +4806,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfit-TryOnAll" xml:space="preserve">
         <source>试穿全部装备</source>
+        <target>모든 장비 착용해 보기</target>
       </trans-unit>
       <trans-unit id="AutoTryOnPlayerOutfitDescription" xml:space="preserve">
         <source>为“玩家检视”界面内装备新增右键菜单项，用以一键试穿当前检视玩家全套装备外观。</source>
