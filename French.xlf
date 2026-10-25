@@ -5855,12 +5855,11 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
         <target>Téléportation améliorée</target>
       </trans-unit>
       <trans-unit id="BetterWaitCommandDescription" xml:space="preserve">
-        <source>使文本指令中的&quot;等待&quot;突破原生的最大时间限制和时间精度限制</source>
-        <target>Supprime les limites natives de temps et de précision de la commande « wait » dans les commandes texte</target>
+        <source>使“/等待（/wait、&lt;wait.&gt;）”命令等待的时间可超过60秒，并支持等待最多小数点后两位的非整数秒。
+（示例：/wait 180、&lt;wait.54.87&gt;）</source>
       </trans-unit>
       <trans-unit id="BetterWaitCommandTitle" xml:space="preserve">
-        <source>更好的等待指令</source>
-        <target>Commande wait améliorée</target>
+        <source>“/等待”命令优化</source>
       </trans-unit>
       <trans-unit id="Blacklist" xml:space="preserve">
         <source>黑名单</source>
