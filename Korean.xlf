@@ -4214,11 +4214,11 @@
       </trans-unit>
       <trans-unit id="AutoRetainerWorkDescription" xml:space="preserve">
         <source>自动完成雇员相关操作，支持批量出售改价、确认探险结果、均分或取回金币和修改登记城镇。</source>
-        <target>自动完成雇员相关操作，支持批量出售改价、确认探险结果、均分或取回金币和修改登记城镇。</target>
+        <target>집사 작업을 자동화합니다. 출품힌 상품의 가격 일괄 변경, 수행 결과 확인, 길의 균등화·회수, 등록 도시 변경을 할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoRetainerWorkTitle" xml:space="preserve">
         <source>自动管理雇员</source>
-        <target>自动管理雇员</target>
+        <target>집사 자동 관리</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
         <source>停止重复执行情感动作。
@@ -4374,7 +4374,7 @@
       </trans-unit>
       <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
         <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
-        <target>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</target>
+        <target>전장에서 플레이어 처치시 성취감을 높이기 위해 화면 왼쪽에 녹다운 수를 강조 표시합니다.</target>
       </trans-unit>
       <trans-unit id="AutoShowFrontlineKillCountTitle" xml:space="preserve">
         <source>自动强调展示纷争前线击倒人数</source>
