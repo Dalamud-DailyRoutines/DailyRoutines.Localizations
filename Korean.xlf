@@ -250,6 +250,7 @@
       </trans-unit>
       <trans-unit id="AutoAdventureDescription" xml:space="preserve">
         <source>自动完成当前时间段与天气条件下允许记录的所有探索笔记，并可快捷查询探索笔记。</source>
+        <target>현재 시간대와 날씨 조건에서 달성 가능한 탐험수첩을 자동으로 수행하며, 탐험수첩을 빠르게 기록할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoAdventureTitle" xml:space="preserve">
         <source>自动完成探索笔记</source>
@@ -1017,9 +1018,11 @@
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationDescription" xml:space="preserve">
         <source>在过图线上直接显示通过其可以前往的目标区域名称。</source>
+        <target>맵의 영역 경계선에, 그곳에서 이동할 수 있는 대상 영역명을 직접 표시합니다.</target>
       </trans-unit>
       <trans-unit id="AutoDisplayExitRangeDestinationTitle" xml:space="preserve">
         <source>自动显示过图线目的地</source>
+        <target>에리어 경계선에 이동할 위치 표시</target>
       </trans-unit>
       <trans-unit id="AutoDisplayFateItemCount-HandInCount" xml:space="preserve">
         <source>交纳数量</source>
@@ -3028,6 +3031,7 @@
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-Notification" xml:space="preserve">
         <source>当前理符受理限额已达到{count}，将在{date}（{relativeTimeText}）达到上限。</source>
+        <target>현재 의뢰 수주권 {count}장, {date}（{relativeTimeText}）에 최대치에 도달합니다.</target>
       </trans-unit>
       <trans-unit id="AutoNotifyLeveUpdate-NotificationThreshold" xml:space="preserve">
         <source>提醒阈值</source>
@@ -4218,9 +4222,12 @@
       <trans-unit id="AutoReuseEmote-CommandHelp" xml:space="preserve">
         <source>停止重复执行情感动作。
 /pdr {command} &lt;情感动作&gt; (&lt;间隔&gt;) 以指定毫秒间隔（不传入间隔则使用默认值）重复执行对应的情感动作。</source>
+        <target>감정표현 반복 실행을 중지합니다.
+/pdr {command} &lt;감정표현&gt; (&lt;간격&gt;) 지정한 밀리초 간격（간격을 지정하지 않으면 기본값을 사용）으로 대응하는 감정표현을 반복 실행합니다</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval" xml:space="preserve">
         <source>设置重复执行间隔</source>
+        <target>반복 실행 간격 설정</target>
       </trans-unit>
       <trans-unit id="AutoReuseEmote-ConfigureDefualtInterval-PleaseInput" xml:space="preserve">
         <source>要设置间隔为多少毫秒？</source>
