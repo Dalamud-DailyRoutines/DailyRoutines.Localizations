@@ -8102,7 +8102,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="LeaveDutyCommand-CommandHelp" xml:space="preserve">
         <source>退出当前副本任务。</source>
-        <target>退出当前副本任务。</target>
+        <target>현재 임무에서 나가기.</target>
       </trans-unit>
       <trans-unit id="LeaveDutyCommandDescription" xml:space="preserve">
         <source>添加“/pdr {command}”指令，以快捷退出副本任务。</source>
@@ -8110,7 +8110,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="LeaveDutyCommandTitle" xml:space="preserve">
         <source>退出副本指令</source>
-        <target>退出副本指令</target>
+        <target>임무 종료 명령어</target>
       </trans-unit>
       <trans-unit id="LeftClick" xml:space="preserve">
         <source>左键</source>
@@ -8721,11 +8721,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Apartment" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号房间）</source>
-        <target>{houseType} ({zoneName}{ward}구 {plot}호실)</target>
+        <target>{houseType}（{zoneName}{ward}구 {plot}호실）</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-Format-HouseInfo-Estate" xml:space="preserve">
         <source>{houseType}（{zoneName}第{ward}区{plot}号）</source>
-        <target>{houseType} ({zoneName}{ward}구 {plot}번지)</target>
+        <target>{houseType}（{zoneName}{ward}구 {plot}번지）</target>
       </trans-unit>
       <trans-unit id="OmenTools-AetheryteRecordManager-HouseType-FreeCompany" xml:space="preserve">
         <source>部队房屋</source>
@@ -8890,12 +8890,12 @@ UI: {0}
       <trans-unit id="OptimizedEnemyList-AlwaysUnlock-Help" xml:space="preserve">
         <source>部分副本机制会使玩家在持续时间内无法通过“敌对列表”界面选中特定敌对目标。
 示例：副本“异形楼阁佐特塔”中“多格”的头目战中，遭受“人趣混乱”状态影响期间。</source>
-        <target>部分副本机制会使玩家在持续时间内无法通过“敌对列表”界面选中特定敌对目标。
-示例：副本“异形楼阁佐特塔”中“多格”的头目战中，遭受“人趣混乱”状态影响期间。</target>
+        <target>일부 콘텐츠 기믹으로 인해, 효과 지속 시간 동안은 ‘적대 목록’ UI에서 특정 적대 대상을 선택할 수 없게 됩니다. 
+예: 콘텐츠 &apos;조트 탑&apos;의 &apos;도그&apos; 보스전에서 ‘마누샤 혼란’ 디버프를 받고 있는 동안.</target>
       </trans-unit>
       <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
         <source>优化“敌对列表”界面，支持显示详细体力、仇恨与咏唱信息，并可以强制选中锁定选中的目标。</source>
-        <target>优化“敌对列表”界面，支持显示详细体力、仇恨与咏唱信息，并可以强制选中锁定选中的目标。</target>
+        <target>&apos;적대 목록&apos; UI를 개선하여 상세한 HP·적개심·시전바를 표시할 수 있게 하고, 록온한 대상을 강제 선택할 수 있도록 합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
         <source>“敌对列表”界面优化</source>
@@ -9003,11 +9003,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFriendListDescription" xml:space="preserve">
         <source>优化“好友名单”界面，支持搜索好友、显示状态为“无法获取角色情报”的好友信息、查询好友曾用名与未好友设置昵称与备注。</source>
-        <target>优化“好友名单”界面，支持搜索好友、显示状态为“无法获取角色情报”的好友信息、查询好友曾用名与未好友设置昵称与备注。</target>
+        <target>&apos;친구 목록&apos; UI를 개선하여, 친구 검색, 상태가 &apos;플레이어 정보 확인 불가&apos;로 표시된 친구 정보 확인, 이름 변경 내역 조회, 그리고 친구로 등록되지 않은 경우의 닉네임 및 메모 설정을 지원합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedFriendListTitle" xml:space="preserve">
         <source>“好友名单”界面优化</source>
-        <target>“好友名单”界面优化</target>
+        <target>&quot;친구 목록&quot; UI 최적화</target>
       </trans-unit>
       <trans-unit id="OptimizedInteractionDescription" xml:space="preserve">
         <source>优化了游戏的交互逻辑, 取消了物体在视野外、被遮挡、位置过高过低，人物跳跃时、低空飞行时等的禁止交互限制</source>
@@ -9035,7 +9035,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedLetterDescription" xml:space="preserve">
         <source>优化“莫古邮件”界面，支持批量领取附件或删除邮件，为“收信人列表”界面加入搜索功能，并移除了“请求特典道具”按钮的点击等待限制。</source>
-        <target>优化“莫古邮件”界面，支持批量领取附件或删除邮件，为“收信人列表”界面加入搜索功能，并移除了“请求特典道具”按钮的点击等待限制。</target>
+        <target>&quot;모그리 우편&quot; UI을 개선하여 첨부 아이템을 일괄회수하거나 우편을 일괄 삭제할 수 있으며, &quot;수신자 목록&quot; 화면에 검색 기능을 추가하고, &quot;배달 요청&quot; 버튼의 클릭 대기 시간을 제거합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedLetterTitle" xml:space="preserve">
         <source>“莫古邮件”界面优化</source>
