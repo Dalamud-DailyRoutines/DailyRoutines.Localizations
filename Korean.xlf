@@ -5763,7 +5763,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Blacklist-Help" xml:space="preserve">
         <source>若招募人或招募描述匹配任一正则，则隐藏该招募。</source>
-        <target>若招募人或招募描述匹配任一正则，则隐藏该招募。</target>
+        <target>모집자나 설명이 정규식과 일치하는 경우, 해당 모집 공고를 숨깁니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Delete" xml:space="preserve">
         <source>删除该规则</source>
@@ -5771,7 +5771,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Whitelist-Help" xml:space="preserve">
         <source>若招募人或招募描述匹配任一规则，则显示该招募。</source>
-        <target>若招募人或招募描述匹配任一规则，则显示该招募。</target>
+        <target>모집자나 설명이 정규식과 일치하는 경우, 해당 모집 공고를 표시합니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-FilterDuplicate" xml:space="preserve">
         <source>过滤重复招募</source>
@@ -5783,15 +5783,15 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount-AutoMode-Help" xml:space="preserve">
         <source>若招募中与自身相同的职能人数超出设定值，则隐藏该招募。</source>
-        <target>若招募中与自身相同的职能人数超出设定值，则隐藏该招募。</target>
+        <target>모집 중인 잡 중 자신과 동일한 잡의 인원이 설정된 값을 초과할 경우, 해당 모집을 숨깁니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount-Help" xml:space="preserve">
         <source>设定为-1即可忽略职能设置。</source>
-        <target>设定为-1即可忽略职能设置。</target>
+        <target>-1로 설정하면 역할 설정을 무시할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount-ManualMode-Help" xml:space="preserve">
         <source>若招募中任一职能人数超出设定值，则隐藏该招募。</source>
-        <target>若招募中任一职能人数超出设定值，则隐藏该招募。</target>
+        <target>모집 중인 잡 중 어느 하나라도 인원이 설정된 수치를 초과하면 해당 모집 공고를 숨깁니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob" xml:space="preserve">
         <source>过滤相同职业</source>
@@ -5799,11 +5799,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob-Help" xml:space="preserve">
         <source>若招募中已有和自己相同的职业，则隐藏该招募。</source>
-        <target>若招募中已有和自己相同的职业，则隐藏该招募。</target>
+        <target>모집 목록에 자신과 같은 잡이 이미 있다면, 해당 모집을 숨깁니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Notification-RegexError" xml:space="preserve">
         <source>输入的“{input}”无法被解析为正则表达式。</source>
-        <target>输入的“{input}”无法被解析为正则表达式。</target>
+        <target>입력된 &quot;{input}&quot;은 정규 표현식으로 해석할 수 없습니다.</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
         <source>使用模块界面整合、取代游戏原生多个零散的招募过滤、显示界面, 并支持多种规则智能化筛选并显示满足要求的招募信息</source>
@@ -6079,7 +6079,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="ColorThemeHotReloadDescription" xml:space="preserve">
         <source>使颜色主题设置可以立即生效，而无需登出游戏。</source>
-        <target>使颜色主题设置可以立即生效，而无需登出游戏。</target>
+        <target>로그아웃하지 않아도 색상 테마 설정이 즉시 적용됩니다.</target>
       </trans-unit>
       <trans-unit id="ColorThemeHotReloadTitle" xml:space="preserve">
         <source>颜色主题热重载</source>
@@ -6175,7 +6175,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="Common-SupportConflictKeyToInterrupt" xml:space="preserve">
         <source>按住{conflictKey}即可打断操作。</source>
-        <target>按住{conflictKey}即可打断操作。</target>
+        <target>{conflictKey}를 길게 눌러 작업을 중단할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="CompanyCreditExchangeMore-OnlyActiveInWorkshop" xml:space="preserve">
         <source>仅在部队工房内生效</source>
@@ -7272,7 +7272,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastRidePillion-Notification-Rode" xml:space="preserve">
         <source>自动搭乘了{player}的坐骑，坐在了{seat}号座位上。</source>
-        <target>自动搭乘了{player}的坐骑，坐在了{seat}号座位上。</target>
+        <target>{player}의 탈것을 자동으로 타고, {seat}번 좌석에 앉았습니다.</target>
       </trans-unit>
       <trans-unit id="FastRidePillionDescription" xml:space="preserve">
         <source>右键正在骑乘尚有空位的多人坐骑的队友时，自动共同骑乘。新增 /pdr {0} 指令，自动共同骑乘周围队友的坐骑。</source>
@@ -8106,7 +8106,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="LeaveDutyCommandDescription" xml:space="preserve">
         <source>添加“/pdr {command}”指令，以快捷退出副本任务。</source>
-        <target>添加“/pdr {command}”指令，以快捷退出副本任务。</target>
+        <target>&quot;/pdr {command}&quot; 명령어를 추가하여 임무를 빠르게 퇴장합니다.</target>
       </trans-unit>
       <trans-unit id="LeaveDutyCommandTitle" xml:space="preserve">
         <source>退出副本指令</source>
