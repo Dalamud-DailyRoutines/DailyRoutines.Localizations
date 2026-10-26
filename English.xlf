@@ -4765,7 +4765,7 @@ Add a player to the list via the right-click menu.</target>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOffTitle" xml:space="preserve">
         <source>自动记录状态消失情况</source>
-        <target>Auto Track Status Disappearance</target>
+        <target>Status Manual Removal Notification</target>
       </trans-unit>
       <trans-unit id="AutoTradeReviveCount-Notification-Stop" xml:space="preserve">
         <source>运行过程发生意外，流程已停止</source>
