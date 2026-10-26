@@ -9299,7 +9299,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
         <source>优化“制作笔记”界面, 支持快速切换职业；求解配方，并复制为宏、可视化预览与批量制作。</source>
-        <target>优化“制作笔记”界面, 支持快速切换职业；求解配方，并复制为宏、可视化预览与批量制作。</target>
+        <target>&apos;제작 수첩&apos;의 UI를 개선, 신속한 잡 전환이 가능하도록 한 것은 물론, 레시피 분석, 매크로 복사, 시각적 미리보기 및 일괄 제작 기능을 지원하게 되었습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
         <source>“制作笔记”界面优化</source>
@@ -9449,7 +9449,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedWeeklyBingoDescription" xml:space="preserve">
         <source>优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。</source>
-        <target>优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。</target>
+        <target>&quot;쿠로의 공상 수첩&quot; UI를 개선, 목표 퀘스트를 클릭하면 &quot;임무 찾&quot;으로 빠르게 이동하거나 &quot;목표 퀘스트 목록&quot; 화면을 확인할 수 있으며, 화면 우측의 &quot;보상 목록&quot;에 각 스토리 라인의 출현 확률이 직접 표시됩니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedWeeklyBingoTitle" xml:space="preserve">
         <source>“天书奇谈”界面优化</source>
@@ -9649,7 +9649,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditorDescription" xml:space="preserve">
         <source>使“编辑肖像”界面支持逐帧调整肖像动作。</source>
-        <target>使“编辑肖像”界面支持逐帧调整肖像动作。</target>
+        <target>&apos;초상화 편집&apos; 화면에서 포즈의 움직임을 1프레임 단위로 미세 조정할 수 있도록 합니다.</target>
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditorTitle" xml:space="preserve">
         <source>肖像角色动作逐帧编辑</source>
@@ -9798,7 +9798,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanelDescription" xml:space="preserve">
         <source>为“消息”界面聊天输入栏右侧新增按钮，用以发送待发送消息或打开全新的面板，可在面板中快捷发送消息、宏、系统音、特殊字符和查询游戏物品。</source>
-        <target>为“消息”界面聊天输入栏右侧新增按钮，用以发送待发送消息或打开全新的面板，可在面板中快捷发送消息、宏、系统音、特殊字符和查询游戏物品。</target>
+        <target>&apos;메시지&apos; UI의 채팅 입력창 오른쪽에 새 버튼을 추가, 전송 대기 중인 메시지를 보내거나 전용 패널을 펼칠 수 있게 되었습니다. 패널을 통해 메시지, 매크로, 시스템 효과음, 특수 문자를 빠르게 전송할 수 있으며, 게임 내 아이템을 검색할 수도 있습니다.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanelTitle" xml:space="preserve">
         <source>快捷聊天面板</source>
