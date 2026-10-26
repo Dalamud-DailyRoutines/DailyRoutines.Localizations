@@ -1003,7 +1003,7 @@
       </trans-unit>
       <trans-unit id="AutoDismountDescription" xml:space="preserve">
         <source>骑乘坐骑时，若尝试发动需要在未骑乘状态下才可发动的技能，则自动下坐骑并发动技能。</source>
-        <target>骑乘坐骑时，若尝试发动需要在未骑乘状态下才可发动的技能，则自动下坐骑并发动技能。</target>
+        <target>탈것에 탑승 중일 때, 미탑승시 가능한 액션을 실행하려고 하면 자동으로 탈것에서 내려 액션을 발동합니다.</target>
       </trans-unit>
       <trans-unit id="AutoDismountTitle" xml:space="preserve">
         <source>自动下坐骑</source>
@@ -1299,7 +1299,7 @@
       </trans-unit>
       <trans-unit id="AutoExpertDeliveryDescription" xml:space="preserve">
         <source>允许在“筹备任务”界面中批量提交稀有品，并支持修改打开界面时的默认分页。</source>
-        <target>允许在“筹备任务”界面中批量提交稀有品，并支持修改打开界面时的默认分页。</target>
+        <target>&apos;희귀 아이템 조달&apos; 창에서 일괄 납품이 가능하도록 하고, 창 표시 시 기본 탭 변경을 지원합니다.</target>
       </trans-unit>
       <trans-unit id="AutoExpertDeliveryTitle" xml:space="preserve">
         <source>自动筹备稀有品</source>
@@ -4458,7 +4458,7 @@
       </trans-unit>
       <trans-unit id="AutoSortItems-InventoryTabDesc" xml:space="preserve">
         <source>选择“分页”时，会按照装备优先单独占据一页的原则排列物品。</source>
-        <target>选择“分页”时，会按照装备优先单独占据一页的原则排列物品。</target>
+        <target>&apos;페이지&apos;를 선택시 장비가 우선적으로 1페이지를 차지하도록 설정된 규칙에 따라 아이템을 정렬합니다.</target>
       </trans-unit>
       <trans-unit id="AutoSortItems-Merge" xml:space="preserve">
         <source>不分栏</source>
@@ -4470,7 +4470,7 @@
       </trans-unit>
       <trans-unit id="AutoSortItemsDescription" xml:space="preserve">
         <source>配置后，在切换区域时自动依据规则整理背包与兵装库。</source>
-        <target>配置后，在切换区域时自动依据规则整理背包与兵装库。</target>
+        <target>설정 후 구역 이동 시 규칙에 따라 소지품과 장비함을 자동으로 정리합니다.</target>
       </trans-unit>
       <trans-unit id="AutoSortItemsTitle" xml:space="preserve">
         <source>自动整理物品</source>
@@ -4915,7 +4915,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoUseItemStacks-Notification-Finished" xml:space="preserve">
         <source>使用了“{item}”x{count}。</source>
-        <target>使用了“{item}”x{count}。</target>
+        <target>&quot;{item}&quot;을  x{count}회 사용.</target>
       </trans-unit>
       <trans-unit id="AutoUseItemStacks-Popup-PleaseInput" xml:space="preserve">
         <source>要使用多少个？</source>
@@ -5027,7 +5027,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearContentEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”之前的版本中以角色标识符记录的黑名单项。</source>
-        <target>移除在“与未知邂逅”之前的版本中以角色标识符记录的黑名单项。</target>
+        <target>7.1 이전 버전에서 캐릭터 식별자로 기록된 블랙리스트 항목을 제거합니다.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries" xml:space="preserve">
         <source>移除失效黑名单</source>
@@ -5035,7 +5035,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</source>
-        <target>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</target>
+        <target>7.1~7.3 버전에서 기존 계정 식별자 형식으로 기록되었으나, 현재 무효화된 블랙리스트 항목을 해제.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-ConfirmDeletePlayer" xml:space="preserve">
         <source>确认要删除该玩家吗？</source>
@@ -5113,7 +5113,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToJoinGroup" xml:space="preserve">
         <source>加入共享黑名单失败，{reason}。</source>
-        <target>加入共享黑名单失败，{reason}。</target>
+        <target>공유 블랙리스트 추가 실패: {reason}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailToShareList" xml:space="preserve">
         <source>分享本地黑名单失败，{0}。</source>
@@ -5125,7 +5125,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailedToRemovePlayerFromGroup" xml:space="preserve">
         <source>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</source>
-        <target>从共享黑名单“{groupName}”中移除玩家失败，请稍后再次尝试。</target>
+        <target>공유 블랙리스트 &quot;{groupName}&quot;에서 제거할 수 없었습니다. 잠시 후 다시 시도해 주세요.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
         <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
@@ -9774,7 +9774,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SendMessageHelp" xml:space="preserve">
         <source>左键复制，右键发送。</source>
-        <target>左键复制，右键发送。</target>
+        <target>좌클릭 복사, 우클릭 발송.</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SpecialChar-Copy" xml:space="preserve">
         <source>复制“{text}”（{hexText}）到剪贴板</source>
