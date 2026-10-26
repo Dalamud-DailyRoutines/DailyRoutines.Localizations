@@ -5144,7 +5144,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       <trans-unit id="BetterBlacklist-Notification-MeetBlacklistPlayer" xml:space="preserve">
         <source>遇见了黑名单玩家{player}。
 {details}</source>
-        <target>블랙리스트 {player}를 만났습니다。
+        <target>블랙리스트 {player}를 만났습니다.
 {details}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-SharedList" xml:space="preserve">
@@ -8896,7 +8896,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
         <source>“敌对列表”界面优化</source>
-        <target>“敌对列表”界面优化</target>
+        <target>&quot;적대 목록&quot; UI 개선</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeCompanyChest-DefaultPage" xml:space="preserve">
         <source>设置为默认道具箱</source>
@@ -8924,15 +8924,15 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
         <source>领取全套{classJob}装备</source>
-        <target>领取全套{classJob}装备</target>
+        <target>{classJob} 장비 세트 전체 수령</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeShopDescription" xml:space="preserve">
         <source>优化“报酬”界面，支持批量领取任一职业全部装备，并使手动领取时无需二次确认。</source>
-        <target>优化“报酬”界面，支持批量领取任一职业全部装备，并使手动领取时无需二次确认。</target>
+        <target>&quot;보상&quot; UI를 개선, 원하는 직업의 모든 장비를 한 번에 수령할 수 있도록 하는 한편, 수동 수령 시 확인 대화상자를 건너뛸 수 있게 합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedFreeShopTitle" xml:space="preserve">
         <source>“报酬”界面优化</source>
-        <target>“报酬”界面优化</target>
+        <target>&quot;보상&quot; UI 최적화</target>
       </trans-unit>
       <trans-unit id="OptimizedFriendList-Addon-ConfirmClear" xml:space="preserve">
         <source>确定要清除设置的昵称与备注吗？</source>
@@ -9036,7 +9036,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedLetterTitle" xml:space="preserve">
         <source>“莫古邮件”界面优化</source>
-        <target>“莫古邮件”界面优化</target>
+        <target>&quot;모그리 우편&quot; UI 최적화</target>
       </trans-unit>
       <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
         <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
