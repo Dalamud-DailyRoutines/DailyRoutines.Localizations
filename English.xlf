@@ -4731,6 +4731,9 @@ Add a player to the list via the right-click menu.</target>
         <source>{player}主动取消了状态{status}。
    预计存续{estimatedTime}秒
    实际存续{time}秒</source>
+        <target>{player} has manually removed the status {status} applied by you.
+   Estimated Duration: {estimatedTime, plural, one {# second} other {# seconds}}
+   Actual Duration: {time, plural, one {# second} other {# seconds}}</target>
       </trans-unit>
             <trans-unit id="AutoTrackStatusOffDescription" xml:space="preserve">
         <source>自动记录自身给予其他玩家的状态存续情况，在其被他人主动解除时发送通知提醒。</source>
@@ -8853,15 +8856,19 @@ Replace the action name and icon with the name and icon of the result of Mount R
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-RewardOverflow" xml:space="preserve">
         <source>奖励将超过持有上限或背包已满，停止了批量交换。</source>
+        <target>The batch exchange has been terminated, since the inventory is about to be full or one of the rewards is about to reach its cap.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-SubmissionFailed" xml:space="preserve">
         <source>未能确认收藏品交换状态，停止了批量交换。</source>
+        <target>The batch exchange has been terminated due to a failed status check.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-OnlyOwnedItems" xml:space="preserve">
         <source>仅显示持有的道具</source>
+        <target>Possessed Only</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
         <source>优化“收藏品交易”界面，支持批量交换收藏品，快捷打开工票交易界面，自动记忆选择的道具，同时还可以仅显示持有的道具，单一等级范围内持有的道具优先显示在前面。</source>
+        <target>Provide a better Collectables Exchange interface, allowing to exchange collectables in batch, access the scrip exchange nearby, memoize the collectable exchanged last time, and display possessed collectables only or in priority. </target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
         <source>“收藏品交易”界面优化</source>
