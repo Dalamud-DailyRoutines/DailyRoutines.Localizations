@@ -4607,15 +4607,15 @@
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-Notification-SomeExploring" xml:space="preserve">
         <source>{count}艘潜水艇正在外出探索，预计将在{timeText}全部返航。</source>
-        <target>{count}艘潜水艇正在外出探索，预计将在{timeText}全部返航。</target>
+        <target>{count}척의 잠수함이 출항 중이며, {timeText}까지 귀환할 것으로 예상됩니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-NotifyCount" xml:space="preserve">
         <source>当返航至少{count}艘潜水艇时，通知探索结果</source>
-        <target>当返航至少{count}艘潜水艇时，通知探索结果</target>
+        <target>귀환한 잠수함이 최소 {count}척이 되었을 때, 탐사 결과를 통보합니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollectDescription" xml:space="preserve">
         <source>自动批量确认潜水艇探索结果并重新委派，并在“航行管制面板”界面中显示物品“桶装青磷水”与“魔导机械修理材料”的信息数量及新增“自动收取潜水艇”按钮，同时支持发送预计归来时间通知与可点击的归来通知。玩家可通过点击界面按钮、点击归来通知或输入“/pdr submarine”指令开始自动收取与重新委派。</source>
-        <target>自动批量确认潜水艇探索结果并重新委派，并在“航行管制面板”界面中显示物品“桶装青磷水”与“魔导机械修理材料”的信息数量及新增“自动收取潜水艇”按钮，同时支持发送预计归来时间通知与可点击的归来通知。玩家可通过点击界面按钮、点击归来通知或输入“/pdr submarine”指令开始自动收取与重新委派。</target>
+        <target>잠수함 탐사 결과를 자동으로 확인하고 재할당하며, &quot;관제탑&quot; 화면에 아이템 &quot;청린수 연료통&quot;과 &quot;마도 기계 수리재&quot;의 보유 수량을 표시하고, &quot;잠수함 자동 수거&quot; 버튼을 추가로 제공합니다. 또한 예상 귀환 시간 알림 전송과 클릭 가능한 귀환 알림 기능을 지원합니다. 플레이어는 화면의 버튼을 클릭하거나, 귀환 알림을 클릭하거나, “/pdr submarine” 명령어를 입력하여 자동 수거 및 재할당을 시작할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollectTitle" xml:space="preserve">
         <source>自动收取潜水艇</source>
@@ -4745,13 +4745,13 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="AutoTrackPlayers-Notification-NotToTrack" xml:space="preserve">
         <source>停止了对{player}的持续追踪。</source>
-        <target>停止了对{player}的持续追踪。</target>
+        <target>{player}를 따라가기를 중단했습니다.</target>
       </trans-unit>
       <trans-unit id="AutoTrackPlayers-Notification-ToTrack" xml:space="preserve">
         <source>开始持续追踪{player}，可以在打开的界面中详细配置。
 ※输入文本指令“{command}”即可再次打开该界面。</source>
-        <target>开始持续追踪{player}，可以在打开的界面中详细配置。
-※输入文本指令“{command}”即可再次打开该界面。</target>
+        <target>{player}를 따라가기가 시작되었습니다. 열린 UI에서 세부 설정을 조정할 수 있습니다.
+※텍스트 명령어 &quot;{command}&quot;를 입력하면 해당 화면을 다시 열 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="AutoTrackPlayers-Track" xml:space="preserve">
         <source>追踪</source>
