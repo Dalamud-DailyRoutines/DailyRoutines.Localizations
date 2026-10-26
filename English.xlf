@@ -4759,9 +4759,13 @@ Add a player to the list via the right-click menu.</target>
         <source>{player}主动取消了状态{status}。
    预计存续{estimatedTimeText}秒
    实际存续{timeText}秒</source>
+        <target>{player} has manually removed the status {status} applied by you.
+   Estimated Duration: {estimatedTimeText, plural, one {# second} other {# seconds}}
+   Actual Duration: {timeText, plural, one {# second} other {# seconds}}</target>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOffDescription" xml:space="preserve">
         <source>自动记录自身给予其他玩家的状态存续情况，在其被他人主动解除时发送通知提醒。</source>
+        <target>Send a notification if a player manually removes status applied by you.</target>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOffTitle" xml:space="preserve">
         <source>自动记录状态消失情况</source>
