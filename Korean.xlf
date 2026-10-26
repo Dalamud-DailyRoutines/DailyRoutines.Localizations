@@ -9187,7 +9187,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
         <source>将原本仅能固定切换至下一个分类的配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。</source>
-        <target>将原本仅能固定切换至下一个分类的配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。</target>
+        <target>다음 분류로 순차적으로만 전환할 수 있었던 레시피 분류 UI를 3개의 조작 영역으로 나누어, 클릭 한 번으로 원하는 분류로 바로 전환할 수 있도록 했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons" xml:space="preserve">
         <source>显示配方其他职业版本按钮</source>
@@ -9195,7 +9195,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons-Help" xml:space="preserve">
         <source>若其他职业也能制作当前所选配方，则在顶部显示快捷职业切换按钮，用以一键查看该配方在全部或某一职业下的版本。</source>
-        <target>若其他职业也能制作当前所选配方，则在顶部显示快捷职业切换按钮，用以一键查看该配方在全部或某一职业下的版本。</target>
+        <target>선택한 레시피를 다른 클래스나 잡으로도 만들 수 있는 경우, 상단에 빠른 직업 전환 버튼을 표시하여 한 번의 탭으로 모든 직업 또는 지정된 직업의 레시피로 전환하여 확인할 수 있도록 합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons" xml:space="preserve">
         <source>材料来源按钮</source>
@@ -9203,7 +9203,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons-Help" xml:space="preserve">
         <source>在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。</source>
-        <target>在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。</target>
+        <target>각 아이템의 왼쪽에 아이콘 버튼을 추가하여 해당 아이템을 NPC 상점이나 장터에서 구매할 수 있는지 여부를 표시하고 검색할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
         <source>突破制作练习初始品质上限</source>
@@ -9235,7 +9235,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-SearchClearButton-Help" xml:space="preserve">
         <source>在搜索框右部新增清除按钮，点击即可清空搜索内容并跳转回开始搜索前的配方页面。</source>
-        <target>在搜索框右部新增清除按钮，点击即可清空搜索内容并跳转回开始搜索前的配方页面。</target>
+        <target>검색창 오른쪽에 삭제 버튼을 추가하여, 클릭하면 검색어를 지우고 검색 전의 레시피 화면으로 돌아갈 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton" xml:space="preserve">
         <source>切换职业按钮</source>
@@ -9243,11 +9243,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton-Help" xml:space="preserve">
         <source>若当前职业非配方职业，则将“开始制作”按钮替换为“切换职业”按钮。</source>
-        <target>若当前职业非配方职业，则将“开始制作”按钮替换为“切换职业”按钮。</target>
+        <target>현재 잡이 레시피 대상에 해당하지 않는 경우, &quot;제작&quot; 버튼을 &quot;잡 변경&quot; 버튼으로 대체합니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
         <source>复制宏</source>
-        <target>复制宏</target>
+        <target>매크로 복사</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-CraftComplete" xml:space="preserve">
         <source>批量制作了{rounds}次，获得了“{item}”x{count}。</source>
@@ -9267,15 +9267,15 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
         <source>复制了宏#{0}至剪贴板。</source>
-        <target>매크로 #{0}을(를) 클립보드에 복사했습니다.</target>
+        <target>매크로 #{0}을 클립보드에 복사했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
         <source>复制了宏到剪贴板。</source>
-        <target>复制了宏到剪贴板。</target>
+        <target>매크로를 클립보드에 복사했습니다.</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-PreviewSteps" xml:space="preserve">
         <source>预览步骤</source>
-        <target>预览步骤</target>
+        <target>제작 프리뷰 미리 보기</target>
       </trans-unit>
       <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
         <source>已超出单次简易制作上限, 开始自动分批简易制作, 共 {0} 批</source>
@@ -9363,7 +9363,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ChineseFull" xml:space="preserve">
         <source>完整中文数字表达</source>
-        <target>중문 숫자 표기 (전체 자리수)</target>
+        <target>중문 숫자 표기</target>
       </trans-unit>
       <trans-unit id="OptimizedTargetInfo-ChineseOnePrecision" xml:space="preserve">
         <source>中文数字表达 (保留一位)</source>
@@ -9641,11 +9641,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditor-LastFrame" xml:space="preserve">
         <source>上一帧</source>
-        <target>上一帧</target>
+        <target>이전 프레임</target>
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditor-NextFrame" xml:space="preserve">
         <source>下一帧</source>
-        <target>下一帧</target>
+        <target>다음 프레임</target>
       </trans-unit>
       <trans-unit id="PortraitAnimationTimeEditorDescription" xml:space="preserve">
         <source>使“编辑肖像”界面支持逐帧调整肖像动作。</source>
@@ -9766,7 +9766,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMacrosAmountText" xml:space="preserve">
         <source>已选择{count}个用户宏</source>
-        <target>已选择{count}个用户宏</target>
+        <target>{count}개의 매크로를 선택했습니다</target>
       </trans-unit>
       <trans-unit id="QuickChatPanel-SavedMessagesAmountText" xml:space="preserve">
         <source>已存储{count}条消息</source>
