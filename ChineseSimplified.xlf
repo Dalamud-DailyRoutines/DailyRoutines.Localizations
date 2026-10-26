@@ -1,5 +1,4 @@
-<?xml version="1.0" ?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
         <body>
             <trans-unit id="Accept" xml:space="preserve">
@@ -6426,12 +6425,10 @@
             <trans-unit id="OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help" xml:space="preserve">
         <source>当宝箱距离小于设置值时自动通过发送数据包的方式打开</source>
       </trans-unit>
-            <trans-unit id="OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger"
-                        xml:space="preserve">
+            <trans-unit id="OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger" xml:space="preserve">
         <source>距离区域起始地点过近, 请远离后并确认周围无人注意再点击开始</source>
       </trans-unit>
-            <trans-unit id="OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End"
-                        xml:space="preserve">
+            <trans-unit id="OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End" xml:space="preserve">
         <source>本轮自动寻宝已结束</source>
       </trans-unit>
             <trans-unit id="OccultCrescentHelper-TreasureManager-ReturnToOrigPostion" xml:space="preserve">
