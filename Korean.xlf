@@ -4766,20 +4766,12 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
         <target>플레이어 자동 추적</target>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOff-Notification" xml:space="preserve">
-        <source>状态: {0} ({1}) 提前消失了
-预计存续: {2} 秒, 实际存续: {3} 秒
-目标玩家: {4} ({5} {6})</source>
-        <target>상태: {0} ({1})이(가) 예상보다 일찍 사라졌습니다.
-예상 지속 시간: {2}초, 실제 지속 시간: {3}초
-대상 플레이어: {4} ({5} {6})</target>
-      </trans-unit>
-      <trans-unit id="AutoTrackStatusOff-OnlyTrackSpecific" xml:space="preserve">
-        <source>仅监控选定的状态</source>
-        <target>선택한 상태 이상만 추적</target>
+        <source>{player}主动取消了状态{status}。
+   预计存续{estimatedTimeText}秒
+   实际存续{timeText}秒</source>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOffDescription" xml:space="preserve">
-        <source>自动记录自身给予其他玩家的状态存续情况, 并在其被他人主动解除时发送通知信息提醒</source>
-        <target>자신이 다른 플레이어에게 부여한 상태의 유지 상황을 자동으로 기록하며, 타인이 이를 직접 해제했을 경우 알림 메시지를 전송합니다.</target>
+        <source>自动记录自身给予其他玩家的状态存续情况，在其被他人主动解除时发送通知提醒。</source>
       </trans-unit>
       <trans-unit id="AutoTrackStatusOffTitle" xml:space="preserve">
         <source>自动记录状态消失情况</source>
