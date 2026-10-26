@@ -3840,7 +3840,7 @@
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-SendTemperature" xml:space="preserve">
         <source>发送温度参数</source>
-        <target>发送温度参数</target>
+        <target>발송온도매개변수</target>
       </trans-unit>
       <trans-unit id="AutoReplyChatBot-SystemPrompt" xml:space="preserve">
         <source>系统提示词</source>
@@ -4579,7 +4579,7 @@
       </trans-unit>
       <trans-unit id="AutoStoreToCabinet-Button" xml:space="preserve">
         <source>批量存入</source>
-        <target>批量存入</target>
+        <target>모두 맡기기</target>
       </trans-unit>
       <trans-unit id="AutoStoreToCabinetDescription" xml:space="preserve">
         <source>为“收藏柜”界面新增批量存入功能。</source>
@@ -5019,11 +5019,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearAllEntries" xml:space="preserve">
         <source>移除所有黑名单</source>
-        <target>移除所有黑名单</target>
+        <target>모든 블랙리스트 삭제</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearContentEntries" xml:space="preserve">
         <source>移除旧黑名单</source>
-        <target>移除旧黑名单</target>
+        <target>구 블랙리스트 삭제</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearContentEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”之前的版本中以角色标识符记录的黑名单项。</source>
@@ -5031,7 +5031,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries" xml:space="preserve">
         <source>移除失效黑名单</source>
-        <target>移除失效黑名单</target>
+        <target>무효화된 블랙리스트 제거</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Addon-ClearLegacyAccountEntries-Help" xml:space="preserve">
         <source>移除在“与未知邂逅”至“明日的路标”版本期间以旧账号标识符格式记录但现在已失效的黑名单项。</source>
@@ -5129,7 +5129,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-FailedToUpdatePlayerRemark" xml:space="preserve">
         <source>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</source>
-        <target>修改共享黑名单“{groupName}”中玩家的备注失败，请稍后再次尝试。</target>
+        <target>공유 블랙리스트 &quot;{groupName}&quot;에 있는 플레이어의 메모를 수정하는 데 실패했습니다. 잠시 후 다시 시도해 주세요.</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-ImportedList" xml:space="preserve">
         <source>导入了本地黑名单“{0}”，共{1}名玩家。</source>
@@ -5144,7 +5144,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       <trans-unit id="BetterBlacklist-Notification-MeetBlacklistPlayer" xml:space="preserve">
         <source>遇见了黑名单玩家{player}。
 {details}</source>
-        <target>遇见了黑名单玩家{player}。
+        <target>블랙리스트 {player}를 만났습니다。
 {details}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-Notification-SharedList" xml:space="preserve">
@@ -5186,8 +5186,8 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
   备注：{remark}
   添加时间：{timestamp}</source>
         <target>{source}
-  备注：{remark}
-  添加时间：{timestamp}</target>
+  비고：{remark}
+  추가시간：{timestamp}</target>
       </trans-unit>
       <trans-unit id="BetterBlacklist-SourceFormat" xml:space="preserve">
         <source>{type}“{name}”</source>
@@ -5211,7 +5211,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterBlueSetLoadDescription" xml:space="preserve">
         <source>优化青魔法书内有效技能组的读取机制，使切换时无需先行解除“以太复制”等状态或等待技能复唱时间归零，并新增指令“/pdr {command}”以切换技能组。</source>
-        <target>优化青魔法书内有效技能组的读取机制，使切换时无需先行解除“以太复制”等状态或等待技能复唱时间归零，并新增指令“/pdr {command}”以切换技能组。</target>
+        <target>청마법서 내 유효한 스킬 세트의 불러오기 메커니즘을 최적화하여, 스킬을 전환할 때 &quot;에테르 복제&quot; 등의 상태를 미리 해제하거나 스킬 재사용 대기 시간이 0이 될 때까지 기다릴 필요가 없도록 했으며, 스킬 세트를 전환하기 위한 새로운 명령어 &quot;/pdr {command}&quot;를 추가했습니다.</target>
       </trans-unit>
       <trans-unit id="BetterBlueSetLoadTitle" xml:space="preserve">
         <source>更好的青魔法技能组读取</source>
@@ -5244,11 +5244,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
 /pdr fps off 不限制帧率。
 /pdr fps toggle 限制或不限制帧率。
 /pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</source>
-        <target>开启或关闭“帧数限制”界面。
-/pdr fps on 限制帧率。
-/pdr fps off 不限制帧率。
-/pdr fps toggle 限制或不限制帧率。
-/pdr fps &lt;帧数&gt; 设置目标帧数（1至32767之间的整数）并限制帧率。</target>
+        <target>&quot;프레임 제한&quot; UI를 켜거나 끕니다.
+/pdr fps on 프레임을 제한합니다.
+/pdr fps off 프레임을 제한하지 않습니다.
+/pdr fps toggle 프레임 제한을 켜거나 끕니다.
+/pdr fps &lt;프레임 수&gt; 목표 프레임 수(1~32767 사이의 정수)를 설정하고 프레임 속도를 제한합니다.</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitation-CurrentFPS" xml:space="preserve">
         <source>当前帧数</source>
@@ -5266,11 +5266,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
         <source>最高帧数</source>
-        <target>最高帧数</target>
+        <target>최고 프레임</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
         <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
-        <target>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</target>
+        <target>게임 프레임을 원하는 값으로 제한할 수 있으며, 서버 정보 창에 현재 프레임 수를 실시간으로 표시하고, 프레임 속도를 간편하게 제한할 수 있는 창을 제공합니다.</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle" xml:space="preserve">
         <source>更好的游戏帧数限制</source>
