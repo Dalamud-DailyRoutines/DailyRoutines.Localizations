@@ -4583,7 +4583,7 @@
       </trans-unit>
       <trans-unit id="AutoStoreToCabinetDescription" xml:space="preserve">
         <source>为“收藏柜”界面新增批量存入功能。</source>
-        <target>为“收藏柜”界面新增批量存入功能。</target>
+        <target>&quot;추억의 보관함&quot; UI에 한꺼번에 맡기는 기능을 추가합니다.</target>
       </trans-unit>
       <trans-unit id="AutoStoreToCabinetTitle" xml:space="preserve">
         <source>自动存入收藏柜</source>
@@ -4591,7 +4591,7 @@
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-AutoCollectCount" xml:space="preserve">
         <source>当返航{count}艘潜水艇时，自动前往收取</source>
-        <target>当返航{count}艘潜水艇时，自动前往收取</target>
+        <target>{count}척의 잠수정이 도착하면 자동으로 이동하여 수거합니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-CommandHelp" xml:space="preserve">
         <source>传送至部队工房内并尝试收取潜水艇</source>
@@ -4599,11 +4599,11 @@
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-LackSpecificItems" xml:space="preserve">
         <source>所持“{item}”数量不足，已停止收取潜水艇。</source>
-        <target>所持“{item}”数量不足，已停止收取潜水艇。</target>
+        <target>&quot;{item}&quot; 수량이 부족하여 잠수함 추가 수령이 중지되었습니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-Notification-AllReturned" xml:space="preserve">
         <source>全部潜水艇均已在{exactTimeText}（{timeAgoText}）返航，点击自动前往收取。</source>
-        <target>全部潜水艇均已在{exactTimeText}（{timeAgoText}）返航，点击自动前往收取。</target>
+        <target>모든 잠수함이 {exactTimeText} ({timeAgoText})에 귀환했으며, 클릭시 자동으로 수령하러 이동합니다.</target>
       </trans-unit>
       <trans-unit id="AutoSubmarineCollect-Notification-SomeExploring" xml:space="preserve">
         <source>{count}艘潜水艇正在外出探索，预计将在{timeText}全部返航。</source>
@@ -5975,7 +5975,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="CallbackCommandDescription" xml:space="preserve">
         <source>添加 /pdr {0} &lt;界面内部名称&gt; &lt;参数...&gt; 指令, 以便使用指令直接操控游戏内各界面</source>
-        <target>/pdr {0} &lt;UI 내부 이름&gt; &lt;매개변수...&gt; 명령어가 추가되었습니다. 이를 통해 명령어를 사용하여 게임 내 각 UI를 직접 조작할 수 있습니다.</target>
+        <target>/pdr {0} &lt;UI 내부 이름&gt; &lt;매개변수...&gt; 명령어가 추가되었습니다. 이를 통해 명령어를 사용하여 게임 내 각 UI를 직접 조작할 수 있습니다</target>
       </trans-unit>
       <trans-unit id="CallbackCommandTitle" xml:space="preserve">
         <source>界面回调触发指令</source>
