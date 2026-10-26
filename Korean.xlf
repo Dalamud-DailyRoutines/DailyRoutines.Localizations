@@ -7026,11 +7026,11 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchangeDescription" xml:space="preserve">
         <source>支持为“军票交换所”界面配置快捷交换物品用以一键交换，并可以使用指令“/pdr {command}”交换配置物品或指定物品。</source>
-        <target>支持为“军票交换所”界面配置快捷交换物品用以一键交换，并可以使用指令“/pdr {command}”交换配置物品或指定物品。</target>
+        <target>&quot;군표 교환소&quot; UI에서 빠른 교환 아이템을 설정할 수 있으며, &quot;/pdr {command}&quot; 명령어를 사용하여 설정된 아이템이나 지정된 아이템을 교환할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchangeTitle" xml:space="preserve">
         <source>快捷交换军票物品</source>
-        <target>快捷交换军票物品</target>
+        <target>군표 교환소 일괄 교환</target>
       </trans-unit>
       <trans-unit id="FastInstanceZoneChange-AddDtrEntry" xml:space="preserve">
         <source>在服务器信息栏添加快捷副本区切换菜单入口</source>
@@ -7524,7 +7524,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastWorldTravelDescription" xml:space="preserve">
         <source>提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。</source>
-        <target>提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。</target>
+        <target>더 직관적이고 간결한 &quot;서버 이동&quot; 인터페이스를 제공하며, &quot;/pdr {command}&quot; 명령어를 새로 추가하여 서버 이동을 빠르게 수행할 수 있습니다. 림사 로민사의 하층 갑판, 그리다니아 신시가지, 울다하 날 회랑 지역 내의 어느 위치에서나 서버 이동을 할 수 있으며, 인스턴스 던전이 아닌 다른 모든 지역에서도 직접 서버 이동을 시작할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="FastWorldTravelTitle" xml:space="preserve">
         <source>快捷跨界传送</source>
@@ -7862,7 +7862,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="ID" xml:space="preserve">
         <source>唯一标识符</source>
-        <target>唯一标识符</target>
+        <target>고유 식별 ID</target>
       </trans-unit>
       <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
         <source>安装并启用了插件 {0}</source>
