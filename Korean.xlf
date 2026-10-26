@@ -5278,23 +5278,23 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle-Notification-Set" xml:space="preserve">
         <source>限制了最高帧数为每秒{fps}帧。</source>
-        <target>限制了最高帧数为每秒{fps}帧。</target>
+        <target>최고 프레임을 {fps} 프레임으로 제한했습니다.</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
         <source>取消了帧数限制。</source>
-        <target>取消了帧数限制。</target>
+        <target>프레임 리밋 해제</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
         <source>平均帧数</source>
-        <target>平均帧数</target>
+        <target>평균 프레임</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
         <source>最高帧数</source>
-        <target>最高帧数</target>
+        <target>최고 프레임</target>
       </trans-unit>
       <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
         <source>最低帧数</source>
-        <target>最低帧数</target>
+        <target>최저 프레임</target>
       </trans-unit>
       <trans-unit id="BetterFateProgressUI-LeftFateAmount" xml:space="preserve">
         <source>剩余 {0} 次</source>
@@ -5652,7 +5652,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterMarketBoard-PriceTrend" xml:space="preserve">
         <source>价格走势</source>
-        <target>价格走势</target>
+        <target>가격 추이</target>
       </trans-unit>
       <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
         <source>按住打断热键 {0} 时点击右键，即可无需确认直接购买。</source>
@@ -5755,11 +5755,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Category-SearchByName" xml:space="preserve">
         <source>按角色名搜索</source>
-        <target>按角色名搜索</target>
+        <target>캐릭터 이름으로 검색</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Add" xml:space="preserve">
         <source>添加正则过滤规则</source>
-        <target>添加正则过滤规则</target>
+        <target>정규식 필터 규칙 추가</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Blacklist-Help" xml:space="preserve">
         <source>若招募人或招募描述匹配任一正则，则隐藏该招募。</source>
@@ -5767,7 +5767,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Delete" xml:space="preserve">
         <source>删除该规则</source>
-        <target>删除该规则</target>
+        <target>이 규칙 삭제하기</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-Description-Whitelist-Help" xml:space="preserve">
         <source>若招募人或招募描述匹配任一规则，则显示该招募。</source>
@@ -5779,7 +5779,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount" xml:space="preserve">
         <source>根据职能已有人数过滤</source>
-        <target>根据职能已有人数过滤</target>
+        <target>잡 및 인원 수에 따라 필터링</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount-AutoMode-Help" xml:space="preserve">
         <source>若招募中与自身相同的职能人数超出设定值，则隐藏该招募。</source>
@@ -5795,7 +5795,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob" xml:space="preserve">
         <source>过滤相同职业</source>
-        <target>过滤相同职业</target>
+        <target>동일 잡 필터링</target>
       </trans-unit>
       <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob-Help" xml:space="preserve">
         <source>若招募中已有和自己相同的职业，则隐藏该招募。</source>
@@ -6083,7 +6083,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="ColorThemeHotReloadTitle" xml:space="preserve">
         <source>颜色主题热重载</source>
-        <target>颜色主题热重载</target>
+        <target>색상 테마 설정 즉시 적용</target>
       </trans-unit>
       <trans-unit id="Combat" xml:space="preserve">
         <source>战斗</source>
@@ -6331,15 +6331,15 @@ UI: {0}
       </trans-unit>
       <trans-unit id="CustomActionCastRecastTime-DefaultReduction-Help" xml:space="preserve">
         <source>当任一技能的咏唱时间大于等于复唱时间时，自动缩短其咏唱时间{ms}毫秒。</source>
-        <target>当任一技能的咏唱时间大于等于复唱时间时，自动缩短其咏唱时间{ms}毫秒。</target>
+        <target>스킬의 시전 시간이 재사용 시간보다 길 경우, 해당 시전 시간을 {ms}초 자동으로 단축합니다.</target>
       </trans-unit>
       <trans-unit id="CustomActionCastRecastTimeDescription" xml:space="preserve">
         <source>配置后，自动修改指定技能的咏唱或复唱时间。</source>
-        <target>配置后，自动修改指定技能的咏唱或复唱时间。</target>
+        <target>설정시 지정한 스킬의 시전 시간 및 재사용 시간이 자동으로 변경됩니다.</target>
       </trans-unit>
       <trans-unit id="CustomActionCastRecastTimeTitle" xml:space="preserve">
         <source>自定义技能咏唱复唱时间</source>
-        <target>自定义技能咏唱复唱时间</target>
+        <target>스킬 시전시간, 재사용 시간 사용자 지정</target>
       </trans-unit>
       <trans-unit id="CustomActionQueueTime-CustomDefaultQueueTime" xml:space="preserve">
         <source>自定义队列时间</source>
@@ -7019,10 +7019,7 @@ UI: {0}
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchange-CommandHelp" xml:space="preserve">
         <source>&lt;物品名 (大小写不敏感)&gt; (&lt;数量&gt;) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)</source>
-        <target>&lt;아이템명&gt; &lt;수량(생략 가능)&gt; 으로, 군표 교환소에서 지정 아이템을 해당 수량만큼 교환합니다.
- 수량을 생략하면 모든 군표를 해당 아이템으로 교환합니다.
-아이템명이 &quot;default&quot;인 경우, 오버레이 설정을 직접 사용하며, 이때는 수량을 입력할 필요가 없습니다.
-(사용 예: /pdr gce 집사 급료 2)</target>
+        <target>&lt;아이템명(대소문자 구분없음)&gt; (&lt;수량&gt;) 군표 교환소에서 지정된 수량의 지정된 아이템을 교환합니다 (아이템명이 default인 경우 창 내의 관련 설정을 그대로 사용하며, 이때 수량을 전달할 필요가 없습니다)</target>
       </trans-unit>
       <trans-unit id="FastGrandCompanyExchangeDescription" xml:space="preserve">
         <source>支持为“军票交换所”界面配置快捷交换物品用以一键交换，并可以使用指令“/pdr {command}”交换配置物品或指定物品。</source>
