@@ -8833,18 +8833,23 @@ Replace the action name and icon with the name and icon of the result of Mount R
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-BatchExchange" xml:space="preserve">
         <source>批量交换</source>
+        <target>Batch Exchange</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-ConflictKeyHint" xml:space="preserve">
         <source>按住{conflictKey}以批量交换</source>
+        <target>Hold {conflictKey} For Batch Exchange</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished" xml:space="preserve">
         <source>成功交换了{count}次收藏品。</source>
+        <target>{count, plural, one {# collectable has} other {# collectables have}} been exchanged.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished-Title" xml:space="preserve">
         <source>批量交换完成</source>
+        <target>Batch exchange complete.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-NoInclusionShop" xml:space="preserve">
         <source>附近没有可以对话的工票交易员。</source>
+        <target>No scrip exchange available nearby.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-RewardOverflow" xml:space="preserve">
         <source>奖励将超过持有上限或背包已满，停止了批量交换。</source>
@@ -8860,6 +8865,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
         <source>“收藏品交易”界面优化</source>
+        <target>Better Collectables Exchange</target>
       </trans-unit>
             <trans-unit id="OptimizedDutyFinderSettingDescription" xml:space="preserve">
         <source>使任务搜索器各设置直接以可交互按钮形式显示在界面上方, 无需打开二级界面即可交互设置</source>
