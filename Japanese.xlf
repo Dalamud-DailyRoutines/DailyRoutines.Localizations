@@ -5854,9 +5854,11 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             <trans-unit id="BetterWaitCommandDescription" xml:space="preserve">
         <source>使“/等待（/wait、&lt;wait.&gt;）”命令等待的时间可超过60秒，并支持等待最多小数点后两位的非整数秒。
 （示例：/wait 180、&lt;wait.54.87&gt;）</source>
+        <target>「/wait（&lt;wait.&gt;）」コマンドによる待機時間を60秒を超えて設定可能にし、小数点以下第2位までの小数値の待機に対応します。 （例：/wait 180、&lt;wait.54.87&gt;）</target>
       </trans-unit>
             <trans-unit id="BetterWaitCommandTitle" xml:space="preserve">
         <source>“/等待”命令优化</source>
+        <target>「/wait」コマンドの最適化</target>
       </trans-unit>
             <trans-unit id="Blacklist" xml:space="preserve">
         <source>黑名单</source>
@@ -8842,27 +8844,35 @@ UI: {0}
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-BatchExchange" xml:space="preserve">
         <source>批量交换</source>
+        <target>一括納品</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-ConflictKeyHint" xml:space="preserve">
         <source>按住{conflictKey}以批量交换</source>
+        <target>{conflictKey}を押しながら一括納品</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished" xml:space="preserve">
         <source>成功交换了{count}次收藏品。</source>
+        <target>収集品を{count}回納品しました。</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished-Title" xml:space="preserve">
         <source>批量交换完成</source>
+        <target>一括納品完了</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-NoInclusionShop" xml:space="preserve">
         <source>附近没有可以对话的工票交易员。</source>
+        <target>近くに会話可能なスクリップ取引窓口がいません。</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-RewardOverflow" xml:space="preserve">
         <source>奖励将超过持有上限或背包已满，停止了批量交换。</source>
+        <target>報酬が所持上限を超えるか所持品が一杯のため、一括納品を停止しました。</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-SubmissionFailed" xml:space="preserve">
         <source>未能确认收藏品交换状态，停止了批量交换。</source>
+        <target>収集品の納品状態を確認できなかったため、一括納品を停止しました。</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-OnlyOwnedItems" xml:space="preserve">
         <source>仅显示持有的道具</source>
+        <target>所持アイテムのみ表示</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
         <source>优化“收藏品交易”界面，支持批量交换收藏品，快捷打开工票交易界面，自动记忆选择的道具，同时还可以仅显示持有的道具，单一等级范围内持有的道具优先显示在前面。</source>
