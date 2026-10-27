@@ -2106,9 +2106,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
+                <target>各種ショップにおけるアイテムの1回あたりの購入上限を999個に引き上げ、「戦績交換窓口」におけるアイテムの1回あたりの購入上限を255個に引き上げます。</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
+                <target>ショップの1回あたりの購入上限引き上げ</target>
             </trans-unit>
             <trans-unit id="AutoInventoryTransferDescription" xml:space="preserve">
                 <source>若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面</source>
@@ -3141,6 +3143,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxDescription" xml:space="preserve">
                 <source>在数字输入框初始化或可用数量刷新变化时自动填入最大值，并支持保留手动修改的数值。</source>
+                <target>数値入力ボックスの初期化時、または利用可能数量の更新時に最大値を自動入力し、手動で変更された数値を保持します。</target>
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxTitle" xml:space="preserve">
                 <source>自动数字输入框最大值</source>
@@ -5445,11 +5448,15 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
                 <source>成交均价与商店售价：{price}</source>
+                <target>平均取引価格およびショップ販売価格：{price}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
                 <source>成交均价：{averagePrice}
 商店售价：{npcPrice}
 查看商店贩售途径</source>
+                <target>平均取引価格：{averagePrice}
+ショップ販売価格：{npcPrice}
+ショップでの販売経路を確認</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
@@ -5477,6 +5484,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
                 <source>服务器列表获取失败，稍后会自动重试。</source>
+                <target>ワールドリストの取得に失敗しました。時間をおいて自動的に再試行します。</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
