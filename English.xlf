@@ -2102,6 +2102,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
+                <target>Higher Purchase Cap At NPC Vendors</target>
             </trans-unit>
             <trans-unit id="AutoInventoryTransferDescription" xml:space="preserve">
                 <source>若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面</source>
@@ -5444,7 +5445,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
 查看商店贩售途径</source>
                 <target>Txn Avg: {averagePrice}
 NPC Vendor: {npcPrice}
-Check Availability At NPC</target>
+Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
@@ -5538,7 +5539,7 @@ Check Availability At NPC</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
-                <target>Check Availability At NPC</target>
+                <target>Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
