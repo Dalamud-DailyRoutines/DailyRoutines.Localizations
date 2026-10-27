@@ -7944,6 +7944,36 @@
             <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
                 <source>保存了投影模板到投影模板管理器中。</source>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportDone" xml:space="preserve">
+                <source>已导入 {count} 套模板。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportFailed" xml:space="preserve">
+                <source>导入失败，请检查文件格式、编码和读取权限。详细错误见日志。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportGlamaholic" xml:space="preserve">
+                <source>批量导入 Glamaholic 模板</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportPath" xml:space="preserve">
+                <source>Glamaholic 配置文件</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportReading" xml:space="preserve">
+                <source>正在读取和解析，请稍候……</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportSkipped" xml:space="preserve">
+                <source>查看跳过的装备和模板</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportSkippedData" xml:space="preserve">
+                <source>模板 {presetName} 的部位 {slot} 包含无效数据，已跳过：{value}。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportSkippedItem" xml:space="preserve">
+                <source>{presetName}：跳过部位 {slot} 的无效或当前版本不可用装备 {itemID}。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportSkippedPreset" xml:space="preserve">
+                <source>{presetName}：全部装备均无效，跳过该模板。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ImportSummary" xml:space="preserve">
+                <source>读取 {readCount} 套，可导入 {importCount} 套，重复 {duplicateCount} 套，跳过 {skippedCount} 个条目。详情见列表。</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
                 <source>双击可以修改标题/备注</source>
             </trans-unit>
