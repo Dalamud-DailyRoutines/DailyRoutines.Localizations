@@ -3514,7 +3514,7 @@
                 <source>自动追踪玩家</source>
             </trans-unit>
             <trans-unit id="AutoTrackStatusOff-Notification" xml:space="preserve">
-                <source>{player}主动取消了状态{status}。
+                <source>{player}主动取消了状态“{status}”。
    预计存续{estimatedTime}秒
    实际存续{time}秒</source>
             </trans-unit>
