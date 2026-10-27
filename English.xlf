@@ -5444,7 +5444,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
-                <target>Avg</target>
+                <target>Txn Avg</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5597,25 +5597,25 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceTrend" xml:space="preserve">
                 <source>价格走势</source>
-                <target>Market Trend</target>
+                <target>Trends</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
                 <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
-                <target>Recent</target>
+                <target>Recent Transactions</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ReloadMarketData" xml:space="preserve">
                 <source>刷新市场数据</source>
-                <target>Reload Market Data</target>
+                <target>Update Market Data</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
                 <source>{count}笔（{quantity}件）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
-                <target>Search Market</target>
+                <target>Search In Market</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ShowAllWorldPrices" xml:space="preserve">
                 <source>完整显示</source>
@@ -5641,7 +5641,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Avg" xml:space="preserve">
                 <source>成交均价</source>
-                <target>Avg</target>
+                <target>Txn Avg</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Max" xml:space="preserve">
                 <source>周期最高</source>
@@ -5653,7 +5653,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Volume" xml:space="preserve">
                 <source>成交样本</source>
-                <target>Volume</target>
+                <target>Vol</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover" xml:space="preserve">
                 <source>预计周转</source>
