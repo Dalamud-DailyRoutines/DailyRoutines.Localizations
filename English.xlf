@@ -5487,6 +5487,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
                 <source>{quantity}/天</source>
+                <target>{quantity} per day</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DataFreshness" xml:space="preserve">
                 <source>数据更新</source>
@@ -5498,6 +5499,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
                 <source>高品质占比</source>
+                <target>HQ Share</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
@@ -5525,6 +5527,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCPrice" xml:space="preserve">
                 <source>商店售价：{price}</source>
+                <target>NPC Vendor: {price}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
