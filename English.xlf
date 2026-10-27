@@ -8865,7 +8865,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
                 <source>优化“收藏品交易”界面，支持批量交换收藏品、快捷打开工票交易界面、自动记忆选择的道具、仅显示持有的道具、持有的道具优先显示在前和显示道具真实图标。</source>
-                <target>Provide a better Collectables Exchange interface, allowing to exchange collectables in batch, access the scrip exchange nearby, memoize the collectable exchanged last time, replace category icons with item icons, and display possessed collectables only or in priority. </target>
+                <target>Provide a better Collectables Exchange interface, allowing to exchange collectables in batch, access the scrip exchange nearby, memoize the collectable exchanged last time, replace placeholder icons with item icons, and display possessed collectables only or in priority. </target>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
                 <source>“收藏品交易”界面优化</source>
@@ -8923,14 +8923,15 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
             </trans-unit>
             <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
                 <source>领取全套{classJob}装备</source>
-                <target>Claim all the gear belongs to {classJob}.</target>
+                <target>Claim All Gear Belongs To {classJob}</target>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopDescription" xml:space="preserve">
                 <source>优化“报酬”界面，支持批量领取任一职业全部装备、手动领取时无需二次确认与显示装备真实图标。</source>
+                <target>Provide a better Reward interface, allowing to claim job gear in batch, replace placeholder icons with gear icons, and skip confirmation while claiming manually.</target>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopTitle" xml:space="preserve">
                 <source>“报酬”界面优化</source>
-                <target>Better Reward Claims</target>
+                <target>Better Reward Claim</target>
             </trans-unit>
             <trans-unit id="OptimizedFriendList-Addon-ConfirmClear" xml:space="preserve">
                 <source>确定要清除设置的昵称与备注吗？</source>
