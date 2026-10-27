@@ -5461,14 +5461,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
                 <source>成交均价：{averagePrice}
 商店售价：{npcPrice}
-{shopInfo}</source>
+查看商店贩售途径</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
                 <target>평균 거래 가격</target>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-AveragePrice-Format" xml:space="preserve">
-                <source>成交均价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5521,9 +5518,6 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
                 <source>高品质占比</source>
             </trans-unit>
-            <trans-unit id="BetterMarketBoard-HeldCount-Format" xml:space="preserve">
-                <source>{label}：{quantity}</source>
-            </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
                 <target>최근 거래</target>
@@ -5532,9 +5526,6 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>成交样本</source>
                 <target>거래 내역</target>
             </trans-unit>
-            <trans-unit id="BetterMarketBoard-HistoryGroup-Format" xml:space="preserve">
-                <source>{date, date, short}（{count}）</source>
-            </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
                 <target>현재 서버</target>
@@ -5542,9 +5533,6 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
                 <source>在售</source>
                 <target>판매 중</target>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-ItemLevel-Format" xml:space="preserve">
-                <source> {level}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-MarketData" xml:space="preserve">
                 <source>市场数据</source>
@@ -5560,21 +5548,12 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
             </trans-unit>
-            <trans-unit id="BetterMarketBoard-Number-Format" xml:space="preserve">
-                <source>{value}</source>
-            </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
                 <target>단독 판매</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
                 <source>{percent}%</source>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-Price-Format" xml:space="preserve">
-                <source>{price}</source>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-PriceDifference-Format" xml:space="preserve">
-                <source>{direction, select, higher {+{price}（+{percent}%）} other {{price}（{percent}%）}}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -5625,16 +5604,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>市场基准参考</source>
                 <target>장터 가격 기준</target>
             </trans-unit>
-            <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Tooltip" xml:space="preserve">
-                <source>{label}：{price}
-左键：应用</source>
-            </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-WorldMin" xml:space="preserve">
                 <source>本服最低价</source>
                 <target>본 서버 최저가</target>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-PriceMonitor-Threshold-Format" xml:space="preserve">
-                <source>≤ {price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-ToMonitor" xml:space="preserve">
                 <source>监控价格</source>
@@ -5651,15 +5623,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
                 <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
             </trans-unit>
-            <trans-unit id="BetterMarketBoard-Rank-Format" xml:space="preserve">
-                <source>#{rank}</source>
-            </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
                 <target>최근 거래</target>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-RecentPurchase-Format" xml:space="preserve">
-                <source>{price}（{timeAgo}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ReloadMarketData" xml:space="preserve">
                 <source>刷新市场数据</source>
@@ -5676,12 +5642,6 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-ShowAllWorldPrices" xml:space="preserve">
                 <source>完整显示</source>
                 <target>펼치기</target>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-TabLabel-Format" xml:space="preserve">
-                <source>{icon} {label}（{count}）</source>
-            </trans-unit>
-            <trans-unit id="BetterMarketBoard-Tax-Format" xml:space="preserve">
-                <source>（税：{price}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-CurrentRegion" xml:space="preserve">
                 <source>区域</source>
