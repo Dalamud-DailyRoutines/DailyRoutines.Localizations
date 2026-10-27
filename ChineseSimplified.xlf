@@ -4199,7 +4199,7 @@
                 <source>本服</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
-                <source>日销量</source>
+                <source>销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
