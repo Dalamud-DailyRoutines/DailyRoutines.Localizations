@@ -5499,11 +5499,11 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
-                <target>Recent</target>
+                <target>Recent Transactions</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Samples" xml:space="preserve">
                 <source>成交样本</source>
-                <target>Samples</target>
+                <target>Txn Samples</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
@@ -5511,7 +5511,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
                 <source>在售</source>
-                <target>For Sale</target>
+                <target>On-Sale</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-MarketData" xml:space="preserve">
                 <source>市场数据</source>
@@ -5540,15 +5540,15 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase-QuantityLimit" xml:space="preserve">
                 <source>持有数量限制</source>
-                <target>Qty Cap</target>
+                <target>Quantity Cap</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase-QuantityLimit-Help" xml:space="preserve">
                 <source>当持有数量大于此数值时暂停自动购买，设置为 0 时不限制。</source>
-                <target>Stop purchasing more if the quantity cap is reached. Set it to 0 to disable the cap.</target>
+                <target>Auto purchase will be terminated if the given quantity cap is reached. Set it to 0 to disable the cap.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Item" xml:space="preserve">
                 <source>价格监控</source>
-                <target>Item</target>
+                <target>Item Monitored</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
                 <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
@@ -5558,7 +5558,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
-                <target>Price</target>
+                <target>Current Price</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Average" xml:space="preserve">
                 <source>成交均价</source>
