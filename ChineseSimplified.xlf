@@ -1804,10 +1804,10 @@
         <source>自动标记风脉泉</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilot" xml:space="preserve">
-        <source>自动驾驶</source>
+        <source>自动播报</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotAHNotice" xml:space="preserve">
-        <source>自动驾驶需搭配插件 AutomaticHunting 使用，AH 车头设为自己。仅启用该插件时，只会在 A 死亡后播报下一个 A 的位置。</source>
+        <source>自动播报:当前 A 死亡后播报下一个 A 的位置。</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotApply" xml:space="preserve">
         <source>应用出发时间</source>
@@ -1834,7 +1834,7 @@
         <source>本地时间：{timeText}</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotOn" xml:space="preserve">
-        <source>自动驾驶中</source>
+        <source>自动播报中</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotProgress" xml:space="preserve">
         <source>正在前往第 {pointIndex} 个点位。</source>
@@ -1849,13 +1849,13 @@
         <source>服务器时间尚未校准。</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotSettings" xml:space="preserve">
-        <source>自动驾驶设置</source>
+        <source>自动播报设置</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotTooltipStart" xml:space="preserve">
-        <source>左键单击启动自动驾驶，右键单击打开设置。</source>
+        <source>左键单击启动自动播报，右键单击打开设置。</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotTooltipStop" xml:space="preserve">
-        <source>左键单击停止自动驾驶，右键单击打开设置。</source>
+        <source>左键单击停止自动播报，右键单击打开设置。</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-CantSortEmptyList" xml:space="preserve">
         <source>恶名精英列表为空, 无法排序</source>
@@ -1905,10 +1905,10 @@
 {2} - 恶名精英所在分线 (如 &quot;1 线&quot;) (若不存在分线则此项为空)</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayAutoPilotEnd" xml:space="preserve">
-        <source>自动驾驶结束宏</source>
+        <source>自动播报结束宏</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayAutoPilotStart" xml:space="preserve">
-        <source>自动驾驶开始宏</source>
+        <source>自动播报开始宏</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
         <source>播报消息类型</source>
