@@ -5442,6 +5442,9 @@ If not, actions will behave like Duty Actions, which means it will vary based on
                 <source>成交均价：{averagePrice}
 商店售价：{npcPrice}
 查看商店贩售途径</source>
+                <target>Txn Avg: {averagePrice}
+NPC Vendor: {npcPrice}
+Check Availability At NPC</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
@@ -5478,12 +5481,16 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             <trans-unit id="BetterMarketBoard-CommandHelp" xml:space="preserve">
                 <source>打开或关闭市场布告板界面
 /pdr {command} &lt;物品唯一标识符/物品名称&gt; 以指定物品打开市场布告板</source>
+                <target>to access or hide the remote Market Board.
+/pdr {command} (&lt;item ID/item name&gt;) to access the remote Market Board and redirect to the given item.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip" xml:space="preserve">
                 <source>“道具帮助”界面内显示市场数据</source>
+                <target>Market Data In Item Help</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip-Help" xml:space="preserve">
                 <source>若物品可在市场交易，则在“道具帮助”界面内显示由 Universalis 提供的市场交易数据。</source>
+                <target>Display market data of the item (provided by Universalis) in the Item Help interface if an item is tradable.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
                 <source>{quantity}/天</source>
@@ -5643,6 +5650,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
                 <source>销量</source>
+                <target>Sales</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
