@@ -7944,6 +7944,9 @@
             <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
                 <source>保存了投影模板到投影模板管理器中。</source>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-EnableSearchMenu" xml:space="preserve">
+                <source>请先启用“物品右键菜单搜索扩展”模块，并至少启用一个搜索平台。</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
                 <source>双击可以修改标题/备注</source>
             </trans-unit>
