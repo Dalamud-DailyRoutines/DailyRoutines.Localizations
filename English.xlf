@@ -5444,7 +5444,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
-                <target>Txn Avg</target>
+                <target>Avg</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5645,11 +5645,11 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Max" xml:space="preserve">
                 <source>周期最高</source>
-                <target>Max</target>
+                <target>High</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Min" xml:space="preserve">
                 <source>周期最低</source>
-                <target>Min</target>
+                <target>Low</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Trend-Volume" xml:space="preserve">
                 <source>成交样本</source>
@@ -5657,7 +5657,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover" xml:space="preserve">
                 <source>预计周转</source>
-                <target>Turnover</target>
+                <target>Estimated Turnover</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
                 <source>≈ {days}天</source>
@@ -5665,7 +5665,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
-                <target>= Total Quantity For Sale ÷ Average Daily Sales</target>
+                <target>= Total On-Sale ÷ Average Daily Sales</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
                 <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
