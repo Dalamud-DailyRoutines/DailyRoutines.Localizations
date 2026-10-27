@@ -5629,6 +5629,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
                 <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
+                <target>中断ホットキー{key}を押しながら右クリックすると、確認なしで直接購入できます。</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
@@ -5640,6 +5641,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
                 <source>{count}笔（{quantity}件）</source>
+                <target>{count}件（{quantity}個）</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
@@ -5659,9 +5661,11 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
                 <source>销量</source>
+                <target>販売数</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
+                <target>マーケットデータの取得に失敗しました</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
@@ -5689,6 +5693,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
                 <source>≈ {days}天</source>
+                <target>≈ {days}日</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
@@ -5696,6 +5701,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
                 <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
+                <target>任意の場所・状態で開けるリモートマーケットボードUIを新規追加しました。「/pdr {command}」コマンドで起動できます。迅速な価格確認、価格比較、一括購入、価格監視に対応しています。</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoardTitle" xml:space="preserve">
                 <source>更好的市场布告板</source>
@@ -8871,6 +8877,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
                 <source>优化“收藏品交易”界面，支持批量交换收藏品、快捷打开工票交易界面、自动记忆选择的道具、仅显示持有的道具、持有的道具优先显示在前和显示道具真实图标。</source>
+                <target>「収集品取引」UIを最適化。収集品の一括取引、スクリップ取引UIのショートカット起動、選択アイテムの自動記憶、所持アイテムのみ表示、所持アイテムの優先表示、アイテムの真のアイコン表示に対応。</target>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
                 <source>“收藏品交易”界面优化</source>
@@ -8932,6 +8939,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedFreeShopDescription" xml:space="preserve">
                 <source>优化“报酬”界面，支持批量领取任一职业全部装备、手动领取时无需二次确认与显示装备真实图标。</source>
+                <target>「報酬」UIを最適化。任意のジョブの全装備の一括受け取り、手動受け取り時の二次確認スキップ、装備の真のアイコン表示に対応。</target>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopTitle" xml:space="preserve">
                 <source>“报酬”界面优化</source>
