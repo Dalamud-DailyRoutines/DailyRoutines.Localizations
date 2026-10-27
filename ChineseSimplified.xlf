@@ -4039,8 +4039,19 @@
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
+                <source>成交均价与商店售价：{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
+                <source>成交均价：{averagePrice}
+商店售价：{npcPrice}
+{shopInfo}</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AveragePrice-Format" xml:space="preserve">
+                <source>成交均价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -4057,20 +4068,24 @@
             <trans-unit id="BetterMarketBoard-BatchPurchase-Total" xml:space="preserve">
                 <source>应付总额</source>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
+                <source>服务器列表获取失败，稍后会自动重试。</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CommandHelp" xml:space="preserve">
-                <source>（&lt;物品 ID / 物品名称&gt;）开关市场布告板（以指定物品打开市场布告板）</source>
+                <source>打开或关闭市场布告板界面
+/pdr {command} &lt;物品唯一标识符/物品名称&gt; 以指定物品打开市场布告板</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip" xml:space="preserve">
-                <source>在道具帮助界面显示市场数据</source>
+                <source>“道具帮助”界面内显示市场数据</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip-Help" xml:space="preserve">
-                <source>若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据</source>
+                <source>若物品可在市场交易，则在“道具帮助”界面内显示由 Universalis 提供的市场交易数据。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
-                <source>{0}/天</source>
+                <source>{quantity}/天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DataFreshness" xml:space="preserve">
                 <source>数据更新</source>
@@ -4079,7 +4094,10 @@
                 <source>全部</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
-                <source>HQ 占比</source>
+                <source>高品质占比</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-HeldCount-Format" xml:space="preserve">
+                <source>{label}：{quantity}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
@@ -4087,11 +4105,17 @@
             <trans-unit id="BetterMarketBoard-History-Samples" xml:space="preserve">
                 <source>成交样本</source>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-HistoryGroup-Format" xml:space="preserve">
+                <source>{date, date, short}（{count}）</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
                 <source>在售</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-ItemLevel-Format" xml:space="preserve">
+                <source> {level}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-MarketData" xml:space="preserve">
                 <source>市场数据</source>
@@ -4100,16 +4124,25 @@
                 <source>仅高品质</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCPrice" xml:space="preserve">
-                <source>NPC 售价：{0}</source>
+                <source>商店售价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
-                <source>查看 NPC 获取方式</source>
+                <source>查看商店贩售途径</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Number-Format" xml:space="preserve">
+                <source>{value}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
-                <source>{0}%</source>
+                <source>{percent}%</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Price-Format" xml:space="preserve">
+                <source>{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceDifference-Format" xml:space="preserve">
+                <source>{direction, select, higher {+{price}（+{percent}%）} other {{price}（{percent}%）}}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -4124,10 +4157,10 @@
                 <source>价格监控</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
-                <source>已开始自动请求购买{0}，共 {1} 笔（{2} 件）。</source>
+                <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-Found" xml:space="preserve">
-                <source>{0}当前市场价格（{1}）已低于设定值（{2}）。</source>
+                <source>“{item}”当前的市场价格{price}已低于设定值{threshold}。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
@@ -4142,7 +4175,7 @@
                 <source>历史中位价</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
-                <source>NPC 售价</source>
+                <source>商店售价</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
@@ -4150,8 +4183,15 @@
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Title" xml:space="preserve">
                 <source>市场基准参考</source>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Tooltip" xml:space="preserve">
+                <source>{label}：{price}
+左键：应用</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-WorldMin" xml:space="preserve">
                 <source>本服最低价</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Threshold-Format" xml:space="preserve">
+                <source>≤ {price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-ToMonitor" xml:space="preserve">
                 <source>监控价格</source>
@@ -4163,22 +4203,34 @@
                 <source>价格走势</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
-                <source>按住打断热键 {0} 时点击右键，即可无需确认直接购买。</source>
+                <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Rank-Format" xml:space="preserve">
+                <source>#{rank}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-RecentPurchase-Format" xml:space="preserve">
+                <source>{price}（{timeAgo}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ReloadMarketData" xml:space="preserve">
                 <source>刷新市场数据</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
-                <source>{0} 笔 ({1} 件)</source>
+                <source>{count}笔（{quantity}件）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ShowAllWorldPrices" xml:space="preserve">
                 <source>完整显示</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-TabLabel-Format" xml:space="preserve">
+                <source>{icon} {label}（{count}）</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tax-Format" xml:space="preserve">
+                <source>（税：{price}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-CurrentRegion" xml:space="preserve">
                 <source>区域</source>
@@ -4188,6 +4240,9 @@
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
                 <source>日销量</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
+                <source>市场数据获取失败</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
@@ -4208,13 +4263,13 @@
                 <source>预计周转</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
-                <source>≈ {0} 天</source>
+                <source>≈ {days}天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
-                <source>添加 /pdr {0} 指令用以打开模块提供的远程市场布告板界面, 可在其中快速查价、购买并设定价格监控</source>
+                <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoardTitle" xml:space="preserve">
                 <source>更好的市场布告板</source>
