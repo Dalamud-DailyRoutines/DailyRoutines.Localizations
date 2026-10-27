@@ -5492,15 +5492,20 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             <trans-unit id="BetterMarketBoard-CommandHelp" xml:space="preserve">
                 <source>打开或关闭市场布告板界面
 /pdr {command} &lt;物品唯一标识符/物品名称&gt; 以指定物品打开市场布告板</source>
+                <target>マーケットボードUIの開閉
+/pdr {command} &lt;アイテム固有ID/アイテム名&gt; 指定したアイテムでマーケットボードを開く</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip" xml:space="preserve">
                 <source>“道具帮助”界面内显示市场数据</source>
+                <target>「アイテム詳細」画面内にマーケット情報を表示</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip-Help" xml:space="preserve">
                 <source>若物品可在市场交易，则在“道具帮助”界面内显示由 Universalis 提供的市场交易数据。</source>
+                <target>アイテムがマーケット出品可能な場合、「アイテム詳細」画面内にUniversalisが提供するマーケット取引情報を表示します。</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
                 <source>{quantity}/天</source>
+                <target>{quantity}/日</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DataFreshness" xml:space="preserve">
                 <source>数据更新</source>
@@ -5512,6 +5517,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
                 <source>高品质占比</source>
+                <target>HQ割合</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
@@ -5539,9 +5545,11 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCPrice" xml:space="preserve">
                 <source>商店售价：{price}</source>
+                <target>ショップ販売価格：{price}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
+                <target>ショップでの入手方法を確認</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
@@ -5549,6 +5557,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
                 <source>{percent}%</source>
+                <target>{percent}%</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -5568,9 +5577,11 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
                 <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
+                <target>「{item}」の自動購入処理を開始しました。全{count}回、合計{quantity}点</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-Found" xml:space="preserve">
                 <source>“{item}”当前的市场价格{price}已低于设定值{threshold}。</source>
+                <target>「{item}」の現在のマーケット価格{price}が、設定値{threshold}を下回りました。</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
@@ -5590,6 +5601,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
                 <source>商店售价</source>
+                <target>ショップ販売価格</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
