@@ -2098,7 +2098,7 @@ If the status was applied by a combo action, the actual duration would be the se
                 <target>Auto Confirm Interaction In Duty</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
-                <source>将商店单次购买上限提高至999，战绩交易所单次购买上限提高至255。</source>
+                <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
