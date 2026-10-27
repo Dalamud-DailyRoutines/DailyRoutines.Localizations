@@ -2099,6 +2099,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
+                <target>Increase the purchase cap at NPC vendors up to 999. Specifically regarding &quot;Wolf Mark Exchange&quot;, up to 255.</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
@@ -8864,6 +8865,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
                 <source>优化“收藏品交易”界面，支持批量交换收藏品、快捷打开工票交易界面、自动记忆选择的道具、仅显示持有的道具、持有的道具优先显示在前和显示道具真实图标。</source>
+                <target>Provide a better Collectables Exchange interface, allowing to exchange collectables in batch, access the scrip exchange nearby, memoize the collectable exchanged last time, replace category icons with item icons, and display possessed collectables only or in priority. </target>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
                 <source>“收藏品交易”界面优化</source>
