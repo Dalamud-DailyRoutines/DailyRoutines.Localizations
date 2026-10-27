@@ -8247,6 +8247,9 @@
             <trans-unit id="UnifiedGlamourManager-Editor-FillEmpty" xml:space="preserve">
                 <source>使用“皇帝的新装备”填充空部位</source>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
+                <source>实时整套试穿</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
             </trans-unit>
