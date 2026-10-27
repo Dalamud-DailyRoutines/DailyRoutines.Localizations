@@ -5615,8 +5615,7 @@ XivGear (xivgear.app)</target>
                 <target>本服</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
-                <source>日销量</source>
-                <target>日銷量</target>
+                <source>销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
