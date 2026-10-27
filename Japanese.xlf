@@ -5654,8 +5654,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
                 <target>現在のワールド</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
-                <source>日销量</source>
-                <target>日当り販売数</target>
+                <source>销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
