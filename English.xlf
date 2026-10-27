@@ -5436,6 +5436,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
                 <source>成交均价与商店售价：{price}</source>
+                <target>Txn Avg &amp; NPC Vendor: {price}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
                 <source>成交均价：{averagePrice}
@@ -5464,10 +5465,11 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-BatchPurchase-Total" xml:space="preserve">
                 <source>应付总额</source>
-                <target>Total</target>
+                <target>Total Due</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
                 <source>服务器列表获取失败，稍后会自动重试。</source>
+                <target>Failed to acquire World List. A retry will be attempted later.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
@@ -5503,7 +5505,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Samples" xml:space="preserve">
                 <source>成交样本</source>
-                <target>Txn Samples</target>
+                <target>Transaction Samples</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
@@ -5634,6 +5636,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
+                <target>Failed to acquire market data.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
