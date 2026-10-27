@@ -2103,6 +2103,12 @@
                 <source>自动确认副本内物体对话框</source>
                 <target>컨텐츠 상호 작용 자동 확인</target>
             </trans-unit>
+            <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
+                <source>将商店单次购买上限提高至999，战绩交易所单次购买上限提高至255。</source>
+            </trans-unit>
+            <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
+                <source>自动提高商店单次购买上限</source>
+            </trans-unit>
             <trans-unit id="AutoInventoryTransferDescription" xml:space="preserve">
                 <source>若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面</source>
                 <target>현재 서로 아이템을 주고받을 수 있는 다른 페이지가 있을 경우, 단축키를 누른 채 해당 페이지의 아이템을 클릭하면 자동으로 반대쪽 페이지로 이동합니다.</target>
@@ -3132,29 +3138,8 @@
                 <source>自动加入新人频道</source>
                 <target>초보자 채널 자동 가입</target>
             </trans-unit>
-            <trans-unit id="AutoNumericInputMax-AdjustMax" xml:space="preserve">
-                <source>修改商店单次购买上限</source>
-                <target>상점 일괄 구매 수량 상한 변경</target>
-            </trans-unit>
-            <trans-unit id="AutoNumericInputMax-AdjustMaxHelp" xml:space="preserve">
-                <source>启用后, 将单次购买上限为 99 的物品修改至 999</source>
-                <target>일괄 구매 상한이 99인 아이템을 999로 변경합니다.</target>
-            </trans-unit>
-            <trans-unit id="AutoNumericInputMax-InterruptHelp" xml:space="preserve">
-                <source>按下一次打断热键会使模块在接下来的 10 秒内都不再尝试修改数字输入框值</source>
-                <target>한 번 중단 키를 누르면 이후 10초간 모듈은 숫자 입력값을 바꾸지 않습니다.</target>
-            </trans-unit>
-            <trans-unit id="AutoNumericInputMax-MaxValue" xml:space="preserve">
-                <source>上限</source>
-                <target>상한</target>
-            </trans-unit>
-            <trans-unit id="AutoNumericInputMax-MaxValueInputHelp" xml:space="preserve">
-                <source>设置过高的上限 (≥ 999) 可能导致游戏卡死, 请注意</source>
-                <target>상한을 너무 높게 설정하면 (999 이상) 게임이 멈출 수 있으니 주의하세요.</target>
-            </trans-unit>
             <trans-unit id="AutoNumericInputMaxDescription" xml:space="preserve">
-                <source>令所有数字输入框始终为最大值</source>
-                <target>모든 숫자 입력칸을 항상 최대값으로 설정합니다.</target>
+                <source>在数字输入框初始化或可用数量刷新变化时自动填入最大值，并支持保留手动修改的数值。</source>
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxTitle" xml:space="preserve">
                 <source>自动数字输入框最大值</source>
@@ -6141,18 +6126,6 @@ UI: {0}
                 <source>按住{conflictKey}即可打断操作。</source>
                 <target>{conflictKey}를 길게 눌러 작업 중단</target>
             </trans-unit>
-            <trans-unit id="CompanyCreditExchangeMore-OnlyActiveInWorkshop" xml:space="preserve">
-                <source>仅在部队工房内生效</source>
-                <target>자유부대 공방 안에서만 적용됩니다.</target>
-            </trans-unit>
-            <trans-unit id="CompanyCreditExchangeMoreDescription" xml:space="preserve">
-                <source>使部队战绩交易物品数量上限突破至最多 255</source>
-                <target>군표로 교환하는 아이템의 소지 한도를 최대 255까지 늘립니다.</target>
-            </trans-unit>
-            <trans-unit id="CompanyCreditExchangeMoreTitle" xml:space="preserve">
-                <source>更高的部队战绩交易上限</source>
-                <target>더 높은 군표 교환 제한 상한</target>
-            </trans-unit>
             <trans-unit id="Confirm" xml:space="preserve">
                 <source>确定</source>
                 <target>확인</target>
@@ -8869,8 +8842,7 @@ UI: {0}
                 <target>보유한 아이템만 표시</target>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopDescription" xml:space="preserve">
-                <source>优化“收藏品交易”界面，支持批量交换收藏品，快捷打开工票交易界面，自动记忆选择的道具，同时还可以仅显示持有的道具，单一等级范围内持有的道具优先显示在前面。</source>
-                <target>&quot;소장품 거래&quot; UI를 최적화, 소장품 일괄 납품, 화폐 거래 퀵 오픈, 선택 아이템 자동 기억을 지원합니다. 또한 소지한 아이템만 표시하거나, 동일 레벨대에서는 소지 아이템을 우선하여 상단에 표시하는 기능을 추가합니다.</target>
+                <source>优化“收藏品交易”界面，支持批量交换收藏品、快捷打开工票交易界面、自动记忆选择的道具、仅显示持有的道具、持有的道具优先显示在前和显示道具真实图标。</source>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
                 <source>“收藏品交易”界面优化</source>
@@ -8931,8 +8903,7 @@ UI: {0}
                 <target>{classJob} 장비 세트 전체 수령</target>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopDescription" xml:space="preserve">
-                <source>优化“报酬”界面，支持批量领取任一职业全部装备，并使手动领取时无需二次确认。</source>
-                <target>&quot;보상&quot; UI를 개선, 원하는 직업의 모든 장비를 한 번에 수령할 수 있도록 하는 한편, 수동 수령 시 확인 대화상자를 건너뛸 수 있게 합니다.</target>
+                <source>优化“报酬”界面，支持批量领取任一职业全部装备、手动领取时无需二次确认与显示装备真实图标。</source>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopTitle" xml:space="preserve">
                 <source>“报酬”界面优化</source>
