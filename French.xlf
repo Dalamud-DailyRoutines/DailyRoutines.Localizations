@@ -5449,9 +5449,20 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <source>更好的辅助职业列表</source>
                 <target>Meilleure liste des jobs fantômes</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
+                <source>成交均价与商店售价：{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
+                <source>成交均价：{averagePrice}
+商店售价：{npcPrice}
+{shopInfo}</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
                 <target>Prix de vente moyen</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AveragePrice-Format" xml:space="preserve">
+                <source>成交均价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5473,25 +5484,25 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <source>应付总额</source>
                 <target>Total à payer</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
+                <source>服务器列表获取失败，稍后会自动重试。</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
                 <target>Réduire</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CommandHelp" xml:space="preserve">
-                <source>（&lt;物品 ID / 物品名称&gt;）开关市场布告板（以指定物品打开市场布告板）</source>
-                <target>(&lt;ID ou nom de l’objet&gt;) Ouvre ou ferme le tableau de marché (sur l’objet indiqué)</target>
+                <source>打开或关闭市场布告板界面
+/pdr {command} &lt;物品唯一标识符/物品名称&gt; 以指定物品打开市场布告板</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip" xml:space="preserve">
-                <source>在道具帮助界面显示市场数据</source>
-                <target>Données du marché dans l’aide objet</target>
+                <source>“道具帮助”界面内显示市场数据</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip-Help" xml:space="preserve">
-                <source>若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据</source>
-                <target>Affiche les données du marché dans l’interface d’aide objet si l’objet est échangeable.</target>
+                <source>若物品可在市场交易，则在“道具帮助”界面内显示由 Universalis 提供的市场交易数据。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
-                <source>{0}/天</source>
-                <target>{0}/jour</target>
+                <source>{quantity}/天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DataFreshness" xml:space="preserve">
                 <source>数据更新</source>
@@ -5502,8 +5513,10 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Tout</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
-                <source>HQ 占比</source>
-                <target>Part de HQ</target>
+                <source>高品质占比</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-HeldCount-Format" xml:space="preserve">
+                <source>{label}：{quantity}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
@@ -5513,6 +5526,9 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <source>成交样本</source>
                 <target>Échantillon de ventes</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-HistoryGroup-Format" xml:space="preserve">
+                <source>{date, date, short}（{count}）</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
                 <target>Monde actuel</target>
@@ -5520,6 +5536,9 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
             <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
                 <source>在售</source>
                 <target>En vente</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-ItemLevel-Format" xml:space="preserve">
+                <source> {level}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-MarketData" xml:space="preserve">
                 <source>市场数据</source>
@@ -5530,20 +5549,26 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>HQ uniquement</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCPrice" xml:space="preserve">
-                <source>NPC 售价：{0}</source>
-                <target>Prix PNJ : {0}</target>
+                <source>商店售价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
-                <source>查看 NPC 获取方式</source>
-                <target>Voir comment l’obtenir auprès des PNJ</target>
+                <source>查看商店贩售途径</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Number-Format" xml:space="preserve">
+                <source>{value}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
                 <target>Seul en vente</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
-                <source>{0}%</source>
-                <target>{0} %</target>
+                <source>{percent}%</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Price-Format" xml:space="preserve">
+                <source>{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceDifference-Format" xml:space="preserve">
+                <source>{direction, select, higher {+{price}（+{percent}%）} other {{price}（{percent}%）}}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -5562,12 +5587,10 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Suivi des prix</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
-                <source>已开始自动请求购买{0}，共 {1} 笔（{2} 件）。</source>
-                <target>Demande d’achat automatique lancée pour {0} : {1} transaction(s) ({2} unité(s)).</target>
+                <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-Found" xml:space="preserve">
-                <source>{0}当前市场价格（{1}）已低于设定值（{2}）。</source>
-                <target>Le prix actuel de {0} sur le marché ({1}) est passé sous la valeur définie ({2}).</target>
+                <source>“{item}”当前的市场价格{price}已低于设定值{threshold}。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
@@ -5586,8 +5609,7 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Prix médian historique</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
-                <source>NPC 售价</source>
-                <target>Prix PNJ</target>
+                <source>商店售价</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
@@ -5597,9 +5619,16 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <source>市场基准参考</source>
                 <target>Repères de prix du marché</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Tooltip" xml:space="preserve">
+                <source>{label}：{price}
+左键：应用</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-WorldMin" xml:space="preserve">
                 <source>本服最低价</source>
                 <target>Prix minimal du serveur</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Threshold-Format" xml:space="preserve">
+                <source>≤ {price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-ToMonitor" xml:space="preserve">
                 <source>监控价格</source>
@@ -5614,20 +5643,24 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Tendance du marché</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
-                <source>按住打断热键 {0} 时点击右键，即可无需确认直接购买。</source>
-                <target>Maintenez la touche d’interruption {0} et faites un clic droit pour acheter directement, sans confirmation.</target>
+                <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Rank-Format" xml:space="preserve">
+                <source>#{rank}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
                 <target>Ventes récentes</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-RecentPurchase-Format" xml:space="preserve">
+                <source>{price}（{timeAgo}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ReloadMarketData" xml:space="preserve">
                 <source>刷新市场数据</source>
                 <target>Actualiser les données du marché</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
-                <source>{0} 笔 ({1} 件)</source>
-                <target>{0} transactions ({1} unités)</target>
+                <source>{count}笔（{quantity}件）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
@@ -5636,6 +5669,12 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
             <trans-unit id="BetterMarketBoard-ShowAllWorldPrices" xml:space="preserve">
                 <source>完整显示</source>
                 <target>Afficher tout</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-TabLabel-Format" xml:space="preserve">
+                <source>{icon} {label}（{count}）</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tax-Format" xml:space="preserve">
+                <source>（税：{price}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-CurrentRegion" xml:space="preserve">
                 <source>区域</source>
@@ -5648,6 +5687,9 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
                 <source>日销量</source>
                 <target>Ventes quotidiennes</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
+                <source>市场数据获取失败</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
@@ -5674,16 +5716,14 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Rotation estimée</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
-                <source>≈ {0} 天</source>
-                <target>≈ {0} jours</target>
+                <source>≈ {days}天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
                 <target>= quantité totale en vente ÷ ventes quotidiennes moyennes</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
-                <source>添加 /pdr {0} 指令用以打开模块提供的远程市场布告板界面, 可在其中快速查价、购买并设定价格监控</source>
-                <target>Ajoute la commande /pdr {0} pour ouvrir le tableau de marché amélioré du module, permettant de meilleures recherches de prix, achats et surveillance du marché.</target>
+                <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoardTitle" xml:space="preserve">
                 <source>更好的市场布告板</source>
