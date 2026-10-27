@@ -4741,9 +4741,13 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
         <source>{player}主动取消了状态{status}。
    预计存续{estimatedTime}秒
    实际存续{time}秒</source>
+        <target>{player}가 상태 {status}를 해제했습니다. 
+ 예상 지속 시간:{estimatedTime}초
+ 실제 지속 시간:{time}초</target>
       </trans-unit>
             <trans-unit id="AutoTrackStatusOffDescription" xml:space="preserve">
         <source>自动记录自身给予其他玩家的状态存续情况，在其被他人主动解除时发送通知提醒。</source>
+        <target>자신이 다른 플레이어에게 부여한 상태의 유지 상황을 자동으로 기록하며, 타인이 이를 직접 해제했을 경우 알림 메시지를 전송합니다.</target>
       </trans-unit>
             <trans-unit id="AutoTrackStatusOffTitle" xml:space="preserve">
         <source>自动记录状态消失情况</source>
@@ -6139,7 +6143,7 @@ UI: {0}
       </trans-unit>
             <trans-unit id="Common-SupportConflictKeyToInterrupt" xml:space="preserve">
         <source>按住{conflictKey}即可打断操作。</source>
-        <target>{conflictKey}를 길게 눌러 작업을 중단할 수 있습니다.</target>
+        <target>{conflictKey}를 길게 눌러 작업 중단</target>
       </trans-unit>
             <trans-unit id="CompanyCreditExchangeMore-OnlyActiveInWorkshop" xml:space="preserve">
         <source>仅在部队工房内生效</source>
@@ -8838,15 +8842,19 @@ UI: {0}
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-BatchExchange" xml:space="preserve">
         <source>批量交换</source>
+        <target>일괄 납품</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-ConflictKeyHint" xml:space="preserve">
         <source>按住{conflictKey}以批量交换</source>
+        <target>{conflictKey}를 길게 눌러 일괄 납품</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished" xml:space="preserve">
         <source>成功交换了{count}次收藏品。</source>
+        <target>{count}개의 소장품을 일괄 납품했습니다.</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-Finished-Title" xml:space="preserve">
         <source>批量交换完成</source>
+        <target>일괄 납품 완료</target>
       </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-NoInclusionShop" xml:space="preserve">
         <source>附近没有可以对话的工票交易员。</source>
