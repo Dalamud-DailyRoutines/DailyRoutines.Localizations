@@ -5642,8 +5642,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
                 <target>Current World</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
-                <source>日销量</source>
-                <target>Daily Sales</target>
+                <source>销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
