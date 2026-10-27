@@ -5652,8 +5652,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>현재 서버</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
-                <source>日销量</source>
-                <target>일일 판매량</target>
+                <source>销量</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
