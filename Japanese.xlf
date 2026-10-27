@@ -4706,13 +4706,12 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-NotToTrack" xml:space="preserve">
                 <source>停止了对{player}的持续追踪。</source>
-                <target>停止了对{player}的持续追踪。</target>
+                <target>{player}への追尾を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-ToTrack" xml:space="preserve">
                 <source>开始持续追踪{player}，可以在打开的界面中详细配置。
 ※输入文本指令“{command}”即可再次打开该界面。</source>
-                <target>开始持续追踪{player}，可以在打开的界面中详细配置。
-※输入文本指令“{command}”即可再次打开该界面。</target>
+                <target>{player}の継続追従を開始しました。詳細設定は表示されたUIにて行えます。 ※テキストコマンド「{command}」を入力すると、再度このUIを表示できます。</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Track" xml:space="preserve">
                 <source>追踪</source>
@@ -4872,7 +4871,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="AutoUseItemStacks-Notification-Finished" xml:space="preserve">
                 <source>使用了“{item}”x{count}。</source>
-                <target>使用了“{item}”x{count}。</target>
+                <target>「{item}」を{count}個使用しました。</target>
             </trans-unit>
             <trans-unit id="AutoUseItemStacks-Popup-PleaseInput" xml:space="preserve">
                 <source>要使用多少个？</source>
@@ -7219,7 +7218,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastRidePillion-Notification-Rode" xml:space="preserve">
                 <source>自动搭乘了{player}的坐骑，坐在了{seat}号座位上。</source>
-                <target>自动搭乘了{player}的坐骑，坐在了{seat}号座位上。</target>
+                <target>{player}のマウントに相乗りし、{seat}番目の座席に搭乗しました。</target>
             </trans-unit>
             <trans-unit id="FastRidePillionDescription" xml:space="preserve">
                 <source>右键正在骑乘尚有空位的多人坐骑的队友时，自动共同骑乘。新增 /pdr {0} 指令，自动共同骑乘周围队友的坐骑。</source>
@@ -7455,7 +7454,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelBackConfirm" xml:space="preserve">
                 <source>确定要回到原始服务器（{worldText}）吗？</source>
-                <target>确定要回到原始服务器（{worldText}）吗？</target>
+                <target>ホームワールド（{worldText}）へ移動しますか？</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
                 <source>准备使用跨界传送前往{0}。</source>
@@ -9438,11 +9437,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedWeeklyBingoDescription" xml:space="preserve">
                 <source>优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。</source>
-                <target>优化“天书奇谈”界面，点击目标任务即可快捷跳转“任务搜索器”或查看“目标任务一览”界面，并在界面右侧“奖励列表”内直接显示贴出各条故事线的概率。</target>
+                <target>「クロの空想帳」UIを最適化し、対象コンテンツを選択することで「コンテンツファインダー」への即時遷移や「対象コンテンツ一覧」の確認を可能にします。また、画面右側の「報酬一覧」に各ライン達成時の確率を直接表示します。</target>
             </trans-unit>
             <trans-unit id="OptimizedWeeklyBingoTitle" xml:space="preserve">
                 <source>“天书奇谈”界面优化</source>
-                <target>“天书奇谈”界面优化</target>
+                <target>「クロの空想帳」UI最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedXBMMonsterNotebookDescription" xml:space="preserve">
                 <source>优化“魔兽图鉴”界面，支持查看未捕获的魔兽的详情信息，并可在界面上直接点击设置魔兽的体型。</source>
@@ -10794,8 +10793,8 @@ UI: {0}
             <trans-unit id="VersionUpdateWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
-                <target>「推奨モジュール」は開発チームにより厳選された、大多数のプレイヤーのプレイ体験を向上させつつ、プレイスタイルを大きく変化させないモジュールです。プラグイン導入後すぐに快適に使えることを目的としています。
-なお、これらのモジュールは後からいつでも無効化できます。</target>
+                <target>「推奨モジュール」は開発チームが厳選した、大部分のプレイヤーのゲーム体験を向上させつつもプレイスタイルを大きく変えないモジュール群です。プラグインを「導入後すぐに活用できる」状態にすることを目的としています。
+ これらのモジュールは後からいつでも無効化できます。</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
