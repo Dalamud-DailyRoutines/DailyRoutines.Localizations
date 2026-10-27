@@ -1837,7 +1837,7 @@
         <source>自动播报中</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotProgress" xml:space="preserve">
-        <source>正在前往第 {pointIndex} 个点位。</source>
+        <source>正在播报第 {pointIndex} 个点位。</source>
       </trans-unit>
       <trans-unit id="AutoMarksFinder-AutoPilotRemain" xml:space="preserve">
         <source>距出发还有 {remainingTimeText}</source>
