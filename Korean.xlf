@@ -5455,9 +5455,20 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>更好的辅助职业列表</source>
                 <target>개선된 서포트 직업 목록</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
+                <source>成交均价与商店售价：{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
+                <source>成交均价：{averagePrice}
+商店售价：{npcPrice}
+{shopInfo}</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
                 <target>평균 거래 가격</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-AveragePrice-Format" xml:space="preserve">
+                <source>成交均价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5479,25 +5490,25 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>应付总额</source>
                 <target>총 결제 금액</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
+                <source>服务器列表获取失败，稍后会自动重试。</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
                 <target>접기</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CommandHelp" xml:space="preserve">
-                <source>（&lt;物品 ID / 物品名称&gt;）开关市场布告板（以指定物品打开市场布告板）</source>
-                <target>장터 게시판 오버레이의 표시 상태 전환</target>
+                <source>打开或关闭市场布告板界面
+/pdr {command} &lt;物品唯一标识符/物品名称&gt; 以指定物品打开市场布告板</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip" xml:space="preserve">
-                <source>在道具帮助界面显示市场数据</source>
-                <target>아이템 정보창에 장터 정보 표시</target>
+                <source>“道具帮助”界面内显示市场数据</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Config-AppendMarketStatsTooltip-Help" xml:space="preserve">
-                <source>若物品可在市场交易, 则在对应的道具帮助界面显示由 Universalis 提供的市场交易相关数据</source>
-                <target>아이템이 장터 거래 가능 품목일 경우, Universalis에서 제공하는 관련 장터 거래 데이터를 아이템 정보창에 표시합니다.</target>
+                <source>若物品可在市场交易，则在“道具帮助”界面内显示由 Universalis 提供的市场交易数据。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DailySales-Format" xml:space="preserve">
-                <source>{0}/天</source>
-                <target>{0}/일</target>
+                <source>{quantity}/天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-DataFreshness" xml:space="preserve">
                 <source>数据更新</source>
@@ -5508,8 +5519,10 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>전체</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-HQRatio" xml:space="preserve">
-                <source>HQ 占比</source>
-                <target>HQ 비율</target>
+                <source>高品质占比</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-HeldCount-Format" xml:space="preserve">
+                <source>{label}：{quantity}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-History-Recent" xml:space="preserve">
                 <source>最近成交</source>
@@ -5519,6 +5532,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>成交样本</source>
                 <target>거래 내역</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-HistoryGroup-Format" xml:space="preserve">
+                <source>{date, date, short}（{count}）</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-Home" xml:space="preserve">
                 <source>本服</source>
                 <target>현재 서버</target>
@@ -5526,6 +5542,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-InStock" xml:space="preserve">
                 <source>在售</source>
                 <target>판매 중</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-ItemLevel-Format" xml:space="preserve">
+                <source> {level}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-MarketData" xml:space="preserve">
                 <source>市场数据</source>
@@ -5536,20 +5555,26 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>HQ만 표시</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCPrice" xml:space="preserve">
-                <source>NPC 售价：{0}</source>
-                <target>NPC 판매가: {0}</target>
+                <source>商店售价：{price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
-                <source>查看 NPC 获取方式</source>
-                <target>NPC 획득처</target>
+                <source>查看商店贩售途径</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Number-Format" xml:space="preserve">
+                <source>{value}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
                 <target>단독 판매</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
-                <source>{0}%</source>
-                <target>{0}%</target>
+                <source>{percent}%</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Price-Format" xml:space="preserve">
+                <source>{price}</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceDifference-Format" xml:space="preserve">
+                <source>{direction, select, higher {+{price}（+{percent}%）} other {{price}（{percent}%）}}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -5568,12 +5593,10 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>가격 확인</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
-                <source>已开始自动请求购买{0}，共 {1} 笔（{2} 件）。</source>
-                <target>{0} 자동 구매를 시작했습니다. 총 {1}건({2}개)입니다.</target>
+                <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-Found" xml:space="preserve">
-                <source>{0}当前市场价格（{1}）已低于设定值（{2}）。</source>
-                <target>{0}의 현재 장터 가격({1})이 설정값({2})보다 낮아졌습니다.</target>
+                <source>“{item}”当前的市场价格{price}已低于设定值{threshold}。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
@@ -5592,8 +5615,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>과거 중간가</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
-                <source>NPC 售价</source>
-                <target>NPC 판매가</target>
+                <source>商店售价</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
@@ -5603,9 +5625,16 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>市场基准参考</source>
                 <target>장터 가격 기준</target>
             </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Tooltip" xml:space="preserve">
+                <source>{label}：{price}
+左键：应用</source>
+            </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-WorldMin" xml:space="preserve">
                 <source>本服最低价</source>
                 <target>본 서버 최저가</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-PriceMonitor-Threshold-Format" xml:space="preserve">
+                <source>≤ {price}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-ToMonitor" xml:space="preserve">
                 <source>监控价格</source>
@@ -5620,12 +5649,17 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>가격 추이</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
-                <source>按住打断热键 {0} 时点击右键，即可无需确认直接购买。</source>
-                <target>단축키 {0} 을 길게 누르면 확인 없이 바로 구매합니다.</target>
+                <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Rank-Format" xml:space="preserve">
+                <source>#{rank}</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
                 <target>최근 거래</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-RecentPurchase-Format" xml:space="preserve">
+                <source>{price}（{timeAgo}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-ReloadMarketData" xml:space="preserve">
                 <source>刷新市场数据</source>
@@ -5633,8 +5667,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
 (캐시 시간: 10분)</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
-                <source>{0} 笔 ({1} 件)</source>
-                <target>{0}건 ({1}개)</target>
+                <source>{count}笔（{quantity}件）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
@@ -5643,6 +5676,12 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-ShowAllWorldPrices" xml:space="preserve">
                 <source>完整显示</source>
                 <target>펼치기</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-TabLabel-Format" xml:space="preserve">
+                <source>{icon} {label}（{count}）</source>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tax-Format" xml:space="preserve">
+                <source>（税：{price}）</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-CurrentRegion" xml:space="preserve">
                 <source>区域</source>
@@ -5655,6 +5694,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterMarketBoard-Tooltip-DailySales" xml:space="preserve">
                 <source>日销量</source>
                 <target>일일 판매량</target>
+            </trans-unit>
+            <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
+                <source>市场数据获取失败</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
@@ -5681,16 +5723,14 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>예상 판매 기간</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
-                <source>≈ {0} 天</source>
-                <target>≈ {0} 일</target>
+                <source>≈ {days}天</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
                 <target>= 판매 중인 총수량 ÷ 일일 평균 판매량</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
-                <source>添加 /pdr {0} 指令用以打开模块提供的远程市场布告板界面, 可在其中快速查价、购买并设定价格监控</source>
-                <target>/pdr {0} 명령을 추가해 어디서든 장터 게시판을 열 수 있습니다. 빠르게 가격 확인, 구매 및 가격 추적 설정이 가능하며, 구매는 인스턴스 외부에서만 가능합니다.</target>
+                <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoardTitle" xml:space="preserve">
                 <source>更好的市场布告板</source>
