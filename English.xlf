@@ -5562,30 +5562,30 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Average" xml:space="preserve">
                 <source>成交均价</source>
-                <target>Avg</target>
+                <target>Txn Avg</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-LowPercentile" xml:space="preserve">
                 <source>历史低分位</source>
-                <target>Low</target>
+                <target>All-Time Low</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Median" xml:space="preserve">
                 <source>历史中位价</source>
-                <target>Median</target>
+                <target>Hist Med</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
                 <source>商店售价</source>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
-                <target>DC Min</target>
+                <target>DC Low</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Title" xml:space="preserve">
                 <source>市场基准参考</source>
-                <target>Reference</target>
+                <target>Market Reference</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-WorldMin" xml:space="preserve">
                 <source>本服最低价</source>
-                <target>World Min</target>
+                <target>World Low</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-ToMonitor" xml:space="preserve">
                 <source>监控价格</source>
