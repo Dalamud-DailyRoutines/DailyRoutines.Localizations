@@ -5444,7 +5444,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
-                <target>Avg</target>
+                <target>Txn Avg</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice-HQ" xml:space="preserve">
                 <source>高品质均价</source>
@@ -5661,6 +5661,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Format" xml:space="preserve">
                 <source>≈ {days}天</source>
+                <target>≈ {days, plural, one {# day} other {# days}}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Turnover-Help" xml:space="preserve">
                 <source>= 在售总量 ÷ 日均销量</source>
@@ -5668,6 +5669,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoardDescription" xml:space="preserve">
                 <source>新增可在任意地点、状态下打开的远程市场布告板界面，使用“/pdr {command}”指令打开。支持快速查价、比价、批量购买与监控价格。</source>
+                <target>Provide a new remote Market Board which could be accessed from anywhere and in any character status, allowing to inquire &amp; compare item prices, monitor trends and purchase items in batch. The feature comes with a command &quot;/pdr {command}&quot; to access the new remote Market Board.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoardTitle" xml:space="preserve">
                 <source>更好的市场布告板</source>
