@@ -9040,11 +9040,11 @@ UI: {0}
       </trans-unit>
             <trans-unit id="OptimizedLetterDescription" xml:space="preserve">
         <source>优化“莫古邮件”界面，支持批量领取附件或删除邮件，为“收信人列表”界面加入搜索功能，并移除了“请求特典道具”按钮的点击等待限制。</source>
-        <target>&quot;모그리 우편&quot; UI을 개선하여 첨부 아이템을 일괄회수하거나 우편을 일괄 삭제할 수 있으며, &quot;수신자 목록&quot; 화면에 검색 기능을 추가하고, &quot;배달 요청&quot; 버튼의 클릭 대기 시간을 제거합니다.</target>
+        <target>&quot;모그레터&quot; UI을 개선하여 첨부 아이템을 일괄회수하거나 우편을 일괄 삭제할 수 있으며, &quot;수신자 목록&quot; 화면에 검색 기능을 추가하고, &quot;배달 요청&quot; 버튼의 클릭 대기 시간을 제거합니다.</target>
       </trans-unit>
             <trans-unit id="OptimizedLetterTitle" xml:space="preserve">
         <source>“莫古邮件”界面优化</source>
-        <target>&quot;모그리 우편&quot; UI 최적화</target>
+        <target>&quot;모그레터&quot; UI 최적화</target>
       </trans-unit>
             <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
         <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
