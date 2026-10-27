@@ -3134,10 +3134,11 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxDescription" xml:space="preserve">
                 <source>在数字输入框初始化或可用数量刷新变化时自动填入最大值，并支持保留手动修改的数值。</source>
+                <target>Automatically set it to the maximum value for all number inputs, and memorize any input adjusted manually.</target>
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxTitle" xml:space="preserve">
                 <source>自动数字输入框最大值</source>
-                <target>Auto Set Numeric Input Max</target>
+                <target>Auto Max In Number Input</target>
             </trans-unit>
             <trans-unit id="AutoOpenMapLinks-AlreadyAddedChannelCount" xml:space="preserve">
                 <source>已选择 {0} 种消息频道</source>
