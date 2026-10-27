@@ -5528,6 +5528,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
+                <target>Check Availability At NPC</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
@@ -5535,6 +5536,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Percent-Format" xml:space="preserve">
                 <source>{percent}%</source>
+                <target>{percent}%</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-AutoPurchase" xml:space="preserve">
                 <source>自动购买</source>
@@ -5554,13 +5556,15 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-AutoBuy" xml:space="preserve">
                 <source>开始自动请求购买“{item}”，共{count}笔{quantity}件。</source>
+                <target>Now purchasing &quot;{item}&quot;. {count, plural, one {# transaction} other {# transactions}} ({quantity, plural, one {# item} other {# items}}) in total.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Notification-Found" xml:space="preserve">
                 <source>“{item}”当前的市场价格{price}已低于设定值{threshold}。</source>
+                <target>The price of &quot;{item}&quot; at the moment ({price}) is below the given threshold ({threshold}).</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Price" xml:space="preserve">
                 <source>监控价格</source>
-                <target>Current Price</target>
+                <target>Price</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-Average" xml:space="preserve">
                 <source>成交均价</source>
@@ -5576,6 +5580,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-NPC" xml:space="preserve">
                 <source>商店售价</source>
+                <target>NPC Vendor</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-PriceMonitor-Quick-RegionMin" xml:space="preserve">
                 <source>大区最低价</source>
@@ -5603,6 +5608,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Purchase-Help" xml:space="preserve">
                 <source>按住打断热键{key}时点击右键，即可无需确认直接购买。</source>
+                <target>Right click while holding the interrupt hotkey {key} to purchase without confirmation.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-RecentPurchase" xml:space="preserve">
                 <source>最近成交</source>
@@ -5614,6 +5620,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Samples-Format" xml:space="preserve">
                 <source>{count}笔（{quantity}件）</source>
+                <target>{count, plural, one {# txn} other {# txns}} ({quantity, plural, one {# item} other {# items}})</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-SearchInMarket" xml:space="preserve">
                 <source>查看市场行情</source>
