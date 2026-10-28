@@ -3132,6 +3132,7 @@
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-Notification-ChatTitle" xml:space="preserve">
             <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
+            <target>무작위 임무 역할 부족 보너스 갱신. 현재 설정 조건에 부합하는 임무는 {count}개입니다.</target>
           </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-OnlyIncompleteHelp" xml:space="preserve">
                 <source>仅当未获得对应任务首次报酬奖励时发送通知信息提醒</source>
@@ -3139,6 +3140,7 @@
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusDescription" xml:space="preserve">
                 <source>在指定的随机任务出现指定职能的少数职能奖励时，自动发送通知提醒。</source>
+                <target>지정한 무작위 임무에서 특정 역할 부족 보너스가 발생하면, 자동으로 알림 메시지를 보냅니다.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusTitle" xml:space="preserve">
                 <source>自动通知随机任务少数职能奖励</source>
@@ -3172,6 +3174,7 @@
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxDescription" xml:space="preserve">
                 <source>在数字输入框初始化或可用数量刷新变化时自动填入最大值，并支持保留手动修改的数值。</source>
+                <target>모든 숫자 입력칸을 항상 최대값으로 설정하고 수동으로 변경한 숫자는 유지됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoNumericInputMaxTitle" xml:space="preserve">
                 <source>自动数字输入框最大值</source>
@@ -4249,9 +4252,11 @@
             </trans-unit>
             <trans-unit id="AutoRevealKeyboundBrawlerScoresDescription" xml:space="preserve">
                 <source>“魔光键影”副本结算时，自动显示本被遮蔽的其他玩家的分数。</source>
+                <target>&quot;마법자판 난타전&quot; 클리어 시, 다른 플레이어의 점수가 자동으로 표시됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoRevealKeyboundBrawlerScoresTitle" xml:space="preserve">
                 <source>自动显示魔光键影分数</source>
+                <target>마법자판 난타전 점수 표시</target>
             </trans-unit>
             <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
                 <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
@@ -5570,6 +5575,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterMarketBoard-NPCShopInfo" xml:space="preserve">
                 <source>查看商店贩售途径</source>
+                <target>상점에서 구입하는 경로 확인</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-OnlyOne" xml:space="preserve">
                 <source>唯一在售</source>
