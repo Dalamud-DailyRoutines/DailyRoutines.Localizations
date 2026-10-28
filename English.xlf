@@ -2156,15 +2156,18 @@ If the status was applied by a combo action, the actual duration would be the se
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
             <source>最长间隔（毫秒）</source>
+            <target>Min Interval (millisecond)</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MinInterval" xml:space="preserve">
             <source>最短间隔（毫秒）</source>
+            <target>Max Interval (millisecond)</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
                 <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断咏唱，并在禁止打字判定期间暂停输入。</source>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动游玩魔光键影</source>
+                <target>Auto Keybound Brawler</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>黑名单副本</source>
@@ -3118,18 +3121,19 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-Notification-ChatTitle" xml:space="preserve">
             <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
+            <target>New Adventurer In Need available in {count, plural, one {# Duty Roulette} other {# Duty Roulettes}}.</target>
           </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-OnlyIncompleteHelp" xml:space="preserve">
                 <source>仅当未获得对应任务首次报酬奖励时发送通知信息提醒</source>
-                <target>Only when the daily rewards are not claimed</target>
+                <target>Only When Daily Rewards Not Earned</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusDescription" xml:space="preserve">
                 <source>在指定的随机任务出现指定职能的少数职能奖励时，自动发送通知提醒。</source>
-                <target>Automatically send a notification if a preferred role is now adventurer-in-need in any monitored Duty Roulette.</target>
+                <target>Automatically send a notification if a preferred role is now Adventurer In Need in any monitored Duty Roulette.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusTitle" xml:space="preserve">
                 <source>自动通知随机任务少数职能奖励</source>
-                <target>Auto Adventurer-in-need Notification</target>
+                <target>Auto Adventurer In Need Notification</target>
             </trans-unit>
             <trans-unit id="AutoNoviceNetwork-AttemptedTimes" xml:space="preserve">
                 <source>已尝试次数</source>
