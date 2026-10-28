@@ -3095,13 +3095,21 @@ Temps restant : {0} seconde(s)</target>
                 <source>自动通知招募结束</source>
                 <target>Notification automatique de fin de recrutement</target>
             </trans-unit>
+            <trans-unit id="AutoNotifyRouletteBonus-Notification-ChatTitle" xml:space="preserve">
+            <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
+          </trans-unit>
+            <trans-unit id="AutoNotifyRouletteBonus-Notification-TrayContent" xml:space="preserve">
+            <source>共有{count}个任务符合设定条件。</source>
+          </trans-unit>
+            <trans-unit id="AutoNotifyRouletteBonus-Notification-TrayTitle" xml:space="preserve">
+            <source>随机任务少数职能奖励更新</source>
+          </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-OnlyIncompleteHelp" xml:space="preserve">
                 <source>仅当未获得对应任务首次报酬奖励时发送通知信息提醒</source>
                 <target>Uniquement si les récompenses quotidiennes n’ont pas été récupérées</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusDescription" xml:space="preserve">
-                <source>在指定的随机任务出现指定的少数职能奖励时, 自动发送通知信息提醒</source>
-                <target>Envoie une notification lorsqu’un rôle devient « Aventurier recherché » dans la Roulette des missions spécifiée.</target>
+                <source>在指定的随机任务出现指定职能的少数职能奖励时，自动发送通知提醒。</source>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusTitle" xml:space="preserve">
                 <source>自动通知随机任务少数职能奖励</source>
@@ -10848,15 +10856,15 @@ Pour les utiliser, rejoignez notre serveur Discord (voir en bas à gauche de la 
                 <source>工作模式</source>
                 <target>Mode de fonctionnement</target>
             </trans-unit>
-            <trans-unit id="WorkTheory" xml:space="preserve">
+          <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>Principe de fonctionnement</target>
             </trans-unit>
-            <trans-unit id="Yes" xml:space="preserve">
+          <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>Oui</target>
             </trans-unit>
-            <trans-unit id="Zone" xml:space="preserve">
+          <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
