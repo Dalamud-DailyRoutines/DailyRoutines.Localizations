@@ -2145,8 +2145,17 @@ If the status was applied by a combo action, the actual duration would be the se
                 <source>自动保持目标选中状态</source>
                 <target>Persistent Targeting</target>
             </trans-unit>
+            <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
+            <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
+          </trans-unit>
+            <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
+            <source>最长间隔（毫秒）</source>
+          </trans-unit>
+            <trans-unit id="AutoKeyboundBrawler-MinInterval" xml:space="preserve">
+            <source>最短间隔（毫秒）</source>
+          </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
-                <source>自动游玩“魔光键影”，自动输入词条攻击敌人，优先强化屏障和打断施法，并在禁止打字期间暂停输入。</source>
+                <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断施法，并在禁止打字判定期间暂停输入。</source>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动游玩魔光键影</source>
@@ -10878,19 +10887,19 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>天气</source>
                 <target>Weather</target>
             </trans-unit>
-            <trans-unit id="Website" xml:space="preserve">
+          <trans-unit id="Website" xml:space="preserve">
                 <source>网站</source>
                 <target>Website</target>
             </trans-unit>
-            <trans-unit id="Whitelist" xml:space="preserve">
+          <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
                 <target>Whitelist</target>
             </trans-unit>
-            <trans-unit id="Width" xml:space="preserve">
+          <trans-unit id="Width" xml:space="preserve">
                 <source>宽度</source>
                 <target>Width</target>
             </trans-unit>
-            <trans-unit id="WorkMode" xml:space="preserve">
+          <trans-unit id="WorkMode" xml:space="preserve">
                 <source>工作模式</source>
                 <target>Work Mode</target>
             </trans-unit>
