@@ -1593,6 +1593,12 @@
             <trans-unit id="AutoKeepTargetBeyondRangeTitle" xml:space="preserve">
                 <source>自动保持目标选中状态</source>
             </trans-unit>
+            <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
+                <source>自动游玩“魔光键影”，自动输入词条攻击敌人，优先强化屏障和打断施法，并在禁止打字期间暂停输入。</source>
+            </trans-unit>
+            <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
+                <source>自动游玩魔光键影</source>
+            </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>黑名单副本</source>
             </trans-unit>
@@ -2300,12 +2306,6 @@
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-Notification-ChatTitle" xml:space="preserve">
             <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
-          </trans-unit>
-            <trans-unit id="AutoNotifyRouletteBonus-Notification-TrayContent" xml:space="preserve">
-            <source>共有{count}个任务符合设定条件。</source>
-          </trans-unit>
-            <trans-unit id="AutoNotifyRouletteBonus-Notification-TrayTitle" xml:space="preserve">
-            <source>随机任务少数职能奖励更新</source>
           </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-OnlyIncompleteHelp" xml:space="preserve">
                 <source>仅当未获得对应任务首次报酬奖励时发送通知信息提醒</source>
