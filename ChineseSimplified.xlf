@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0" ?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
         <body>
             <trans-unit id="Accept" xml:space="preserve">
@@ -1569,6 +1570,21 @@
             <trans-unit id="AutoInventoryTransferTitle" xml:space="preserve">
                 <source>自动物品页面转移</source>
             </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawler-Notice-Chat" xml:space="preserve">
+                <source>队伍构成有所变动，自动停止了申请参加“魔光键影”任务。</source>
+            </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayContent" xml:space="preserve">
+                <source>队伍构成有所变动，停止了自动申请参加任务。</source>
+            </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayTitle" xml:space="preserve">
+                <source>自动申请参加“魔光键影”任务已停止</source>
+            </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
+                <source>当队伍组成不合理时自动停止</source>
+            </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
+                <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
+            </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
             </trans-unit>
@@ -1599,15 +1615,21 @@
             <trans-unit id="AutoKeepTargetBeyondRangeTitle" xml:space="preserve">
                 <source>自动保持目标选中状态</source>
             </trans-unit>
+            <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput" xml:space="preserve">
+                <source>随机插入错误输入</source>
+            </trans-unit>
+            <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput-Help" xml:space="preserve">
+                <source>以最高不超过2%的概率随机插入错误输入，以模拟正常输入。两次错误输入必定间隔不少于十次正确输入，以避免影响效率。</source>
+            </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
-            <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
-          </trans-unit>
+                <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
+            </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
-            <source>最长间隔（毫秒）</source>
-          </trans-unit>
+                <source>最长间隔（毫秒）</source>
+            </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MinInterval" xml:space="preserve">
-            <source>最短间隔（毫秒）</source>
-          </trans-unit>
+                <source>最短间隔（毫秒）</source>
+            </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
                 <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断咏唱，并在禁止打字判定期间暂停输入。</source>
             </trans-unit>
@@ -2320,8 +2342,8 @@
                 <source>自动通知招募结束</source>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-Notification-ChatTitle" xml:space="preserve">
-            <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
-          </trans-unit>
+                <source>随机任务少数职能奖励更新，当前共有{count}个任务符合设定条件。</source>
+            </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonus-OnlyIncompleteHelp" xml:space="preserve">
                 <source>仅当未获得对应任务首次报酬奖励时发送通知信息提醒</source>
             </trans-unit>
@@ -8102,22 +8124,22 @@
             <trans-unit id="Weather" xml:space="preserve">
                 <source>天气</source>
             </trans-unit>
-          <trans-unit id="Website" xml:space="preserve">
+            <trans-unit id="Website" xml:space="preserve">
                 <source>网站</source>
             </trans-unit>
-          <trans-unit id="Whitelist" xml:space="preserve">
+            <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
             </trans-unit>
-          <trans-unit id="Width" xml:space="preserve">
+            <trans-unit id="Width" xml:space="preserve">
                 <source>宽度</source>
             </trans-unit>
-          <trans-unit id="WorkMode" xml:space="preserve">
+            <trans-unit id="WorkMode" xml:space="preserve">
                 <source>工作模式</source>
             </trans-unit>
-          <trans-unit id="WorkTheory" xml:space="preserve">
+            <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
             </trans-unit>
           <trans-unit id="Zone" xml:space="preserve">
