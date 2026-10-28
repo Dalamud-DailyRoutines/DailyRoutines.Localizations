@@ -2118,6 +2118,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动申请参加魔光键影</source>
+                <target>Auto Commence Keybound Brawler</target>
             </trans-unit>
             <trans-unit id="AutoJumboCactpot-Fixed" xml:space="preserve">
                 <source>固定</source>
@@ -2153,6 +2154,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
             <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
+            <target>Actual intervals would vary randomly between the minimum interval and the maximum interval.</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
             <source>最长间隔（毫秒）</source>
@@ -2164,6 +2166,7 @@ If the status was applied by a combo action, the actual duration would be the se
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
                 <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断咏唱，并在禁止打字判定期间暂停输入。</source>
+                <target>Automatically type in Keybound Brawler in order to attack the closest enemy while prioritizing barrier reinforcement and cast interruption. Auto typing will be suspended during Letterlocked.</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动游玩魔光键影</source>
