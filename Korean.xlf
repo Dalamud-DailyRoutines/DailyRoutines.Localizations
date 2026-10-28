@@ -2105,9 +2105,11 @@
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
+                <target>각종 상점의 아이템 구매 한도를 999개로 상향하고, &quot;명예 점수 교환 창구&quot;의 아이템 구매 한도를 255개로 상향합니다.</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
+                <target>1회 구매 한도 자동 상향</target>
             </trans-unit>
             <trans-unit id="AutoInventoryTransferDescription" xml:space="preserve">
                 <source>若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面</source>
@@ -2119,9 +2121,11 @@
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
+                <target>시작 후 자동으로 &quot;마법자판 난타전&quot;을 반복해서 매칭하며, 클리어하면 자동으로 퇴장합니다.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动申请参加魔光键影</source>
+                <target>마법자판 난타전 자동 신청 </target>
             </trans-unit>
             <trans-unit id="AutoJumboCactpot-Fixed" xml:space="preserve">
                 <source>固定</source>
@@ -2157,18 +2161,23 @@
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
             <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
+            <target>매 조작의 실제 간격은 최소 간격과 최대 간격 중에서 임의로 정해집니다.</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
             <source>最长间隔（毫秒）</source>
+            <target>최장 간격(밀리초)</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MinInterval" xml:space="preserve">
             <source>最短间隔（毫秒）</source>
+            <target>최소 간격(밀리초)</target>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
                 <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断咏唱，并在禁止打字判定期间暂停输入。</source>
+                <target>&quot;마법자판 난타전&quot;에 진입하면 가장 가까운 적을 공격하며, 방어막과 캐스팅 시전을 우선하고, 입력 금지 판정 중에는 입력이 일시 정지됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动游玩魔光键影</source>
+                <target>마법자판 난타전 자동 플레이</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>黑名单副本</source>
