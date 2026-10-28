@@ -2113,6 +2113,12 @@ If the status was applied by a combo action, the actual duration would be the se
                 <source>自动物品页面转移</source>
                 <target>Auto Shuttle Between Interfaces</target>
             </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
+                <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
+            </trans-unit>
+            <trans-unit id="AutoJoinKeyboundBrawlerTitle" xml:space="preserve">
+                <source>自动申请参加魔光键影</source>
+            </trans-unit>
             <trans-unit id="AutoJumboCactpot-Fixed" xml:space="preserve">
                 <source>固定</source>
                 <target>Fix</target>
@@ -2155,7 +2161,7 @@ If the status was applied by a combo action, the actual duration would be the se
             <source>最短间隔（毫秒）</source>
           </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerDescription" xml:space="preserve">
-                <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断施法，并在禁止打字判定期间暂停输入。</source>
+                <source>进入“魔光键影”副本后，自动输入词条攻击最近的敌人，优先强化屏障和打断咏唱，并在禁止打字判定期间暂停输入。</source>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动游玩魔光键影</source>
@@ -4226,6 +4232,12 @@ Price Now: {3} ({4} / {5})</target>
             <trans-unit id="AutoReuseEmoteTitle" xml:space="preserve">
                 <source>自动重复执行表情</source>
                 <target>Auto Spam Emote</target>
+            </trans-unit>
+            <trans-unit id="AutoRevealKeyboundBrawlerScoresDescription" xml:space="preserve">
+                <source>“魔光键影”副本结算时，自动显示本被遮蔽的其他玩家的分数。</source>
+            </trans-unit>
+            <trans-unit id="AutoRevealKeyboundBrawlerScoresTitle" xml:space="preserve">
+                <source>自动显示魔光键影分数</source>
             </trans-unit>
             <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
                 <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
