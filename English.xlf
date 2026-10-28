@@ -2115,19 +2115,23 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-Chat" xml:space="preserve">
                 <source>队伍构成有所变动，自动停止了申请参加“魔光键影”任务。</source>
+                <target>Auto registration for Keybound Brawler has been terminated due to changes within the party.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayContent" xml:space="preserve">
                 <source>队伍构成有所变动，停止了自动申请参加任务。</source>
+                <target>The registration has been terminated due to changes within the party.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayTitle" xml:space="preserve">
                 <source>自动申请参加“魔光键影”任务已停止</source>
+                <target>Auto registration for Keybound Brawler has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
-                <target>Terminate If Not Solo Or Party Of Four</target>
+                <target>Terminate If Neither Solo Nor Party Of Four</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
                 <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
+                <target>Terminate the process if the character is neither solo nor in a party of four.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
