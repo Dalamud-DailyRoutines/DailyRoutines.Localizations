@@ -4769,6 +4769,9 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <source>{player}主动取消了状态“{status}”。
    预计存续{estimatedTime}秒
    实际存续{time}秒</source>
+                <target>{player}가 &quot;{status}&quot; 상태를 해제. 
+ 예상 지속 시간:{estimatedTime}초
+ 실제 지속 시간:{time}초</target>
             </trans-unit>
             <trans-unit id="AutoTrackStatusOffDescription" xml:space="preserve">
                 <source>自动记录自身给予其他玩家的状态存续情况，在其被他人主动解除时发送通知提醒。</source>
@@ -5485,11 +5488,15 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Format" xml:space="preserve">
                 <source>成交均价与商店售价：{price}</source>
+                <target>거래 평균가와 상점 판매가:{price}</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AverageNPCPrice-Tooltip" xml:space="preserve">
                 <source>成交均价：{averagePrice}
 商店售价：{npcPrice}
 查看商店贩售途径</source>
+                <target>평균 거래가:{averagePrice}
+상점 판매가:{npcPrice}
+상점 판매 경로 보기</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-AveragePrice" xml:space="preserve">
                 <source>成交均价</source>
@@ -5517,6 +5524,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CatalogRequestFailed" xml:space="preserve">
                 <source>服务器列表获取失败，稍后会自动重试。</source>
+                <target>서버 목록 가져오기 실패. 잠시 후 다시 시도합니다.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-CollapseAllWorldPrices" xml:space="preserve">
                 <source>收起</source>
