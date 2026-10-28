@@ -2115,10 +2115,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
+                <target>Automatically repeat the process of registering for Keybound Brawler and leaving upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动申请参加魔光键影</source>
-                <target>Auto Commence Keybound Brawler</target>
+                <target>Auto Register For Keybound Brawler</target>
             </trans-unit>
             <trans-unit id="AutoJumboCactpot-Fixed" xml:space="preserve">
                 <source>固定</source>
@@ -4243,9 +4244,11 @@ Price Now: {3} ({4} / {5})</target>
             </trans-unit>
             <trans-unit id="AutoRevealKeyboundBrawlerScoresDescription" xml:space="preserve">
                 <source>“魔光键影”副本结算时，自动显示本被遮蔽的其他玩家的分数。</source>
+                <target>Explicitly display the scores of other party members upon the completion of Keybound Brawler.</target>
             </trans-unit>
             <trans-unit id="AutoRevealKeyboundBrawlerScoresTitle" xml:space="preserve">
                 <source>自动显示魔光键影分数</source>
+                <target>Party Scoreboard In Keybound Brawler</target>
             </trans-unit>
             <trans-unit id="AutoSellCards-CommandHelp" xml:space="preserve">
                 <source>自动前往并打开幻卡回收界面, 开始幻卡回收</source>
