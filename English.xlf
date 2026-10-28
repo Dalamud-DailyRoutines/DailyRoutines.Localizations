@@ -3125,10 +3125,11 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusDescription" xml:space="preserve">
                 <source>在指定的随机任务出现指定职能的少数职能奖励时，自动发送通知提醒。</source>
+                <target>Automatically send a notification if a preferred role is now adventurer-in-need in any monitored Duty Roulette.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyRouletteBonusTitle" xml:space="preserve">
                 <source>自动通知随机任务少数职能奖励</source>
-                <target>Auto Adventurer in Need Notification</target>
+                <target>Auto Adventurer-in-need Notification</target>
             </trans-unit>
             <trans-unit id="AutoNoviceNetwork-AttemptedTimes" xml:space="preserve">
                 <source>已尝试次数</source>
