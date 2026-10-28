@@ -2124,6 +2124,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
+                <target>Terminate If Not Solo Or Party Of Four</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
                 <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
@@ -2174,6 +2175,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput-Help" xml:space="preserve">
                 <source>以最高不超过2%的概率随机插入错误输入，以模拟正常输入。两次错误输入必定间隔不少于十次正确输入，以避免影响效率。</source>
+                <target>Introduce intentional typos at a maximum probability of 2% in order to simulate human behaviour. There are at least 10 correct inputs between any two typos to ensure efficiency.</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
                 <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
