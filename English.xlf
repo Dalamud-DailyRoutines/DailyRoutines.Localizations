@@ -2170,6 +2170,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput" xml:space="preserve">
                 <source>随机插入错误输入</source>
+                <target>Occasional Typos</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput-Help" xml:space="preserve">
                 <source>以最高不超过2%的概率随机插入错误输入，以模拟正常输入。两次错误输入必定间隔不少于十次正确输入，以避免影响效率。</source>
