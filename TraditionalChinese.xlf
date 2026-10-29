@@ -4349,6 +4349,12 @@ XivGear (xivgear.app)</target>
                 <source>自动商店重复购买</source>
                 <target>自動商店重複購買</target>
             </trans-unit>
+            <trans-unit id="AutoShowChatLogInKeyboundBrawlerDescription" xml:space="preserve">
+                <source>在副本“魔光键影”中，自动显示被刻意隐藏的“消息”界面，以便核对各种消息。</source>
+            </trans-unit>
+            <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
+                <source>自动魔光键影内显示“消息”界面</source>
+            </trans-unit>
             <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
                 <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
                 <target>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</target>
@@ -8985,6 +8991,15 @@ XivGear (xivgear.app)</target>
                 <source>游戏原生交互优化</source>
                 <target>遊戲原生交互最佳化</target>
             </trans-unit>
+            <trans-unit id="OptimizedKTGHudGauge-BonusLeftTimeFormat" xml:space="preserve">
+            <source>剩余{seconds}秒！</source>
+          </trans-unit>
+            <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
+                <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间、持有的金碟点与金碟币数量和相关成就进度。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
+                <source>魔光键影信息界面优化</source>
+            </trans-unit>
             <trans-unit id="OptimizedLetter-Button-Claim" xml:space="preserve">
                 <source>领取全部邮件附件</source>
                 <target>领取全部邮件附件</target>
@@ -10830,7 +10845,7 @@ XivGear (xivgear.app)</target>
                 <source>工作原理</source>
                 <target>工作原理</target>
             </trans-unit>
-            <trans-unit id="Yes" xml:space="preserve">
+          <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>是</target>
             </trans-unit>
