@@ -8408,7 +8408,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-ContextMenu" xml:space="preserve">
                 <source>切换消息过滤预设</source>
-                <target>Filter</target>
+                <target>Switch Filter</target>
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-ContextMenu-Apply" xml:space="preserve">
                 <source>应用预设“{0}”至消息栏“{1}”</source>
@@ -8416,11 +8416,11 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-Notification-Applied" xml:space="preserve">
                 <source>将消息过滤预设“{0}”应用到了消息栏“{1}”。</source>
-                <target>Preset &quot;{0}&quot; has been applied to the chat tab &quot;{1}&quot;.</target>
+                <target>The preset &quot;{0}&quot; has been applied to the chat tab &quot;{1}&quot;.</target>
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-SourceTab" xml:space="preserve">
                 <source>要保存的消息栏</source>
-                <target>Chat Tab To Be Applied</target>
+                <target>Tab To Be Applied</target>
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresetsDescription" xml:space="preserve">
                 <source>允许保存无限多的消息栏消息过滤设置，并可将保存的消息过滤设置通过配置界面或消息栏右键菜单等应用到任意消息栏中</source>
