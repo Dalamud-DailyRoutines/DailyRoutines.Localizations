@@ -8159,7 +8159,7 @@ Reverse Order: Start from the self, check from the bottom to the top of the part
             </trans-unit>
             <trans-unit id="LiveAnonymousMode-ChatNoObfuscationHelp" xml:space="preserve">
                 <source>由于模块采取的是不破坏原始文本的混淆逻辑, 出于性能上的考虑, 没有对消息窗口内聊天信息进行混淆, 你可以简单地在 OBS 或类似软件里使用一张不透明图像遮盖消息窗口即可</source>
-                <target>Since the module adopts the obfuscation logic of not destroying the original text, for performance reasons, content in Chat Log is not obfuscated. You can simply use an opaque image to cover the message window in OBS or similar software.</target>
+                <target>Original texts are not destroyed during the obfuscation process. Therefore, considering performance, the module will not obfuscate the content in Chat Log. It&apos;s recommended to put an opaque layer over Chat Log in your recording software.</target>
             </trans-unit>
             <trans-unit id="LiveAnonymousMode-FakePlayerNameInputHint" xml:space="preserve">
                 <source>如果不想指定, 请留空
