@@ -4394,10 +4394,11 @@ If not blank, it will only execute if the target name matches exactly.</target>
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerDescription" xml:space="preserve">
                 <source>在副本“魔光键影”中，自动显示被刻意隐藏的“消息”界面，以便核对各种消息。</source>
+                <target>Allow to access Chat Log while playing Keybound Brawler.</target>
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动魔光键影内显示“消息”界面</source>
-                <target>Show Chat Log In Keybound Brawler</target>
+                <target>Chat Log In Keybound Brawler</target>
             </trans-unit>
             <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
                 <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
@@ -8411,7 +8412,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-ContextMenu-Apply" xml:space="preserve">
                 <source>应用预设“{0}”至消息栏“{1}”</source>
-                <target>Apply &quot;{0}&quot; To &quot;{1}&quot;</target>
+                <target>Apply Preset &quot;{0}&quot; To Tab &quot;{1}&quot;</target>
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresets-Notification-Applied" xml:space="preserve">
                 <source>将消息过滤预设“{0}”应用到了消息栏“{1}”。</source>
