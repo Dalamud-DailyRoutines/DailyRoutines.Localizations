@@ -2127,7 +2127,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
-                <target>Terminate If Neither Solo Nor Party Of Four</target>
+                <target>Stop If Neither Solo Nor Party Of Four</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
                 <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
