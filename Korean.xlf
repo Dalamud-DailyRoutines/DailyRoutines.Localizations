@@ -9090,7 +9090,7 @@ UI: {0}
             <source>剩余{seconds}秒！</source>
           </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
-                <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间、持有的金碟点与金碟币数量和相关成就进度。</source>
+                <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
