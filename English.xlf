@@ -8159,7 +8159,7 @@ Reverse Order: Start from the self, check from the bottom to the top of the part
             </trans-unit>
             <trans-unit id="LiveAnonymousMode-ChatNoObfuscationHelp" xml:space="preserve">
                 <source>由于模块采取的是不破坏原始文本的混淆逻辑, 出于性能上的考虑, 没有对消息窗口内聊天信息进行混淆, 你可以简单地在 OBS 或类似软件里使用一张不透明图像遮盖消息窗口即可</source>
-                <target>Since the module adopts the obfuscation logic of not destroying the original text, for performance reasons, the chat information in the message window is not obfuscated. You can simply use an opaque image to cover the message window in OBS or similar software.</target>
+                <target>Since the module adopts the obfuscation logic of not destroying the original text, for performance reasons, content in Chat Log is not obfuscated. You can simply use an opaque image to cover the message window in OBS or similar software.</target>
             </trans-unit>
             <trans-unit id="LiveAnonymousMode-FakePlayerNameInputHint" xml:space="preserve">
                 <source>如果不想指定, 请留空
@@ -8424,7 +8424,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresetsDescription" xml:space="preserve">
                 <source>允许保存无限多的消息栏消息过滤设置，并可将保存的消息过滤设置通过配置界面或消息栏右键菜单等应用到任意消息栏中</source>
-                <target>Allow to save an unlimited number of chat filters and to apply filters to any chat tab via the configuration or the right-click menu.</target>
+                <target>Allow to save an unlimited number of chat filters and apply filters to chat tabs via the configuration interface or the right-click menu.</target>
             </trans-unit>
             <trans-unit id="MoreMessageFilterPresetsTitle" xml:space="preserve">
                 <source>更多的消息过滤预设</source>
