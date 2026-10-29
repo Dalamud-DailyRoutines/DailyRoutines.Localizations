@@ -5481,7 +5481,7 @@ Expires At: {2:yyyy/MM/dd HH:mm:ss}</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobList-CommandHelp" xml:space="preserve">
                 <source>打开/关闭自定义辅助职业列表界面</source>
-                <target>to access or hide Better Phantom Job Repertoire.</target>
+                <target>to access or hide the improved Phantom Job Repertoire interface.</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobList-DragRealActionIcon" xml:space="preserve">
                 <source>真实技能</source>
@@ -5499,7 +5499,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
                 <source>调整辅助职业显示顺序</source>
-                <target>Adjust Phantom Job Order</target>
+                <target>Adjust Job Order</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobList-SupportJobUnlockLink" xml:space="preserve">
                 <source>解锁方式</source>
@@ -5507,6 +5507,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
                 <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的界面，支持自定义排序、外显职业名称、拖出真实技能与显示解锁方式。</source>
+                <target>Provide a better Phantom Job Repertoire interface, allowing to customize job order, display job names explicitly, assign immutable job actions, inquire unlock requirements, etc.</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
