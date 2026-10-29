@@ -5492,10 +5492,10 @@ Expires At: {2:yyyy/MM/dd HH:mm:ss}</target>
 
 若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更
 若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更</source>
-                <target>The option determines if actions assigned to the hotbar are immutable.
+                <target>The option determines whether the actions assigned to the hotbar later are immutable.
 
-If the option is checked, actions assigned to the hotbar will persist no matter what the current phantom job is.
-If not, actions will behave like Duty Actions, which means it will vary based on the current phantom job.</target>
+If enabled, actions will remain as it is, no matter what the current phantom job is.
+If disabled, actions will vary based on the current phantom job, behaving like a Duty Action.</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobList-ModifySupportJobOrder" xml:space="preserve">
                 <source>调整辅助职业显示顺序</source>
@@ -9096,6 +9096,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
           </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
+                <target>Provide more helpful information in the Brawler Interface interface, including the remaining duration of bonuses, current holdings of MGP, MGC &amp; Keybound coffers, and progress of related achievements.</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
