@@ -2130,18 +2130,23 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayTitle" xml:space="preserve">
                 <source>自动申请参加“魔光键影”任务已停止</source>
+                <target>「キーバウンドブロウラー」コンテンツへの自動参加申請を停止しました</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
+                <target>パーティ構成に問題がある場合、自動で停止する</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
                 <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
+                <target>ソロまたは4人PT以外の状態になった場合、コンテンツ参加申請を自動停止し、通知でお知らせします。</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
+                <target>「キーバウンドブロウラー」コンテンツへの自動再申請を行い、コンプリート時に自動退場する</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动申请参加魔光键影</source>
+                <target>「キーバウンドブロウラー」への自動参加申請</target>
             </trans-unit>
             <trans-unit id="AutoJumboCactpot-Fixed" xml:space="preserve">
                 <source>固定</source>
@@ -2177,12 +2182,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput" xml:space="preserve">
                 <source>随机插入错误输入</source>
+                <target>ランダムな誤入力の挿入</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput-Help" xml:space="preserve">
                 <source>以最高不超过2%的概率随机插入错误输入，以模拟正常输入。两次错误输入必定间隔不少于十次正确输入，以避免影响效率。</source>
+                <target>正常な入力を模倣するため、2%以下の確率でランダムに誤入力を差し込みます。誤入力の間隔は必ず10回以上の正常な入力を挟み、効率に影響が出ないようにします。</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
                 <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
+                <target>各操作の実際の実行間隔は、最短間隔と最長間隔の間でランダムに設定されます。</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-MaxInterval" xml:space="preserve">
                 <source>最长间隔（毫秒）</source>
