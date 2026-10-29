@@ -2122,9 +2122,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-Chat" xml:space="preserve">
                 <source>队伍构成有所变动，自动停止了申请参加“魔光键影”任务。</source>
+                <target>PT構成が変更されたため、「キーバウンドブロウラー」コンテンツへの参加申請を自動停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayContent" xml:space="preserve">
                 <source>队伍构成有所变动，停止了自动申请参加任务。</source>
+                <target>PT構成が変更されたため、コンテンツへの自動参加申請を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayTitle" xml:space="preserve">
                 <source>自动申请参加“魔光键影”任务已停止</source>
