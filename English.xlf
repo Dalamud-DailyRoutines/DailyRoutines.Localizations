@@ -5506,8 +5506,7 @@ If not, actions will behave like Duty Actions, which means it will vary based on
                 <target>Unlock Requirement</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
-                <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
-                <target>Replace &quot;Phantom Job Repertoire&quot; in Occult Crescent with a module interface using vanilla assets for better access, including custom order, explicit job names, immutable actions, unlock requirements, etc.</target>
+                <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的界面，支持自定义排序、外显职业名称、拖出真实技能与显示解锁方式。</source>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
