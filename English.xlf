@@ -9096,6 +9096,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
+                <target>Better Keybound Brawler Interface</target>
             </trans-unit>
             <trans-unit id="OptimizedLetter-Button-Claim" xml:space="preserve">
                 <source>领取全部邮件附件</source>
