@@ -9096,7 +9096,7 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
           </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
-                <target>Provide more helpful information in the Brawler Interface interface, including the remaining duration of bonuses, current holdings of MGP, MGC &amp; Keybound coffers, and progress of related achievements.</target>
+                <target>Provide more helpful information in the Brawler Interface interface, including the remaining duration of the current bonus, current holdings of MGP, MGC &amp; Keybound coffers, and progress of related achievements.</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
