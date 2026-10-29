@@ -5506,8 +5506,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>해방 방법</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
-                <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的模块原生界面，支持自定义排序、外显职业名称、拖出真实技能、显示解锁方式等</source>
-                <target>초승달 섬의 &quot;서포트 직업 목록&quot; 창을 더욱 깔끔하고 사용하기 편리한 모듈 네이티브 UI로 대체합니다. 사용자 지정 정렬, 직업명 표시, 실제 스킬 끌어다 놓기, 해금 방법 표시 등의 기능을 지원합니다</target>
+                <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的界面，支持自定义排序、外显职业名称、拖出真实技能与显示解锁方式。</source>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
