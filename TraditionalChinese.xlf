@@ -8163,6 +8163,9 @@ XivGear (xivgear.app)</target>
                 <source>日活跃用户: {0} 人</source>
                 <target>日活躍用戶: {0} 人</target>
             </trans-unit>
+            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+                <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
                 <target>服裝模特</target>
