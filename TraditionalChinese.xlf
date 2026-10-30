@@ -8315,6 +8315,9 @@ XivGear (xivgear.app)</target>
                 <source>模块配置</source>
                 <target>模組配置</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>預覽圖</target>
