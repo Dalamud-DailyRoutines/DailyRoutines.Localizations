@@ -8198,6 +8198,9 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
                 <source>日活跃用户: {0} 人</source>
                 <target>Utilisateurs actifs aujourd’hui : {0}</target>
             </trans-unit>
+            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+                <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
                 <target>Mannequin</target>
