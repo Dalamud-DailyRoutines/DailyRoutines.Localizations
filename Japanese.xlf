@@ -8405,6 +8405,9 @@ UI: {0}
                 <source>模块配置</source>
                 <target>モジュールの配置</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>プレビュー</target>
