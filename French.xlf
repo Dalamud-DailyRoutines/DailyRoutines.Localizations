@@ -8350,6 +8350,9 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
                 <source>模块配置</source>
                 <target>Configuration du module</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>Image d’aperçu</target>
