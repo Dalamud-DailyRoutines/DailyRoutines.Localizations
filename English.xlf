@@ -8246,6 +8246,9 @@ After modifying this item, you need to restart the module to take effect</target
                 <source>日活跃用户: {0} 人</source>
                 <target>DAU: {0}</target>
             </trans-unit>
+            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+                <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
                 <target>Mannequin</target>
