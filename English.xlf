@@ -8398,6 +8398,9 @@ After modifying this item, you need to restart the module to take effect</target
                 <source>模块配置</source>
                 <target>Module Config</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>Preview Image</target>
