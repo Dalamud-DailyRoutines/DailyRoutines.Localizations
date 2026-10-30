@@ -6120,6 +6120,9 @@
             <trans-unit id="MainWindow-DAU-Sidebar" xml:space="preserve">
                 <source>日活跃用户: {0} 人</source>
             </trans-unit>
+            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+                <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
             </trans-unit>
