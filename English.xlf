@@ -8248,6 +8248,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
+                <target>Module: {enabledCount}/{totalCount}</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -8403,6 +8404,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="Config" xml:space="preserve">
                 <source>配置</source>
+                <target>Configuration</target>
             </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
