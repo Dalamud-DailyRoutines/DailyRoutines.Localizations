@@ -8245,6 +8245,9 @@ UI: {0}
                 <source>日活跃用户: {0} 人</source>
                 <target>일일 접속자: {0}명</target>
             </trans-unit>
+            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+                <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
                 <target>마네킹</target>
