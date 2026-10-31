@@ -10643,6 +10643,9 @@ Recommended modules are the modules officially recommended by Daily Routines dev
                 <source>样式</source>
                 <target>Style</target>
             </trans-unit>
+            <trans-unit id="Style-UseDalamud" xml:space="preserve">
+                <source>使用 Dalamud 样式</source>
+            </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
                 <target>Suffix</target>
