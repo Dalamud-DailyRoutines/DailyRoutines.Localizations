@@ -6221,6 +6221,10 @@ Parameter(s): {1}</target>
                 <source>按住{conflictKey}即可打断操作。</source>
                 <target>Hold {conflictKey} to interrupt the action.</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+                <target>Configuration</target>
+            </trans-unit>
             <trans-unit id="Confirm" xml:space="preserve">
                 <source>确定</source>
                 <target>Confirm</target>
@@ -8402,10 +8406,6 @@ After modifying this item, you need to restart the module to take effect</target
                 <source>模块配置</source>
                 <target>Module Config</target>
             </trans-unit>
-            <trans-unit id="Config" xml:space="preserve">
-                <source>配置</source>
-                <target>Configuration</target>
-            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>Preview Image</target>
@@ -9099,9 +9099,9 @@ For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;
                 <target>Game Interaction Optimization</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGauge-BonusLeftTimeFormat" xml:space="preserve">
-            <source>剩余{seconds}秒！</source>
-            <target>{seconds, plural, one {# second} other {# seconds}} remaining!</target>
-          </trans-unit>
+                <source>剩余{seconds}秒！</source>
+                <target>{seconds, plural, one {# second} other {# seconds}} remaining!</target>
+            </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
                 <target>Provide more helpful information in the Brawler Interface interface, including the remaining duration of the current bonus, current holdings of MGP, MGC &amp; Keybound coffers, and progress of related achievements.</target>
@@ -10831,8 +10831,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
                 <target>Set-related Only</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
-                <source>新增模块界面, 编辑投影模板时, 可显示投影台与收藏柜中的全部装备; 提供快捷筛选和收藏功能; 支持投影模板的保存、导入与导出, 帮助高效管理装备投影</source>
-                <target>Provide a dedicated interface for better glamour management, which shows all the gear in Glamour Dresser and Armoire while editing glamour plates, accompanied with filters, favourites, and import &amp; export of glamour plates.</target>
+                <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
@@ -10986,11 +10985,11 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>工作原理</source>
                 <target>Work theory</target>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>Yes</target>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
