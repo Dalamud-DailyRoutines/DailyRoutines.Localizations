@@ -129,14 +129,6 @@
                 <source>过期时间</source>
                 <target>Expired At</target>
             </trans-unit>
-            <trans-unit id="Auth-Credential-Machine" xml:space="preserve">
-                <source>机器认证凭证</source>
-                <target>MID</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-                <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
-                <target>The credential type is being deprecated. We strongly recommend going with another credential type.</target>
-            </trans-unit>
             <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
                 <source>内部测试凭证</source>
                 <target>Tester Qualification</target>
