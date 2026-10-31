@@ -8974,9 +8974,14 @@ Replace the action name and icon with the name and icon of the result of Mount R
                 <target>The game sometimes prevents targeting an object via Enmity List.
 For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;Sanduruva&quot; in the duty &quot;Tower of Zot&quot;.</target>
             </trans-unit>
+            <trans-unit id="OptimizedEnemyList-SwapHealthStatus" xml:space="preserve">
+                <source>交换体力与状态显示位置</source>
+            </trans-unit>
+            <trans-unit id="OptimizedEnemyList-SwapHealthStatus-Help" xml:space="preserve">
+                <source>使状态显示在左侧，向左展开；体力显示在右侧，向右展开。</source>
+            </trans-unit>
             <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
-                <source>优化“敌对列表”界面，支持显示详细体力、仇恨与咏唱信息，并可以强制选中锁定选中的目标。</source>
-                <target>Provide a better Enmity List including detailed information of the target&apos;s health, enmity and cast. It also allows to target an object even when the game has applied a lock to the list.</target>
+                <source>优化“敌对列表”界面，支持显示体力、仇恨、咏唱与状态信息，并可以强制选中锁定选中的目标。</source>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
                 <source>“敌对列表”界面优化</source>
