@@ -129,14 +129,6 @@
                 <source>过期时间</source>
                 <target>有効期限</target>
             </trans-unit>
-            <trans-unit id="Auth-Credential-Machine" xml:space="preserve">
-                <source>机器认证凭证</source>
-                <target>マシン認証情報</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Machine-UsageHint" xml:space="preserve">
-                <source>即将废弃该凭证类型，请考虑使用其他凭证类型。</source>
-                <target>この認証タイプは廃止予定となります。他の認証タイプの使用をご検討ください。</target>
-            </trans-unit>
             <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
                 <source>内部测试凭证</source>
                 <target>内部テスター認証</target>
