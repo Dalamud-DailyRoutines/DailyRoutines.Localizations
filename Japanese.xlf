@@ -10647,6 +10647,9 @@ UI: {0}
                 <source>样式</source>
                 <target>スタイル</target>
             </trans-unit>
+            <trans-unit id="Style-UseDalamud" xml:space="preserve">
+                <source>使用 Dalamud 样式</source>
+            </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
                 <target>接尾辞(サフィックス)</target>
