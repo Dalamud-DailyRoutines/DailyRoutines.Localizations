@@ -8968,9 +8968,14 @@ UI: {0}
                 <target>일부 콘텐츠 기믹으로 인해, 효과 지속 시간 동안은 ‘적대 목록’ UI에서 특정 적대 대상을 선택할 수 없게 됩니다. 
 예: 콘텐츠 &apos;조트 탑&apos;의 &apos;도그&apos; 보스전에서 ‘마누샤 혼란’ 디버프를 받고 있는 동안.</target>
             </trans-unit>
+            <trans-unit id="OptimizedEnemyList-SwapHealthStatus" xml:space="preserve">
+                <source>交换体力与状态显示位置</source>
+            </trans-unit>
+            <trans-unit id="OptimizedEnemyList-SwapHealthStatus-Help" xml:space="preserve">
+                <source>使状态显示在左侧，向左展开；体力显示在右侧，向右展开。</source>
+            </trans-unit>
             <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
-                <source>优化“敌对列表”界面，支持显示详细体力、仇恨与咏唱信息，并可以强制选中锁定选中的目标。</source>
-                <target>&apos;적대 목록&apos; UI를 개선하여 상세한 HP·적개심·시전바를 표시할 수 있게 하고, 록온한 대상을 강제 선택할 수 있도록 합니다.</target>
+                <source>优化“敌对列表”界面，支持显示体力、仇恨、咏唱与状态信息，并可以强制选中锁定选中的目标。</source>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
                 <source>“敌对列表”界面优化</source>
