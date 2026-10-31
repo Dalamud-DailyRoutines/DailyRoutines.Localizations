@@ -10832,6 +10832,7 @@ Recommended modules are the modules officially recommended by Daily Routines dev
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
                 <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
+                <target>Provide a dedicated interface for glamoured gear management and glamour plate editing, including filtering &amp; favouriting for all the gear in Glamour Dresser and Armoire, as well as quality-of-life shortcuts, importing &amp; exporting for glamour plates.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
