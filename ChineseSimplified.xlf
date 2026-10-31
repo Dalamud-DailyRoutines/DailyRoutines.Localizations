@@ -7905,6 +7905,9 @@
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
             </trans-unit>
+            <trans-unit id="Style-UseDalamud" xml:space="preserve">
+                <source>使用 Dalamud 样式</source>
+            </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
             </trans-unit>
