@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0" ?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
         <body>
             <trans-unit id="Accept" xml:space="preserve">
@@ -4609,6 +4610,9 @@
             <trans-unit id="Common-SupportConflictKeyToInterrupt" xml:space="preserve">
                 <source>按住{conflictKey}即可打断操作。</source>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="Confirm" xml:space="preserve">
                 <source>确定</source>
             </trans-unit>
@@ -6237,9 +6241,6 @@
             <trans-unit id="ModuleConfig" xml:space="preserve">
                 <source>模块配置</source>
             </trans-unit>
-            <trans-unit id="Config" xml:space="preserve">
-                <source>配置</source>
-            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
             </trans-unit>
@@ -6756,8 +6757,8 @@
                 <source>游戏原生交互优化</source>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGauge-BonusLeftTimeFormat" xml:space="preserve">
-            <source>剩余{seconds}秒！</source>
-          </trans-unit>
+                <source>剩余{seconds}秒！</source>
+            </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
             </trans-unit>
@@ -8044,7 +8045,7 @@
                 <source>仅套装相关</source>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
-                <source>新增模块界面, 编辑投影模板时, 可显示投影台与收藏柜中的全部装备; 提供快捷筛选和收藏功能; 支持投影模板的保存、导入与导出, 帮助高效管理装备投影</source>
+                <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
@@ -8159,10 +8160,10 @@
             <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
             </trans-unit>
         </body>
