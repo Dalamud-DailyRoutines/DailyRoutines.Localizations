@@ -8016,6 +8016,9 @@
             <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
                 <source>保存了投影模板到投影模板管理器中。</source>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
+                <source>实时整套试穿</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
                 <source>双击可以修改标题/备注</source>
             </trans-unit>
