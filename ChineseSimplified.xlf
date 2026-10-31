@@ -8016,6 +8016,42 @@
             <trans-unit id="UnifiedGlamourManager-Notification-SavedAsPlate" xml:space="preserve">
                 <source>保存了投影模板到投影模板管理器中。</source>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ClearSlot" xml:space="preserve">
+                <source>清空所选部位</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
+                <source>由以下装备占用：</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-DiscardSwitch" xml:space="preserve">
+                <source>放弃修改并切换</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-FillEmpty" xml:space="preserve">
+                <source>使用“皇帝的新装”填充空部位</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-NotDyeable" xml:space="preserve">
+                <source>不可染色</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
+                <source>未在背包、兵装库、当前装备、投影台或收藏柜中找到此装备。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
+                <source>仅显示已拥有装备</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
+                <source>装备数据尚未完整读取，请打开投影台与收藏柜后刷新，并等待背包与兵装库加载完成。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-RemovedEquipment" xml:space="preserve">
+                <source>模板 {presetName} 中以下冲突或无效装备已移除：{items}。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SaveAs" xml:space="preserve">
+                <source>另存为</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SaveSwitch" xml:space="preserve">
+                <source>保存并切换</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SwitchWarning" xml:space="preserve">
+                <source>当前模板有未保存的修改，请保存或放弃后切换模板。</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-DoubleClickEditHint" xml:space="preserve">
                 <source>双击可以修改标题/备注</source>
             </trans-unit>
