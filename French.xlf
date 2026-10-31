@@ -6174,6 +6174,9 @@ Paramètre(s) : {1}</target>
                 <source>按住{conflictKey}即可打断操作。</source>
                 <target>Maintenez {conflictKey} pour interrompre l’opération.</target>
             </trans-unit>
+            <trans-unit id="Config" xml:space="preserve">
+                <source>配置</source>
+            </trans-unit>
             <trans-unit id="Confirm" xml:space="preserve">
                 <source>确定</source>
                 <target>Confirmer</target>
@@ -8353,9 +8356,6 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
                 <source>模块配置</source>
                 <target>Configuration du module</target>
             </trans-unit>
-            <trans-unit id="Config" xml:space="preserve">
-                <source>配置</source>
-            </trans-unit>
             <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
                 <target>Image d’aperçu</target>
@@ -9038,8 +9038,8 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <target>Optimisation des interactions du jeu</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGauge-BonusLeftTimeFormat" xml:space="preserve">
-            <source>剩余{seconds}秒！</source>
-          </trans-unit>
+                <source>剩余{seconds}秒！</source>
+            </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
             </trans-unit>
@@ -10767,8 +10767,7 @@ Paramètre(s) : {2}</target>
                 <target>Éléments d’ensemble uniquement</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
-                <source>新增模块界面, 编辑投影模板时, 可显示投影台与收藏柜中的全部装备; 提供快捷筛选和收藏功能; 支持投影模板的保存、导入与导出, 帮助高效管理装备投影</source>
-                <target>Ajoute une interface unifiée permettant de consulter tous les équipements de la commode à mirages et de l’armoire, avec des fonctions avancées de filtrage, de favoris et de préréglages pour gérer plus efficacement vos apparences.</target>
+                <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
@@ -10922,11 +10921,11 @@ Pour les utiliser, rejoignez notre serveur Discord (voir en bas à gauche de la 
                 <source>工作原理</source>
                 <target>Principe de fonctionnement</target>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>Oui</target>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
