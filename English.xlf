@@ -6479,7 +6479,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-CommandHelp" xml:space="preserve">
                 <source>打开自定义地图标记一览</source>
-                <target>to access the custom mark list.</target>
+                <target>to access the custom marker list.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DefaultGroup" xml:space="preserve">
                 <source>未分组</source>
@@ -6487,19 +6487,19 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DefaultName" xml:space="preserve">
                 <source>标记 {0:F1}, {1:F1}</source>
-                <target>Mark {0:F1}, {1:F1}</target>
+                <target>Marker {0:F1}, {1:F1}</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DescriptionPlaceholder" xml:space="preserve">
                 <source>输入此标记的备注</source>
-                <target>Type the comment here...</target>
+                <target>Please enter the comment.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DetailsTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
-                <target>Custom Map Mark</target>
+                <target>Custom Map Marker</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Empty" xml:space="preserve">
                 <source>尚未添加自定义地图标记</source>
-                <target>No mark available.</target>
+                <target>No custom map marker available.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Export" xml:space="preserve">
                 <source>导出分组</source>
@@ -6507,11 +6507,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ExportFailed" xml:space="preserve">
                 <source>导出自定义地图标记失败</source>
-                <target>Export failed.</target>
+                <target>Failed to export custom map marker.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
                 <source>已将当前分组的地图标记导出至剪贴板</source>
-                <target>The current mark group has been exported to the clipboard.</target>
+                <target>The current marker group has been exported to the clipboard.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ExtraCommands" xml:space="preserve">
                 <source>额外文本指令</source>
