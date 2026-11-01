@@ -425,11 +425,11 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfoDescription" xml:space="preserve">
                 <source>配置完成后, 自动使用副本内提示文本和 TTS 播报指定的技能直暴击文本</source>
-                <target>Automatically use content hint and TTS to report specified action crit/direct hit info after configuration</target>
+                <target>Automatically send a notification using an in-duty alert and Text-to-speech if an action results in a direct hit, a critical hit or a critical direct hit.</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfoTitle" xml:space="preserve">
                 <source>自动播报技能直暴击情况</source>
-                <target>Auto Report Actions Critical &amp; Direct Hits</target>
+                <target>Auto Critical &amp; Direct Hit Notification</target>
             </trans-unit>
             <trans-unit id="AutoCancelCastDescription" xml:space="preserve">
                 <source>当目标死亡或不可选中时, 自动中断咏唱</source>
