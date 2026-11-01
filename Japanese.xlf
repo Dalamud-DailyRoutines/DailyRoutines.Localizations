@@ -7603,10 +7603,6 @@ UI: {0}
                 <source>字体</source>
                 <target>フォント</target>
             </trans-unit>
-            <trans-unit id="Font-IsBuilding" xml:space="preserve">
-                <source>正在构建字体</source>
-                <target>フォントを構築中</target>
-            </trans-unit>
             <trans-unit id="FontScale" xml:space="preserve">
                 <source>字体缩放</source>
                 <target>フォントサイズ</target>
@@ -10484,14 +10480,6 @@ UI: {0}
                 <source>文本转语音 (TTS)</source>
                 <target>テキスト読み上げ（TTS）</target>
             </trans-unit>
-            <trans-unit id="Settings-UnknownFont" xml:space="preserve">
-                <source>未知字体</source>
-                <target>不明なフォント</target>
-            </trans-unit>
-            <trans-unit id="Settings-UseDalamudDefaultFont" xml:space="preserve">
-                <source>使用 Dalamud 默认字体</source>
-                <target>Dalamud のデフォルトフォントを使用</target>
-            </trans-unit>
             <trans-unit id="Settings-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
                 <target>関連リンク</target>
@@ -10903,10 +10891,6 @@ UI: {0}
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
                 <target>使い始める</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-FontSizeHelp" xml:space="preserve">
-                <source>调整插件界面的文字大小，修改后请稍等片刻。</source>
-                <target>プラグインUIの文字サイズを調整します。変更後、しばらくお待ちください。</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
