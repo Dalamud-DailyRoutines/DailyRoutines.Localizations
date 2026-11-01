@@ -2090,8 +2090,7 @@ If the status was applied by a combo action, the actual duration would be the se
                 <target>Auto Confirm Interaction In Duty</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
-                <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
-                <target>Increase the purchase cap at NPC vendors up to 999. Specifically regarding &quot;Wolf Mark Exchange&quot;, up to 255.</target>
+                <source>将各类商店内道具的单次购买上限提高至999或255。</source>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
