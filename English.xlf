@@ -6531,11 +6531,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Import" xml:space="preserve">
                 <source>从剪贴板导入</source>
-                <target>Import from Clipboard</target>
+                <target>Import From Clipboard</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ImportFailed" xml:space="preserve">
                 <source>导入自定义地图标记失败</source>
-                <target>Import failed.</target>
+                <target>Failed to import custom map marker.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ImportInvalid" xml:space="preserve">
                 <source>剪贴板中没有有效的自定义地图标记数据</source>
@@ -6543,7 +6543,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
                 <source>已导入 {0} 个自定义地图标记</source>
-                <target>{0} custom map mark(s) have been imported.</target>
+                <target>{0} custom map marker(s) have been imported.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-InvalidMap" xml:space="preserve">
                 <source>无效的地图数据</source>
