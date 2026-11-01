@@ -2327,8 +2327,7 @@ If the status was applied by a combo action, the actual duration would be the se
                 <target>Auto Login</target>
             </trans-unit>
             <trans-unit id="AutoLucidDreaming-Notification" xml:space="preserve">
-                <source>当前魔力已降至{currentMP}点，低于设定的{mpThreshold}点下限，自动咏唱了“{lucidDreaming}”。</source>
-                <target>The current MP is {currentMP}, which is below the threshold {mpThreshold}. &quot;{lucidDreaming}&quot; has been executed automatically.</target>
+                <source>当前魔力已降至{currentMP}点，低于设定的{mpThreshold}点下限，自动发动了“{lucidDreaming}”。</source>
             </trans-unit>
             <trans-unit id="AutoLucidDreamingDescription" xml:space="preserve">
                 <source>配置后，若当前职业有需要使用“醒梦”技能，则在魔力低于设定下限时自动插入使用。</source>
