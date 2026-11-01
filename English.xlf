@@ -2091,6 +2091,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999或255。</source>
+                <target>Increase the purchase cap at NPC vendors up to 999 or 255.</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
@@ -2331,7 +2332,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLucidDreamingDescription" xml:space="preserve">
                 <source>配置后，若当前职业有需要使用“醒梦”技能，则在魔力低于设定下限时自动插入使用。</source>
-                <target>Automatically execute &quot;Lucid Dreaming&quot; when the MP is below the given threshold if &quot;Lucid Dreaming&quot; does help with the current job.</target>
+                <target>Automatically execute &quot;Lucid Dreaming&quot; when the character&apos;s MP is below the given threshold. The module only works when &quot;Lucid Dreaming&quot; does help with the current job.</target>
             </trans-unit>
             <trans-unit id="AutoLucidDreamingTitle" xml:space="preserve">
                 <source>自动醒梦</source>
