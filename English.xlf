@@ -8963,17 +8963,20 @@ Replace the action name and icon with the name and icon of the result of Mount R
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock-Help" xml:space="preserve">
                 <source>部分副本机制会使玩家在持续时间内无法通过“敌对列表”界面选中特定敌对目标。
 示例：副本“异形楼阁佐特塔”中“多格”的头目战中，遭受“人趣混乱”状态影响期间。</source>
-                <target>The game sometimes prevents targeting an object via Enmity List.
-For example, during &quot;Manusya Confuse&quot; in the second boss battle &quot;Sanduruva&quot; in the duty &quot;Tower of Zot&quot;.</target>
+                <target>Sometimes the game would prevent you targeting an object via Enmity List.
+For example, during the &quot;Manusya Confuse&quot; status in the second boss battle &quot;Sanduruva&quot; in the duty &quot;Tower of Zot&quot;.</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus" xml:space="preserve">
                 <source>交换体力与状态显示位置</source>
+                <target>Swap HP And Status</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus-Help" xml:space="preserve">
                 <source>使状态显示在左侧，向左展开；体力显示在右侧，向右展开。</source>
+                <target>Swap the positions of health and status. Display the status on the left while also expanding toward the left. Display the health on the right while also expanding toward the right.</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
                 <source>优化“敌对列表”界面，支持显示体力、仇恨、咏唱与状态信息，并可以强制选中锁定选中的目标。</source>
+                <target>Provide a better Enmity List, including detailed information of health, enmity, status and cast. It also allows to target an object even when the game applies a lock on Enmity List.</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
                 <source>“敌对列表”界面优化</source>
