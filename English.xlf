@@ -401,27 +401,27 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-CHHint" xml:space="preserve">
                 <source>暴击提示语</source>
-                <target>Critical Hit Hint</target>
+                <target>Critical Hit Prompt</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-CustomActionAlias" xml:space="preserve">
                 <source>自定义技能别名</source>
-                <target>Custom Actions Alias</target>
+                <target>Custom Action Alias</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-CustomActionAliasCount" xml:space="preserve">
                 <source>已添加了 {0} 个自定义技能名称</source>
-                <target>{0} custom action name(s) have been added.</target>
+                <target>{0} custom alias(es) have been added.</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-DCHHint" xml:space="preserve">
                 <source>直爆提示语</source>
-                <target>Direct Critical Hit Hint</target>
+                <target>Critical Direct Hit Prompt</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-DHHint" xml:space="preserve">
                 <source>直击提示语</source>
-                <target>Direct Hit Hint</target>
+                <target>Direct Hit Prompt</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfo-UseTTS" xml:space="preserve">
                 <source>使用 TTS</source>
-                <target>Use TTS</target>
+                <target>TTS</target>
             </trans-unit>
             <trans-unit id="AutoBroadcastActionHitInfoDescription" xml:space="preserve">
                 <source>配置完成后, 自动使用副本内提示文本和 TTS 播报指定的技能直暴击文本</source>
