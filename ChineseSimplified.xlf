@@ -1730,7 +1730,7 @@
                 <source>自动登录</source>
             </trans-unit>
             <trans-unit id="AutoLucidDreaming-Notification" xml:space="preserve">
-                <source>当前魔力已降至{currentMP}点，低于设定的{mpThreshold}点下限，自动咏唱了“{lucidDreaming}”。</source>
+                <source>当前魔力已降至{currentMP}点，低于设定的{mpThreshold}点下限，自动发动了“{lucidDreaming}”。</source>
             </trans-unit>
             <trans-unit id="AutoLucidDreamingDescription" xml:space="preserve">
                 <source>配置后，若当前职业有需要使用“醒梦”技能，则在魔力低于设定下限时自动插入使用。</source>
