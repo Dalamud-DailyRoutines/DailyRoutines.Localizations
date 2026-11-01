@@ -6534,8 +6534,7 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
                 <target>Marqueur sans nom</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerDescription" xml:space="preserve">
-                <source>为游戏原生地图添加自定义标记, 支持备注、分组、批量导入导出等</source>
-                <target>Ajoute des marqueurs personnalisés à la carte du jeu, avec notes, groupes, import et export en lot, etc.</target>
+                <source>支持为“地图”界面添加不限数量的自定义标记，并可备注、分组与批量导入或导出。</source>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
