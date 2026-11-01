@@ -2096,8 +2096,7 @@
                 <target>컨텐츠 상호 작용 자동 확인</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
-                <source>将各类商店内道具的单次购买上限提高至999，“战绩交易所”内道具单次购买上限提高至255。</source>
-                <target>각종 상점의 아이템 구매 한도를 999개로 상향하고, &quot;명예 점수 교환 창구&quot;의 아이템 구매 한도를 255개로 상향합니다.</target>
+                <source>将各类商店内道具的单次购买上限提高至999或255。</source>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
