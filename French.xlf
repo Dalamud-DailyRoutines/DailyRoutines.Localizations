@@ -7549,10 +7549,6 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
                 <source>字体</source>
                 <target>Police</target>
             </trans-unit>
-            <trans-unit id="Font-IsBuilding" xml:space="preserve">
-                <source>正在构建字体</source>
-                <target>Construction de la police...</target>
-            </trans-unit>
             <trans-unit id="FontScale" xml:space="preserve">
                 <source>字体缩放</source>
                 <target>Échelle de police</target>
@@ -10417,14 +10413,6 @@ Paramètre(s) : {2}</target>
                 <source>文本转语音 (TTS)</source>
                 <target>Synthèse vocale (TTS)</target>
             </trans-unit>
-            <trans-unit id="Settings-UnknownFont" xml:space="preserve">
-                <source>未知字体</source>
-                <target>Police inconnue</target>
-            </trans-unit>
-            <trans-unit id="Settings-UseDalamudDefaultFont" xml:space="preserve">
-                <source>使用 Dalamud 默认字体</source>
-                <target>Utiliser la police par défaut de Dalamud</target>
-            </trans-unit>
             <trans-unit id="Settings-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
                 <target>Liens utiles</target>
@@ -10836,10 +10824,6 @@ Vous pourrez les désactiver à tout moment.</target>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
                 <target>Commencer</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-FontSizeHelp" xml:space="preserve">
-                <source>调整插件界面的文字大小，修改后请稍等片刻。</source>
-                <target>Ajuste la taille du texte de l’interface du plugin ; patientez un instant après la modification.</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
