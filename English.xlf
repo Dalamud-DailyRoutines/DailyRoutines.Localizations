@@ -6467,11 +6467,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-AddMarker" xml:space="preserve">
                 <source>添加自定义标记</source>
-                <target>Add Mark</target>
+                <target>Add Marker</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-AutoSetFlag" xml:space="preserve">
                 <source>左键点击时自动标点</source>
-                <target>Auto Mark While Clicking</target>
+                <target>Auto Mark On Left-click</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-CancelPlacement" xml:space="preserve">
                 <source>取消添加</source>
@@ -6539,7 +6539,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ImportInvalid" xml:space="preserve">
                 <source>剪贴板中没有有效的自定义地图标记数据</source>
-                <target>There&apos;s no valid mark data in the clipboard.</target>
+                <target>No valid marker data in the clipboard.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Imported" xml:space="preserve">
                 <source>已导入 {0} 个自定义地图标记</source>
@@ -6547,15 +6547,15 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-InvalidMap" xml:space="preserve">
                 <source>无效的地图数据</source>
-                <target>Invalid map data</target>
+                <target>Invalid Map Data</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ListTitle" xml:space="preserve">
                 <source>自定义地图标记一览</source>
-                <target>Custom Mark List</target>
+                <target>Custom Marker List</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-MarkerCount" xml:space="preserve">
                 <source>共 {0} 个标记</source>
-                <target>{0} mark(s) available</target>
+                <target>{0} Marker(s) Available</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-OpenIconBrowser" xml:space="preserve">
                 <source>图标一览</source>
@@ -6563,30 +6563,31 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-OpenList" xml:space="preserve">
                 <source>标记一览</source>
-                <target>Mark List</target>
+                <target>Marker List</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-PlacementHint" xml:space="preserve">
                 <source>点击地图以放置自定义标记</source>
-                <target>Click the map to place the mark</target>
+                <target>Click the map to place a marker.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Saved" xml:space="preserve">
                 <source>已保存自定义地图标记</source>
-                <target>The mark has been saved.</target>
+                <target>The custom marker has been saved.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-SetFlag" xml:space="preserve">
                 <source>标点</source>
-                <target>Mark</target>
+                <target>Marker</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Untitled" xml:space="preserve">
                 <source>未命名标记</source>
-                <target>Untitled Mark</target>
+                <target>Untitled Marker</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerDescription" xml:space="preserve">
                 <source>支持为“地图”界面添加不限数量的自定义标记，并可备注、分组与批量导入或导出。</source>
+                <target>Provide an unlimited amount of custom map markers for the in-game map, along with comments, grouping, and batch import &amp; export.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
-                <target>Custom Map Mark</target>
+                <target>Custom Map Marker</target>
             </trans-unit>
             <trans-unit id="CustomizeSightDistance-IgnoreCollision" xml:space="preserve">
                 <source>无视碰撞判定</source>
