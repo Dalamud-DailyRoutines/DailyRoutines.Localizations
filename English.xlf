@@ -2374,6 +2374,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
                 <source>可用点位数</source>
+                <target>Available Nodes</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
                 <source>全部所选材料均已达到持有上限，已停止采集。</source>
