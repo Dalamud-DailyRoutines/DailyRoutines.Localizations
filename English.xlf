@@ -9166,21 +9166,27 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applied" xml:space="preserve">
                 <source>设定了生产计划。</source>
+                <target>The agenda has been implemented.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Apply" xml:space="preserve">
                 <source>一键设定</source>
+                <target>Implement</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
                 <source>未能完整设定生产计划，请重试。</source>
+                <target>Failed to completely implement the agenda. Please try again later.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
+                <target>Solving...</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-CancelPreview" xml:space="preserve">
                 <source>取消预览</source>
+                <target>Cancel Preview</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Hint" xml:space="preserve">
                 <source>请选择周期并根据需求求解生产计划。</source>
+                <target>Please select the applicable seasons and generate an agenda based on the demands.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NextWeek" xml:space="preserve">
                 <source>下周期</source>
