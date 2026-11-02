@@ -2369,7 +2369,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoProgress" xml:space="preserve">
                 <source>本轮未完成任何采集，已停止。请检查点位是否可采集、库存与采集条件。</source>
-                <target>The gathering process has been terminated due to no successful gathering during the last run.</target>
+                <target>The gathering process has been terminated due to no successful gathering during the last run. Please restart the process after checking the availability, the inventory or the prerequisites.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
                 <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
@@ -9192,12 +9192,15 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoWork" xml:space="preserve">
                 <source>没有可安排的生产日、工房或已解锁配方。</source>
+                <target>No available cycle or workshop, or the recipe is locked.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NotReady" xml:space="preserve">
                 <source>需求数据读取失败，请重试。</source>
+                <target>Failed to load the demand data. Please try again later.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-PreviewMode" xml:space="preserve">
                 <source>预览模式</source>
+                <target>Preview</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Rest" xml:space="preserve">
                 <source>休息</source>
@@ -9207,6 +9210,9 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <source>确定要变更休息日吗？对应日期的生产计划将被清空。
 
 {text}</source>
+                <target>Apply the rest cycle change? Agendas for the related cycles will be cleared.
+
+{text}</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestCycle" xml:space="preserve">
                 <source>{week}：{text}</source>
