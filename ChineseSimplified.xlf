@@ -6874,7 +6874,7 @@
                 <source>生产计划数据读取超时，请重试。</source>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
-                <source>优化开拓无人岛“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
+                <source>优化开拓无人岛的“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleTitle" xml:space="preserve">
                 <source>“工房生产计划”界面优化</source>
