@@ -2353,6 +2353,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
                 <source>未找到开拓管理面板，已停止采集。</source>
+                <target>The gathering process has been terminated since it&apos;s unable to access the Islekeep&apos;s Index.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
                 <source>所选材料对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他材料。</source>
@@ -2371,6 +2372,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
+                <target>{name} ({count, plural, one {# node} other {# nodes}})</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
                 <source>可用点位数</source>
