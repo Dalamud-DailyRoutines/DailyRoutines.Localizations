@@ -9090,6 +9090,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
+                <target>마법자판 난타전 UI 최적화</target>
             </trans-unit>
             <trans-unit id="OptimizedLetter-Button-Claim" xml:space="preserve">
                 <source>领取全部邮件附件</source>
@@ -10617,6 +10618,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="Style-UseDalamud" xml:space="preserve">
                 <source>使用 Dalamud 样式</source>
+                <target>Dalamud 스타일 사용</target>
             </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
@@ -10812,6 +10814,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
                 <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
+                <target>새로 추가된 모듈 UI를 통해 장비 투영 및 투영 세트 편집을 통합 관리합니다. &apos;환상의 옷장&apos;과 &apos;추억의 보관함&apos; 내의 장비를 필터링하고 즐겨찾기에 추가할 수 있으며, 투영 세트를 생성, 저장, 가져오기 및 내보내기할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
