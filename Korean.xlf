@@ -9150,6 +9150,30 @@ UI: {0}
                 <source>“莫古邮件”界面优化</source>
                 <target>&quot;모그레터&quot; UI 최적화</target>
             </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-AutoClaim" xml:space="preserve">
+                <source>自动领取开拓素材</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-AutoDispatch" xml:space="preserve">
+                <source>自动派遣探索队</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-NormalExceed" xml:space="preserve">
+                <source>开拓素材“{name}”持有数量即将超出上限，停止了自动领取。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-RareExceed" xml:space="preserve">
+                <source>稀少开拓素材“{name}”持有数量即将超出上限，停止了自动领取。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-StopOnNormalExceed" xml:space="preserve">
+                <source>开拓素材超出上限时停止自动领取并发送通知</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouse-StopOnRareExceed" xml:space="preserve">
+                <source>稀少开拓素材超出上限时停止自动领取并发送通知</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouseDescription" xml:space="preserve">
+                <source>优化开拓无人岛的“屯货仓库”界面。支持打开界面后自动领取开拓素材并根据当前持有数量最少的稀少开拓素材自动派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJIGatheringHouseTitle" xml:space="preserve">
+                <source>“屯货仓库”界面优化</source>
+            </trans-unit>
             <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
                 <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
                 <target>&lt;표시명&gt; 지정한 표시명의 매크로 프리셋을 불러옵니다.</target>
