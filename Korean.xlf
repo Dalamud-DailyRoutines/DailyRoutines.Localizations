@@ -2097,6 +2097,7 @@
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999或255。</source>
+                <target>각종 상점에서 1회 구매 한도를 999 또는 255로 상향 조정합니다.</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
@@ -2112,12 +2113,15 @@
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-Chat" xml:space="preserve">
                 <source>队伍构成有所变动，自动停止了申请参加“魔光键影”任务。</source>
+                <target>파티 구성이 변경되어 &quot;마법자판 난타전&quot; 임무 참가 신청이 자동으로 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayContent" xml:space="preserve">
                 <source>队伍构成有所变动，停止了自动申请参加任务。</source>
+                <target>파티 구성이 변경되어 임무 참가 신청이 자동으로 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-Notice-TrayTitle" xml:space="preserve">
                 <source>自动申请参加“魔光键影”任务已停止</source>
+                <target>&quot;마법자판 난타전&quot; 임무 자동 신청 기능이 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
