@@ -9184,6 +9184,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NextWeek" xml:space="preserve">
                 <source>下周期</source>
+                <target>Next Season</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoRest" xml:space="preserve">
                 <source>不休息</source>
@@ -9213,12 +9214,15 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Solve" xml:space="preserve">
                 <source>求解</source>
+                <target>Solve</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-SolveFailed" xml:space="preserve">
                 <source>求解失败，请重试。</source>
+                <target>Failed to generate an agenda. Please try again later.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-SolveFavors" xml:space="preserve">
                 <source>求解（猫耳小员）</source>
+                <target>Solve (Felicitous Favors)</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Stale" xml:space="preserve">
                 <source>生产计划安排或材料持有情况发生了变化，请重新求解。</source>
@@ -9228,7 +9232,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ThisWeek" xml:space="preserve">
                 <source>本周期</source>
-                <target>Current Season</target>
+                <target>This Season</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Timeout" xml:space="preserve">
                 <source>生产计划数据读取超时，请重试。</source>
