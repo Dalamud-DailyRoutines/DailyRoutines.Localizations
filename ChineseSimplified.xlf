@@ -1754,7 +1754,7 @@
                 <source>未找到开拓管理面板，已停止采集。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
-                <source>所选素材对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他素材。</source>
+                <source>所选材料对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他材料。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Material" xml:space="preserve">
                 <source>采集素材</source>
@@ -1763,7 +1763,7 @@
                 <source>本轮未完成任何采集，已停止。请检查点位是否可采集、库存与采集条件。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
-                <source>所选素材尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
+                <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
                 <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
@@ -1775,7 +1775,7 @@
                 <source>可用点位数</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
-                <source>全部所选素材均已达到目标库存数量，已停止采集。</source>
+                <source>全部所选材料均已达到持有上限，已停止采集。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
                 <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
@@ -1784,10 +1784,10 @@
                 <source>持有数量</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
-                <source>全部所选素材达到持有上限时停止并发送通知</source>
+                <source>全部所选材料达到持有上限时停止并发送通知</source>
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
-                <source>配置后，自动循环采集所选的无人岛素材。</source>
+                <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
