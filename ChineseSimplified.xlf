@@ -1748,7 +1748,7 @@
                 <source>{state, select, configInvalid {未启用插件配置项“{config}”，无法开始。} recording {正在记录第{current}个点位，共{total}个点位，已记录{count}个采集点。} gathering {共{total}个采集点，正在采集第{current}个采集点，已完成{count}次采集。} other {尚未开始采集。}}</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
-                <source>等待采集结果超时，已停止。请确认当前点位和角色状态。</source>
+                <source>等待采集结果超时，发动“海岛返回”后将自动继续采集。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
                 <source>未找到开拓管理面板，已停止采集。</source>
@@ -1766,7 +1766,7 @@
                 <source>所选素材尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
-                <source>{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，已停止。目标：{name}（{x}, {y}, {z}）。</source>
+                <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
@@ -1776,6 +1776,9 @@
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
                 <source>全部所选素材均已达到目标库存数量，已停止采集。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
+                <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Stock" xml:space="preserve">
                 <source>持有数量</source>
@@ -6801,6 +6804,80 @@
             </trans-unit>
             <trans-unit id="OptimizedLetterTitle" xml:space="preserve">
                 <source>“莫古邮件”界面优化</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Applied" xml:space="preserve">
+                <source>设定了生产计划。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Apply" xml:space="preserve">
+                <source>一键设定</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
+                <source>未能完整设定生产计划，请重试。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
+                <source>正在求解生产计划……</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-CancelPreview" xml:space="preserve">
+                <source>取消预览</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Hint" xml:space="preserve">
+                <source>请选择周期并根据需求求解生产计划。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-NextWeek" xml:space="preserve">
+                <source>下周期</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-NoRest" xml:space="preserve">
+                <source>不休息</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-NoWork" xml:space="preserve">
+                <source>没有可安排的生产日、工房或已解锁配方。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-NotReady" xml:space="preserve">
+                <source>需求数据读取失败，请重试。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-PreviewMode" xml:space="preserve">
+                <source>预览模式</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Rest" xml:space="preserve">
+                <source>休息</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-RestConfirm" xml:space="preserve">
+                <source>确定要变更休息日吗？对应日期的生产计划将被清空。
+
+{text}</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-RestCycle" xml:space="preserve">
+                <source>{week}：{text}</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-RestHint" xml:space="preserve">
+                <source>两个周期合计可选择将其中的1至4天设定为休息日，单个周期可以不休息。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Solve" xml:space="preserve">
+                <source>求解</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-SolveFailed" xml:space="preserve">
+                <source>求解失败，请重试。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-SolveFavors" xml:space="preserve">
+                <source>求解（猫耳小员）</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Stale" xml:space="preserve">
+                <source>生产计划安排或材料持有情况发生了变化，请重新求解。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Summary" xml:space="preserve">
+                <source>预计收益：{value}谢尔达莱青船币</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-ThisWeek" xml:space="preserve">
+                <source>本周期</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Timeout" xml:space="preserve">
+                <source>生产计划数据读取超时，请重试。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
+                <source>优化开拓无人岛“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMJICraftScheduleTitle" xml:space="preserve">
+                <source>“工房生产计划”界面优化</source>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-AutoClaim" xml:space="preserve">
                 <source>自动领取开拓素材</source>
