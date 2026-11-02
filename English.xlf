@@ -9188,6 +9188,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoRest" xml:space="preserve">
                 <source>不休息</source>
+                <target>No Rest</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoWork" xml:space="preserve">
                 <source>没有可安排的生产日、工房或已解锁配方。</source>
@@ -9200,6 +9201,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Rest" xml:space="preserve">
                 <source>休息</source>
+                <target>Rest</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestConfirm" xml:space="preserve">
                 <source>确定要变更休息日吗？对应日期的生产计划将被清空。
@@ -9208,6 +9210,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestCycle" xml:space="preserve">
                 <source>{week}：{text}</source>
+                <target>{week}: {text}</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestHint" xml:space="preserve">
                 <source>两个周期合计可选择将其中的1至4天设定为休息日，单个周期可以不休息。</source>
@@ -9226,9 +9229,11 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Stale" xml:space="preserve">
                 <source>生产计划安排或材料持有情况发生了变化，请重新求解。</source>
+                <target>The agenda or the material inventory has been updated. Please re-generate an agenda.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Summary" xml:space="preserve">
                 <source>预计收益：{value}谢尔达莱青船币</source>
+                <target>Expect a reward of {value, plural, one {# seafarer&apos;s cowrie} other {# seafarer&apos;s cowries}}.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ThisWeek" xml:space="preserve">
                 <source>本周期</source>
