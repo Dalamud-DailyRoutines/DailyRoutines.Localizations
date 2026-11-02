@@ -2353,6 +2353,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
                 <source>等待采集结果超时，发动“海岛返回”后将自动继续采集。</source>
+                <target>Timed out while waiting for the gathering result. The gathering process will resume after manually executing &quot;Isle Return&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
                 <source>未找到开拓管理面板，已停止采集。</source>
@@ -2371,9 +2372,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
                 <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
+                <target>No node data regarding the specified material, or the relevant tool is unavailable. Please restart the process after checking the prerequisites.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
                 <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
+                <target>It&apos;s unable to gather &quot;{name}&quot; due to an unexpected exception: {stage, select, arrival {Failed to navigate to the location} occupied {The character seems occupied} object {The node appears not to exist.} resource {Timed out while waiting for a readiness response of the node.} other {Timed out while waiting for the node.}}. The gathering process will resume after manually executing &quot;Isle Return&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
@@ -2399,6 +2402,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
                 <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
+                <target>Automatically gathering all the given materials in Island Sanctuary after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
