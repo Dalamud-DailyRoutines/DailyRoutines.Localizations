@@ -9234,6 +9234,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
+                <target>Provide a better Isleworks Agenda interface, allowing to generate an optimal agenda based on the given demands using a built-in solver, implement the generated agenda, and stitch two weekends together.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleTitle" xml:space="preserve">
                 <source>“工房生产计划”界面优化</source>
@@ -9241,9 +9242,11 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-AutoClaim" xml:space="preserve">
                 <source>自动领取开拓素材</source>
+                <target>Auto Accept Materials</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-AutoDispatch" xml:space="preserve">
                 <source>自动派遣探索队</source>
+                <target>Auto Dispatch Expeditions</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-NormalExceed" xml:space="preserve">
                 <source>开拓素材“{name}”持有数量即将超出上限，停止了自动领取。</source>
