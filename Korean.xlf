@@ -6213,6 +6213,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="Config" xml:space="preserve">
                 <source>配置</source>
+                <target>설정</target>
             </trans-unit>
             <trans-unit id="Confirm" xml:space="preserve">
                 <source>确定</source>
@@ -6580,6 +6581,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerDescription" xml:space="preserve">
                 <source>支持为“地图”界面添加不限数量的自定义标记，并可备注、分组与批量导入或导出。</source>
+                <target>&quot;지도&quot; 화면에 수량 제한 없이 사용자 지정 마커를 추가할 수 있으며, 메모 추가, 그룹화, 일괄 가져오기 및 내보내기 기능을 지원합니다.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
@@ -8235,6 +8237,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
+                <target>모듈 : {enabledCount}/{totalCount}</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -8955,12 +8958,15 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus" xml:space="preserve">
                 <source>交换体力与状态显示位置</source>
+                <target>체력 및 상태 표시위치 교체</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus-Help" xml:space="preserve">
                 <source>使状态显示在左侧，向左展开；体力显示在右侧，向右展开。</source>
+                <target>상태를 왼쪽에 표시, 왼쪽 정렬 ; 체력은 오른쪽 표시, 오른쪽 정렬.</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
                 <source>优化“敌对列表”界面，支持显示体力、仇恨、咏唱与状态信息，并可以强制选中锁定选中的目标。</source>
+                <target>&apos;적대 목록&apos; UI를 개선하여 HP·적개심·시전바·상태를 표시할 수 있게 하고, 록온한 대상을 강제 선택할 수 있도록 합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
                 <source>“敌对列表”界面优化</source>
@@ -9084,9 +9090,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGauge-BonusLeftTimeFormat" xml:space="preserve">
                 <source>剩余{seconds}秒！</source>
+                <target>{seconds}초 남음!</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
+                <target>&quot;마법자판 난타전&quot;의 정보 표시 화면을 개선하여, 보상 가산 효과의 남은 시간을 구체적으로 표시하고, 보유한 골드소서 포인트, 골드소서 화폐 및 마법자판 난타전 보물상자 수량을 표시하며, 관련 업적의 진행 상황을 표시하도록 했습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
