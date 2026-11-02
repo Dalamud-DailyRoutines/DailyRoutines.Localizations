@@ -9214,6 +9214,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestHint" xml:space="preserve">
                 <source>两个周期合计可选择将其中的1至4天设定为休息日，单个周期可以不休息。</source>
+                <target>The module allows to stitch two consecutive seasons together, in which case you could set 1 to 4 rest cycles for every two consecutive seasons, which means it&apos;s viable to create a season without any rest cycle.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Solve" xml:space="preserve">
                 <source>求解</source>
@@ -9245,7 +9246,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
-                <target>Provide a better Isleworks Agenda interface, allowing to generate an optimal agenda based on the given demands using a built-in solver, implement the generated agenda, and stitch two weekends together.</target>
+                <target>Provide a better Isleworks Agenda interface, allowing to generate an optimal agenda based on the given demands using a built-in solver, implement the generated agenda, and stitch two consecutive seasons together.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleTitle" xml:space="preserve">
                 <source>“工房生产计划”界面优化</source>
