@@ -2345,38 +2345,52 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <target>自動ルーシッドドリーム</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
-                <source>因物体渲染距离限制, 初次使用请先在此处开启数据采集模式, 
-等待模块完成自动数据采集, 后续使用无需再次采集数据</source>
-                <target>読み込み距離制限のため、初めて使用するときはデータスキャンモードを有効化にしてください。
-自動的にデータのスキャンが実行され、今後は再びデータをスキャンする必要がありません</target>
+                <source>首次使用或需要补充点位时，遍历无人岛并记录实际加载的采集点。等待时间随物体加载情况调整；停止后保留已记录点位。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
-                <source>数据采集</source>
-                <target>データ収集</target>
+                <source>记录采集点</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
-                <source>当前进度: {0} / {1}</source>
-                <target>現在の進行状況: {0} / {1}</target>
+                <source>{state, select, configInvalid {未启用插件配置项“{config}”，无法开始。} recording {正在记录第{current}个点位，共{total}个点位，已记录{count}个采集点。} gathering {共{total}个采集点，正在采集第{current}个采集点，已完成{count}次采集。} other {尚未开始采集。}}</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
+                <source>等待采集结果超时，已停止。请确认当前点位和角色状态。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
-                <source>未找到开拓管理面板, 已停止采集</source>
-                <target>開拓管理ボードが見つからず、採集を停止しました</target>
+                <source>未找到开拓管理面板，已停止采集。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
-                <source>已选择的采集点数量过少 (≤ 10), 请重新选择</source>
-                <target>選択された採集スポットが少なさ過ぎるため (≤ 10), 再選択してください</target>
+                <source>所选素材对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他素材。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-Material" xml:space="preserve">
+                <source>采集素材</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-NoProgress" xml:space="preserve">
+                <source>本轮未完成任何采集，已停止。请检查点位是否可采集、库存与采集条件。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
+                <source>所选素材尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
+                <source>{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，已停止。目标：{name}（{x}, {y}, {z}）。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
+                <source>{name}（{count}个点位）</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
+                <source>可用点位数</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
-                <source>无人岛素材达到上限, 已停止自动采集</source>
-                <target>無人島素材容量が上限に達したため、自動採集を終了します</target>
+                <source>全部所选素材均已达到目标库存数量，已停止采集。</source>
+            </trans-unit>
+            <trans-unit id="AutoMJIGather-Stock" xml:space="preserve">
+                <source>持有数量</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
-                <source>达限时停止采集并发送通知</source>
-                <target>ストック上限に到達時採集を停止し、通知を送信します</target>
+                <source>全部所选素材达到持有上限时停止并发送通知</source>
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
-                <source>配置完成并点击开始后, 自动循环采集无人岛素材</source>
-                <target>「スタート」をクリックすると、設定した無人島素材をワープしながらループ採集します。</target>
+                <source>配置后，自动循环采集所选的无人岛素材。</source>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
