@@ -2121,9 +2121,11 @@
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty" xml:space="preserve">
                 <source>当队伍组成不合理时自动停止</source>
+                <target>파티 구성 부적절시 자동 중단</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawler-StopOnInvalidParty-Help" xml:space="preserve">
                 <source>若当前既非单人也非四人小队，则自动停止申请参加任务，并发送通知提醒。</source>
+                <target>현재 혼자도 아니고 4인 파티도 아닌 경우, 임무 참가 신청이 자동으로 중단되고 알림이 전송됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoJoinKeyboundBrawlerDescription" xml:space="preserve">
                 <source>开始后，自动反复申请副本“魔光键影”，并在其完成时自动退出。</source>
@@ -2167,9 +2169,11 @@
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput" xml:space="preserve">
                 <source>随机插入错误输入</source>
+                <target>무작위 오입력 삽입</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-InsertIncorrectInput-Help" xml:space="preserve">
                 <source>以最高不超过2%的概率随机插入错误输入，以模拟正常输入。两次错误输入必定间隔不少于十次正确输入，以避免影响效率。</source>
+                <target>정상적인 입력을 모방하기 위해 2% 이하의 확률로 오입력을 삽입합니다. 오입력 사이에는 반드시 10회 이상의 정상적인 입력이 끼어들도록 하여, 효율에 영향을 미치지 않도록 합니다.</target>
             </trans-unit>
             <trans-unit id="AutoKeyboundBrawler-IntervalHelp" xml:space="preserve">
                 <source>每次操作的实际间隔会在最短间隔与最长间隔间随机取值。</source>
@@ -2327,6 +2331,7 @@
             </trans-unit>
             <trans-unit id="AutoLucidDreaming-Notification" xml:space="preserve">
                 <source>当前魔力已降至{currentMP}点，低于设定的{mpThreshold}点下限，自动发动了“{lucidDreaming}”。</source>
+                <target>현재 MP {currentMP}，설정된 {mpThreshold}보다 낮아，&quot;{lucidDreaming}&quot;를 사용했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLucidDreamingDescription" xml:space="preserve">
                 <source>配置后，若当前职业有需要使用“醒梦”技能，则在魔力低于设定下限时自动插入使用。</source>
@@ -4385,9 +4390,11 @@
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerDescription" xml:space="preserve">
                 <source>在副本“魔光键影”中，自动显示被刻意隐藏的“消息”界面，以便核对各种消息。</source>
+                <target>&quot;마법자판 난타전&quot; 중 채팅 창을 표시하여 다양한 메시지를 확인할 수 있도록 합니다.</target>
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动魔光键影内显示“消息”界面</source>
+                <target>‘마법자판 난타전’ 중 ‘메시지’ 화면 표시</target>
             </trans-unit>
             <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
                 <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
@@ -5497,6 +5504,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
                 <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的界面，支持自定义排序、外显职业名称、拖出真实技能与显示解锁方式。</source>
+                <target>초승달 섬의 &quot;서포트 직업 목록&quot; 창을 더욱 깔끔하고 사용하기 편리한 UI로 대체합니다. 사용자 지정 정렬, 직업명 표시, 실제 스킬 끌어다 놓기, 해금 방법 표시 기능을 지원합니다</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
