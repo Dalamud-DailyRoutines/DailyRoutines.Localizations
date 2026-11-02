@@ -2349,6 +2349,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
                 <source>{state, select, configInvalid {未启用插件配置项“{config}”，无法开始。} recording {正在记录第{current}个点位，共{total}个点位，已记录{count}个采集点。} gathering {共{total}个采集点，正在采集第{current}个采集点，已完成{count}次采集。} other {尚未开始采集。}}</source>
+                <target>{state, select, configInvalid {Failed to initiate the process due to the disabled configuration option &quot;{config}&quot;.} recording {Now acquiring the {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} node. {total, plural, one {# node} other {# nodes}} in total. {count, plural, one {# node} other {# nodes}} acquired.} gathering {{total, plural, one {# node} other {# nodes}} in total. Now gathering the {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} node. {count, plural, one {# gathering action} other {# gathering actions}} completed.} other {No ongoing gathering process.}}</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
                 <source>等待采集结果超时，发动“海岛返回”后将自动继续采集。</source>
@@ -2387,6 +2388,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
                 <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
+                <target>The gathering process has been terminated since it&apos;s unable to execute &quot;Isle Return&quot;. Please restart the process after checking the availability of the character.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Stock" xml:space="preserve">
                 <source>持有数量</source>
