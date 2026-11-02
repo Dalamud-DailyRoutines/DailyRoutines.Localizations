@@ -2361,6 +2361,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
                 <source>所选材料对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他材料。</source>
+                <target>There&apos;re less than 11 nodes during the gathering process of the current material list. Therefore, it&apos;s unable to form an infinite gathering loop. Please consider updating the node data or adding more materials to the list.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Material" xml:space="preserve">
                 <source>采集素材</source>
@@ -2388,6 +2389,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
                 <source>全部所选材料均已达到持有上限，已停止采集。</source>
+                <target>The gathering process has been terminated since all the materials have reached the cap.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
                 <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
@@ -2399,10 +2401,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
                 <source>全部所选材料达到持有上限时停止并发送通知</source>
+                <target>Send Notification When All Materials Reach Cap</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
                 <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
-                <target>Automatically gathering all the given materials in Island Sanctuary after proper configurations.</target>
+                <target>Automatically gathering all the specified materials in Island Sanctuary after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
