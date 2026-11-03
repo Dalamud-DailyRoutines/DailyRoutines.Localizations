@@ -2355,6 +2355,7 @@
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
                 <source>{state, select, configInvalid {未启用插件配置项“{config}”，无法开始。} recording {正在记录第{current}个点位，共{total}个点位，已记录{count}个采集点。} gathering {共{total}个采集点，正在采集第{current}个采集点，已完成{count}次采集。} other {尚未开始采集。}}</source>
+                <target>{state, select, configInvalid {플러그인 설정 &quot;{config}&quot;가 활성화되지 않아 시작할 수 없습니다.} recording {현재 {current}번째 포인트를 기록 중이며, 총 {total}개의 포인트 중 {count}개의 채집 포인트가 기록되었습니다.} gathering {총 {total}개의 채집 포인트가 있으며, 현재 {current}번째 채집 포인트에서 채집 중이며, {count}회 채집을 완료했습니다.} other {아직 수집을 시작하지 않았습니다.}}</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
                 <source>等待采集结果超时，发动“海岛返回”后将自动继续采集。</source>
