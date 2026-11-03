@@ -8505,6 +8505,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
                 <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
+                <target>게임이 백그라운드일 때 게임의 3D 렌더링 출력을 자동으로 차단하여 메모리 사용량과 전력 소모를 대폭 줄입니다.</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
@@ -9153,21 +9154,27 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applied" xml:space="preserve">
                 <source>设定了生产计划。</source>
+                <target>공방일정을 설정했습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Apply" xml:space="preserve">
                 <source>一键设定</source>
+                <target>원클릭설정</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
                 <source>未能完整设定生产计划，请重试。</source>
+                <target>생산 계획을 제대로 설정할 수 없었습니다. 다시 시도해 주십시오.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
+                <target>생산 일정 계산중……</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-CancelPreview" xml:space="preserve">
                 <source>取消预览</source>
+                <target>미리보기 취소</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Hint" xml:space="preserve">
                 <source>请选择周期并根据需求求解生产计划。</source>
+                <target>주기를 선택하고 필요에 따라 생산 계획을 수립하십시오.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NextWeek" xml:space="preserve">
                 <source>下周期</source>
@@ -9175,23 +9182,31 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoRest" xml:space="preserve">
                 <source>不休息</source>
+                <target>휴일없음</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoWork" xml:space="preserve">
                 <source>没有可安排的生产日、工房或已解锁配方。</source>
+                <target>배정할 수 있는 생산일, 개척공방 또는 잠금 해제된 레시피가 없습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NotReady" xml:space="preserve">
                 <source>需求数据读取失败，请重试。</source>
+                <target>요청 데이터 읽기에 실패했습니다. 다시 시도해 주세요.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-PreviewMode" xml:space="preserve">
                 <source>预览模式</source>
+                <target>미리보기 모드</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Rest" xml:space="preserve">
                 <source>休息</source>
+                <target>휴일</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestConfirm" xml:space="preserve">
                 <source>确定要变更休息日吗？对应日期的生产计划将被清空。
 
 {text}</source>
+                <target>휴일을 변경합니까? 해당 일자의 생산 일정이 모두 삭제됩니다.
+
+{text}</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestCycle" xml:space="preserve">
                 <source>{week}：{text}</source>
@@ -9215,7 +9230,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Stale" xml:space="preserve">
                 <source>生产计划安排或材料持有情况发生了变化，请重新求解。</source>
-                <target>공바 일정이나 재료 보유 현황에 변경 사항이 발생했으므로, 다시 계산해 주십시오.</target>
+                <target>생산 일정이나 재료 보유 현황에 변경 사항이 발생했으므로, 다시 계산해 주십시오.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Summary" xml:space="preserve">
                 <source>预计收益：{value}谢尔达莱青船币</source>
@@ -9227,7 +9242,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Timeout" xml:space="preserve">
                 <source>生产计划数据读取超时，请重试。</source>
-                <target>공방 일정 데이터 읽기 시간 초과, 다시 시도해 주십시오.</target>
+                <target>생산 일정 데이터 읽기 시간 초과, 다시 시도해 주십시오.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
