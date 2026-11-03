@@ -2377,24 +2377,31 @@
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
+                <target>{name}（{count}개 포인트）</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
                 <source>可用点位数</source>
+                <target>가용 포인트 수</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
                 <source>全部所选材料均已达到持有上限，已停止采集。</source>
+                <target>선택한 모든 자원이 보유 한도에 도달하여 채집이 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
                 <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
+                <target>&quot;섬으로의 귀환&quot;을 완료하지 못해 채집이 중단되었습니다. 캐릭터 상태를 확인한 후 다시 시작해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Stock" xml:space="preserve">
                 <source>持有数量</source>
+                <target>소지 수</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
                 <source>全部所选材料达到持有上限时停止并发送通知</source>
+                <target>선택한 모든 재료가 보유 한도에 도달하면 중단하고 알림을 보냅니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
                 <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
+                <target>설정완료시 무인도 개척에서 선택한 재료을 자동으로 순환 채집합니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
@@ -8502,6 +8509,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
                 <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
+                <target>최소화 시에만 렌더링 금지(&quot;{configName}&quot; 에 적용)</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
                 <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
