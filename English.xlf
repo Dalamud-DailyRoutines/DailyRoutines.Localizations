@@ -8510,13 +8510,15 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
                 <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
+                <target>Disable Rendering Only When Minimized (applicable to &quot;{configName}&quot;)</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
                 <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
+                <target>Disable game rendering when the client is inactive in order to reduce resource consumption.</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
-                <target>Disable Background Game Rendering</target>
+                <target>Disable Background Rendering</target>
             </trans-unit>
             <trans-unit id="NoUIFadeDescription" xml:space="preserve">
                 <source>禁止游戏内各类用于过渡的黑屏与淡入淡出绘制, 以减少加载过程中不必要的等待时间</source>
