@@ -8440,12 +8440,10 @@ Après modification de ce paramètre, un redémarrage du module est nécessaire<
                 <target>Toujours afficher l’interface</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
-                <source>仅在最小化时禁止渲染 (仅适用于 {0})</source>
-                <target>Désactiver le rendu uniquement lorsque minimisé (s’applique uniquement à {0})</target>
+                <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
-                <source>当游戏位于后台时, 禁止游戏画面渲染输出, 以降低待机占用与功耗 (不影响除画面以外的任何游戏功能)</source>
-                <target>Lorsque le jeu est en arrière-plan, désactive le rendu pour réduire l’utilisation des ressources et la consommation électrique (n’affecte aucune fonction du jeu hormis l’affichage).</target>
+                <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
