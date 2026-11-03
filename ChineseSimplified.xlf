@@ -6318,10 +6318,10 @@
                 <source>始终显示游戏内 UI 界面</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
-                <source>仅在最小化时禁止渲染 (仅适用于 {0})</source>
+                <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
-                <source>当游戏位于后台时, 禁止游戏画面渲染输出, 以降低待机占用与功耗 (不影响除画面以外的任何游戏功能)</source>
+                <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
