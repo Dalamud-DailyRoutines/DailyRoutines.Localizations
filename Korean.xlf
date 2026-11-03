@@ -2347,33 +2347,42 @@
             </trans-unit>
             <trans-unit id="AutoMJIGather-CollectGatherPointsHelp" xml:space="preserve">
                 <source>首次使用或需要补充点位时，遍历无人岛并记录实际加载的采集点。等待时间随物体加载情况调整；停止后保留已记录点位。</source>
+                <target>처음 사용하거나 채집 포인트을 추가해야 할 경우, 무인도를 순회하며 실제로 로드된 채집포인트를 기록합니다. 대기 시간은 물체의 로드 상황에 따라 조정되며, 중단 후에도 기록된 지점은 유지됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-DataCollect" xml:space="preserve">
                 <source>记录采集点</source>
+                <target>채집 포인트 기록</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherProcessInfo" xml:space="preserve">
                 <source>{state, select, configInvalid {未启用插件配置项“{config}”，无法开始。} recording {正在记录第{current}个点位，共{total}个点位，已记录{count}个采集点。} gathering {共{total}个采集点，正在采集第{current}个采集点，已完成{count}次采集。} other {尚未开始采集。}}</source>
             </trans-unit>
             <trans-unit id="AutoMJIGather-GatherTimeout" xml:space="preserve">
                 <source>等待采集结果超时，发动“海岛返回”后将自动继续采集。</source>
+                <target>채집 결과 대기 시간 초과 시, &quot;무인도 데존&quot;을 실행하면 자동으로 채집이 재개됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-HUDNoFound" xml:space="preserve">
                 <source>未找到开拓管理面板，已停止采集。</source>
+                <target>개척 관리 보드를 찾을 수 없어 채집을 중단했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-InsufficientGatherNodes" xml:space="preserve">
                 <source>所选材料对应的点位不足11个，无法维持采集点刷新循环。请补充记录或选择其他材料。</source>
+                <target>선택한 재료를 채집 할 수 있는 포인트가 11개 미만이어서 채집 사이클을 유지할 수 없습니다. 기록을 추가하거나 다른 재료를 선택해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Material" xml:space="preserve">
                 <source>采集素材</source>
+                <target>재료 채집</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoProgress" xml:space="preserve">
                 <source>本轮未完成任何采集，已停止。请检查点位是否可采集、库存与采集条件。</source>
+                <target>이번 사이클에서 채집이 전혀 이루어지지 않아 중단되었습니다. 채집 가능 여부, 재고 및 채집 조건을 확인해 주십시오.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
                 <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
+                <target>선택한 재료의 채집 포인트가 없거나 필요한 채집 도구가 부족합니다. 먼저 채집 포인트를 기록하고 도구가 잠금 해제되었는지 확인해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
                 <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
+                <target>&quot;{name}&quot;을 채집시도중 예외 발생. {stage, select, arrival {목표 위치에 도달하지 못함} occupied {캐릭터 점유 상태 해제 대기중 시간 초과} object {목표 채집 지점의 오브젝트를 찾지 못함} resource {채집 지점의 자원이 준비되기를 기다리는 동안 시간 초과} other {채집 지점 대기 시간 초과}}, &quot;무인도 데존&quot;을 발동하면 채집이 자동으로 재개됩니다.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
