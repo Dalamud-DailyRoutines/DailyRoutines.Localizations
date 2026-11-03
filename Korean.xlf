@@ -8501,12 +8501,10 @@ UI: {0}
                 <target>게임 내 UI 항상 표시</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
-                <source>仅在最小化时禁止渲染 (仅适用于 {0})</source>
-                <target>최소화 시에만 렌더링 금지({0} 에만 적용)</target>
+                <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
-                <source>当游戏位于后台时, 禁止游戏画面渲染输出, 以降低待机占用与功耗 (不影响除画面以外的任何游戏功能)</source>
-                <target>게임이 백그라운드일 때 화면 렌더링 출력을 막아 대기 중 리소스 사용과 전력 소모를 줄입니다. (화면 외 게임 기능에는 영향 없음)</target>
+                <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
