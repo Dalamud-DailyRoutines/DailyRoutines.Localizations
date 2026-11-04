@@ -1053,13 +1053,11 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
                 <source>自动显示减伤信息</source>
                 <target>Affichage automatique des détails de mitigation</target>
             </trans-unit>
-            <trans-unit id="AutoDisplayNetworkLatency-DefaultFormat" xml:space="preserve">
-                <source>{0} 毫秒</source>
-                <target>{0} ms</target>
+            <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
+                <source>{ms}毫秒</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
-                <source>自动在服务器信息栏显示实时游戏服务器连接网络延迟信息</source>
-                <target>Affiche automatiquement la latence en temps réel dans la barre d’informations serveur.</target>
+                <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -1070,8 +1068,7 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
                 <target>Moyenne</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Loss" xml:space="preserve">
-                <source>丢包率</source>
-                <target>Perte de paquets</target>
+                <source>重传率</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Max" xml:space="preserve">
                 <source>峰值</source>
@@ -5863,8 +5860,7 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Molette pour zoomer</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
-                <source>正在传送至: {0}</source>
-                <target>Téléportation en cours vers : {0}</target>
+                <source>准备传送至“{destination}”。</source>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -5887,8 +5883,7 @@ Sinon, elles fonctionneront comme des actions de mission variant selon le job fa
                 <target>Se téléporter ici</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
-                <source>用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处</source>
-                <target>Remplace l’interface de téléportation native par celle de Daily Routines, avec une meilleure recherche, navigation, aperçu des destinations et la possibilité de se téléporter directement vers n’importe quel éclat d’éthérite en ville.</target>
+                <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
