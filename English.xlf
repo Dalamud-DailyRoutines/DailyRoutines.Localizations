@@ -9368,12 +9368,14 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
             <source>传送无需二次确认</source>
+            <target>Skip Confirmation</target>
           </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
             <source>移除交互时弹出的二次确认界面，直接传送。</source>
           </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
+                <target>Provide better access to aetherytes and aethernet shards on the map by making them always on top and making aethernet shards interactable for teleportation purposes. The feature comes with other teleportation shortcuts on the map.</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
                 <source>“地图”界面以太之光优化</source>
