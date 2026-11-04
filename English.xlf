@@ -1053,13 +1053,11 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
                 <source>自动显示减伤信息</source>
                 <target>Auto Display Mitigation Details</target>
             </trans-unit>
-            <trans-unit id="AutoDisplayNetworkLatency-DefaultFormat" xml:space="preserve">
-                <source>{0} 毫秒</source>
-                <target>{0} ms</target>
+            <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
+                <source>{ms}毫秒</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
-                <source>自动在服务器信息栏显示实时游戏服务器连接网络延迟信息</source>
-                <target>Provide real-time network metrics in Server Info Bar.</target>
+                <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -1070,8 +1068,7 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
                 <target>Avg</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Loss" xml:space="preserve">
-                <source>丢包率</source>
-                <target>PL</target>
+                <source>重传率</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Max" xml:space="preserve">
                 <source>峰值</source>
@@ -5928,8 +5925,7 @@ Check Availability At NPCs</target>
                 <target>Scroll to scale</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
-                <source>正在传送至: {0}</source>
-                <target>Now teleporting to: {0}</target>
+                <source>准备传送至“{destination}”。</source>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -5952,8 +5948,7 @@ Check Availability At NPCs</target>
                 <target>Teleport to here</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
-                <source>用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处</source>
-                <target>Replace the vanilla teleportation interface with a Daily Routines one, which provides better searching, navigation and destination previews and allows players to directly teleport to any aethernet shard in the city.</target>
+                <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
