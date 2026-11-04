@@ -6961,7 +6961,7 @@
             <source>传送无需二次确认</source>
           </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
-            <source>移除交互时弹出的二次确认界面，直接开始传送。</source>
+            <source>移除交互时弹出的二次确认界面，直接传送。</source>
           </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
