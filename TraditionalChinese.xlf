@@ -1041,13 +1041,11 @@
                 <source>自动显示减伤信息</source>
                 <target>自動顯示減傷資訊</target>
             </trans-unit>
-            <trans-unit id="AutoDisplayNetworkLatency-DefaultFormat" xml:space="preserve">
-                <source>{0} 毫秒</source>
-                <target>{0} 毫秒</target>
+            <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
+                <source>{ms}毫秒</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
-                <source>自动在服务器信息栏显示实时游戏服务器连接网络延迟信息</source>
-                <target>自動在伺服器訊息欄顯示實時遊戲伺服器連接網路延遲訊息</target>
+                <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -1058,8 +1056,7 @@
                 <target>均值</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Loss" xml:space="preserve">
-                <source>丢包率</source>
-                <target>丢包率</target>
+                <source>重传率</source>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Max" xml:space="preserve">
                 <source>峰值</source>
@@ -5834,8 +5831,7 @@ XivGear (xivgear.app)</target>
                 <target>滾動滑鼠滾輪以調節縮放</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
-                <source>正在传送至: {0}</source>
-                <target>正在傳送至: {0}</target>
+                <source>准备传送至“{destination}”。</source>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -5858,8 +5854,7 @@ XivGear (xivgear.app)</target>
                 <target>傳送至此位置</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
-                <source>用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处</source>
-                <target>用模組界面取代遊戲原生界面, 提供高效的搜索、目的地預覽功能, 並支持直接傳送到任一城內以太之晶處</target>
+                <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
