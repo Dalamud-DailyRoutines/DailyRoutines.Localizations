@@ -5953,7 +5953,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
-                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts.</target>
+                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts. The feature also comes with customizable arrival points.</target>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
