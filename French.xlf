@@ -9239,9 +9239,14 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <source>“用户宏指令”界面优化</source>
                 <target>Optimisation de l’interface « Macros utilisateur »</target>
             </trans-unit>
+            <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty" xml:space="preserve">
+                <source>组队状态下不修改界面</source>
+            </trans-unit>
+            <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty-Help" xml:space="preserve">
+                <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
+            </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
-                <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，并使城内以太之晶也可如以太之光一样交互传送。</source>
-                <target>Optimise les éthérites et les éclats d’éthérite de la carte : ils restent toujours au premier plan, et les éclats d’éthérite permettent aussi de se téléporter par clic, comme les éthérites.</target>
+                <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
                 <source>“地图”界面以太之光优化</source>
