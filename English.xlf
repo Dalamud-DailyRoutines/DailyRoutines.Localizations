@@ -1059,7 +1059,7 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
                 <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
-                <target>Provide real-time network metrics in Server Info Bar. The feature also comes with an explicit server IP &amp; GeoIP, and a real-time ping chart.</target>
+                <target>Provide real-time network metrics in Server Info Bar. The feature also comes with the explicit server IP and GeoIP, as well as a real-time ping chart.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -5901,11 +5901,11 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-CloseOnLoseFocus" xml:space="preserve">
                 <source>失焦时自动关闭</source>
-                <target>Hide When No Focus</target>
+                <target>Hide On Lose Focus</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-CommandHelp" xml:space="preserve">
                 <source>&lt;以太之光/城内以太之晶名称 (大小写不敏感)&gt; 直接传送至对应的以太之光/城内以太之晶处</source>
-                <target>&lt;Name of aetheryte/aethernet shards (case insensitive)&gt; to directly teleport to the specified aetheryte/aethernet shards.</target>
+                <target>&lt;aetheryte or aethernet shard name (case insensitive)&gt; to teleport to the given aetheryte or aethernet shard.</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-DefaultPage" xml:space="preserve">
                 <source>默认打开页面</source>
@@ -5917,15 +5917,15 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-HideAethernetInParty" xml:space="preserve">
                 <source>当位于小队中时, 隐藏城内以太之晶</source>
-                <target>Hide Aethernet Shards While In A Party</target>
+                <target>Hide Aethernet Shards When In Party</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-MapHint-Pin" xml:space="preserve">
                 <source>按下打断热键以固定</source>
-                <target>Hold the interrupt hotkey to pin</target>
+                <target>Hold Interrupt Hotkey To Pin</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-MapHint-Zoom" xml:space="preserve">
                 <source>滚动鼠标滚轮以调节缩放</source>
-                <target>Scroll to scale</target>
+                <target>Scroll To Scale</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
                 <source>准备传送至“{destination}”。</source>
@@ -5940,15 +5940,15 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-RedirectedToCurrentPos" xml:space="preserve">
                 <source>重定向至当前坐标</source>
-                <target>Redirect to the current position</target>
+                <target>Redirect To Current Position</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-ShowMore" xml:space="preserve">
                 <source>显示完整以太之光列表</source>
-                <target>Show More</target>
+                <target>Expand</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-TeleportToThisPosition" xml:space="preserve">
                 <source>传送至此位置</source>
-                <target>Teleport to here</target>
+                <target>Teleport Here</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
