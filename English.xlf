@@ -9366,6 +9366,12 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty-Help" xml:space="preserve">
                 <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
             </trans-unit>
+            <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
+            <source>传送无需二次确认</source>
+          </trans-unit>
+            <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
+            <source>移除交互时弹出的二次确认界面，直接传送。</source>
+          </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
             </trans-unit>
@@ -11141,11 +11147,11 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>工作原理</source>
                 <target>Work theory</target>
             </trans-unit>
-            <trans-unit id="Yes" xml:space="preserve">
+          <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>Yes</target>
             </trans-unit>
-            <trans-unit id="Zone" xml:space="preserve">
+          <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
