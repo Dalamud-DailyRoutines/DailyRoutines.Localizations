@@ -9121,7 +9121,7 @@ XivGear (xivgear.app)</target>
                 <source>超出上限时自动停止领取</source>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseDescription" xml:space="preserve">
-                <source>优化开拓无人岛的“屯货仓库”界面。支持通过一键领取开拓素材，并根据当前持有数量最少的稀少开拓素材一键派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
+                <source>优化开拓无人岛的“屯货仓库”界面。支持一键领取开拓素材，并根据当前持有数量最少的稀少开拓素材一键派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseTitle" xml:space="preserve">
                 <source>“屯货仓库”界面优化</source>
@@ -9371,13 +9371,21 @@ XivGear (xivgear.app)</target>
                 <source>安装并启用</source>
                 <target>安装并启用</target>
             </trans-unit>
+            <trans-unit id="OptimizedRecipeNote-SearchView-CraftType" xml:space="preserve">
+                <source>按制作职业分类</source>
+            </trans-unit>
+            <trans-unit id="OptimizedRecipeNote-SearchView-Equipment" xml:space="preserve">
+                <source>按装备适用职业分类</source>
+            </trans-unit>
+            <trans-unit id="OptimizedRecipeNote-SearchView-Weapons" xml:space="preserve">
+                <source>主副手</source>
+            </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{0}步 · 约{1}秒</source>
                 <target>共{0}步 · 约{1}秒</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
-                <source>优化“制作笔记”界面, 支持快速切换职业；求解配方，并复制为宏、可视化预览与批量制作。</source>
-                <target>优化“制作笔记”界面, 支持快速切换职业；求解配方，并复制为宏、可视化预览与批量制作。</target>
+                <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、添加快捷清除搜索结果按、与拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方与支持搜索按照装备适用职业分类结果。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
