@@ -10680,36 +10680,33 @@ UI: {0}
                 <target>시스템 사운드 재생 빈도 및 음량 제한</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
-                <source>禁止游戏世界画面渲染, 仅保留游戏 UI 界面</source>
-                <target>게임 월드 렌더링을 숨기고 UI만 표시</target>
+                <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
-                <source>禁止技能栏渲染</source>
-                <target>&apos;단축바&apos; 숨기기</target>
+                <source>禁止热键栏渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留聊天栏</source>
-                <target>UI 전체를 숨기고 &apos;채팅창&apos;만 표시</target>
+                <source>禁止界面渲染，仅保留聊天栏</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留名牌</source>
-                <target>UI 전체를 숨기고 &apos;이름표&apos;만 표시</target>
+                <source>禁止界面渲染，仅保留姓名板</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
                 <target>&apos;채팅창&apos; 숨기기</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
-                <source>禁止名牌渲染</source>
-                <target>&apos;이름표&apos; 숨기기</target>
+                <source>禁止姓名板渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
                 <target>&apos;대상 정보&apos; 숨기기</target>
             </trans-unit>
+            <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
+            <source>隐藏标题界面版本信息与操作菜单</source>
+          </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
-                <source>提供一系列游戏画面特殊渲染模式, 如禁止渲染游戏世界画面仅渲染界面、仅渲染玩家名牌隐藏其他界面等, 以便利游戏内截图拍摄、RP 等需求</source>
-                <target>게임 내 스크린샷 촬영이나 롤플레이 시 유용한 모드입니다. 화면 렌더링을 차단해 UI만 표시하거나, 이름표만 표시하고 다른 UI를 숨기는 등 다양한 화면 표시 전환 모드를 제공합니다.</target>
+                <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -11095,7 +11092,7 @@ UI: {0}
                 <source>工作模式</source>
                 <target>작업 모드</target>
             </trans-unit>
-            <trans-unit id="WorkTheory" xml:space="preserve">
+          <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>작업 이론</target>
             </trans-unit>
