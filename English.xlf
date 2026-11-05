@@ -4777,7 +4777,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-ContextMenu-NotToTrack" xml:space="preserve">
                 <source>停止持续追踪</source>
-                <target>Pause</target>
+                <target>Stop Tracking</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-ContextMenu-ToTrack" xml:space="preserve">
                 <source>持续追踪</source>
@@ -4787,9 +4787,9 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
                 <source>暂无追踪目标
 
 右键玩家菜单可添加追踪</source>
-                <target>No target at the moment.
+                <target>No target to be tracked at the moment.
 
-Add a player to the list via the right-click menu.</target>
+You could add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-NoMarker" xml:space="preserve">
                 <source>无</source>
@@ -4797,13 +4797,10 @@ Add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-NotToTrack" xml:space="preserve">
                 <source>停止了对{player}的持续追踪。</source>
-                <target>停止了对{player}的持续追踪。</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-ToTrack" xml:space="preserve">
                 <source>开始持续追踪{player}，可以在打开的界面中详细配置。
 ※输入文本指令“{command}”即可再次打开该界面。</source>
-                <target>开始持续追踪{player}，可以在打开的界面中详细配置。
-※输入文本指令“{command}”即可再次打开该界面。</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Track" xml:space="preserve">
                 <source>追踪</source>
@@ -4811,7 +4808,7 @@ Add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayersDescription" xml:space="preserve">
                 <source>配置完毕后, 使用场景标记持续追踪当前有效的多个玩家的位置信息</source>
-                <target>Automatically track given players by updating Waymarks at a high frequency after proper configurations.</target>
+                <target>Automatically track the given players by updating Waymarks at a high frequency after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayersTitle" xml:space="preserve">
                 <source>自动追踪玩家</source>
@@ -9532,6 +9529,8 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
                 <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
+                <target>Provide a better Crafting Log interface, allowing to switch to applicable jobs without having to close Crafting Log, memorize the last recipe for each job, keep the search history persistently, switch to other jobs also have the current recipe available,
+generate recipe solutions and batch synthesis. Solutions generated could be previewed and copied as macros.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
