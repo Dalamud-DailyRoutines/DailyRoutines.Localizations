@@ -91,6 +91,7 @@
             </trans-unit>
             <trans-unit id="Auth-Error-Blacklisted" xml:space="preserve">
                 <source>你已被列入黑名单，无法使用 Daily Routines。</source>
+                <target>You have been blacklisted by Daily Routines.</target>
             </trans-unit>
             <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
                 <source>无法获取在线验证信息, 请检查本地网络设置。</source>
@@ -8216,21 +8217,27 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account" xml:space="preserve">
                 <source>账号认证凭证</source>
+                <target>AID (Account Cred)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account-Help" xml:space="preserve">
                 <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
+                <target>A unique credential to identify the Square Enix account. All the modules require authentication will be available for characters belonging to the Square Enix account after successful authentication.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Copy" xml:space="preserve">
                 <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+                <target>Click to copy the encrypted credential for authentication purposes.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device" xml:space="preserve">
                 <source>设备认证凭证</source>
+                <target>TID (Device Cred)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device-Help" xml:space="preserve">
                 <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
+                <target>A unique credential to identify the device. All the modules require authentication will be available on the device after successful authentication.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint" xml:space="preserve">
                 <source>无法生成有效的认证凭证，原因可能为：</source>
+                <target>Failed to generate valid credentials. Potential reasons are as follows:</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
                 <source>设备缺乏有效辨识信息（如虚拟机）</source>
