@@ -9421,6 +9421,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
                 <source>制作{count}次</source>
+                <target>Synthesize {count, plural, one {# Time} other {# Times}}</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-ShowOtherRecipes" xml:space="preserve">
                 <source>显示其余</source>
@@ -9444,6 +9445,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CaculateRecipeButton-Help" xml:space="preserve">
                 <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解出用于制作配方的技能序列。</source>
+                <target>Provide a &quot;Solve Recipe&quot; button above the &quot;Synthesize&quot; button to generate a recipe solution. The solution will be based on the current statistics of the character.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
@@ -9452,6 +9454,8 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
                 <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
 ※原本点击后仅能固定切换至下一个分类</source>
+                <target>The vanilla category toggle is actually a unidirectional circular panel rather than what its appearance typically suggests.
+Enable the option to turn the category toggle into a real one.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
@@ -10689,36 +10693,33 @@ Recommended modules are the modules officially recommended by Daily Routines dev
                 <target>Sound Effect Throttler</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
-                <source>禁止游戏世界画面渲染, 仅保留游戏 UI 界面</source>
-                <target>Disable World Rendering Except User Interfaces</target>
+                <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
-                <source>禁止技能栏渲染</source>
-                <target>Disable Action Slot Rendering</target>
+                <source>禁止热键栏渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留聊天栏</source>
-                <target>Disable UI Rendering Except Chat Log</target>
+                <source>禁止界面渲染，仅保留聊天栏</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留名牌</source>
-                <target>Disable User Interface Rendering Except Adventurer Plates</target>
+                <source>禁止界面渲染，仅保留姓名板</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
                 <target>Disable Chat Log Rendering</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
-                <source>禁止名牌渲染</source>
-                <target>Disable Adventurer Plate Rendering</target>
+                <source>禁止姓名板渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
                 <target>Disable Target Information Rendering</target>
             </trans-unit>
+            <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
+            <source>隐藏标题界面版本信息与操作菜单</source>
+          </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
-                <source>提供一系列游戏画面特殊渲染模式, 如禁止渲染游戏世界画面仅渲染界面、仅渲染玩家名牌隐藏其他界面等, 以便利游戏内截图拍摄、RP 等需求</source>
-                <target>Provide some special rendering modes like &quot;Disable World Rendering Except User Interfaces&quot; or &quot;Disable User Interface Rendering Except Adventurer Plates&quot;, for dedicated purposes such as screenshots or role playing.</target>
+                <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -11104,7 +11105,7 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>工作模式</source>
                 <target>Work Mode</target>
             </trans-unit>
-            <trans-unit id="WorkTheory" xml:space="preserve">
+          <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>Work theory</target>
             </trans-unit>
