@@ -89,63 +89,12 @@
                 <source>验证</source>
                 <target>驗證</target>
             </trans-unit>
-            <trans-unit id="Auth-Credential-Account" xml:space="preserve">
-                <source>账号认证凭证</source>
-                <target>帳號認證憑證</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Account-UsageHint" xml:space="preserve">
-                <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
-                <target>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Copy" xml:space="preserve">
-                <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Device" xml:space="preserve">
-                <source>设备认证凭证</source>
-                <target>設備認證憑證</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Device-UsageHint" xml:space="preserve">
-                <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-EmptyHint" xml:space="preserve">
-                <source>无法生成有效的认证凭证，原因可能为：</source>
-                <target>无法生成有效的认证凭证，原因可能为：</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
-                <source>设备缺乏有效辨识信息 (如: 虚拟机)</source>
-                <target>設備缺乏有效辨認訊息(如:虛擬機)</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
-                <source>尚未登录</source>
-                <target>尚未登入</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-EmptyHint-WaitForServer" xml:space="preserve">
-                <source>等待服务器下发凭证信息</source>
-                <target>等待伺服器發送憑證訊息</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-ExpireTime" xml:space="preserve">
-                <source>过期时间</source>
-                <target>過期時間</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Tester" xml:space="preserve">
-                <source>内部测试凭证</source>
-                <target>内部测试凭证</target>
-            </trans-unit>
-            <trans-unit id="Auth-Credential-Tester-UsageHint" xml:space="preserve">
-                <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
-                <target>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</target>
+            <trans-unit id="Auth-Error-Blacklisted" xml:space="preserve">
+                <source>你已被列入黑名单，无法使用 Daily Routines。</source>
             </trans-unit>
             <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
                 <source>无法获取在线验证信息, 请检查本地网络设置。</source>
                 <target>無法獲取在線驗證資訊, 請檢查本地網路設定。</target>
-            </trans-unit>
-            <trans-unit id="Auth-Error-InvalidCredential" xml:space="preserve">
-                <source>无效的凭证信息</source>
-                <target>無效的憑證資訊</target>
-            </trans-unit>
-            <trans-unit id="Auth-Error-ServerConnectionLost" xml:space="preserve">
-                <source>无法连接至认证服务器</source>
-                <target>無法連接至認證伺服器</target>
             </trans-unit>
             <trans-unit id="Auth-Notification-AuthInfoReceived" xml:space="preserve">
                 <source>[在线验证信息]
@@ -8161,12 +8110,205 @@ XivGear (xivgear.app)</target>
                 <source>宏进入技能队列</source>
                 <target>宏進入技能隊列</target>
             </trans-unit>
-            <trans-unit id="MainWindow-DAU-Sidebar" xml:space="preserve">
-                <source>日活跃用户: {0} 人</source>
-                <target>日活躍用戶: {0} 人</target>
+            <trans-unit id="MainWindow-Auth-Credential-Account" xml:space="preserve">
+                <source>账号认证凭证</source>
             </trans-unit>
-            <trans-unit id="MainWindow-ModuleCounts" xml:space="preserve">
+            <trans-unit id="MainWindow-Auth-Credential-Account-Help" xml:space="preserve">
+                <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-Copy" xml:space="preserve">
+                <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-Device" xml:space="preserve">
+                <source>设备认证凭证</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-Device-Help" xml:space="preserve">
+                <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-EmptyHint" xml:space="preserve">
+                <source>无法生成有效的认证凭证，原因可能为：</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
+                <source>设备缺乏有效辨识信息（如虚拟机）</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
+                <source>尚未登录</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-EmptyHint-WaitForServer" xml:space="preserve">
+                <source>等待服务器下发凭证信息</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-ExpireTime" xml:space="preserve">
+                <source>过期时间</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-Tester" xml:space="preserve">
+                <source>内部测试凭证</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Credential-Tester-Help" xml:space="preserve">
+                <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-InvalidCredential" xml:space="preserve">
+                <source>无效的凭证信息</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-ServerConnectionLost" xml:space="preserve">
+                <source>无法连接至认证服务器</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Auth-Title" xml:space="preserve">
+                <source>Daily Routines 在线验证服务</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Favorites-ImportError" xml:space="preserve">
+                <source>导入收藏夹失败。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
+                <source>已导入收藏夹。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Favorites-NameHint" xml:space="preserve">
+                <source>请输入新收藏夹名称，不可重复</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-DailyActiveUsers" xml:space="preserve">
+                <source>日活跃用户：{count}人</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
+                <source>切换至紧凑视图</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-ConfigOverlay" xml:space="preserve">
+                <source>显示配置悬浮窗</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-Configuration" xml:space="preserve">
+                <source>模块配置</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
+                <source>复制模块内部名称</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
+                <source>切换至完整视图</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-PreviewImage" xml:space="preserve">
+                <source>预览图</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-RenderError" xml:space="preserve">
+                <source>渲染模块配置界面失败</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-Report" xml:space="preserve">
+                <source>反馈</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-Reset" xml:space="preserve">
+                <source>重置模块</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-ResetSuccess" xml:space="preserve">
+                <source>已重置“{module}”模块。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-About-Credits" xml:space="preserve">
+                <source>致谢</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-About-DevelopmentTeam" xml:space="preserve">
+                <source>开发团队</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-About-SupportTeam" xml:space="preserve">
+                <source>支持团队</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-About-Title" xml:space="preserve">
+                <source>关于</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-About-UsefulLinks" xml:space="preserve">
+                <source>相关链接</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
+                <source>跨区域移动时尽量降低金币花费</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
+                <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过非玩家对象和过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment" xml:space="preserve">
+                <source>修正环境不一致状态</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment-Help" xml:space="preserve">
+                <source>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-PreventAFK" xml:space="preserve">
+                <source>防止暂离状态</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-PreventAFK-Help" xml:space="preserve">
+                <source>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-SkipLogo" xml:space="preserve">
+                <source>跳过标志界面</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-SkipLogo-Help" xml:space="preserve">
+                <source>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
+                <source>不显示“DR”前缀</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix-Help" xml:space="preserve">
+                <source>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
+※更改后需要重启插件。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-AuthBypassProxy" xml:space="preserve">
+                <source>在线验证绕过系统代理</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-AuthBypassProxy-Help" xml:space="preserve">
+                <source>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
+※更改后需要重启插件。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-ConflictKey-Help" xml:space="preserve">
+                <source>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-DefaultHomePage" xml:space="preserve">
+                <source>默认页面</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-DefaultHomePage-Help" xml:space="preserve">
+                <source>每次加载插件后首次打开主界面时显示的页面。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo" xml:space="preserve">
+                <source>通知在线验证信息</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
+                <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-TTSMigrationHelp" xml:space="preserve">
+                <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件，如有需要，请单独下载。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold" xml:space="preserve">
+                <source>前台无操作通知提醒时间（毫秒）</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
+                <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
+※设为0时表示永远仅游戏位于后台时才通知。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-HelpTranslate" xml:space="preserve">
+                <source>帮忙翻译</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-DalamudStyle" xml:space="preserve">
+                <source>使用 Dalamud 样式</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-FontScale" xml:space="preserve">
+                <source>字体缩放</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
+                <source>相对于 Dalamud 字号的缩放倍率，默认为1，最小为0.1。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
+                <source>托盘悬浮窗</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-TrayOverlay-Help" xml:space="preserve">
+                <source>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
+※右键拖拽该悬浮窗即可调整位置。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-LocalModules-PathHelp" xml:space="preserve">
+                <source>请填写本地模块文件的绝对路径。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules" xml:space="preserve">
+                <source>默认启用推荐模块</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules-Help" xml:space="preserve">
+                <source>若新模块被标记为“推荐模块”，则会被直接启用。
+※“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-SupportAuthor" xml:space="preserve">
+                <source>支持作者</source>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -8215,10 +8357,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="Module" xml:space="preserve">
                 <source>模块</source>
                 <target>模塊</target>
-            </trans-unit>
-            <trans-unit id="ModuleCardComponent-Error-Render" xml:space="preserve">
-                <source>渲染模块配置界面失败</source>
-                <target>渲染模組配置界面失敗</target>
             </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
@@ -8319,10 +8457,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="ModuleConfig" xml:space="preserve">
                 <source>模块配置</source>
                 <target>模組配置</target>
-            </trans-unit>
-            <trans-unit id="ModuleInfo-PreviewImage" xml:space="preserve">
-                <source>预览图</source>
-                <target>預覽圖</target>
             </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
@@ -9184,11 +9318,11 @@ XivGear (xivgear.app)</target>
                 <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
-            <source>传送无需二次确认</source>
-          </trans-unit>
+                <source>传送无需二次确认</source>
+            </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
-            <source>移除交互时弹出的二次确认界面，直接传送。</source>
-          </trans-unit>
+                <source>移除交互时弹出的二次确认界面，直接传送。</source>
+            </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
             </trans-unit>
@@ -10233,195 +10367,13 @@ XivGear (xivgear.app)</target>
                 <source>设置</source>
                 <target>設置</target>
             </trans-unit>
-            <trans-unit id="Settings-About" xml:space="preserve">
-                <source>关于</source>
-                <target>關於</target>
-            </trans-unit>
-            <trans-unit id="Settings-AddLocalModuleHelp" xml:space="preserve">
-                <source>请填写目标本地模块的绝对路径</source>
-                <target>請填寫目標本地模塊的絕對路徑</target>
-            </trans-unit>
-            <trans-unit id="Settings-BlacklistedNotice" xml:space="preserve">
-                <source>你已被拉入黑名单, 无法使用 Daily Routines</source>
-                <target>你已被拉入黑名單, 無法使用 Daily Routines</target>
-            </trans-unit>
-            <trans-unit id="Settings-CompactModuleView" xml:space="preserve">
-                <source>切换至紧凑视图</source>
-                <target>切换至紧凑视图</target>
-            </trans-unit>
-            <trans-unit id="Settings-CopyModuleInternalName" xml:space="preserve">
-                <source>复制模块内部名称</source>
-                <target>複製模組內部名稱</target>
-            </trans-unit>
-            <trans-unit id="Settings-Credits" xml:space="preserve">
-                <source>致谢</source>
-                <target>致謝</target>
-            </trans-unit>
-            <trans-unit id="Settings-DevTeam" xml:space="preserve">
-                <source>开发团队</source>
-                <target>開發團隊</target>
-            </trans-unit>
-            <trans-unit id="Settings-FullModuleView" xml:space="preserve">
-                <source>切换至完整视图</source>
-                <target>切换至完整视图</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
-                <source>跨区域移动时尽量降低金币花费</source>
-                <target>跨区域移动时尽量降低金币花费</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
-                <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过船头、过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
-                <target>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过船头、过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-CorrectEnvironment" xml:space="preserve">
-                <source>修正环境不一致状态</source>
-                <target>修正环境不一致状态</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-CorrectEnvironment-Help" xml:space="preserve">
-                <source>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</source>
-                <target>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-PreventAFK" xml:space="preserve">
-                <source>防止暂离状态</source>
-                <target>防止暫離狀態</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-PreventAFK-Help" xml:space="preserve">
-                <source>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</source>
-                <target>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-SkipLogo" xml:space="preserve">
-                <source>跳过标志界面</source>
-                <target>跳過開頭標誌</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-SkipLogo-Help" xml:space="preserve">
-                <source>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</source>
-                <target>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-StripeDRPrefix" xml:space="preserve">
-                <source>不显示“DR”前缀</source>
-                <target>不显示“DR”前缀</target>
-            </trans-unit>
-            <trans-unit id="Settings-Game-StripeDRPrefix-Help" xml:space="preserve">
-                <source>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
-（更改后需要重启插件）</source>
-                <target>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
-（更改后需要重启插件）</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-AuthBypassProxy" xml:space="preserve">
-                <source>在线验证绕过系统代理</source>
-                <target>在线验证绕过系统代理</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-AuthBypassProxy-Help" xml:space="preserve">
-                <source>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
-（更改后需要重启插件）</source>
-                <target>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
-（更改后需要重启插件）</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-ConflictKey-Help" xml:space="preserve">
-                <source>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</source>
-                <target>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-DefaultHomePage" xml:space="preserve">
-                <source>默认页面</source>
-                <target>默認頁面</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-DefaultHomePage-Help" xml:space="preserve">
-                <source>每次加载插件后首次打开主界面时显示的页面。</source>
-                <target>每次加载插件后首次打开主界面时显示的页面。</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-OnlineAuthInfo" xml:space="preserve">
-                <source>通知在线验证信息</source>
-                <target>通知在线验证信息</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
-                <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
-                <target>每次刷新在线验证信息时，通知已激活凭证的验证信息。</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-TrayIdleThreshold" xml:space="preserve">
-                <source>前台无操作通知提醒时间（毫秒）</source>
-                <target>前台无操作通知提醒时间（毫秒）</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
-                <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
-（设为 0 时表示永远仅游戏位于后台时才通知）</source>
-                <target>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
-（设为 0 时表示永远仅游戏位于后台时才通知）</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-TrayOverlay" xml:space="preserve">
-                <source>托盘悬浮窗</source>
-                <target>托盤懸浮窗</target>
-            </trans-unit>
-            <trans-unit id="Settings-General-TrayOverlay-Help" xml:space="preserve">
-                <source>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
-（右键拖拽该悬浮窗即可调整位置）</source>
-                <target>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
-（右键拖拽该悬浮窗即可调整位置）</target>
-            </trans-unit>
-            <trans-unit id="Settings-HelpTranslate" xml:space="preserve">
-                <source>帮忙翻译</source>
-                <target>協助翻譯</target>
-            </trans-unit>
             <trans-unit id="Settings-LeftTabWidth" xml:space="preserve">
                 <source>左侧边栏宽度</source>
                 <target>左側邊欄寬度</target>
             </trans-unit>
-            <trans-unit id="Settings-Module-DefaultEnableModules" xml:space="preserve">
-                <source>默认启用推荐模块</source>
-                <target>預設啟用推薦模組</target>
-            </trans-unit>
-            <trans-unit id="Settings-Module-DefaultEnableModules-Help" xml:space="preserve">
-                <source>若新模块被标记为“推荐模块”，则会被直接启用。
-（“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。）</source>
-                <target>若新模块被标记为“推荐模块”，则会被直接启用。
-（“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。）</target>
-            </trans-unit>
-            <trans-unit id="Settings-ModuleConfiguration" xml:space="preserve">
-                <source>模块配置</source>
-                <target>模組配置</target>
-            </trans-unit>
-            <trans-unit id="Settings-NewFavoriteHint" xml:space="preserve">
-                <source>请输入新收藏夹名称, 不可重复</source>
-                <target>請輸入新收藏夾名稱, 不可重複</target>
-            </trans-unit>
-            <trans-unit id="Settings-OnlineAuthService" xml:space="preserve">
-                <source>Daily Routines 在线验证服务</source>
-                <target>Daily Routines 在線驗證服務</target>
-            </trans-unit>
-            <trans-unit id="Settings-Report" xml:space="preserve">
-                <source>反馈</source>
-                <target>反饋</target>
-            </trans-unit>
-            <trans-unit id="Settings-ResetModule" xml:space="preserve">
-                <source>重置模块</source>
-                <target>重設模組</target>
-            </trans-unit>
-            <trans-unit id="Settings-ResetModuleSuccessNotice" xml:space="preserve">
-                <source>重置 {0} 模块完成</source>
-                <target>重設 {0} 模組完成</target>
-            </trans-unit>
-            <trans-unit id="Settings-ShowOverlayConfig" xml:space="preserve">
-                <source>显示配置悬浮窗</source>
-                <target>顯示配置懸浮窗</target>
-            </trans-unit>
-            <trans-unit id="Settings-SupportAuthor" xml:space="preserve">
-                <source>支持作者</source>
-                <target>支持作者</target>
-            </trans-unit>
-            <trans-unit id="Settings-SupportTeam" xml:space="preserve">
-                <source>支持团队</source>
-                <target>支持團隊</target>
-            </trans-unit>
             <trans-unit id="Settings-TTS" xml:space="preserve">
                 <source>文本转语音 (TTS)</source>
                 <target>文本轉語音 (TTS)</target>
-            </trans-unit>
-            <trans-unit id="Settings-UsefulLinks" xml:space="preserve">
-                <source>相关链接</source>
-                <target>相關連結</target>
-            </trans-unit>
-            <trans-unit id="Settings.TTS.Warning.Help" xml:space="preserve">
-                <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件, 如有需要请单独下载</source>
-                <target>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件, 如有需要请单独下载</target>
             </trans-unit>
             <trans-unit id="Settings.TTS.Warning.Log" xml:space="preserve">
                 <source>/pdr tts 命令预计将在游戏版本 8.0 废弃, 文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件, 如有需要请单独下载</source>
@@ -10511,8 +10463,8 @@ XivGear (xivgear.app)</target>
                 <target>禁止目標情報渲染</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
-            <source>隐藏标题界面版本信息与操作菜单</source>
-          </trans-unit>
+                <source>隐藏标题界面版本信息与操作菜单</source>
+            </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
             </trans-unit>
@@ -10555,9 +10507,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
                 <target>樣式</target>
-            </trans-unit>
-            <trans-unit id="Style-UseDalamud" xml:space="preserve">
-                <source>使用 Dalamud 样式</source>
             </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
@@ -10895,15 +10844,15 @@ XivGear (xivgear.app)</target>
                 <source>工作模式</source>
                 <target>工作模式</target>
             </trans-unit>
-          <trans-unit id="WorkTheory" xml:space="preserve">
+            <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>工作原理</target>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>是</target>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>區域</target>
             </trans-unit>
