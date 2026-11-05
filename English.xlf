@@ -9416,12 +9416,10 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <target>Solve Recipe</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CopyMacro" xml:space="preserve">
-                <source>复制宏#{0}</source>
-                <target>Copy Macro #{0}</target>
+                <source>复制宏#{index}</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
-                <source>制作{0}次</source>
-                <target>Synthesize {0} Time(s)</target>
+                <source>制作{count}次</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-ShowOtherRecipes" xml:space="preserve">
                 <source>显示其余</source>
@@ -9444,72 +9442,23 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <target>Recipe Solving Button</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CaculateRecipeButton-Help" xml:space="preserve">
-                <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解配方制作技能。</source>
-                <target>Provide a &quot;Solve Recipe&quot; button above the &quot;Synthesize&quot; button to generate a recipe solution. The solution will be based on the current statistics of the character.</target>
+                <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解出用于制作配方的技能序列。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
                 <target>Better Category Toggle</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
-                <source>将原本仅能固定切换至下一个分类的配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。</source>
-                <target>The vanilla category toggle is actually a unidirectional circular panel rather than what its appearance typically suggests. Enable the option to turn the category toggle into a real one.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons" xml:space="preserve">
-                <source>显示配方其他职业版本按钮</source>
-                <target>Same Recipe From Other Jobs</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons-Help" xml:space="preserve">
-                <source>若其他职业也能制作当前所选配方，则在顶部显示快捷职业切换按钮，用以一键查看该配方在全部或某一职业下的版本。</source>
-                <target>Provide an &quot;Other Jobs&quot; button above the recipe interface for details if the recipe is also available from other jobs.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons" xml:space="preserve">
-                <source>材料来源按钮</source>
-                <target>Source Tracing Button</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons-Help" xml:space="preserve">
-                <source>在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。</source>
-                <target>Provide buttons on the left of the recipe materials to inquire if the material could be purchased at NPC vendors and at the market.</target>
+                <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
+※原本点击后仅能固定切换至下一个分类</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
                 <target>Higher Initial Quality Cap In Trial</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality-Help" xml:space="preserve">
-                <source>解除制作练习初期品质设置最多为最高品质一半的上限。</source>
-                <target>Increase the initial quality cap in trial synthesis from half of the bar to full.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish" xml:space="preserve">
-                <source>提醒简易制作完成</source>
-                <target>Completion Notification</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish-Help" xml:space="preserve">
-                <source>简易制作完成时，发送通知提醒。</source>
-                <target>Send a notification after the quick synthesis is complete.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-QuickSynthesisMore" xml:space="preserve">
-                <source>突破简易制作上限</source>
-                <target>Higher Quick Synthesis Cap</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-QuickSynthesisMore-Help" xml:space="preserve">
-                <source>使单次简易制作最多可达255次，超出该值时自动分批简易制作。</source>
-                <target>Increase the cap of quick synthesis from 99 to 255. Batch the quick synthesis work if the workload exceeds 255.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SearchClearButton" xml:space="preserve">
-                <source>清除搜索内容按钮</source>
-                <target>Search Clearing Button</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SearchClearButton-Help" xml:space="preserve">
-                <source>在搜索框右部新增清除按钮，点击即可清空搜索内容并跳转回开始搜索前的配方页面。</source>
-                <target>Provide a button on the right of the search bar to clear the bar and jump to the recipe before searching.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton" xml:space="preserve">
-                <source>切换职业按钮</source>
-                <target>Job Switching Button</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton-Help" xml:space="preserve">
-                <source>若当前职业非配方职业，则将“开始制作”按钮替换为“切换职业”按钮。</source>
-                <target>Replace the &quot;Synthesize&quot; button with the &quot;Switch Job&quot; button when the recipe is not from the current job.</target>
+                <source>使制作练习初期品质可以直接设置为最高品质。
+※原本仅能设置为最高品质的一半。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
                 <source>复制宏</source>
@@ -9532,8 +9481,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <target>The recipe solving feature requires the plugin &quot;Raphael.Dalamud&quot;.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
-                <source>复制了宏#{0}至剪贴板。</source>
-                <target>Macro #{0} has been copied to the clipboard.</target>
+                <source>复制了宏#{index}至剪贴板。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
                 <source>复制了宏到剪贴板。</source>
@@ -9544,12 +9492,10 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <target>Step Preview</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
-                <source>已超出单次简易制作上限, 开始自动分批简易制作, 共 {0} 批</source>
-                <target>The cap of quick synthesis has been reached. Items will be synthesized in {0} batches.</target>
+                <source>超出了单次简易制作上限，自动分批简易制作，共{batchCount}批。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthFinish" xml:space="preserve">
-                <source>简易制作已全部完成</source>
-                <target>Quick synthesis complete.</target>
+                <source>完成了全部简易制作。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-SolveResult" xml:space="preserve">
                 <source>求解了{classJob}配方“{item}”，共{step}步，单次制作需要约{second}秒。</source>
@@ -9569,11 +9515,10 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <source>主副手</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
-                <source>共{0}步 · 约{1}秒</source>
-                <target>{0} step(s), approximately {1} second(s).</target>
+                <source>共{steps}步 · 约{seconds}秒</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
-                <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、添加快捷清除搜索结果按、与拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方与支持搜索按照装备适用职业分类结果。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
+                <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
