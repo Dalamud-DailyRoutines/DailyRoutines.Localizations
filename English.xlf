@@ -2184,7 +2184,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在当前版本会被&quot;队员招募&quot;界面分类为&quot;高难度任务&quot;的所有副本</source>
-                <target>All the duties belong to the &quot;High-end Duty&quot; catalog in Party Finder at the moment.</target>
+                <target>All the duties belonging to the &quot;High-end Duty&quot; catalog in Party Finder at the moment.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>已设定本次副本任务完成时立刻自动退出。</source>
@@ -3381,7 +3381,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>可用颜色: {0} 种</source>
-                <target>Available Colours: {0}</target>
+                <target>{0} Available Colour(s)</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ClickToViewDetail" xml:space="preserve">
                 <source>点击颜色查看色值详情</source>
@@ -3393,11 +3393,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Hint" xml:space="preserve">
                 <source>按下打断热键 ({0}) 以固定</source>
-                <target>Press the interrupt hotkey ({0}) in order to inspect.</target>
+                <target>Press Interrupt Hotkey ({0}) To Pin</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>当悬停通用染剂或追加染剂物品时, 自动预览该染剂包含的所有可用颜色</source>
-                <target>Automatically list all the available colours belong to the dye while hovering over.</target>
+                <target>Automatically list all available colours for the dye while hovering over it.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeTitle" xml:space="preserve">
                 <source>自动预览染剂颜色</source>
@@ -9241,7 +9241,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedFreeShop-BatchClaim" xml:space="preserve">
                 <source>领取全套{classJob}装备</source>
-                <target>Claim All Gear Belongs To {classJob}</target>
+                <target>Claim All Gear Belonging To {classJob}</target>
             </trans-unit>
             <trans-unit id="OptimizedFreeShopDescription" xml:space="preserve">
                 <source>优化“报酬”界面，支持批量领取任一职业全部装备、手动领取时无需二次确认与显示装备真实图标。</source>
