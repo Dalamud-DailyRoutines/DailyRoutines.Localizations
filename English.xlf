@@ -8276,33 +8276,42 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
+                <target>Compact View</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ConfigOverlay" xml:space="preserve">
                 <source>显示配置悬浮窗</source>
+                <target>Show Configuration Panel</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Configuration" xml:space="preserve">
                 <source>模块配置</source>
+                <target>Module Configuration</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
                 <source>复制模块内部名称</source>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
+                <target>Full View</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
+                <target>Preview</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-RenderError" xml:space="preserve">
                 <source>渲染模块配置界面失败</source>
+                <target>Failed to render the configuration interface.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Report" xml:space="preserve">
                 <source>反馈</source>
+                <target>Feedback</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Reset" xml:space="preserve">
                 <source>重置模块</source>
+                <target>Reset Module</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ResetSuccess" xml:space="preserve">
                 <source>已重置“{module}”模块。</source>
+                <target>The module &quot;{module}&quot; has been reset.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Credits" xml:space="preserve">
                 <source>致谢</source>
