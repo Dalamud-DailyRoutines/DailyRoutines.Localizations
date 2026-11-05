@@ -8306,26 +8306,31 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Credits" xml:space="preserve">
                 <source>致谢</source>
+                <target>Credits</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-DevelopmentTeam" xml:space="preserve">
                 <source>开发团队</source>
+                <target>Dev</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-SupportTeam" xml:space="preserve">
                 <source>支持团队</source>
+                <target>Support</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Title" xml:space="preserve">
                 <source>关于</source>
+                <target>About</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
+                <target>Useful Links</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
-                <target>Minimal Gil Navigation</target>
+                <target>Minimal-gil Navigation</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
                 <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过非玩家对象和过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
-                <target>All the navigation across zones will take the most economical route if the option is enabled, meaning it would minimize the gil costs as much as possible by introducing a considerable amount of free transportation and zone connections. The navigation result could be unbearably lengthy in some extreme cases.</target>
+                <target>All the navigation across zones will take the most economical route if the option is enabled, meaning it would minimize gil costs as much as possible by introducing a considerable amount of free transportation and zone connections. Please be aware that navigation processes could be unbearably lengthy in some extreme cases.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment" xml:space="preserve">
                 <source>修正环境不一致状态</source>
