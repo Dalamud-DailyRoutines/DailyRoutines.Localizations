@@ -8345,17 +8345,23 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
                 <source>不显示“DR”前缀</source>
+                <target>No DR Prefix</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix-Help" xml:space="preserve">
                 <source>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
 ※更改后需要重启插件。</source>
+                <target>All the &quot;DR&quot; prefixes before chat messages and menu options will be removed. By enabling the option, chat messages and menu options may look more in line with the vanilla game style. However, it could also cause some confusion.
+※ Reboot Daily Routines to apply the option.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy" xml:space="preserve">
                 <source>在线验证绕过系统代理</source>
+                <target>Bypass Proxy For Authentication</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy-Help" xml:space="preserve">
                 <source>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
 ※更改后需要重启插件。</source>
+                <target>All the requests related to the authentication will be directly sent to the authentication server bypassing the system proxy if the option is enabled. However, it has no effect if running any kind of global transparent proxy, for example, a virtual network adapter.
+※ Reboot Daily Routines to apply the option.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-ConflictKey-Help" xml:space="preserve">
                 <source>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</source>
