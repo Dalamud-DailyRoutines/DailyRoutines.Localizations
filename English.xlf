@@ -6471,7 +6471,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DescriptionPlaceholder" xml:space="preserve">
                 <source>输入此标记的备注</source>
-                <target>Please enter the comment.</target>
+                <target>Please enter a comment.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-DetailsTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
@@ -8264,15 +8264,19 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
                 <source>已导入收藏夹。</source>
+                <target>The favourites have been imported.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-NameHint" xml:space="preserve">
                 <source>请输入新收藏夹名称，不可重复</source>
+                <target>Please enter a name for the new favourite. The name should be unique.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-DailyActiveUsers" xml:space="preserve">
                 <source>日活跃用户：{count}人</source>
+                <target>DAU: {count}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
+                <target>Module: {enabledCount}/{totalCount}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
@@ -8280,7 +8284,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ConfigOverlay" xml:space="preserve">
                 <source>显示配置悬浮窗</source>
-                <target>Show Configuration Panel</target>
+                <target>Configuration Panel</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Configuration" xml:space="preserve">
                 <source>模块配置</source>
@@ -8288,6 +8292,7 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
                 <source>复制模块内部名称</source>
+                <target>Copy Internal Name</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
@@ -10202,7 +10207,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="QuickChatPanel-SystemSound-EditPrompt" xml:space="preserve">
                 <source>请输入想要为系统音{soundEffectIndex}指定的备注。</source>
-                <target>Please enter the comment for the system sound {soundEffectIndex}.</target>
+                <target>Please enter a comment for the system sound {soundEffectIndex}.</target>
             </trans-unit>
             <trans-unit id="QuickChatPanel-SystemSoundHelp" xml:space="preserve">
                 <source>左键试听，右键发送。</source>
