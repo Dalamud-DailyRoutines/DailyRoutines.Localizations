@@ -10648,15 +10648,19 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
                 <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
+                <target>Solid Colour Background With UI Rendering Only</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
                 <source>禁止热键栏渲染</source>
+                <target>Disable Hotbar Rendering</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
                 <source>禁止界面渲染，仅保留聊天栏</source>
+                <target>Disable UI Rendering Except Chat Log</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
                 <source>禁止界面渲染，仅保留姓名板</source>
+                <target>Disable UI Rendering Except Nameplate</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
@@ -10664,6 +10668,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
                 <source>禁止姓名板渲染</source>
+                <target>Disable Nameplate Rendering</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
@@ -10674,6 +10679,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
+                <target>Provide some special rendering modes for some niche demands.</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
