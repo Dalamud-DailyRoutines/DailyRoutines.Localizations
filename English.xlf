@@ -8362,25 +8362,32 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage" xml:space="preserve">
                 <source>默认页面</source>
+                <target>Default Page</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage-Help" xml:space="preserve">
                 <source>每次加载插件后首次打开主界面时显示的页面。</source>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo" xml:space="preserve">
                 <source>通知在线验证信息</source>
+                <target>Authentication Notification</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
                 <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
+                <target>Send a notification including authentication details every time the authentication status is refreshed.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TTSMigrationHelp" xml:space="preserve">
                 <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件，如有需要，请单独下载。</source>
+                <target>The text-to-speech feature has been migrated to an independent plugin named EdgeTTS.Dalamud. Please consider downloading and enabling it for the latest text-to-speech experience.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold" xml:space="preserve">
                 <source>前台无操作通知提醒时间（毫秒）</source>
+                <target>Tray Notification Delay When Client Is Active</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
                 <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
 ※设为0时表示永远仅游戏位于后台时才通知。</source>
+                <target>Enable tray notifications if there&apos;s no user input for a period of time even when the client is active.
+(Set it to 0 to enable tray notifications only when the client is inactive.)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-HelpTranslate" xml:space="preserve">
                 <source>帮忙翻译</source>
