@@ -8406,13 +8406,17 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules" xml:space="preserve">
                 <source>默认启用推荐模块</source>
+                <target>Enable Recommended Modules By Default</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules-Help" xml:space="preserve">
                 <source>若新模块被标记为“推荐模块”，则会被直接启用。
 ※“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。</source>
+                <target>Enable the module if it&apos;s a recommended module.
+※ Recommended modules are the modules recommended by Daily Routines developers. These modules could effectively improve the game experience while not excessively changing the gameplay.</target>
             </trans-unit>
             <trans-unit id="MainWindow-SupportAuthor" xml:space="preserve">
                 <source>支持作者</source>
+                <target>Sponsor</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -10676,6 +10680,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
                 <source>隐藏标题界面版本信息与操作菜单</source>
+                <target>Hide DLC Logo &amp; Options On Title Screen</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
