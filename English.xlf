@@ -9417,6 +9417,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CopyMacro" xml:space="preserve">
                 <source>复制宏#{index}</source>
+                <target>Copy Macro #{index}</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
                 <source>制作{count}次</source>
@@ -9507,12 +9508,15 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-CraftType" xml:space="preserve">
                 <source>按制作职业分类</source>
+                <target>By Crafter</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Equipment" xml:space="preserve">
                 <source>按装备适用职业分类</source>
+                <target>By Applicable Job</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Weapons" xml:space="preserve">
                 <source>主副手</source>
+                <target>Tool</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{steps}步 · 约{seconds}秒</source>
