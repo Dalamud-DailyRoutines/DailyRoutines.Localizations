@@ -9449,13 +9449,13 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
-                <target>Better Category Toggle</target>
+                <target>Better Category Panel</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
                 <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
 ※原本点击后仅能固定切换至下一个分类</source>
-                <target>The vanilla category toggle is actually a unidirectional circular panel rather than what its appearance typically suggests.
-Enable the option to turn the category toggle into a real one.</target>
+                <target>The vanilla category panel is actually a unidirectional circular toggle rather than what its appearance typically suggests.
+Enable the option to turn the fake panel into a real three-button panel.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
@@ -9464,6 +9464,7 @@ Enable the option to turn the category toggle into a real one.</target>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality-Help" xml:space="preserve">
                 <source>使制作练习初期品质可以直接设置为最高品质。
 ※原本仅能设置为最高品质的一半。</source>
+                <target>Increase the initial quality cap in trial synthesis from half of the bar to full.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
                 <source>复制宏</source>
@@ -9487,6 +9488,7 @@ Enable the option to turn the category toggle into a real one.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
                 <source>复制了宏#{index}至剪贴板。</source>
+                <target>Macro #{index} has been copied to the clipboard.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
                 <source>复制了宏到剪贴板。</source>
@@ -9498,9 +9500,11 @@ Enable the option to turn the category toggle into a real one.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
                 <source>超出了单次简易制作上限，自动分批简易制作，共{batchCount}批。</source>
+                <target>The quick synthesis cap has been reached. Items will be quick synthesized in {batchCount, plural, one {# batch} other {# batches}}.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthFinish" xml:space="preserve">
                 <source>完成了全部简易制作。</source>
+                <target>Quick synthesis complete.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-SolveResult" xml:space="preserve">
                 <source>求解了{classJob}配方“{item}”，共{step}步，单次制作需要约{second}秒。</source>
