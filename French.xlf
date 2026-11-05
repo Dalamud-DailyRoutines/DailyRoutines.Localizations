@@ -10555,36 +10555,33 @@ Paramètre(s) : {2}</target>
                 <target>Limiteur d’effets sonores</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
-                <source>禁止游戏世界画面渲染, 仅保留游戏 UI 界面</source>
-                <target>Désactiver le rendu du monde sauf interfaces utilisateur</target>
+                <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
-                <source>禁止技能栏渲染</source>
-                <target>Désactiver le rendu des barres d’actions</target>
+                <source>禁止热键栏渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留聊天栏</source>
-                <target>Désactiver le rendu de l’interface sauf journal de chat</target>
+                <source>禁止界面渲染，仅保留聊天栏</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
-                <source>禁止游戏 UI 界面渲染, 仅保留名牌</source>
-                <target>Désactiver le rendu de l’interface sauf plaques nominatives</target>
+                <source>禁止界面渲染，仅保留姓名板</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
                 <target>Désactiver le rendu du journal de chat</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
-                <source>禁止名牌渲染</source>
-                <target>Désactiver le rendu des plaques nominatives</target>
+                <source>禁止姓名板渲染</source>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
                 <target>Désactiver le rendu des informations de cible</target>
             </trans-unit>
+            <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
+            <source>隐藏标题界面版本信息与操作菜单</source>
+          </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
-                <source>提供一系列游戏画面特殊渲染模式, 如禁止渲染游戏世界画面仅渲染界面、仅渲染玩家名牌隐藏其他界面等, 以便利游戏内截图拍摄、RP 等需求</source>
-                <target>Fournit des modes de rendu spéciaux comme « Désactiver le rendu du monde sauf interfaces utilisateur » ou « Désactiver le rendu de l’interface sauf plaques nominatives », utiles pour captures d’écran, roleplay, etc.</target>
+                <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -10968,7 +10965,7 @@ Pour les utiliser, rejoignez notre serveur Discord (voir en bas à gauche de la 
                 <source>工作模式</source>
                 <target>Mode de fonctionnement</target>
             </trans-unit>
-            <trans-unit id="WorkTheory" xml:space="preserve">
+          <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>Principe de fonctionnement</target>
             </trans-unit>
