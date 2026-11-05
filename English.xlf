@@ -8234,33 +8234,44 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
                 <source>设备缺乏有效辨识信息（如虚拟机）</source>
+                <target>The device couldn&apos;t be identified for some reasons. (e.g., running in a virtual environment).</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
                 <source>尚未登录</source>
+                <target>You haven&apos;t logged in yet.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-WaitForServer" xml:space="preserve">
                 <source>等待服务器下发凭证信息</source>
+                <target>Now waiting for server response...</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-ExpireTime" xml:space="preserve">
                 <source>过期时间</source>
+                <target>Expires At</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester" xml:space="preserve">
                 <source>内部测试凭证</source>
+                <target>Tester Qualification</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester-Help" xml:space="preserve">
                 <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
+                <target>Tester qualifications are distributed to developers and contributors for testing purposes.
+Tester qualifications are not available to the public, which means there&apos;s no guaranteed approach to acquire a tester qualification. Sponsorship will NOT grant you a tester qualification. No individual in Daily Routines Team would provide tester qualifications through private contact. There are many scams around this, so please be cautious.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-InvalidCredential" xml:space="preserve">
                 <source>无效的凭证信息</source>
+                <target>Invalid credential.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-ServerConnectionLost" xml:space="preserve">
                 <source>无法连接至认证服务器</source>
+                <target>Failed to connect to the authentication server.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Title" xml:space="preserve">
                 <source>Daily Routines 在线验证服务</source>
+                <target>Daily Routines Online Authentication</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportError" xml:space="preserve">
                 <source>导入收藏夹失败。</source>
+                <target>Failed to import the favourites.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
                 <source>已导入收藏夹。</source>
