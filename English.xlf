@@ -4773,7 +4773,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-CommandHelp" xml:space="preserve">
                 <source>打开/关闭追踪列表窗口</source>
-                <target>to display or hide the tracking list.</target>
+                <target>to access or hide the target list.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-ContextMenu-NotToTrack" xml:space="preserve">
                 <source>停止持续追踪</source>
@@ -4797,6 +4797,7 @@ You could add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-NotToTrack" xml:space="preserve">
                 <source>停止了对{player}的持续追踪。</source>
+                <target>The tracking for {player} has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayers-Notification-ToTrack" xml:space="preserve">
                 <source>开始持续追踪{player}，可以在打开的界面中详细配置。
