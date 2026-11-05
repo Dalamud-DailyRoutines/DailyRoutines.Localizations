@@ -8390,19 +8390,25 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale" xml:space="preserve">
                 <source>字体缩放</source>
+                <target>Font Scaling</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
                 <source>相对于 Dalamud 字号的缩放倍率，默认为1，最小为0.1。</source>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
                 <source>托盘悬浮窗</source>
+                <target>Tray Widget</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay-Help" xml:space="preserve">
                 <source>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
 ※右键拖拽该悬浮窗即可调整位置。</source>
+                <target>Provide a tray widget on the screen to access the main interface.
+
+※ Hold the right mouse and drag the widget to adjust its position.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-LocalModules-PathHelp" xml:space="preserve">
                 <source>请填写本地模块文件的绝对路径。</source>
+                <target>Please enter absolute paths to local module files.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules" xml:space="preserve">
                 <source>默认启用推荐模块</source>
