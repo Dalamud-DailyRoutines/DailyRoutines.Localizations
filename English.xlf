@@ -9528,6 +9528,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{steps}步 · 约{seconds}秒</source>
+                <target>{steps, plural, one {# step} other {# steps}}, approximately {seconds, plural, one {# second} other {# seconds}}.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
                 <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
