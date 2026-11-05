@@ -8321,27 +8321,35 @@ After modifying this item, you need to restart the module to take effect</target
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
+                <target>Minimal Gil Navigation</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
                 <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过非玩家对象和过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
+                <target>All the navigation across zones will take the most economical route if the option is enabled, meaning it would minimize the gil costs as much as possible by introducing a considerable amount of free transportation and zone connections. The navigation result could be unbearably lengthy in some extreme cases.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment" xml:space="preserve">
                 <source>修正环境不一致状态</source>
+                <target>Dive Correction</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment-Help" xml:space="preserve">
                 <source>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</source>
+                <target>Automatically correct all the inconsistency while initiating or ending a dive in order to prevent being unable to interact or being forcibly re-positioned by the server.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK" xml:space="preserve">
                 <source>防止暂离状态</source>
+                <target>Never AFK</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK-Help" xml:space="preserve">
                 <source>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</source>
+                <target>Disable all the timers that control the AFK status in order to prevent the trailer being played, the character&apos;s online status being switched and the character being kicked.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo" xml:space="preserve">
                 <source>跳过标志界面</source>
+                <target>Skip Logos</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo-Help" xml:space="preserve">
                 <source>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</source>
+                <target>Skip all the logos and disclaimers during client startup.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
                 <source>不显示“DR”前缀</source>
