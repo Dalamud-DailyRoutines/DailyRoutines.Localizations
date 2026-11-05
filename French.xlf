@@ -9286,12 +9286,10 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <target>Résoudre la recette</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CopyMacro" xml:space="preserve">
-                <source>复制宏#{0}</source>
-                <target>Copier la macro n° {0}</target>
+                <source>复制宏#{index}</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
-                <source>制作{0}次</source>
-                <target>Synthétiser {0} fois</target>
+                <source>制作{count}次</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-ShowOtherRecipes" xml:space="preserve">
                 <source>显示其余</source>
@@ -9314,72 +9312,23 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <target>Bouton de calcul de recette</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CaculateRecipeButton-Help" xml:space="preserve">
-                <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解配方制作技能。</source>
-                <target>Ajoute un bouton « Résoudre la recette » sur le bouton « Commencer la synthèse », pour trouver la séquence d’actions adaptée à l’état actuel.</target>
+                <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解出用于制作配方的技能序列。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
                 <target>Panneau de catégories amélioré</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
-                <source>将原本仅能固定切换至下一个分类的配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。</source>
-                <target>Divise le composant de catégorie de recette, qui ne permettait que de passer à la catégorie suivante, en trois zones cliquables : un clic ouvre directement la catégorie correspondante.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons" xml:space="preserve">
-                <source>显示配方其他职业版本按钮</source>
-                <target>Même recette sur d’autres jobs</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-DisplayOthersButtons-Help" xml:space="preserve">
-                <source>若其他职业也能制作当前所选配方，则在顶部显示快捷职业切换按钮，用以一键查看该配方在全部或某一职业下的版本。</source>
-                <target>Si d’autres jobs peuvent aussi synthétiser la recette sélectionnée, affiche en haut des boutons de changement rapide de job pour voir la recette de tous les jobs ou d’un job précis en un clic.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons" xml:space="preserve">
-                <source>材料来源按钮</source>
-                <target>Traçage des sources de matériaux</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-MaterialSourceButtons-Help" xml:space="preserve">
-                <source>在各材料左侧新增图标按钮，用以指示和查询是否可从非玩家角色或市场处购买该材料。</source>
-                <target>Ajoute une icône à gauche de chaque matériau pour indiquer s’il peut être acheté auprès de PNJ ou sur le marché.</target>
+                <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
+※原本点击后仅能固定切换至下一个分类</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
                 <target>Qualité maximale en synthèse d’essai</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality-Help" xml:space="preserve">
-                <source>解除制作练习初期品质设置最多为最高品质一半的上限。</source>
-                <target>Supprime la limite qui plafonnait la qualité initiale en mode entraînement à la moitié de la qualité maximale.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish" xml:space="preserve">
-                <source>提醒简易制作完成</source>
-                <target>Notifier à la fin de la synthèse rapide</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-NotifyQuickSynthesisFinish-Help" xml:space="preserve">
-                <source>简易制作完成时，发送通知提醒。</source>
-                <target>Envoie une notification lorsque la synthèse rapide est terminée.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-QuickSynthesisMore" xml:space="preserve">
-                <source>突破简易制作上限</source>
-                <target>Limite de synthèse rapide augmentée</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-QuickSynthesisMore-Help" xml:space="preserve">
-                <source>使单次简易制作最多可达255次，超出该值时自动分批简易制作。</source>
-                <target>Permet jusqu’à 255 synthèses rapides d’un coup ; au-delà, elles sont automatiquement réparties en plusieurs lots.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SearchClearButton" xml:space="preserve">
-                <source>清除搜索内容按钮</source>
-                <target>Bouton d’effacement de recherche</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SearchClearButton-Help" xml:space="preserve">
-                <source>在搜索框右部新增清除按钮，点击即可清空搜索内容并跳转回开始搜索前的配方页面。</source>
-                <target>Ajoute un bouton d’effacement à droite du champ de recherche : un clic vide la recherche et revient à la page de recette affichée avant la recherche.</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton" xml:space="preserve">
-                <source>切换职业按钮</source>
-                <target>Bouton de changement de job</target>
-            </trans-unit>
-            <trans-unit id="OptimizedRecipeNote-Config-SwitchJobButton-Help" xml:space="preserve">
-                <source>若当前职业非配方职业，则将“开始制作”按钮替换为“切换职业”按钮。</source>
-                <target>Si le job actuel n’est pas celui de la recette, remplace le bouton « Commencer la synthèse » par un bouton « Changer de job ».</target>
+                <source>使制作练习初期品质可以直接设置为最高品质。
+※原本仅能设置为最高品质的一半。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
                 <source>复制宏</source>
@@ -9402,8 +9351,7 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <target>Le plugin « Raphael.Dalamud » doit être installé et activé pour utiliser la fonction « Résoudre la recette ».</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
-                <source>复制了宏#{0}至剪贴板。</source>
-                <target>Macro n° {0} copiée dans le presse-papiers.</target>
+                <source>复制了宏#{index}至剪贴板。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
                 <source>复制了宏到剪贴板。</source>
@@ -9414,12 +9362,10 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <target>Aperçu des étapes</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
-                <source>已超出单次简易制作上限, 开始自动分批简易制作, 共 {0} 批</source>
-                <target>La limite de synthèse rapide a été atteinte. Les objets seront synthétisés en {0} lot(s).</target>
+                <source>超出了单次简易制作上限，自动分批简易制作，共{batchCount}批。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthFinish" xml:space="preserve">
-                <source>简易制作已全部完成</source>
-                <target>La synthèse rapide est terminée.</target>
+                <source>完成了全部简易制作。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-SolveResult" xml:space="preserve">
                 <source>求解了{classJob}配方“{item}”，共{step}步，单次制作需要约{second}秒。</source>
@@ -9439,11 +9385,10 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <source>主副手</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
-                <source>共{0}步 · 约{1}秒</source>
-                <target>{0} étapes · environ {1} s</target>
+                <source>共{steps}步 · 约{seconds}秒</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
-                <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、添加快捷清除搜索结果按、与拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方与支持搜索按照装备适用职业分类结果。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
+                <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
