@@ -2146,6 +2146,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents-Help" xml:space="preserve">
                 <source>完成任务时，不会自动退出。</source>
+                <target>Stay in the duty upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set" xml:space="preserve">
                 <source>手动指定本次副本任务完成时的自动退出行为。</source>
