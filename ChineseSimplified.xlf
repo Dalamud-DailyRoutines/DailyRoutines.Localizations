@@ -49,6 +49,12 @@
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
             </trans-unit>
+            <trans-unit id="AlwaysYesDescription" xml:space="preserve">
+                <source>使用确认键时，默认选择对话框中的“是”、长按确认按钮或必要的复选框。</source>
+            </trans-unit>
+            <trans-unit id="AlwaysYesTitle" xml:space="preserve">
+                <source>总是'是'</source>
+            </trans-unit>
             <trans-unit id="Amount" xml:space="preserve">
                 <source>数量</source>
             </trans-unit>
