@@ -5921,9 +5921,11 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
                 <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
+                <target>Automatically speak with &quot;Goblin Pathfinder&quot; to acquire &quot;Runstop Headgate Key&quot; in the duty &quot;Brayflox&apos;s Longstop&quot;.</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
                 <source>休养胜地布雷福洛克斯野营地助手</source>
+                <target>Brayflox&apos;s Longstop Helper</target>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -6273,7 +6275,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
                 <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
-                <target>Automatically highlight all the bombs along with radius drawings during the duty &quot;Alexander - The Cuff of the Father&quot;. Additionally, make all the bombs untargetable if the character is not mounting &quot;magitek gobwalker G-VII&quot;.</target>
+                <target>Automatically highlight all the bombs along with radius drawings during the duty &quot;Alexander - The Cuff of the Father&quot;. Additionally, make all the bombs untargetable if the character is not mounting &quot;Magitek Gobwalker G-VII&quot;.</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
                 <source>启动之章2助手</source>
@@ -7841,7 +7843,7 @@ Reverse Order: Start from the self, check from the bottom to the top of the part
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
                 <source>进入副本“财宝传说破舰岛”后，自动突出标记需要避开的“捕兽夹”与需要开启的“怪宝箱”。</source>
-                <target>Automatically highlight all the &quot;iron leg traps&quot; that should be avoided and all the mimic coffers that should be engaged in the duty &quot;Hullbreaker Isle&quot;.</target>
+                <target>Automatically highlight all the &quot;Iron Leg Traps&quot; that should be avoided and all the mimic coffers that should be engaged in the duty &quot;Hullbreaker Isle&quot;.</target>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
                 <source>财宝传说破舰岛助手</source>
@@ -10051,7 +10053,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
                 <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
-                <target>Automatically highlight the party member trapped in &quot;ama-no-iwato&quot; during the duty &quot;The Pool of Tribute&quot;.</target>
+                <target>Automatically highlight the party member trapped in &quot;Ama-no-iwato&quot; during the duty &quot;The Pool of Tribute&quot;.</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
                 <source>须佐之男歼灭战助手</source>
