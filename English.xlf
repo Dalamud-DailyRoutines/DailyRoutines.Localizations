@@ -2165,6 +2165,7 @@ If the status was applied by a combo action, the actual duration would be the se
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
             <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+            <target>The delay kicks off after receiving the &quot;duty completion&quot; event from the server, which is generally distributed much earlier than when the appearances of the character and arena are updated by subsequent events.</target>
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
@@ -2175,9 +2176,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
                 <source>不自动退出高难度任务</source>
+                <target>Disable In High-end Duties</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
+                <target>All the duties belonging to the &quot;High-end Duty&quot; catalog in Party Finder at the moment. The catalog is typically rolled over with every medium update. Therefore, duties in the past will not be considered as High-end Duties.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
