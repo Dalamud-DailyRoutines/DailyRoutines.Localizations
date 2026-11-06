@@ -58,6 +58,7 @@
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
                 <source>阿尔法幻境3助手</source>
+                <target>Alphascape V3.0 Helper</target>
             </trans-unit>
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
