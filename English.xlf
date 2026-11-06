@@ -10080,6 +10080,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
                 <source>最终决战天幕魔导城助手</source>
+                <target>Praetorium Helper</target>
             </trans-unit>
             <trans-unit id="PreCondition" xml:space="preserve">
                 <source>先决条件</source>
@@ -10499,9 +10500,11 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SastashaHelper-Message" xml:space="preserve">
                 <source>正确的珊瑚装置是“{name}”。</source>
+                <target>The correct coral formation is &quot;{name}&quot;.</target>
             </trans-unit>
             <trans-unit id="SastashaHelperDescription" xml:space="preserve">
                 <source>进入副本“天然要害沙斯塔夏溶洞”后，自动判断正确的珊瑚装置，发送通知提示并突出显示。</source>
+                <target>Automatically highlight the correct coral formation along with a notification in the duty &quot;Sastasha&quot;.</target>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
                 <source>天然要害沙斯塔夏溶洞助手</source>
