@@ -2181,12 +2181,15 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
+                <target>Now going to leave upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-NoLeave" xml:space="preserve">
                 <source>本次任务完成时将不自动退出。</source>
+                <target>Now going to stay upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-None" xml:space="preserve">
                 <source>清除了为本次任务手动指定的自动退出行为。</source>
+                <target>The leave settings for this run have been cleared.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
