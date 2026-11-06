@@ -55,6 +55,7 @@
             </trans-unit>
             <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
                 <source>进入副本“欧米茄时空狭缝 阿尔法幻境3”后，当“雷力投射点”出现时，自动反复对其发动任务指令“欧米茄干扰器”。</source>
+                <target>Automatically spam the duty action &quot;Omega Jammer&quot; on &quot;Conductive Focus&quot; in the duty &quot;Alphascape V3.0&quot;.</target>
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
                 <source>阿尔法幻境3助手</source>
@@ -2160,6 +2161,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
             <source>退出延迟（毫秒）</source>
+            <target>Leave Delay</target>
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
             <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
@@ -2188,7 +2190,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
-                <target>Automatically leave upon completing a designated duty after proper configurations.</target>
+                <target>Automatically leave the duty upon completion after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyTitle" xml:space="preserve">
                 <source>自动退出副本</source>
