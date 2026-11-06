@@ -10047,9 +10047,11 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
                 <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
+                <target>Automatically highlight the party member trapped in &quot;ama-no-iwato&quot; during the duty &quot;The Pool of Tribute&quot;.</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
                 <source>须佐之男歼灭战助手</source>
+                <target>Pool Of Tribute Helper</target>
             </trans-unit>
             <trans-unit id="PortraitAnimationTimeEditor-AddonTitle" xml:space="preserve">
                 <source>动作调整</source>
@@ -10077,6 +10079,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
                 <source>进入副本“最终决战天幕魔导城”后，当骑乘“魔导装甲”时，自动朝着最佳范围攻击目标所在处发动“魔导加农炮”。</source>
+                <target>Automatically fire &quot;Magitek Cannon&quot; at the real-time optimal location while mounting &quot;Magitek Reaper&quot; in the duty &quot;The Praetorium&quot;.</target>
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
                 <source>最终决战天幕魔导城助手</source>
@@ -10764,7 +10767,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
-                <target>Automatically highlight party members with the status &quot;Terror&quot; during the duty &quot;The Striking Tree (Hard)&quot;.</target>
+                <target>Automatically highlight the party members with the status &quot;Terror&quot; during the duty &quot;The Striking Tree (Hard)&quot;.</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
