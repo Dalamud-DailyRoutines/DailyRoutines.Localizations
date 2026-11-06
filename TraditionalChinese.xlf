@@ -54,12 +54,10 @@
                 <target>不透明度</target>
             </trans-unit>
             <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 当 &quot;{1}&quot; 出现时, 自动重复对其使用任务指令 &quot;{2}&quot;</source>
-                <target>進入副本 &quot;{0}&quot; 後, 當 &quot;{1}&quot; 出現時, 自動重複對其使用任務指令 &quot;{2}&quot;</target>
+                <source>进入副本“欧米茄时空狭缝 阿尔法幻境3”后，当“雷力投射点”出现时，自动反复对其发动任务指令“欧米茄干扰器”。</source>
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
-                <source>&quot;欧米茄时空狭缝 阿尔法幻境3&quot; 助手</source>
-                <target>&quot;歐米茄時空狹縫 阿爾法幻境3&quot; 助手</target>
+                <source>阿尔法幻境3助手</source>
             </trans-unit>
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
@@ -5833,12 +5831,10 @@ XivGear (xivgear.app)</target>
                 <target>右下角</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动与 &quot;{1}&quot; 对话获取 &quot;{2}&quot;</source>
-                <target>進入副本 &quot;{0}&quot; 後, 自動與 &quot;{1}&quot; 對話獲取 &quot;{2}&quot;</target>
+                <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
-                <source>&quot;休养胜地布雷福洛克斯野营地&quot; 助手</source>
-                <target>&quot;休養勝地布雷福洛克斯野營地&quot; 助手</target>
+                <source>休养胜地布雷福洛克斯野营地助手</source>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -6186,12 +6182,10 @@ XivGear (xivgear.app)</target>
                 <target>創建</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 高亮显示 &quot;{2}&quot;, 并标注其爆炸范围, 若当前未骑乘&quot;{1}&quot;, 则禁止选中 &quot;{2}&quot;</source>
-                <target>進入副本 &quot;{0}&quot; 後, 高亮顯示 &quot;{2}&quot;, 並標註其爆炸範圍, 若當前未騎乘&quot;{1}&quot;, 則禁止選中 &quot;{2}&quot;</target>
+                <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
-                <source>&quot;亚历山大机神城 启动之章2&quot; 助手</source>
-                <target>&quot;亞歷山大機神城 啟動之章2&quot; 助手</target>
+                <source>启动之章2助手</source>
             </trans-unit>
             <trans-unit id="Current" xml:space="preserve">
                 <source>当前</source>
@@ -7751,12 +7745,10 @@ XivGear (xivgear.app)</target>
                 <target>需要開啟</target>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记地面所有的 &quot;{1}&quot; 与需要开启的 &quot;{2}&quot;</source>
-                <target>進入副本 &quot;{0}&quot; 後, 自動標記地面所有的 &quot;{1}&quot; 與需要開啟的 &quot;{2}&quot;</target>
+                <source>进入副本“财宝传说破舰岛”后，自动突出标记需要避开的“捕兽夹”与需要开启的“怪宝箱”。</source>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
-                <source>&quot;财宝传说破舰岛&quot; 助手</source>
-                <target>&quot;財寶傳說破艦島&quot; 助手</target>
+                <source>财宝传说破舰岛助手</source>
             </trans-unit>
             <trans-unit id="ID" xml:space="preserve">
                 <source>唯一标识符</source>
@@ -9792,12 +9784,10 @@ XivGear (xivgear.app)</target>
                 <target>导航寻路</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以快速击破正确的 &quot;{2}&quot;</source>
-                <target>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以快速击破正确的 &quot;{2}&quot;</target>
+                <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
-                <source>&quot;须佐之男歼灭战&quot; 助手</source>
-                <target>&quot;須佐之男殲滅戰&quot; 助手</target>
+                <source>须佐之男歼灭战助手</source>
             </trans-unit>
             <trans-unit id="PortraitAnimationTimeEditor-AddonTitle" xml:space="preserve">
                 <source>动作调整</source>
@@ -9824,12 +9814,10 @@ XivGear (xivgear.app)</target>
                 <target>坐標</target>
             </trans-unit>
             <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 并骑乘上 &quot;{1}&quot; 后, 自动朝着最佳范围攻击目标所在处使用坐骑技能 &quot;{2}&quot;</source>
-                <target>進入副本 &quot;{0}&quot; 並騎乘上 &quot;{1}&quot; 後, 自動朝著最佳範圍攻擊目標所在處使用坐騎技能 &quot;{2}&quot;</target>
+                <source>进入副本“最终决战天幕魔导城”后，当骑乘“魔导装甲”时，自动朝着最佳范围攻击目标所在处发动“魔导加农炮”。</source>
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
-                <source>&quot;最终决战天幕魔导城&quot; 助手</source>
-                <target>&quot;最終決戰天幕魔導城&quot; 助手</target>
+                <source>最终决战天幕魔导城助手</source>
             </trans-unit>
             <trans-unit id="PreCondition" xml:space="preserve">
                 <source>先决条件</source>
@@ -10241,16 +10229,13 @@ XivGear (xivgear.app)</target>
                 <target>允許傳送至當前以太之光</target>
             </trans-unit>
             <trans-unit id="SastashaHelper-Message" xml:space="preserve">
-                <source>正确的珊瑚机关: {0}</source>
-                <target>正確的珊瑚機關: {0}</target>
+                <source>正确的珊瑚装置是“{name}”。</source>
             </trans-unit>
             <trans-unit id="SastashaHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动提示并高亮显示正确的珊瑚机关</source>
-                <target>進入副本 &quot;{0}&quot; 後, 自動提示並高亮顯示正確的珊瑚機關</target>
+                <source>进入副本“天然要害沙斯塔夏溶洞”后，自动判断正确的珊瑚装置，发送通知提示并突出显示。</source>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
-                <source>&quot;天然要害沙斯塔夏溶洞&quot; 助手</source>
-                <target>&quot;天然要害沙斯塔夏溶洞&quot; 助手</target>
+                <source>天然要害沙斯塔夏溶洞助手</source>
             </trans-unit>
             <trans-unit id="Save" xml:space="preserve">
                 <source>保存</source>
@@ -10497,12 +10482,10 @@ XivGear (xivgear.app)</target>
                 <target>結束</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以帮助快速解除</source>
-                <target>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以帮助快速解除</target>
+                <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
-                <source>&quot;拉姆歼灭战&quot; 助手</source>
-                <target>&quot;拉姆歼灭战&quot; 助手</target>
+                <source>拉姆歼灭战助手</source>
             </trans-unit>
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
