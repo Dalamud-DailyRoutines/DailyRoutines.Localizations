@@ -2142,6 +2142,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>不自动退出的副本</source>
+                <target>Duty To Stay</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents-Help" xml:space="preserve">
                 <source>完成任务时，不会自动退出。</source>
@@ -2152,12 +2153,15 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-InstantLeave" xml:space="preserve">
                 <source>完成任务时立刻自动退出。</source>
+                <target>to immediately leave the duty upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
                 <source>完成任务时不自动退出。</source>
+                <target>to stay in the duty upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-None" xml:space="preserve">
                 <source>清除手动指定的自动退出行为。</source>
+                <target>to clear the temporary settings for the current run.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
             <source>退出延迟（毫秒）</source>
@@ -2169,10 +2173,13 @@ If the status was applied by a combo action, the actual duration would be the se
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
+                <target>Duty To Leave Immediately</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents-Help" xml:space="preserve">
                 <source>完成任务时，会忽略“退出延迟”设置，立刻退出。
 ※优先级低于“不自动退出的副本”。</source>
+                <target>Immediately leave the duty upon completion without applying any delay.
+※ Immediate leaving won&apos;t work if it&apos;s a duty to stay.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
                 <source>不自动退出高难度任务</source>
@@ -2184,15 +2191,15 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
-                <target>Now going to leave upon completion.</target>
+                <target>Now going to immediately leave the duty upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-NoLeave" xml:space="preserve">
                 <source>本次任务完成时将不自动退出。</source>
-                <target>Now going to stay upon completion.</target>
+                <target>Now going to stay in the duty upon completion.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-None" xml:space="preserve">
                 <source>清除了为本次任务手动指定的自动退出行为。</source>
-                <target>The leave settings for this run have been cleared.</target>
+                <target>The temporary settings for this run have been cleared.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
