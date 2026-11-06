@@ -10505,6 +10505,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
                 <source>天然要害沙斯塔夏溶洞助手</source>
+                <target>Sastasha Helper</target>
             </trans-unit>
             <trans-unit id="Save" xml:space="preserve">
                 <source>保存</source>
@@ -10760,9 +10761,11 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
+                <target>Automatically highlight party members with the status &quot;Terror&quot; during the duty &quot;The Striking Tree (Hard)&quot;.</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
+                <target>Striking Tree Helper</target>
             </trans-unit>
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
