@@ -2142,62 +2142,51 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <target>「キーバウンドブロウラー」自動周回</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
-                <source>黑名单副本</source>
-                <target>ブラックリストコンテンツ</target>
+                <source>不自动退出的副本</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents-Help" xml:space="preserve">
-                <source>此处设置副本完成时, 不会自动退出</source>
-                <target>設定したコンテンツをクリア時、自動的に退出しないように設定します。</target>
+                <source>完成任务时，不会自动退出。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set" xml:space="preserve">
                 <source>手动指定本次副本任务完成时的自动退出行为。</source>
                 <target>今回のコンテンツコンプリート時における自動退出挙動を手動で指定します。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-InstantLeave" xml:space="preserve">
-                <source>完成副本任务时立刻自动退出。</source>
-                <target>コンテンツコンプリート時に即時退出する。</target>
+                <source>完成任务时立刻自动退出。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
-                <source>完成副本任务时不自动退出。</source>
-                <target>コンテンツコンプリート時に自動退出しない。</target>
+                <source>完成任务时不自动退出。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-None" xml:space="preserve">
-                <source>清除手动指定的自动退出副本行为。</source>
-                <target>手動設定されたコンテンツ自動退出挙動を解除する。</target>
+                <source>清除手动指定的自动退出行为。</source>
             </trans-unit>
-            <trans-unit id="AutoLeaveDuty-ForceToLeave" xml:space="preserve">
-                <source>强制退本</source>
-                <target>退出制限無視</target>
-            </trans-unit>
+            <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
+            <source>退出延迟（毫秒）</source>
+          </trans-unit>
+            <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
+            <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+          </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
-                <source>即刻退出副本</source>
-                <target>ステージクリア後に即退出</target>
+                <source>立刻退出的任务</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents-Help" xml:space="preserve">
-                <source>此处设置的副本完成时, 将立刻强制退出, 忽略延迟设置
-(优先级低于黑名单副本)</source>
-                <target>ステージ完了時、待機時間設定を無視して即退出します。
-(優先度：ブラックリスト対象ステージ ＞ 本設定)</target>
+                <source>完成任务时，会忽略“退出延迟”设置，立刻退出。
+※优先级低于“不自动退出的副本”。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
-                <source>不自动退出现版本高难副本</source>
-                <target>高難度ダンジョンから自動的に退出しない</target>
+                <source>不自动退出高难度任务</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
-                <source>即在当前版本会被&quot;队员招募&quot;界面分类为&quot;高难度任务&quot;的所有副本</source>
-                <target>「パーティ募集」の画面を開いた際、現在のゲームクライアントのバージョンで「高難易度コンテンツ」にカテゴライズされるすべてのステージが対象。</target>
+                <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
-                <source>已设定本次副本任务完成时立刻自动退出。</source>
-                <target>今回のコンテンツコンプリート時に即時退出するよう設定されました。</target>
+                <source>本次任务完成时将立刻自动退出。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-NoLeave" xml:space="preserve">
-                <source>已设定本次副本任务完成时不自动退出。</source>
-                <target>今回のコンテンツコンプリート時に自動退出しないよう設定されました。</target>
+                <source>本次任务完成时将不自动退出。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-None" xml:space="preserve">
-                <source>已清除本次副本任务手动指定的自动退出行为。</source>
-                <target>今回のコンテンツコンプリート時に手動設定された自動退出挙動を解除しました。</target>
+                <source>清除了为本次任务手动指定的自动退出行为。</source>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
@@ -10966,11 +10955,11 @@ UI: {0}
                 <source>工作原理</source>
                 <target>ワークセオリー</target>
             </trans-unit>
-            <trans-unit id="Yes" xml:space="preserve">
+          <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>はい</target>
             </trans-unit>
-            <trans-unit id="Zone" xml:space="preserve">
+          <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>ゾーン</target>
             </trans-unit>
