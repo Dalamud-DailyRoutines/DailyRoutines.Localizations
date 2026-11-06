@@ -6273,6 +6273,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
                 <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
+                <target>Automatically highlight all the bombs along with radius drawings during the duty &quot;Alexander - The Cuff of the Father&quot;. Additionally, make all the bombs untargetable if the character is not mounting &quot;magitek gobwalker G-VII&quot;.</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
                 <source>启动之章2助手</source>
@@ -10770,7 +10771,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
-                <target>Automatically highlight the party members with the status &quot;Terror&quot; during the duty &quot;The Striking Tree (Hard)&quot;.</target>
+                <target>Automatically highlight all the party members with the status &quot;Terror&quot; during the duty &quot;The Striking Tree (Hard)&quot;.</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
