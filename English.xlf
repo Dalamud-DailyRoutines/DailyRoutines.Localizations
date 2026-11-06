@@ -54,12 +54,10 @@
                 <target>Opacity</target>
             </trans-unit>
             <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 当 &quot;{1}&quot; 出现时, 自动重复对其使用任务指令 &quot;{2}&quot;</source>
-                <target>Automatically execute the duty action &quot;{2}&quot; on &quot;{1}&quot; repeatedly during the duty &quot;{0}&quot;.</target>
+                <source>进入副本“欧米茄时空狭缝 阿尔法幻境3”后，当“雷力投射点”出现时，自动反复对其发动任务指令“欧米茄干扰器”。</source>
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
-                <source>&quot;欧米茄时空狭缝 阿尔法幻境3&quot; 助手</source>
-                <target>Alphascape V3.0 Helper</target>
+                <source>阿尔法幻境3助手</source>
             </trans-unit>
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
@@ -5933,12 +5931,10 @@ Check Availability At NPCs</target>
                 <target>Bottom Right</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动与 &quot;{1}&quot; 对话获取 &quot;{2}&quot;</source>
-                <target>Automatically speak with &quot;{1}&quot; to acquire &quot;{2}&quot; in the duty &quot;{0}&quot;.</target>
+                <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
-                <source>&quot;休养胜地布雷福洛克斯野营地&quot; 助手</source>
-                <target>Brayflox&apos;s Longstop Helper</target>
+                <source>休养胜地布雷福洛克斯野营地助手</source>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -6287,12 +6283,10 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
                 <target>Create</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 高亮显示 &quot;{2}&quot;, 并标注其爆炸范围, 若当前未骑乘&quot;{1}&quot;, 则禁止选中 &quot;{2}&quot;</source>
-                <target>Automatically highlight &quot;{2}&quot; and draw the blast radius if the character is mounting, or make &quot;{2}&quot; untargetable if the character is not mounting on &quot;{1}&quot; during the duty &quot;{0}&quot;.</target>
+                <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
-                <source>&quot;亚历山大机神城 启动之章2&quot; 助手</source>
-                <target>Alexander Cuff Of Father Helper</target>
+                <source>启动之章2助手</source>
             </trans-unit>
             <trans-unit id="Current" xml:space="preserve">
                 <source>当前</source>
@@ -7855,12 +7849,10 @@ Reverse Order: Start from the self, check from the bottom to the top of the part
                 <target>To be contacted</target>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记地面所有的 &quot;{1}&quot; 与需要开启的 &quot;{2}&quot;</source>
-                <target>Automatically mark all the &quot;{1}&quot; on the ground and all the &quot;{2}&quot; that need to be contacted in the duty &quot;{0}&quot;.</target>
+                <source>进入副本“财宝传说破舰岛”后，自动突出标记需要避开的“捕兽夹”与需要开启的“怪宝箱”。</source>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
-                <source>&quot;财宝传说破舰岛&quot; 助手</source>
-                <target>Hullbreaker Isle Helper</target>
+                <source>财宝传说破舰岛助手</source>
             </trans-unit>
             <trans-unit id="ID" xml:space="preserve">
                 <source>唯一标识符</source>
@@ -10065,12 +10057,10 @@ Enable the option to turn the fake panel into a real three-button panel.</target
                 <target>Vnavmesh Navigation</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以快速击破正确的 &quot;{2}&quot;</source>
-                <target>Automatically mark the party member with the status &quot;{1}&quot; in order to help determine &quot;{2}&quot; to be attacked in the duty &quot;{0}&quot;.</target>
+                <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
-                <source>&quot;须佐之男歼灭战&quot; 助手</source>
-                <target>Pool Of Tribute Helper</target>
+                <source>须佐之男歼灭战助手</source>
             </trans-unit>
             <trans-unit id="PortraitAnimationTimeEditor-AddonTitle" xml:space="preserve">
                 <source>动作调整</source>
@@ -10097,12 +10087,10 @@ Enable the option to turn the fake panel into a real three-button panel.</target
                 <target>Position</target>
             </trans-unit>
             <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 并骑乘上 &quot;{1}&quot; 后, 自动朝着最佳范围攻击目标所在处使用坐骑技能 &quot;{2}&quot;</source>
-                <target>Automatically cast the mount action &quot;{2}&quot; towards the optimal AOE position at the time while mounting &quot;{1}&quot; in the duty &quot;{0}&quot;.</target>
+                <source>进入副本“最终决战天幕魔导城”后，当骑乘“魔导装甲”时，自动朝着最佳范围攻击目标所在处发动“魔导加农炮”。</source>
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
-                <source>&quot;最终决战天幕魔导城&quot; 助手</source>
-                <target>Praetorium Helper</target>
+                <source>最终决战天幕魔导城助手</source>
             </trans-unit>
             <trans-unit id="PreCondition" xml:space="preserve">
                 <source>先决条件</source>
@@ -10521,16 +10509,13 @@ Parameter(s): {2}</target>
                 <target>Allow To Teleport To The Current Aetheryte Or Shard</target>
             </trans-unit>
             <trans-unit id="SastashaHelper-Message" xml:space="preserve">
-                <source>正确的珊瑚机关: {0}</source>
-                <target>The correct coral:</target>
+                <source>正确的珊瑚装置是“{name}”。</source>
             </trans-unit>
             <trans-unit id="SastashaHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动提示并高亮显示正确的珊瑚机关</source>
-                <target>Automatically highlight the correct coral in the duty &quot;{0}&quot;.</target>
+                <source>进入副本“天然要害沙斯塔夏溶洞”后，自动判断正确的珊瑚装置，发送通知提示并突出显示。</source>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
-                <source>&quot;天然要害沙斯塔夏溶洞&quot; 助手</source>
-                <target>Sastasha Helper</target>
+                <source>天然要害沙斯塔夏溶洞助手</source>
             </trans-unit>
             <trans-unit id="Save" xml:space="preserve">
                 <source>保存</source>
@@ -10785,12 +10770,10 @@ Parameter(s): {2}</target>
                 <target>Stop</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
-                <source>进入副本 &quot;{0}&quot; 后, 自动标记带有 &quot;{1}&quot; 状态的小队成员, 以帮助快速解除</source>
-                <target>Automatically mark the party member with the status &quot;{1}&quot; in the duty &quot;{0}&quot; for better perception.</target>
+                <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
-                <source>&quot;拉姆歼灭战&quot; 助手</source>
-                <target>Striking Tree Helper</target>
+                <source>拉姆歼灭战助手</source>
             </trans-unit>
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
