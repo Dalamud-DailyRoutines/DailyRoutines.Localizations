@@ -1141,7 +1141,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoEliminateFishAwareness-Notification-GlobalWarning" xml:space="preserve">
                 <source>无法抛竿，当前钓场已全局警惕，请前往其他钓场抛竿以解除。</source>
-                <target>Cast failed due to global wariness has occurred at the current fishing location. Cast at another current location to reset the wariness.</target>
+                <target>Failed to cast the rod since the global wariness has occurred at the current fishing location. Please cast at another location to reset.</target>
             </trans-unit>
             <trans-unit id="AutoEliminateFishAwareness-PreCondition-Quest" xml:space="preserve">
                 <source>完成任务“{quest}”。</source>
@@ -4597,11 +4597,11 @@ If not blank, it will only execute if the target name matches exactly.</target>
             </trans-unit>
             <trans-unit id="AutoSplitStacks-Notification-FullInventory" xml:space="preserve">
                 <source>背包已满，无法拆分物品。</source>
-                <target>Split failed due to full inventory.</target>
+                <target>Failed to split the items due to the full inventory.</target>
             </trans-unit>
             <trans-unit id="AutoSplitStacks-Notification-ItemNoFound" xml:space="preserve">
                 <source>没有找到对应物品，无法开始拆分。</source>
-                <target>Split failed due to item not found.</target>
+                <target>Failed to split the items since the item was not found.</target>
             </trans-unit>
             <trans-unit id="AutoSplitStacks-Popup-PleaseInput" xml:space="preserve">
                 <source>要拆分成每组多少个？</source>
@@ -6538,7 +6538,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ExportFailed" xml:space="preserve">
                 <source>导出自定义地图标记失败</source>
-                <target>Failed to export custom map marker.</target>
+                <target>Failed to export the custom map markers.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-Exported" xml:space="preserve">
                 <source>已将当前分组的地图标记导出至剪贴板</source>
@@ -6566,7 +6566,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ImportFailed" xml:space="preserve">
                 <source>导入自定义地图标记失败</source>
-                <target>Failed to import custom map marker.</target>
+                <target>Failed to import the custom map markers.</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarker-ImportInvalid" xml:space="preserve">
                 <source>剪贴板中没有有效的自定义地图标记数据</source>
@@ -9353,7 +9353,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedFriendList-UsedNames-QueryFailed" xml:space="preserve">
                 <source>曾用名查询失败，请稍后重试。</source>
-                <target>Failed to retrieve previous names. Please try again later.</target>
+                <target>Failed to retrieve the previous names. Please try again later.</target>
             </trans-unit>
             <trans-unit id="OptimizedFriendList-UsedNames-Querying" xml:space="preserve">
                 <source>正在查询曾用名……</source>
