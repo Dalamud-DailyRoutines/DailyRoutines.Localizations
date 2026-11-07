@@ -2177,6 +2177,7 @@
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
             <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+            <target>서버에서 &quot;임무 완료&quot; 이벤트를 전송하는 시점부터 시간이 측정되며, 이는 일반적으로 캐릭터와 맵이 임무 완료 상태로 전환되기 훨씬 이전입니다.</target>
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
@@ -5890,6 +5891,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
                 <source>准备传送至“{destination}”。</source>
+                <target>&quot;{destination}&quot;으로 전송 대기중입니다.</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -5913,6 +5915,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
+                <target>&quot;텔레포&quot; 화면을 더 나은 화면을 대체하며, 검색, 단축키 조작, 목적지 위치 미리보기, 메모 추가, 텔레포 목적지 위치 수정 기능을 지원하고, 도시 내 어느 에테라이트로든 전송할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
@@ -5946,9 +5949,11 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
                 <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
+                <target>&quot;브레이플록스의 야영지&quot; 임무에 진입하면, 자동으로 &quot;고블린 길잡이&quot;와 대화하여 &quot;피난처 정문 열쇠&quot;를 획득합니다.</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
                 <source>休养胜地布雷福洛克斯野营地助手</source>
+                <target>&quot;브레이플록스의 야영지&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -7869,6 +7874,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
                 <source>财宝传说破舰岛助手</source>
+                <target>&quot;난파선의 섬&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="ID" xml:space="preserve">
                 <source>唯一标识符</source>
@@ -8224,24 +8230,31 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account" xml:space="preserve">
                 <source>账号认证凭证</source>
+                <target>계정 인증 증명서</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account-Help" xml:space="preserve">
                 <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
+                <target>현재 접속 중인 게임 계정을 연동합니다. 활성화 이후 해당 계정에서 실행되는 플러그인은 활성화된 것으로 처리됩니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Copy" xml:space="preserve">
                 <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
+                <target>클릭하여 자가 인증 서비스용 암호화 인증 토큰을 복사합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device" xml:space="preserve">
                 <source>设备认证凭证</source>
+                <target>장치 인증 증명서</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device-Help" xml:space="preserve">
                 <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
+                <target>단일 기기에 연동합니다. 활성화 이후 해당 기기에서 실행되는 플러그인은 활성화된 것으로 처리됩니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint" xml:space="preserve">
                 <source>无法生成有效的认证凭证，原因可能为：</source>
+                <target>유효한 인증 정보를 생성할 수 없습니다. 예상되는 원인은 다음과 같습니다:</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
                 <source>设备缺乏有效辨识信息（如虚拟机）</source>
+                <target>장비에 유효한 식별 정보 부족(예: 가상 머신)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
                 <source>尚未登录</source>
