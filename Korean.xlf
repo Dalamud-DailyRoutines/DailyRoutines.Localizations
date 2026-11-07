@@ -8292,57 +8292,75 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Modules-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
+                <target>미리보기 이미지</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-RenderError" xml:space="preserve">
                 <source>渲染模块配置界面失败</source>
+                <target>브러시 모듈 구성 인터페이스 실패</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Report" xml:space="preserve">
                 <source>反馈</source>
+                <target>리포트</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Reset" xml:space="preserve">
                 <source>重置模块</source>
+                <target>모듈 리셋</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ResetSuccess" xml:space="preserve">
                 <source>已重置“{module}”模块。</source>
+                <target>모듈 &quot;{module}&quot;를 리셋했습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Credits" xml:space="preserve">
                 <source>致谢</source>
+                <target>감사</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-DevelopmentTeam" xml:space="preserve">
                 <source>开发团队</source>
+                <target>개발</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-SupportTeam" xml:space="preserve">
                 <source>支持团队</source>
+                <target>서포트</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Title" xml:space="preserve">
                 <source>关于</source>
+                <target>관련 있는</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
+                <target>관련 링크</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
+                <target>구역 간 이동 시 길 소모를 최대한 줄이기</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
                 <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过非玩家对象和过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
+                <target>일부 모듈은 내부 공유 로직을 사용하여 서로 다른 영역으로 이동합니다. 이때는 비플레이어 오브젝트와 맵 라인 통과 등의 방법으로 길 소모를 최대한 줄이려 하지만, 경로가 매우 길어질 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment" xml:space="preserve">
                 <source>修正环境不一致状态</source>
+                <target>환경 불일치 상태 수정</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment-Help" xml:space="preserve">
                 <source>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</source>
+                <target>잠수 상태로 진입하거나 탈출할 때, 여러 가지 이유로 발생한 환경 불일치 상태를 자동으로 수정하여 상호작용이 불가능해지거나 서버에 의해 강제로 영역 보안 구역으로 이동되는 것을 방지합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK" xml:space="preserve">
                 <source>防止暂离状态</source>
+                <target>자리비움상태방지</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK-Help" xml:space="preserve">
                 <source>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</source>
+                <target>자리비움 상태 타이머를 비활성화하여 온라인 상태가 자동으로 전환되거나, 비활성 상태로 인해 임무에서 퇴장되거나, 타이틀 화면에서 버전 애니메이션이 자동 재생되는 등의 상황을 방지합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo" xml:space="preserve">
                 <source>跳过标志界面</source>
+                <target>로고 화면 건너뛰기</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo-Help" xml:space="preserve">
                 <source>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</source>
+                <target>게임 시작 시 표시되는 여러 로고 화면을 건너뛰고, 빠르게 타이틀 화면으로 진입합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
                 <source>不显示“DR”前缀</source>
@@ -9484,6 +9502,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty" xml:space="preserve">
                 <source>组队状态下不修改界面</source>
+                <target>파티 상태에서 인터페이스를 변경하지 않음</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty-Help" xml:space="preserve">
                 <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
@@ -9542,6 +9561,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
                 <source>制作{count}次</source>
+                <target>{count}회 제작</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-ShowOtherRecipes" xml:space="preserve">
                 <source>显示其余</source>
