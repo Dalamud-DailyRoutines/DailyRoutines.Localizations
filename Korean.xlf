@@ -55,9 +55,11 @@
             </trans-unit>
             <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
                 <source>进入副本“欧米茄时空狭缝 阿尔法幻境3”后，当“雷力投射点”出现时，自动反复对其发动任务指令“欧米茄干扰器”。</source>
+                <target>임무 &quot;차원의 틈 오메가: 알파편 3&quot;에 들어가면 &quot;전력투사지점&quot;이 나타날 때 &quot;오메가 교란기&quot;를 반복 발동합니다.</target>
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
                 <source>阿尔法幻境3助手</source>
+                <target>&quot;차원의 틈 오메가: 알파편 3&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
@@ -2143,9 +2145,11 @@
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>不自动退出的副本</source>
+                <target>자동퇴장하지 않는 임무</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents-Help" xml:space="preserve">
                 <source>完成任务时，不会自动退出。</source>
+                <target>임무완료시, 자동 퇴장하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set" xml:space="preserve">
                 <source>手动指定本次副本任务完成时的自动退出行为。</source>
@@ -2153,12 +2157,15 @@
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-InstantLeave" xml:space="preserve">
                 <source>完成任务时立刻自动退出。</source>
+                <target>임무완료시 즉시 퇴장합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
                 <source>完成任务时不自动退出。</source>
+                <target>임무완료시 자동퇴장하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-None" xml:space="preserve">
                 <source>清除手动指定的自动退出行为。</source>
+                <target>수동으로 지정한 자동 종료 동작을 제거합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
             <source>退出延迟（毫秒）</source>
@@ -2172,9 +2179,12 @@
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents-Help" xml:space="preserve">
                 <source>完成任务时，会忽略“退出延迟”设置，立刻退出。
 ※优先级低于“不自动退出的副本”。</source>
+                <target>임무완료시 &quot;퇴장 지연&quot; 설정을 무시하고 즉시 퇴장합니다. 
+※ 우선순위는 &quot;자동 퇴장하지 않는 던전&quot;보다 낮습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
                 <source>不自动退出高难度任务</source>
+                <target>고난도 컨텐츠에서는 자동 퇴장하지 않음</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
@@ -9610,12 +9620,15 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-CraftType" xml:space="preserve">
                 <source>按制作职业分类</source>
+                <target>제작 직업에 따라 분류</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Equipment" xml:space="preserve">
                 <source>按装备适用职业分类</source>
+                <target>장비 가능 직업에 따라 분류</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Weapons" xml:space="preserve">
                 <source>主副手</source>
+                <target>주/보조</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{steps}步 · 约{seconds}秒</source>
