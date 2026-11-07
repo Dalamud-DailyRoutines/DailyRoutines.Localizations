@@ -91,6 +91,7 @@
             </trans-unit>
             <trans-unit id="Auth-Error-Blacklisted" xml:space="preserve">
                 <source>你已被列入黑名单，无法使用 Daily Routines。</source>
+                <target>당신은 블랙리스트에 등재되어 Daily Routines을 사용할 수 없습니다.</target>
             </trans-unit>
             <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
                 <source>无法获取在线验证信息, 请检查本地网络设置。</source>
@@ -1002,9 +1003,11 @@
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
                 <source>{ms}毫秒</source>
+                <target>{ms} 밀리초</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
                 <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
+                <target>서버 정보란에 연결 왕복 시간을 실시간으로 표시하고, 네트워크 지연 시간 추이 그래프를 제공하여 확인할 수 있도록 하며, 게임 서버의 IP 주소와 소재지 정보를 표시합니다.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -1016,6 +1019,7 @@
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Loss" xml:space="preserve">
                 <source>重传率</source>
+                <target>재전송률</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Max" xml:space="preserve">
                 <source>峰值</source>
@@ -2169,6 +2173,7 @@
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
             <source>退出延迟（毫秒）</source>
+            <target>종료 지연 (밀리초)</target>
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
             <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
@@ -8240,27 +8245,35 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
                 <source>尚未登录</source>
+                <target>아직 로그인하지 않았습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-WaitForServer" xml:space="preserve">
                 <source>等待服务器下发凭证信息</source>
+                <target>서버의 인증서 정보 전송을 대기중입니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-ExpireTime" xml:space="preserve">
                 <source>过期时间</source>
+                <target>유효 기한</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester" xml:space="preserve">
                 <source>内部测试凭证</source>
+                <target>내부테스터증명</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester-Help" xml:space="preserve">
                 <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
+                <target>테스트 인원의 내부 테스트 기능용입니다. 공개적으로 입수할 수 있는 경로가 전혀 없으니, 사기에 속지 않도록 주의해 주십시오.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-InvalidCredential" xml:space="preserve">
                 <source>无效的凭证信息</source>
+                <target>유효하지 않은 인증 정보입니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-ServerConnectionLost" xml:space="preserve">
                 <source>无法连接至认证服务器</source>
+                <target>인증 서버에 연결할 수 없습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Title" xml:space="preserve">
                 <source>Daily Routines 在线验证服务</source>
+                <target>Daily Routines 온라인 인증 서비스</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportError" xml:space="preserve">
                 <source>导入收藏夹失败。</source>
@@ -8416,9 +8429,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TTSMigrationHelp" xml:space="preserve">
                 <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件，如有需要，请单独下载。</source>
+                <target>텍스트 음성 변환 기능이 독립된 EdgeTTS.Dalamud 플러그인으로 이전되었습니다.  필요하신 경우 별도로 다운로드해 주세요.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold" xml:space="preserve">
                 <source>前台无操作通知提醒时间（毫秒）</source>
+                <target>활성화상태에서 무조작 알림 시간(밀리초)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
                 <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
