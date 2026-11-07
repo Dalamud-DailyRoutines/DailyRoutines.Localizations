@@ -2175,6 +2175,7 @@
           </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
+                <target>즉시 퇴장하는 임무</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents-Help" xml:space="preserve">
                 <source>完成任务时，会忽略“退出延迟”设置，立刻退出。
@@ -2188,15 +2189,19 @@
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
+                <target>현재 버전의 &quot;파티 찾기&quot; 창에서 &quot;고난도 임무&quot;로 분류되는 모든 임무를 의미합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
+                <target>본 임무 완료시 즉시 자동으로 퇴장합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-NoLeave" xml:space="preserve">
                 <source>本次任务完成时将不自动退出。</source>
+                <target>본 임무 완료시 자동 퇴장하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-None" xml:space="preserve">
                 <source>清除了为本次任务手动指定的自动退出行为。</source>
+                <target>지정된 임무 자동 퇴장을 해제했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
@@ -9485,12 +9490,15 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
                 <source>传送无需二次确认</source>
+                <target>텔레포시 2차 확인 스킵</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
                 <source>移除交互时弹出的二次确认界面，直接传送。</source>
+                <target>상호작용시 표시되는 확인창을 제거하고 바로 텔레포합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
+                <target>&quot;지도&quot; 창의 에테라이트 및 도시 내 에테라이트 두 요소가 항상 최상단에 표시되도록 했으며, 도시 내 에테라이트에서도 에테라이트처럼 상호 전송할 수 있게 하고, 화면 안에서 직접 상호 전송으로 이동할 수 있는 전송 목적지를 대폭 추가했습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
                 <source>“地图”界面以太之光优化</source>
@@ -9530,6 +9538,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CopyMacro" xml:space="preserve">
                 <source>复制宏#{index}</source>
+                <target>매크로 #{index} 복사</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
                 <source>制作{count}次</source>
