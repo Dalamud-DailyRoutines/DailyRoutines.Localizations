@@ -9553,6 +9553,9 @@ UI: {0}
                 <source>确定要删除预设“{presetName}”吗？</source>
                 <target>프리셋 &quot;{presetName}&quot;을 삭제합니까?</target>
             </trans-unit>
+            <trans-unit id="OptimizedMacro-Dialogue-Load" xml:space="preserve">
+                <source>确定要读取预设“{presetName}”吗？</source>
+            </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
                 <source>请输入待保存预设的显示名称。</source>
                 <target>저장할 프리셋의 표시 이름을 입력해 주세요.</target>
