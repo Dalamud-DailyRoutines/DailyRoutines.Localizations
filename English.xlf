@@ -5756,7 +5756,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-Tooltip-RequestFailed" xml:space="preserve">
                 <source>市场数据获取失败</source>
-                <target>Failed to acquire market data.</target>
+                <target>Failed to acquire the market data.</target>
             </trans-unit>
             <trans-unit id="BetterMarketBoard-TravelToWorld" xml:space="preserve">
                 <source>前往目标服务器</source>
@@ -8569,15 +8569,19 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="ModuleBase-ExportError" xml:space="preserve">
                 <source>尝试导出配置至剪贴板时发生错误。</source>
+                <target>Failed to export the configurations.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Exported" xml:space="preserve">
                 <source>成功导出了配置至剪贴板。</source>
+                <target>The configurations have been exported to the clipboard.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-ImportError" xml:space="preserve">
                 <source>尝试从剪贴板导入配置时发生错误。</source>
+                <target>Failed to import the configurations.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Imported" xml:space="preserve">
                 <source>成功从剪贴板导入了配置。</source>
+                <target>The configurations have been imported from the clipboard.</target>
             </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
@@ -9421,7 +9425,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
                 <source>未能完整设定生产计划，请重试。</source>
-                <target>Failed to completely implement the agenda. Please try again later.</target>
+                <target>Failed to implement the agenda completely. Please try again later.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
@@ -9977,6 +9981,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="Overwrite" xml:space="preserve">
                 <source>覆写</source>
+                <target>Overwrite</target>
             </trans-unit>
             <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
                 <source>单页显示数量</source>
