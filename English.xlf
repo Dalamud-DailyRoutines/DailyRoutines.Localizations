@@ -2600,7 +2600,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
                 <source>狩猎行车器</source>
-                <target>Mini Hunt-train Helper</target>
+                <target>Hunt-train Mini Helper</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SortAccordingToStartingPoint" xml:space="preserve">
                 <source>根据出发点排序</source>
