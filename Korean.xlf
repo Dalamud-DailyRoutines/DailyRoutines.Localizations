@@ -73,6 +73,9 @@
                 <source>动画锁</source>
                 <target>애니메이션 잠금</target>
             </trans-unit>
+            <trans-unit id="Append" xml:space="preserve">
+                <source>追加</source>
+            </trans-unit>
             <trans-unit id="Apply" xml:space="preserve">
                 <source>应用</source>
                 <target>적용</target>
@@ -2172,13 +2175,13 @@
                 <target>수동으로 지정한 자동 종료 동작을 제거합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
-            <source>退出延迟（毫秒）</source>
-            <target>종료 지연 (밀리초)</target>
-          </trans-unit>
+                <source>退出延迟（毫秒）</source>
+                <target>종료 지연 (밀리초)</target>
+            </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
-            <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
-            <target>서버에서 &quot;임무 완료&quot; 이벤트를 전송하는 시점부터 시간이 측정되며, 이는 일반적으로 캐릭터와 맵이 임무 완료 상태로 전환되기 훨씬 이전입니다.</target>
-          </trans-unit>
+                <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+                <target>서버에서 &quot;임무 완료&quot; 이벤트를 전송하는 시점부터 시간이 측정되며, 이는 일반적으로 캐릭터와 맵이 임무 완료 상태로 전환되기 훨씬 이전입니다.</target>
+            </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
                 <target>즉시 퇴장하는 임무</target>
@@ -2449,113 +2452,158 @@
                 <source>自动标记风脉泉</source>
                 <target>풍맥 자동 표시</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-CantSortEmptyList" xml:space="preserve">
-                <source>恶名精英列表为空, 无法排序</source>
-                <target>마물 목록이 비어 있어 정렬할 수 없습니다.</target>
+            <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
+                <source>自动播报</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-CantSortNullStartingPoint" xml:space="preserve">
-                <source>起始点为空，无法排序</source>
-                <target>출발지가 지정되어 있지 않아 정렬할 수 없습니다.</target>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastBehaviour" xml:space="preserve">
+                <source>自动播报行为</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
+                <source>正在播报第{pointIndex}个点位。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastRemain" xml:space="preserve">
+                <source>距出发还有{remainingTimeText}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
+                <source>开始时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
+                <source>使用当前时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
+                <source>确定要清除本轮扫描结果吗？</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
-                <source>创建时间: {0}</source>
-                <target>생성 시간: {0}</target>
+                <source>创建时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
+                <source>确定要删除吗？</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
-                <source>发现 {0} 级恶名精英: {1} 于 {2}</source>
-                <target>{2} 에서 레벨 {0} 마물 &apos;{1}&apos; 발견</target>
+                <source>发现了恶名精英“{name}”于{position}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
+                <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
-                <source>打开微型狩猎行车界面</source>
-                <target>미니 마물런 창 열기</target>
+                <source>打开狩猎行车器界面</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-IntendedStartingPoint" xml:space="preserve">
                 <source>指定出发点</source>
                 <target>출발지</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MarkScan" xml:space="preserve">
-                <source>恶名精英扫描</source>
-                <target>마물 스캔</target>
+                <source>扫描</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
+                <source>播报后自动传送、寻路或切换副本区</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
+                <source>寻路至恶名精英</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
+                <source>距离阈值</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
+                <source>寻路至精准位置</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
+                <source>寻路已停止，请检查角色状态、飞行条件和导航路径。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
+                <source>寻路至恶名精英行为</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
+                <source>寻路至附近</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
                 <source>最近的以太之光</source>
                 <target>가장 가까운 에테라이트</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NewTrainListTip" xml:space="preserve">
-                <source>新建列表, 按下 Enter 键确认</source>
-                <target>새 목록을 만들고 Enter 키로 확인</target>
+                <source>新建列表，按下 Enter 键确认。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
-                <source>当前无任何正在运行的扫描器</source>
-                <target>현재 실행 중인 스캐너 없음</target>
+                <source>暂无扫描结果</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-PointDelayMS" xml:space="preserve">
-                <source>单点位延迟 (ms)</source>
-                <target>단일 지점 지연 (ms)</target>
+            <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
+                <source>优先播报最近的以太之光信息</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-Rank" xml:space="preserve">
-                <source>级别</source>
-                <target>레벨</target>
+            <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
+                <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合信息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RankForEachMark" xml:space="preserve">
-                <source>{0} 级</source>
-                <target>{0} 레벨</target>
+            <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
+                <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
+                <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
+                <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
+                <source>恶名精英位置消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Pattern-WaitAetheryte" xml:space="preserve">
+                <source>以太之光集合消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-PlaceholderHelp" xml:space="preserve">
+                <source>{name}：恶名精英或以太之光名称
+{position}：地图旗标
+{instance}：分线信息，无分线时为空
+{instanceText}：分线编号的游戏内显示形式
+{routeName}：当前路线名称
+{routeMonsterCount}：当前路线的恶名精英总数</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
+                <source>消息占位符</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-SelectedChannels" xml:space="preserve">
+                <source>选择了{count}个频道</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
                 <source>播报以太之光</source>
                 <target>에테라이트 경유</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelayArgsHelp" xml:space="preserve">
-                <source>{0} - 恶名精英所在坐标
-{1} - 恶名精英名称
-{2} - 恶名精英所在分线 (如 &quot;1 线&quot;) (若不存在分线则此项为空)</source>
-                <target>{0} - 마물 좌표
-{1} - 마물 이름
-{2} - 마물이 있는 인스턴스 (예: &quot;인스턴스1&quot;) (없을 경우 공백)</target>
+            <trans-unit id="AutoMarksFinder-RelayAutoBroadcastEnd" xml:space="preserve">
+                <source>狩猎车结束消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-RelayAutoBroadcastStart" xml:space="preserve">
+                <source>狩猎车开始消息</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
-                <source>播报消息类型</source>
-                <target>메시지 알림 타입</target>
-            </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelayInstanceDisplay" xml:space="preserve">
-                <source>{0} 线</source>
-                <target>Ins.:{0} </target>
+                <source>文本播报频道</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayPosition" xml:space="preserve">
                 <source>播报位置信息</source>
                 <target>위치 알림</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelaySetting" xml:space="preserve">
-                <source>播报设置</source>
-                <target>알림 설정</target>
+            <trans-unit id="AutoMarksFinder-RelayTrainEnd" xml:space="preserve">
+                <source>播报狩猎车结束消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-RelayTrainStart" xml:space="preserve">
+                <source>播报狩猎车开始消息</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
                 <target>루트</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-SaveTo" xml:space="preserve">
-                <source>保存位置:</source>
-                <target>마크 저장</target>
+            <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
+                <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
                 <target>스캔 지점:</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-ScanPreview" xml:space="preserve">
+                <source>扫描预览</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
                 <source>扫描结果</source>
                 <target>스캔 결과</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
-                <source>扫描设置</source>
-                <target>스캔 설정</target>
-            </trans-unit>
-            <trans-unit id="AutoMarksFinder-SelectRoutes" xml:space="preserve">
-                <source>选择路线</source>
-                <target>루트 선택</target>
-            </trans-unit>
             <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
-                <source>已选择 {0} 个目标区域</source>
-                <target>{0} 개의 대상 지역 선택됨</target>
+                <source>选择了{count}个目标区域</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
                 <source>狩猎行车器</source>
@@ -2569,34 +2617,31 @@
                 <source>切换存活状态</source>
                 <target>생존 상태 전환</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-TargetRank" xml:space="preserve">
-                <source>待扫描等级</source>
-                <target>스캔 대상 레벨</target>
-            </trans-unit>
             <trans-unit id="AutoMarksFinder-TargetZones" xml:space="preserve">
                 <source>待扫描区域</source>
                 <target>스캔 대상 지역</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-TeleportToMobsZone" xml:space="preserve">
-                <source>传送至对应区域</source>
-                <target>대상 지역으로 텔레포</target>
+                <source>传送至以太之光</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-UnreachablePoints" xml:space="preserve">
+                <source>剩余点位均无法到达，扫描已停止，已有结果已保留。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
                 <source>更新点位数据</source>
                 <target>스폰 지점 갱신</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-UpdateSpawnPointsFailed" xml:space="preserve">
+                <source>更新点位数据失败，请检查网络连接后重试。</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
-                <source>更新了 {0} 个恶名精英点位</source>
-                <target>{0} 건의 마물 지점을 갱신했습니다.</target>
+                <source>更新了{count}个恶名精英点位。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
-                <source>{0} {1} 线</source>
-                <target>{0} {1} 라인</target>
+                <source>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
-                <source>配置后，自动扫描所选区域内的恶名精英，并可根据记录数据快捷带领狩猎车。</source>
-                <target>해당 지역 내 마물 정보를 자동 스캔하고 목록으로 정리합니다.
-※순간이동하므로 주의</target>
+                <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
@@ -6625,22 +6670,6 @@ UI: {0}
                 <source>自定义视距</source>
                 <target>줌 거리 설정</target>
             </trans-unit>
-            <trans-unit id="DailyModuleBase-ExportError" xml:space="preserve">
-                <source>尝试导出配置至剪贴板时发生错误</source>
-                <target>설정을 클립보드로 내보내는 중 오류가 발생했습니다.</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
-                <source>已成功导出配置至剪贴板</source>
-                <target>설정을 정상적으로 내보냈습니다.</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-ImportError" xml:space="preserve">
-                <source>尝试从剪贴板导入配置时发生错误</source>
-                <target>클립보드에서 설정을 가져오는 중 오류가 발생했습니다.</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
-                <source>已成功从剪贴板导入相关配置</source>
-                <target>설정을 정상적으로 가져왔습니다.</target>
-            </trans-unit>
             <trans-unit id="Default" xml:space="preserve">
                 <source>默认</source>
                 <target>기본</target>
@@ -8547,6 +8576,18 @@ UI: {0}
                 <source>模块</source>
                 <target>모듈</target>
             </trans-unit>
+            <trans-unit id="ModuleBase-ExportError" xml:space="preserve">
+                <source>尝试导出配置至剪贴板时发生错误。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-Exported" xml:space="preserve">
+                <source>成功导出了配置至剪贴板。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-ImportError" xml:space="preserve">
+                <source>尝试从剪贴板导入配置时发生错误。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-Imported" xml:space="preserve">
+                <source>成功从剪贴板导入了配置。</source>
+            </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
                 <target>액션</target>
@@ -9938,6 +9979,9 @@ UI: {0}
                 <source>输出</source>
                 <target>출력</target>
             </trans-unit>
+            <trans-unit id="Overwrite" xml:space="preserve">
+                <source>覆写</source>
+            </trans-unit>
             <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
                 <source>单页显示数量</source>
                 <target>페이지별 표시 건수</target>
@@ -11151,11 +11195,11 @@ UI: {0}
                 <source>工作原理</source>
                 <target>작업 이론</target>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>예</target>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>존</target>
             </trans-unit>
