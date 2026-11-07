@@ -463,7 +463,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCastMovementLockDescription" xml:space="preserve">
                 <source>技能咏唱时自动禁止移动，以避免意外打断咏唱。</source>
-                <target>Lock the character in place while casting to prevent a failed cast.</target>
+                <target>Lock the character in place while casting in order to prevent a failed cast.</target>
             </trans-unit>
             <trans-unit id="AutoCastMovementLockTitle" xml:space="preserve">
                 <source>自动禁止咏唱期间移动</source>
@@ -2638,7 +2638,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
-                <target>Notorious Monster Seeker</target>
+                <target>Notorious Monster Scanner</target>
             </trans-unit>
             <trans-unit id="AutoMateriaAttach-ActiveTask-Running" xml:space="preserve">
                 <source>正在自动镶嵌</source>
