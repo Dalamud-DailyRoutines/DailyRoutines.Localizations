@@ -6956,12 +6956,10 @@ Cela inscrira le personnage dans l’Outil de mission avec « Le Bassin des trib
                 <target>Interface rapide d’informations sur les livraisons personnalisées</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInn-CommandHelp" xml:space="preserve">
-                <source>一键进入/离开旅馆</source>
-                <target>Entrer / quitter l’auberge</target>
+                <source>一键进入或离开旅馆。</source>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnDescription" xml:space="preserve">
-                <source>自动跳过进入/离开旅馆时的确认, 并提供 /pdr {0} 指令以在副本外任一区域的任一位置一键进入旅馆</source>
-                <target>Supprime les confirmations lors de l’entrée ou de la sortie d’une auberge et fournit la commande /pdr {0} pour entrer dans une auberge depuis n’importe où hors mission.</target>
+                <source>移除进入和离开旅馆时弹出的二次确认对话框，并提供“/pdr {command}”指令以一键进入最近的旅馆。</source>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
                 <source>快捷进出旅馆</source>
