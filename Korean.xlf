@@ -8264,6 +8264,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportError" xml:space="preserve">
                 <source>导入收藏夹失败。</source>
+                <target>즐겨찾기 추가 실패.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
                 <source>已导入收藏夹。</source>
