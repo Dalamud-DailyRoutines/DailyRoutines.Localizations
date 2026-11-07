@@ -7871,6 +7871,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
                 <source>进入副本“财宝传说破舰岛”后，自动突出标记需要避开的“捕兽夹”与需要开启的“怪宝箱”。</source>
+                <target>임무 &quot;난파선의 섬&quot;에 입장 후, 바닥에 있는 모든 &quot;덫&quot;과 열어야 하는 &quot;보물상자&quot;를 자동으로 표시합니다.</target>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
                 <source>财宝传说破舰岛助手</source>
