@@ -9215,7 +9215,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-Notification-SubmissionFailed" xml:space="preserve">
                 <source>未能确认收藏品交换状态，停止了批量交换。</source>
-                <target>The batch exchange has been terminated due to a failed status check.</target>
+                <target>The batch exchange has been terminated due to failed status checks.</target>
             </trans-unit>
             <trans-unit id="OptimizedCollectablesShop-OnlyOwnedItems" xml:space="preserve">
                 <source>仅显示持有的道具</source>
