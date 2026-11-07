@@ -10016,9 +10016,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
                 <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
+                <target>임무 &quot;스사노오 토벌전&quot; 입장 후, 야바위를 빠르게 격파할 수 있도록 &quot;구속&quot; 상태를 가진 파티원에게 자동으로 마커를 부여합니다.</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
                 <source>须佐之男歼灭战助手</source>
+                <target>&quot;스사노오 토벌전&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="PortraitAnimationTimeEditor-AddonTitle" xml:space="preserve">
                 <source>动作调整</source>
@@ -10046,9 +10048,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
                 <source>进入副本“最终决战天幕魔导城”后，当骑乘“魔导装甲”时，自动朝着最佳范围攻击目标所在处发动“魔导加农炮”。</source>
+                <target>임무 &quot;마도성 프라이토리움&quot;에 입장하여 &quot;마도 아머&quot;에 탑승하면, 최적의 광역 공격 위치를 향해 자동으로 탈것 기술 &quot;포격&quot;을(를) 사용합니다.</target>
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
                 <source>最终决战天幕魔导城助手</source>
+                <target>&quot;마도성 프라이토리움&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="PreCondition" xml:space="preserve">
                 <source>先决条件</source>
@@ -10469,12 +10473,15 @@ UI: {0}
             </trans-unit>
             <trans-unit id="SastashaHelper-Message" xml:space="preserve">
                 <source>正确的珊瑚装置是“{name}”。</source>
+                <target>정답 산호 스위치: &quot;{name}&quot;</target>
             </trans-unit>
             <trans-unit id="SastashaHelperDescription" xml:space="preserve">
                 <source>进入副本“天然要害沙斯塔夏溶洞”后，自动判断正确的珊瑚装置，发送通知提示并突出显示。</source>
+                <target>임무 &quot;사스타샤 침식 동굴&quot;에 입장 후, 올바른 산호 장치를 자동으로 안내하고 강조 표시합니다.</target>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
                 <source>天然要害沙斯塔夏溶洞助手</source>
+                <target>&quot;사스타샤 침식 동굴&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="Save" xml:space="preserve">
                 <source>保存</source>
@@ -10694,6 +10701,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
                 <source>隐藏标题界面版本信息与操作菜单</source>
+                <target>타이틀 버전 정보 및 조작 메뉴 숨기기</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
