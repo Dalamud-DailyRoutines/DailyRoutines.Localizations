@@ -98,7 +98,7 @@
             </trans-unit>
             <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
                 <source>无法获取在线验证信息, 请检查本地网络设置。</source>
-                <target>Failed to retrieve authentication information. Please check your network.</target>
+                <target>Failed to retrieve the authentication information. Please consider checking your network.</target>
             </trans-unit>
             <trans-unit id="Auth-Notification-AuthInfoReceived" xml:space="preserve">
                 <source>[在线验证信息]
@@ -3354,7 +3354,7 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoPlayerCommend-Notification-ErrorWhenGave" xml:space="preserve">
                 <source>未能自动推荐最优队员，游戏数据存在错误或损坏。</source>
-                <target>Failed to commend due to invalid data.</target>
+                <target>Failed to commend a party member due to invalid data.</target>
             </trans-unit>
             <trans-unit id="AutoPlayerCommend-Notification-Given" xml:space="preserve">
                 <source>推荐了{player}为本次任务的最优队员。</source>
@@ -5152,7 +5152,7 @@ Access Password: {1}
             </trans-unit>
             <trans-unit id="BetterBlacklist-Notification-FailToImportEmptyGroup" xml:space="preserve">
                 <source>无法导入空的共享黑名单，请先联系已在该共享黑名单内的玩家，等待其添加任一玩家后再次尝试。</source>
-                <target>Failed to import due to an empty blacklist. Please contact a collaborator and request to add at least one player to the blacklist before importing it.</target>
+                <target>Failed to import the shared blacklist due to an empty list. Please contact a collaborator and request to add at least one player to the blacklist before importing it.</target>
             </trans-unit>
             <trans-unit id="BetterBlacklist-Notification-FailToImportGroup" xml:space="preserve">
                 <source>导入共享黑名单失败，{0}。</source>
@@ -9580,7 +9580,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-SaveError-Empty" xml:space="preserve">
                 <source>无法完成操作，宏预设的显示名称为空。</source>
-                <target>Save failed due to an empty preset name.</target>
+                <target>Failed to save the preset due to an empty preset name.</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-Saved" xml:space="preserve">
                 <source>保存了当前全部宏指令为“{presetName}”预设。</source>
@@ -9588,19 +9588,19 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-UpdateError-Empty" xml:space="preserve">
                 <source>更新宏预设失败，显示名称不能留空。</source>
-                <target>Update failed due to an empty preset name.</target>
+                <target>Failed to update the preset due to an empty preset name.</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-UpdateError-Existed" xml:space="preserve">
                 <source>更新宏预设失败，修改后的显示名称与其他预设重名。</source>
-                <target>Update failed due to a duplicate preset name.</target>
+                <target>Failed to update the preset due to a duplicate preset name.</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-UpdateError-NotFound" xml:space="preserve">
                 <source>更新宏预设失败，无法确定要更新的预设。</source>
-                <target>Update failed since the preset to be renamed has not been specified.</target>
+                <target>Failed to update the preset since the preset to be renamed has not been specified.</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-UpdateError-SameAsBefore" xml:space="preserve">
                 <source>更新宏预设失败，修改前后的显示名称相同。</source>
-                <target>Update failed due to an identical preset name.</target>
+                <target>Failed to update the preset due to an identical preset name.</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Notification-Updated" xml:space="preserve">
                 <source>将宏预设“{beforeName}”的显示名称修改为了“{afterName}”。</source>
