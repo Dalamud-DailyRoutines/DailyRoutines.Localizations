@@ -7130,6 +7130,9 @@
             <trans-unit id="OptimizedMacro-Dialogue-Delete" xml:space="preserve">
                 <source>确定要删除预设“{presetName}”吗？</source>
             </trans-unit>
+            <trans-unit id="OptimizedMacro-Dialogue-Load" xml:space="preserve">
+                <source>确定要读取预设“{presetName}”吗？</source>
+            </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
                 <source>请输入待保存预设的显示名称。</source>
             </trans-unit>
