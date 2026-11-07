@@ -7059,12 +7059,10 @@ UI: {0}
                 <target>퀵 단골 거래 정보 화면</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInn-CommandHelp" xml:space="preserve">
-                <source>一键进入/离开旅馆</source>
-                <target>여관 즉시 입장/퇴장</target>
+                <source>一键进入或离开旅馆。</source>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnDescription" xml:space="preserve">
-                <source>自动跳过进入/离开旅馆时的确认, 并提供 /pdr {0} 指令以在副本外任一区域的任一位置一键进入旅馆</source>
-                <target>여관에 들어가거나 나올 때의 확인 창을 자동으로 건너뛰며, /pdr {0} 명령어를 통해 임무 찾기 던전 외부의 어느 지역, 어느 위치에서든 원클릭으로 여관에 입장할 수 있게 합니다.</target>
+                <source>移除进入和离开旅馆时弹出的二次确认对话框，并提供“/pdr {command}”指令以一键进入最近的旅馆。</source>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
                 <source>快捷进出旅馆</source>
