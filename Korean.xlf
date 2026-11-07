@@ -8423,38 +8423,52 @@ UI: {0}
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
                 <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
 ※设为0时表示永远仅游戏位于后台时才通知。</source>
+                <target>자리비움 시간이 설정값에 도달하면, 게임이 활성화 상태라도 Windows 작업표시줄 알림이 표시됩니다.
+※ 0으로 설정하면 게임이 항상 백그라운드에 있을 때만 알림이 표시됩니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-HelpTranslate" xml:space="preserve">
                 <source>帮忙翻译</source>
+                <target>번역 지원</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-DalamudStyle" xml:space="preserve">
                 <source>使用 Dalamud 样式</source>
+                <target>Dalamud 스타일 사용</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale" xml:space="preserve">
                 <source>字体缩放</source>
+                <target>폰트 크기</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
                 <source>相对于 Dalamud 字号的缩放倍率，默认为1，最小为0.1。</source>
+                <target>Dalamud 글자 크기의 확대/축소 배율에 해당하며, 기본값은 1이고 최소값은 0.1입니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
                 <source>托盘悬浮窗</source>
+                <target>트레이 오버레이</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay-Help" xml:space="preserve">
                 <source>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
 ※右键拖拽该悬浮窗即可调整位置。</source>
+                <target>메인 화면을 닫을 때 위젯 창이 표시되며, 클릭하면 메인 화면을 빠르게 열 수 있습니다.
+※이 플로팅 창을 마우스 오른쪽 버튼으로 클릭한 뒤 드래그하여 위치를 조정할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-LocalModules-PathHelp" xml:space="preserve">
                 <source>请填写本地模块文件的绝对路径。</source>
+                <target>로컬 모듈 파일의 절대 경로를 입력해 주세요.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules" xml:space="preserve">
                 <source>默认启用推荐模块</source>
+                <target>오늘의 추천 기본 활성화</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules-Help" xml:space="preserve">
                 <source>若新模块被标记为“推荐模块”，则会被直接启用。
 ※“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。</source>
+                <target>새 모듈이 &quot;오늘의 추천&quot;으로 표시되면 바로 활성화됩니다.
+※ &quot;오늘의 추천&quot;은 개발팀이 선별한 모듈로, 대부분의 플레이어의 플레이 경험을 개선하면서도 일상적인 플레이 방식을 크게 바꾸지 않습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-SupportAuthor" xml:space="preserve">
                 <source>支持作者</source>
+                <target>모듈 제작자 지원하기</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -9435,18 +9449,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-Claim" xml:space="preserve">
                 <source>一键领取</source>
+                <target>원클릭수령</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-Dispatch" xml:space="preserve">
                 <source>一键派遣</source>
+                <target>원클릭파견</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-NormalExceed" xml:space="preserve">
                 <source>开拓素材“{name}”持有数量即将超出上限，已停止领取。</source>
+                <target>개척재료 &quot;{name}&quot;의 보유량이 곧 상한초과할 예정, 자동 수령이 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-RareExceed" xml:space="preserve">
                 <source>稀少开拓素材“{name}”持有数量即将超出上限，已停止领取。</source>
+                <target>희귀 개척재료 &quot;{name}&quot;의 보유량이 곧 상한초과할 예정, 자동 수령이 중단되었습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-StopOnExceed" xml:space="preserve">
                 <source>超出上限时自动停止领取</source>
+                <target>상한 초과 시 자동수령 중지</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“屯货仓库”界面。支持一键领取开拓素材，并根据当前持有数量最少的稀少开拓素材一键派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
