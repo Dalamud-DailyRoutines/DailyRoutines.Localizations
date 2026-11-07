@@ -8268,27 +8268,35 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-NameHint" xml:space="preserve">
                 <source>请输入新收藏夹名称，不可重复</source>
+                <target>즐겨찾기 이름을 입력해주세요, 이름은 중복될 수 없습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-DailyActiveUsers" xml:space="preserve">
                 <source>日活跃用户：{count}人</source>
+                <target>일일 활성 사용자:{count}명</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
+                <target>모듈 : {enabledCount}/{totalCount}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
+                <target>간략한 보기로 전환</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ConfigOverlay" xml:space="preserve">
                 <source>显示配置悬浮窗</source>
+                <target>디스플레이 설정 플로팅 윈도우</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Configuration" xml:space="preserve">
                 <source>模块配置</source>
+                <target>모듈 설정</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
                 <source>复制模块内部名称</source>
+                <target>모듈 내부 이름 복사</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
+                <target>전체 보기로 전환</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
@@ -8364,29 +8372,39 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
                 <source>不显示“DR”前缀</source>
+                <target>&quot;DR&quot; 접두어 미표시</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix-Help" xml:space="preserve">
                 <source>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
 ※更改后需要重启插件。</source>
+                <target>플러그인이 전송하는 채팅 메시지와 추가된 오른쪽 클릭 메뉴 항목에 더 이상 &quot;DR&quot; 접두사가 포함되지 않아 게임 기본 기능과 더 조화롭게 보이지만, 혼동을 일으킬 수 있습니다.
+※ 변경 후 플러그인을 다시 시작해야 합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy" xml:space="preserve">
                 <source>在线验证绕过系统代理</source>
+                <target>온라인 인증 시스템 프록시 우회</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy-Help" xml:space="preserve">
                 <source>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
 ※更改后需要重启插件。</source>
+                <target>온라인 인증 요청을 전송할 때 시스템 프록시 설정을 무시하고 인증 서버에 직접 연결합니다. 가상 네트워크 카드 등 전역 투명 프록시 방식을 사용하는 경우 이 옵션은 적용되지 않습니다.
+※ 변경 후 플러그인을 다시 시작해야 합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-ConflictKey-Help" xml:space="preserve">
                 <source>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</source>
+                <target>일부 모듈을 사용할 때 해당 키를 누르면 조작을 중단하거나, 서로 다른 모드로 전환하거나, 동작 표현을 변경할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage" xml:space="preserve">
                 <source>默认页面</source>
+                <target>기본 페이지</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage-Help" xml:space="preserve">
                 <source>每次加载插件后首次打开主界面时显示的页面。</source>
+                <target>플러그인을 로드한 뒤 처음으로 메인 화면을 열 때 표시되는 페이지입니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo" xml:space="preserve">
                 <source>通知在线验证信息</source>
+                <target>온라인 인증 정보 알림</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
                 <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
