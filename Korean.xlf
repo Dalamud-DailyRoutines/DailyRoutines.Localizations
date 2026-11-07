@@ -9450,6 +9450,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“屯货仓库”界面。支持一键领取开拓素材，并根据当前持有数量最少的稀少开拓素材一键派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
+                <target>무인도 개척의 &quot;재료 저장고&quot; 화면을 개선했습니다. 개척재료를 원클릭으로 수령할 수 있으며, 현재 보유 수량이 가장 적은 희귀 개척 재료를 기준으로 탐색대를 원클릭 파견합니다. &quot;탐색지 선택&quot; 화면에서는 목적지에서 해당 희귀 개척 재료와 보유량을 바로 표시합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseTitle" xml:space="preserve">
                 <source>“屯货仓库”界面优化</source>
@@ -9529,6 +9530,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty-Help" xml:space="preserve">
                 <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
+                <target>파티 상태에서는 에테라이트 전송을 인계하지 않으며, 도시 내 에테라이트를 상호 전송할 수 없게 하고, 전송 목적지를 추가로 지정하지 않아 비정상적인 파티 전송 초대가 전송되는 것을 방지합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
                 <source>传送无需二次确认</source>
@@ -9608,6 +9610,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CaculateRecipeButton-Help" xml:space="preserve">
                 <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解出用于制作配方的技能序列。</source>
+                <target>&quot;제작 시작&quot; 버튼에 &quot;제작법 해법&quot; 버튼이 새로 추가되었습니다. 현재 상태를 바탕으로 레시피 제작에 필요한 스킬 시퀀스를 해법으로 구해 줍니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
@@ -9616,6 +9619,8 @@ UI: {0}
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
                 <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
 ※原本点击后仅能固定切换至下一个分类</source>
+                <target>제작법 분류 컴포넌트를 세 개의 상호작용 가능한 영역으로 나누어, 클릭만으로 해당 분류로 바로 전환할 수 있습니다. 
+※원본을 클릭하면 다음 분류로만 고정 전환됩니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
@@ -9624,6 +9629,8 @@ UI: {0}
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality-Help" xml:space="preserve">
                 <source>使制作练习初期品质可以直接设置为最高品质。
 ※原本仅能设置为最高品质的一半。</source>
+                <target>제작 연습 초기 품질을 최고 품질로 바로 설정할 수 있습니다. 
+※기본값은 최고 품질의 절반으로만 설정할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
                 <source>复制宏</source>
@@ -9647,6 +9654,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
                 <source>复制了宏#{index}至剪贴板。</source>
+                <target>매크로 #{index}을 클립보드에 복사했습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
                 <source>复制了宏到剪贴板。</source>
@@ -9658,9 +9666,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
                 <source>超出了单次简易制作上限，自动分批简易制作，共{batchCount}批。</source>
+                <target>1회 간이 제작 횟수 제한을 초과하여 자동으로 분할 간이 제작을 시작합니다. (총 {batchCount}회 분할)</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthFinish" xml:space="preserve">
                 <source>完成了全部简易制作。</source>
+                <target>모든 간이 제작을 완료했습니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-SolveResult" xml:space="preserve">
                 <source>求解了{classJob}配方“{item}”，共{step}步，单次制作需要约{second}秒。</source>
@@ -9684,9 +9694,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{steps}步 · 约{seconds}秒</source>
+                <target>총 {steps}단계 · 약 {seconds}초</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
                 <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
+                <target>&quot;제작 수첩&quot; 화면을 최적화했습니다. 제작법 필요 직업으로 빠르게 전환, 각 직업에서 마지막으로 선택한 제작법을 기억, 제작법 검색 기록을 영구적으로 저장, 동일한 레시피의 다른 직업 버전으로 빠르게 전환할 수 있습니다. 또한 제작법 재료의 출처를 표시하고, 검색 결과를 지울 수 있는 버튼을 추가, 왼쪽의 &quot;레벨별 제작법&quot; / &quot;특수 제작법&quot; / &quot;비전서&quot; 요소를 분리하여 정밀한 선택을 지원하고,  제작법 검색 속도를 대폭 향상시키며, 제작법에 대한 근사치 및 병음 검색을 지원하고, 장비가능 직업별로 분류된 검색 결과를 지원하며, 단일 단순 제작 횟수 제한을 해제하고, 단순 제작 완료 및 제작 연습 초기 품질 상한 돌파 시 알림을 제공합니다. 또한 제작법 솔루션을 지원하며, 해법 결과를 시각적으로 미리 볼 수 있고, 매크로로 복사 및 일괄 제작이 가능합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
