@@ -73,6 +73,9 @@
                 <source>动画锁</source>
                 <target>Animation Lock</target>
             </trans-unit>
+            <trans-unit id="Append" xml:space="preserve">
+                <source>追加</source>
+            </trans-unit>
             <trans-unit id="Apply" xml:space="preserve">
                 <source>应用</source>
                 <target>Apply</target>
@@ -2165,13 +2168,13 @@ If the status was applied by a combo action, the actual duration would be the se
                 <target>to clear the temporary settings for the current run.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
-            <source>退出延迟（毫秒）</source>
-            <target>Leave Delay</target>
-          </trans-unit>
+                <source>退出延迟（毫秒）</source>
+                <target>Leave Delay</target>
+            </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
-            <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
-            <target>The delay kicks off after receiving the &quot;duty completion&quot; event from the server, which is generally distributed much earlier than when the appearances of the character and arena are updated by subsequent events.</target>
-          </trans-unit>
+                <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+                <target>The delay kicks off after receiving the &quot;duty completion&quot; event from the server, which is generally distributed much earlier than when the appearances of the character and arena are updated by subsequent events.</target>
+            </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
                 <target>Duty To Leave Immediately</target>
@@ -2442,113 +2445,158 @@ If the status was applied by a combo action, the actual duration would be the se
                 <source>自动标记风脉泉</source>
                 <target>Auto Mark Aether Currents</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-CantSortEmptyList" xml:space="preserve">
-                <source>恶名精英列表为空, 无法排序</source>
-                <target>Failed to sort since the monster list is empty.</target>
+            <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
+                <source>自动播报</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-CantSortNullStartingPoint" xml:space="preserve">
-                <source>起始点为空，无法排序</source>
-                <target>Failed to sort due since the departure list is empty.</target>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastBehaviour" xml:space="preserve">
+                <source>自动播报行为</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
+                <source>正在播报第{pointIndex}个点位。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastRemain" xml:space="preserve">
+                <source>距出发还有{remainingTimeText}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
+                <source>开始时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
+                <source>使用当前时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
+                <source>确定要清除本轮扫描结果吗？</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
-                <source>创建时间: {0}</source>
-                <target>Created At: {0}</target>
+                <source>创建时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
+                <source>确定要删除吗？</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
-                <source>发现 {0} 级恶名精英: {1} 于 {2}</source>
-                <target>The notorious monster {1} (Rank {0}) has been found at {2}.</target>
+                <source>发现了恶名精英“{name}”于{position}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
+                <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
-                <source>打开微型狩猎行车界面</source>
-                <target>to access Mini Hunt-train Helper.</target>
+                <source>打开狩猎行车器界面</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-IntendedStartingPoint" xml:space="preserve">
                 <source>指定出发点</source>
                 <target>Departure</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MarkScan" xml:space="preserve">
-                <source>恶名精英扫描</source>
-                <target>Scan Notorious Monsters</target>
+                <source>扫描</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
+                <source>播报后自动传送、寻路或切换副本区</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
+                <source>寻路至恶名精英</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
+                <source>距离阈值</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
+                <source>寻路至精准位置</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
+                <source>寻路已停止，请检查角色状态、飞行条件和导航路径。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
+                <source>寻路至恶名精英行为</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
+                <source>寻路至附近</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
                 <source>最近的以太之光</source>
                 <target>Closest Aetheryte</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NewTrainListTip" xml:space="preserve">
-                <source>新建列表, 按下 Enter 键确认</source>
-                <target>Now creating a new list. Press Enter to confirm.</target>
+                <source>新建列表，按下 Enter 键确认。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
-                <source>当前无任何正在运行的扫描器</source>
-                <target>There is no ongoing scan task at the moment.</target>
+                <source>暂无扫描结果</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-PointDelayMS" xml:space="preserve">
-                <source>单点位延迟 (ms)</source>
-                <target>Duration Per Stop (millisecond)</target>
+            <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
+                <source>优先播报最近的以太之光信息</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-Rank" xml:space="preserve">
-                <source>级别</source>
-                <target>Rank</target>
+            <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
+                <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合信息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RankForEachMark" xml:space="preserve">
-                <source>{0} 级</source>
-                <target>lvl {0}</target>
+            <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
+                <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
+                <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
+                <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
+                <source>恶名精英位置消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Pattern-WaitAetheryte" xml:space="preserve">
+                <source>以太之光集合消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-PlaceholderHelp" xml:space="preserve">
+                <source>{name}：恶名精英或以太之光名称
+{position}：地图旗标
+{instance}：分线信息，无分线时为空
+{instanceText}：分线编号的游戏内显示形式
+{routeName}：当前路线名称
+{routeMonsterCount}：当前路线的恶名精英总数</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
+                <source>消息占位符</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-Relay-SelectedChannels" xml:space="preserve">
+                <source>选择了{count}个频道</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
                 <source>播报以太之光</source>
                 <target>Broadcast Aetheryte</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelayArgsHelp" xml:space="preserve">
-                <source>{0} - 恶名精英所在坐标
-{1} - 恶名精英名称
-{2} - 恶名精英所在分线 (如 &quot;1 线&quot;) (若不存在分线则此项为空)</source>
-                <target>{0} - Coordinate of the notorious monster.
-{1} - Name of the notorious monster.
-{2} - Instance of the notorious monster. (For example, &quot;Instance 1&quot;. The term will be empty if there&apos;s no instance available.)</target>
+            <trans-unit id="AutoMarksFinder-RelayAutoBroadcastEnd" xml:space="preserve">
+                <source>狩猎车结束消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-RelayAutoBroadcastStart" xml:space="preserve">
+                <source>狩猎车开始消息</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
-                <source>播报消息类型</source>
-                <target>Broadcast Message Type</target>
-            </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelayInstanceDisplay" xml:space="preserve">
-                <source>{0} 线</source>
-                <target>Instance {0}</target>
+                <source>文本播报频道</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayPosition" xml:space="preserve">
                 <source>播报位置信息</source>
                 <target>Broadcast Location</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-RelaySetting" xml:space="preserve">
-                <source>播报设置</source>
-                <target>Broadcast Settings</target>
+            <trans-unit id="AutoMarksFinder-RelayTrainEnd" xml:space="preserve">
+                <source>播报狩猎车结束消息</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-RelayTrainStart" xml:space="preserve">
+                <source>播报狩猎车开始消息</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
                 <target>Route</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-SaveTo" xml:space="preserve">
-                <source>保存位置:</source>
-                <target>Save To:</target>
+            <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
+                <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
                 <target>Scan Point</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-ScanPreview" xml:space="preserve">
+                <source>扫描预览</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
                 <source>扫描结果</source>
                 <target>Scan Result</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-ScannerSettings" xml:space="preserve">
-                <source>扫描设置</source>
-                <target>Scan Settings</target>
-            </trans-unit>
-            <trans-unit id="AutoMarksFinder-SelectRoutes" xml:space="preserve">
-                <source>选择路线</source>
-                <target>Route</target>
-            </trans-unit>
             <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
-                <source>已选择 {0} 个目标区域</source>
-                <target>{0} zone(s) have been selected.</target>
+                <source>选择了{count}个目标区域</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
                 <source>狩猎行车器</source>
@@ -2562,33 +2610,31 @@ If the status was applied by a combo action, the actual duration would be the se
                 <source>切换存活状态</source>
                 <target>Toggle Survival Status</target>
             </trans-unit>
-            <trans-unit id="AutoMarksFinder-TargetRank" xml:space="preserve">
-                <source>待扫描等级</source>
-                <target>Rank To Be Scanned</target>
-            </trans-unit>
             <trans-unit id="AutoMarksFinder-TargetZones" xml:space="preserve">
                 <source>待扫描区域</source>
                 <target>Zones To Be Scanned</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-TeleportToMobsZone" xml:space="preserve">
-                <source>传送至对应区域</source>
-                <target>Teleport To Zone</target>
+                <source>传送至以太之光</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-UnreachablePoints" xml:space="preserve">
+                <source>剩余点位均无法到达，扫描已停止，已有结果已保留。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
                 <source>更新点位数据</source>
                 <target>Update Spawns</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-UpdateSpawnPointsFailed" xml:space="preserve">
+                <source>更新点位数据失败，请检查网络连接后重试。</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
-                <source>更新了 {0} 个恶名精英点位</source>
-                <target>{0} spawn location(s) of notorious monster(s) have been updated.</target>
+                <source>更新了{count}个恶名精英点位。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
-                <source>{0} {1} 线</source>
-                <target>{0}, Instance {1}</target>
+                <source>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
-                <source>配置后，自动扫描所选区域内的恶名精英，并可根据记录数据快捷带领狩猎车。</source>
-                <target>Automatically scan for notorious monsters in the given zones after proper configurations, allowing to lead a hunt train conveniently based on the log.</target>
+                <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
@@ -6614,22 +6660,6 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
                 <source>自定义视距</source>
                 <target>Custom sight distance</target>
             </trans-unit>
-            <trans-unit id="DailyModuleBase-ExportError" xml:space="preserve">
-                <source>尝试导出配置至剪贴板时发生错误</source>
-                <target>Failed to export config to the clipboard</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-Exported" xml:space="preserve">
-                <source>已成功导出配置至剪贴板</source>
-                <target>Configuration has been successfully exported to the clipboard.</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-ImportError" xml:space="preserve">
-                <source>尝试从剪贴板导入配置时发生错误</source>
-                <target>An error occurred while attempting to import the configuration from the clipboard.</target>
-            </trans-unit>
-            <trans-unit id="DailyModuleBase-Imported" xml:space="preserve">
-                <source>已成功从剪贴板导入相关配置</source>
-                <target>Configuration has been successfully imported from the clipboard.</target>
-            </trans-unit>
             <trans-unit id="Default" xml:space="preserve">
                 <source>默认</source>
                 <target>Default</target>
@@ -8539,6 +8569,18 @@ Tester qualifications are not available to the public, which means there&apos;s 
                 <source>模块</source>
                 <target>Module</target>
             </trans-unit>
+            <trans-unit id="ModuleBase-ExportError" xml:space="preserve">
+                <source>尝试导出配置至剪贴板时发生错误。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-Exported" xml:space="preserve">
+                <source>成功导出了配置至剪贴板。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-ImportError" xml:space="preserve">
+                <source>尝试从剪贴板导入配置时发生错误。</source>
+            </trans-unit>
+            <trans-unit id="ModuleBase-Imported" xml:space="preserve">
+                <source>成功从剪贴板导入了配置。</source>
+            </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
                 <target>Action</target>
@@ -9932,6 +9974,9 @@ Enable the option to turn the fake panel into a real three-button panel.</target
                 <source>输出</source>
                 <target>output</target>
             </trans-unit>
+            <trans-unit id="Overwrite" xml:space="preserve">
+                <source>覆写</source>
+            </trans-unit>
             <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
                 <source>单页显示数量</source>
                 <target>Page Size</target>
@@ -11144,11 +11189,11 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>工作原理</source>
                 <target>Work theory</target>
             </trans-unit>
-          <trans-unit id="Yes" xml:space="preserve">
+            <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
                 <target>Yes</target>
             </trans-unit>
-          <trans-unit id="Zone" xml:space="preserve">
+            <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
