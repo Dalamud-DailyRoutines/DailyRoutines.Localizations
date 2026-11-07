@@ -6293,9 +6293,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
                 <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
+                <target>임무 &quot;기공성 알렉산더: 기동편 2&quot;에 입장 후, &quot;폭탄&quot;을 강조 표시하고 폭발 범위를 안내합니다. 만약 현재 &quot;VII호 고블린 워커&quot;에 탑승하지 않은 상태라면 &quot;폭탄&quot;을 타겟팅할 수 없도록 방지합니다.</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
                 <source>启动之章2助手</source>
+                <target>&quot;기공성 알렉산더: 기동편 2&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="Current" xml:space="preserve">
                 <source>当前</source>
@@ -8265,6 +8267,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
                 <source>已导入收藏夹。</source>
+                <target>즐겨찾기에 추가했습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-NameHint" xml:space="preserve">
                 <source>请输入新收藏夹名称，不可重复</source>
@@ -8408,6 +8411,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
                 <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
+                <target>온라인 인증 정보를 새로 고칠 때마다 활성화된 인증서의 인증 정보를 알림으로 표시합니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TTSMigrationHelp" xml:space="preserve">
                 <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件，如有需要，请单独下载。</source>
@@ -10661,15 +10665,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
                 <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
+                <target>화면을 단색으로 표시하고 게임 UI만 남김(이름표 제외)</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
                 <source>禁止热键栏渲染</source>
+                <target>&apos;단축바&apos; 숨기기</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
                 <source>禁止界面渲染，仅保留聊天栏</source>
+                <target>UI 전체를 숨기고 &apos;채팅창&apos;만 표시</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
                 <source>禁止界面渲染，仅保留姓名板</source>
+                <target>UI 전체를 숨기고 &apos;이름표&apos;만 표시</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
@@ -10677,6 +10685,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
                 <source>禁止姓名板渲染</source>
+                <target>&apos;이름표&apos; 숨기기</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
@@ -10687,6 +10696,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
+                <target>다양한 요구를 충족하기 위한 일련의 특수 렌더링 옵션을 제공합니다.</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -10718,9 +10728,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
+                <target>임무 &quot;진 라무 토벌전&quot; 입장 후, 빠른 해제를 돕기 위해 &quot;공포&quot; 상태를 가진 파티원에게 자동으로 마커를 부여합니다.</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
+                <target>&quot;진 라무 토벌전&quot; 도우미</target>
             </trans-unit>
             <trans-unit id="Style" xml:space="preserve">
                 <source>样式</source>
