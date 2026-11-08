@@ -2476,18 +2476,21 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
+                <target>생성 시간</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
                 <source>确定要删除吗？</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
                 <source>发现了恶名精英“{name}”于{position}。</source>
+                <target>{position}에서 A급 마물 &quot;{name}&quot; 발견.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
                 <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
+                <target>마물런 창 열기</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-IntendedStartingPoint" xml:space="preserve">
                 <source>指定出发点</source>
@@ -2495,6 +2498,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MarkScan" xml:space="preserve">
                 <source>扫描</source>
+                <target>스캔</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
                 <source>播报后自动传送、寻路或切换副本区</source>
@@ -2523,6 +2527,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NewTrainListTip" xml:space="preserve">
                 <source>新建列表，按下 Enter 键确认。</source>
+                <target>새 목록을 만들고 Enter 키로 확인</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
                 <source>暂无扫描结果</source>
@@ -2569,9 +2574,11 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastEnd" xml:space="preserve">
                 <source>狩猎车结束消息</source>
+                <target>마물런 종료 메세지</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastStart" xml:space="preserve">
                 <source>狩猎车开始消息</source>
+                <target>마물런 출발 메세지</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
                 <source>文本播报频道</source>
