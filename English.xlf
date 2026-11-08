@@ -2493,21 +2493,26 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
                 <source>寻路至恶名精英</source>
+                <target>Entity</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
                 <source>距离阈值</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
                 <source>寻路至精准位置</source>
+                <target>Location</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件和导航路径。</source>
+                <target>The navigation has been terminated </target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
                 <source>寻路至恶名精英行为</source>
+                <target>Navigation Mode</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
                 <source>寻路至附近</source>
+                <target>Nearby</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
                 <source>最近的以太之光</source>
