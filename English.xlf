@@ -2536,6 +2536,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
                 <source>恶名精英位置消息</source>
+                <target>NM Location Message</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-WaitAetheryte" xml:space="preserve">
                 <source>以太之光集合消息</source>
@@ -2547,6 +2548,12 @@ If the status was applied by a combo action, the actual duration would be the se
 {instanceText}：分线编号的游戏内显示形式
 {routeName}：当前路线名称
 {routeMonsterCount}：当前路线的恶名精英总数</source>
+                <target>{name}: The name of the Notorious Monster or the aetheryte.
+{position}: The position of the map flag.
+{instance}: The target instance of the zone. It will be an empty string if no instance is available for the zone.
+{instanceText}: The target instance of the zone, in the vanilla format of the game.
+{routeName}: The name of the route.
+{routeMonsterCount}: The total count of available Notorious Monsters on the route.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
                 <source>消息占位符</source>
