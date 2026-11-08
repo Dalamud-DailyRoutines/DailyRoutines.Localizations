@@ -2527,10 +2527,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
                 <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+                <target>Notorious Monster &quot;{name}&quot; has been spotted at {position}{instance, plural, =0 {} other { (Instance {instanceText})}}.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
                 <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
-                <target>Please standby at &quot;{name}&quot;, {position} {instance, plural, =0 {} other {(Instance {instanceText})}}.</target>
+                <target>Please standby at &quot;{name}&quot;, {position}{instance, plural, =0 {} other { (Instance {instanceText})}}.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
                 <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
