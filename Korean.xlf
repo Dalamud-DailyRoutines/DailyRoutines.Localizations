@@ -2529,6 +2529,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
                 <source>寻路至附近</source>
+                <target>인근 경로 찾기</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
                 <source>最近的以太之光</source>
@@ -2544,24 +2545,31 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
                 <source>优先播报最近的以太之光信息</source>
+                <target>가까운 &quot;에테라이트&quot; 정보를 우선 전파하기</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
                 <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合信息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
+                <target>다음 정예 마물이 있는 지역이나 던전 구역이 현재 위치와 다른 경우, 먼저 &quot;에테라이트 집합 정보&quot;를 알립니다. 목표 지역이나 던전 구역에 도착하면 자동으로 &quot;악명 엘리트 위치 정보&quot;를 알립니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
                 <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+                <target>정예 마물 &quot;{name}&quot;를 발견했습니다. 위치: {position}{instance, plural, =0 {} other {({instanceText}라인)}}。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
                 <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+                <target>&quot;{name}&quot;로 이동하여 대기해 주십시오. 위치: {position}{instance, plural, =0 {} other {({instanceText}라인)}}。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
                 <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+                <target>{instance, plural, =0 {} other {({instanceText}라인)}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
                 <source>恶名精英位置消息</source>
+                <target>정예마물 위치 메세지</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-WaitAetheryte" xml:space="preserve">
                 <source>以太之光集合消息</source>
+                <target>에테라이트 집합 메세지</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-PlaceholderHelp" xml:space="preserve">
                 <source>{name}：恶名精英或以太之光名称
@@ -2570,6 +2578,12 @@
 {instanceText}：分线编号的游戏内显示形式
 {routeName}：当前路线名称
 {routeMonsterCount}：当前路线的恶名精英总数</source>
+                <target>{name}: 마물 또는 에테라이트 이름
+{position}: 지도 깃발 위치
+{instance}: 인스턴스 정보. 인스턴스가 없을 경우 빈 값
+{instanceText}: 인스턴스 번호의 게임 내 표시 형식
+{routeName}: 현재 경로 이름
+{routeMonsterCount}: 현재 경로의 마물 총 수</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
                 <source>消息占位符</source>
