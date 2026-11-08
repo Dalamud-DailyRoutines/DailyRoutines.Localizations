@@ -2511,21 +2511,27 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
                 <source>播报后自动传送、寻路或切换副本区</source>
+                <target>전파 후 자동 텔레포, 경로 찾기 또는 인스턴스 구역 전환</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
                 <source>寻路至恶名精英</source>
+                <target>정예 마물 경로 탐색</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
                 <source>距离阈值</source>
+                <target>임계값과의 거리</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
                 <source>寻路至精准位置</source>
+                <target>정확한 위치로 경로 찾기</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件和导航路径。</source>
+                <target>경로 탐색이 중지되었습니다. 캐릭터 상태, 비행 조건 및 내비게이션 경로를 확인해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
                 <source>寻路至恶名精英行为</source>
+                <target>정예 마물 경로 탐색</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
                 <source>寻路至附近</source>
