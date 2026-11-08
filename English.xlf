@@ -2586,7 +2586,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
-                <target>Scan Point</target>
+                <target>Available Spawns</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPreview" xml:space="preserve">
                 <source>扫描预览</source>
