@@ -2455,24 +2455,31 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
+                <target>자동 전파</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastBehaviour" xml:space="preserve">
                 <source>自动播报行为</source>
+                <target>자동 전파 행위</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
+                <target>현재 {pointIndex}번째 지점을 전파중입니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastRemain" xml:space="preserve">
                 <source>距出发还有{remainingTimeText}。</source>
+                <target>출발까지 {remainingTimeText} 남았습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
                 <source>开始时间</source>
+                <target>시작시간</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
+                <target>현재시간사용</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
+                <target>이번 스캔 결과를 삭제하시겠습니까?</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
@@ -2480,6 +2487,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
                 <source>确定要删除吗？</source>
+                <target>삭제하시겠습니까?</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
                 <source>发现了恶名精英“{name}”于{position}。</source>
@@ -2487,6 +2495,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
                 <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
+                <target>현재 비행이 불가능하여 스캔이 중지되고, 기존 결과는 보존되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
@@ -2564,9 +2573,11 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
                 <source>消息占位符</source>
+                <target>메시지 자리 표시</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-SelectedChannels" xml:space="preserve">
                 <source>选择了{count}个频道</source>
+                <target>{count}개의 채널을 선택했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
                 <source>播报以太之光</source>
