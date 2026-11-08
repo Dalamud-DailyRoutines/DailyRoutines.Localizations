@@ -2455,9 +2455,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
+                <target>Now broadcasting the {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} spawn.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastRemain" xml:space="preserve">
                 <source>距出发还有{remainingTimeText}。</source>
+                <target>{remainingTimeText} to departure.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
                 <source>开始时间</source>
@@ -2465,6 +2467,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
+                <target>Current Time</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
@@ -2472,6 +2475,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
+                <target>Created At</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
                 <source>确定要删除吗？</source>
@@ -2665,9 +2669,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
                 <source>更新了{count}个恶名精英点位。</source>
+                <target>{count, plural, one {# spawn has} other {# spawns have}} been updated.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
                 <source>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+                <target>{location}{instance, plural, =0 {} other {(Instance {instanceText})}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
                 <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
