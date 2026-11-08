@@ -2627,6 +2627,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UnreachablePoints" xml:space="preserve">
                 <source>剩余点位均无法到达，扫描已停止，已有结果已保留。</source>
+                <target>남은 위치는 도달할 수 없어 스캔이 중단되고 기존 결과는 그대로 유지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
                 <source>更新点位数据</source>
@@ -2634,15 +2635,19 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsFailed" xml:space="preserve">
                 <source>更新点位数据失败，请检查网络连接后重试。</source>
+                <target>위치 데이터 업데이트에 실패했습니다. 네트워크 연결을 확인한 후 다시 시도해 주십시오.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
                 <source>更新了{count}个恶名精英点位。</source>
+                <target>{count} 건의 마물 지점을 갱신했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
                 <source>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+                <target>{location}{instance, plural, =0 {} other {({instanceText}라인)}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
                 <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
+                <target>선택한 지역 내 마물 정보를 자동 스캔하고 목록으로 정리합니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
@@ -7061,9 +7066,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInn-CommandHelp" xml:space="preserve">
                 <source>一键进入或离开旅馆。</source>
+                <target>여관 즉시 입장/퇴장</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnDescription" xml:space="preserve">
                 <source>移除进入和离开旅馆时弹出的二次确认对话框，并提供“/pdr {command}”指令以一键进入最近的旅馆。</source>
+                <target>여관에 들어갈 때와 나갈 때 나타나는 확인 창를 제거하고, &quot;/pdr {command}&quot; 명령어로 가장 가까운 여관에 한 번의 클릭으로 들어갈 수 있도록 합니다.</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
                 <source>快捷进出旅馆</source>
@@ -8577,15 +8584,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="ModuleBase-ExportError" xml:space="preserve">
                 <source>尝试导出配置至剪贴板时发生错误。</source>
+                <target>설정을 클립보드로 복사 중 오류가 발생했습니다.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Exported" xml:space="preserve">
                 <source>成功导出了配置至剪贴板。</source>
+                <target>설정을 클립보드에 복사했습니다.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-ImportError" xml:space="preserve">
                 <source>尝试从剪贴板导入配置时发生错误。</source>
+                <target>클립보드에서 설정을 가져오는 중 오류가 발생했습니다.</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Imported" xml:space="preserve">
                 <source>成功从剪贴板导入了配置。</source>
+                <target>클립보드에서 설정을 성공적으로 가져왔습니다.</target>
             </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
@@ -9554,6 +9565,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-Load" xml:space="preserve">
                 <source>确定要读取预设“{presetName}”吗？</source>
+                <target>프리셋 &quot;{presetName}&quot;을 불러오시겠습니까?</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
                 <source>请输入待保存预设的显示名称。</source>
