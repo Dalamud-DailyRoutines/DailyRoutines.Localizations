@@ -2465,18 +2465,21 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
+                <target>Clear the scan results?</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
                 <source>确定要删除吗？</source>
+                <target>Delete?</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
                 <source>发现了恶名精英“{name}”于{position}。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
                 <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
+                <target>The scanning process has been terminated due to failed flight. All the confirmed results have been saved.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
@@ -2490,6 +2493,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
                 <source>播报后自动传送、寻路或切换副本区</source>
+                <target>Auto Navigate After Broadcast</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
                 <source>寻路至恶名精英</source>
@@ -2497,6 +2501,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
                 <source>距离阈值</source>
+                <target>Distance Threshold</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
                 <source>寻路至精准位置</source>
@@ -2504,7 +2509,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件和导航路径。</source>
-                <target>The navigation has been terminated </target>
+                <target>The navigation has been terminated since the character, the route or flight is unavailable at the moment.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
                 <source>寻路至恶名精英行为</source>
