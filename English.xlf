@@ -2550,9 +2550,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
                 <source>消息占位符</source>
+                <target>Message Interpolations</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-SelectedChannels" xml:space="preserve">
                 <source>选择了{count}个频道</source>
+                <target>{count, plural, one {# channel has} other {# channels have}} been selected.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
                 <source>播报以太之光</source>
@@ -2560,9 +2562,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastEnd" xml:space="preserve">
                 <source>狩猎车结束消息</source>
+                <target>Hunt-train Outro Message</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastStart" xml:space="preserve">
                 <source>狩猎车开始消息</source>
+                <target>Hunt-train Intro Message</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
                 <source>文本播报频道</source>
@@ -2573,9 +2577,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayTrainEnd" xml:space="preserve">
                 <source>播报狩猎车结束消息</source>
+                <target>Broadcast Hunt-train Outro</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayTrainStart" xml:space="preserve">
                 <source>播报狩猎车开始消息</source>
+                <target>Broadcast Hunt-train Intro</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
@@ -2583,6 +2589,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
+                <target>The scanning process has been terminated since the character, the zone or the navigation is unavailable at the moment. All the confirmed results have been saved.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
