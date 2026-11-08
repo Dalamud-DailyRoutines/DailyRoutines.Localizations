@@ -75,6 +75,7 @@
             </trans-unit>
             <trans-unit id="Append" xml:space="preserve">
                 <source>追加</source>
+                <target>추가</target>
             </trans-unit>
             <trans-unit id="Apply" xml:space="preserve">
                 <source>应用</source>
@@ -5936,7 +5937,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
                 <source>准备传送至“{destination}”。</source>
-                <target>&quot;{destination}&quot;으로 전송 대기중입니다.</target>
+                <target>텔레포 중: {destination}</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -9982,6 +9983,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="Overwrite" xml:space="preserve">
                 <source>覆写</source>
+                <target>덮어쓰기</target>
             </trans-unit>
             <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
                 <source>单页显示数量</source>
