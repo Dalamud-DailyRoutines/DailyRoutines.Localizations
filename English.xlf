@@ -2521,9 +2521,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
                 <source>优先播报最近的以太之光信息</source>
+                <target>Broadcast Standby Message If Leaving Zone</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
                 <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合信息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
+                <target>Broadcast &quot;Aetheryte Standby Message&quot; if the next Notorious Monster is located in another zone, and then broadcast &quot;Monster Location Message&quot; after arriving in the zone.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
                 <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
