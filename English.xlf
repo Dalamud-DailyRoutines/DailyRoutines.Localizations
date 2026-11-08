@@ -7102,9 +7102,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInn-CommandHelp" xml:space="preserve">
                 <source>一键进入或离开旅馆。</source>
+                <target>to access the nearest Inn immediately or leave the current Inn.</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnDescription" xml:space="preserve">
                 <source>移除进入和离开旅馆时弹出的二次确认对话框，并提供“/pdr {command}”指令以一键进入最近的旅馆。</source>
+                <target>Skip the confirmation while entering and leaving Inn. The feature also comes with a command &quot;/pdr {command}&quot; to access the nearest Inn immediately.</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
                 <source>快捷进出旅馆</source>
