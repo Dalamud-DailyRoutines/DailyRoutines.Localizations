@@ -2526,6 +2526,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
                 <source>暂无扫描结果</source>
+                <target>현재 스캔 결과 없음</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
                 <source>优先播报最近的以太之光信息</source>
