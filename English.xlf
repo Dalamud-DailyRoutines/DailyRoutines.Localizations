@@ -2586,10 +2586,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
-                <target>Available Spawns</target>
+                <target>Spawns To Be Scanned</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPreview" xml:space="preserve">
                 <source>扫描预览</source>
+                <target>Preview</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
                 <source>扫描结果</source>
@@ -2619,6 +2620,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UnreachablePoints" xml:space="preserve">
                 <source>剩余点位均无法到达，扫描已停止，已有结果已保留。</source>
+                <target>The scanning process has been terminated due to unreachable spawns. All the confirmed results have been saved.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
                 <source>更新点位数据</source>
@@ -2626,6 +2628,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsFailed" xml:space="preserve">
                 <source>更新点位数据失败，请检查网络连接后重试。</source>
+                <target>Failed to update the spawns. Please consider checking your network.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
                 <source>更新了{count}个恶名精英点位。</source>
