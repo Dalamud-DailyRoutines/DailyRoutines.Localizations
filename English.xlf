@@ -2530,16 +2530,19 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
                 <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
+                <target>Please standby at &quot;{name}&quot;, {position} {instance, plural, =0 {} other {(Instance {instanceText})}}.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
                 <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
+                <target>{instance, plural, =0 {} other {(Instance {instanceText})}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
                 <source>恶名精英位置消息</source>
-                <target>NM Location Message</target>
+                <target>Monster Location Message</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-WaitAetheryte" xml:space="preserve">
                 <source>以太之光集合消息</source>
+                <target>Aetheryte Standby Message</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-PlaceholderHelp" xml:space="preserve">
                 <source>{name}：恶名精英或以太之光名称
