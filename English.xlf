@@ -7618,9 +7618,12 @@ If the option is enabled, the tray icon would persistently exist even when the g
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
 （示例：使用城内以太之晶、捷径、船头）</source>
+                <target>Accelerate all zone loading in order to reduce the character downtime between zones.
+(For example, aethernet shards, shortcuts and ferry skippers)</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
                 <source>更快的区域内移动加载</source>
+                <target>Better Zone Loading</target>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
@@ -9335,9 +9338,11 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
                 <source>显示秒数</source>
+                <target>Include Seconds</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeDescription" xml:space="preserve">
                 <source>优化“基本情报”界面内的时间显示，根据服务器时间实时同步校正本地时间，并把显示精度提高到秒级。</source>
+                <target>Provide improvements for the time widget in Server Info Bar, including auto calibration based on server time and higher precision down to the second.</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
                 <source>“基本情报”界面时间优化</source>
