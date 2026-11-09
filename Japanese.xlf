@@ -7018,76 +7018,48 @@ UI: {0}
                 <source>快捷交换军票物品</source>
                 <target>軍票交換所での一括交換</target>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-AddDtrEntry" xml:space="preserve">
-                <source>在服务器信息栏添加快捷副本区切换菜单入口</source>
-                <target>サーバー情報欄にインスタンス切り替えメニューを追加</target>
+            <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
+                <source>在服务器信息栏显示当前所在的副本区</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-CloseAfterUsage" xml:space="preserve">
-                <source>使用菜单后自动关闭菜单</source>
-                <target>メニュー使用後に自動で閉じる</target>
+            <trans-unit id="FastInstanceZoneChange-ButtonFormat" xml:space="preserve">
+                <source>切换至副本区{instanceText}（数字键{keyboardHint}）</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
-                <source>切换快捷副本区切换菜单的显示状态
-/pdr insc &lt;副本区编号&gt; → 切换至指定副本区 (从 1 开始)
-/pdr insc abort → 放弃当前的副本区切换任务</source>
-                <target>インスタンス切り替えメニューの表示状態を切り替える
-/pdr insc &lt;インスタンス番号&gt; → 指定したインスタンスへ切り替える (1から開始)
-/pdr insc abort → 現在のインスタンス切り替え処理を中止する</target>
+                <source>打开或关闭快捷切换副本区界面。
+/pdr insc &lt;副本区编号&gt; 前往当前区域指定的副本区（从1开始）。
+/pdr insc abort 放弃切换副本区。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
                 <target>切り替えに失敗した場合、成功するまで試行を繰り返す</target>
             </trans-unit>
+            <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
+                <source>点击打开快捷切换副本区界面。</source>
+            </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-DtrEntryTooltip" xml:space="preserve">
-                <source>点击打开快捷副本区切换菜单</source>
-                <target>クリックしてインスタンス切り替えメニューを開く</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
+                <source>放弃了切换副本区。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-MountAfterChange" xml:space="preserve">
-                <source>切换副本区后自动使用坐骑</source>
-                <target>インスタンス切り替え後、自動的にマウントを使用する</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-Goto" xml:space="preserve">
+                <source>准备前往副本区“{instanceText}”。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-Aborted" xml:space="preserve">
-                <source>已放弃队列任务</source>
-                <target>キューのタスクを中止しました</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
+                <source>当前区域未划分副本区。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-Change" xml:space="preserve">
-                <source>正在切换至副本区 {0}</source>
-                <target>インスタンス {0} へ切り替え中</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-ChangeTimes" xml:space="preserve">
-                <source>当前尝试次数: {0}</source>
-                <target>現在の試行回数: {0}</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-CurrentlyInSameInstance" xml:space="preserve">
-                <source>当前已位于副本区 {0}</source>
-                <target>現在、すでにインスタンス {0} に滞在しています</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-InvalidArgs" xml:space="preserve">
-                <source>输入参数 {0} 非法</source>
-                <target>入力されたパラメータ {0} は無効です</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-NoInstanceZones" xml:space="preserve">
-                <source>当前区域不存在可切换的副本区</source>
-                <target>現在のエリアには、切り替え可能なインスタンスが存在しません</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-SwitchInstance" xml:space="preserve">
-                <source>切换至 {0} 线</source>
-                <target>インスタンス {0} へ切り替え</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
+                <source>当前正位于副本区“{instanceText}”。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-TeleportIfNotNearAetheryte" xml:space="preserve">
                 <source>若附近无可用以太之光则先传送至最近的以太之光</source>
                 <target>付近に利用可能なエーテライトがない場合、まず最寄りのエーテライトへテレポする</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
-                <source>快速切换副本区并显示副本区信息, 支持自动重试、自动上下坐骑与自动传送等, 通过 /pdr {0} 指令快捷切换或点击服务器信息栏条目打开界面交互切换</source>
-                <target>インスタンスを素早く切り替え、情報を表示します。 自動リトライ、マウントの自動昇降、自動テレポなどの機能をサポート。 コマンド {0} によるクイック切り替え、またはサーバー情報欄の項目をクリックして開くメニューからインタラクティブに切り替えが可能です。</target>
+                <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
-                <source>快捷副本区切换</source>
-                <target>インスタンス切替</target>
+                <source>快捷切换副本区</source>
             </trans-unit>
             <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
                 <source>退队并参加</source>
