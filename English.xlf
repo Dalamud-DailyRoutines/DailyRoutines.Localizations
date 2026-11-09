@@ -8439,6 +8439,7 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Title" xml:space="preserve">
                 <source>众包</source>
+                <target>Crowdsourcing</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-XIVPF-Help" xml:space="preserve">
                 <source>打开“队员招募”界面时，上传招募信息。
@@ -9287,13 +9288,17 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-Register" xml:space="preserve">
                 <source>申请参加“{contentName}”。</source>
+                <target>Now registering for &quot;{contentName}&quot;.</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-RegisterWithConditions" xml:space="preserve">
                 <source>以下列条件申请参加“{contentName}”。
 {conditions}</source>
+                <target>Now registering for &quot;{contentName}&quot;. The following Duty Finder Settings have been enabled:
+{conditions}</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderDescription" xml:space="preserve">
                 <source>优化“任务搜索器”界面。点击职业显示组件可直接打开“职业&amp;特职”界面；条件显示组件可直接点击设置任务搜索器条件；外显隐藏的前置任务名称；任务列表项新增快捷申请参加按钮；随机任务列表项新增指示是否已获得本日任务奖励的图标；完成任务后自动取消任务选择。</source>
+                <target>Provide a better Duty Finder interface, allowing to access the &quot;Classes/Jobs&quot; overview by clicking the job thumbnail, adjust Duty Finder Settings by clicking the buttons in the toolbar above, display the prerequisite duties explicitly, uncheck all automatically after a run. The feature also comes with registration shortcuts and better indicators regarding the daily rewards of Duty Roulettes.</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
