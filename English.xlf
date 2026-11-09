@@ -2456,6 +2456,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted" xml:space="preserve">
                 <source>结束了狩猎路线自动播报。</source>
+                <target>The route broadcast is complete.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
@@ -2471,7 +2472,8 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting" xml:space="preserve">
                 <source>即将开始自动播报狩猎路线，当前周边共有{count}名玩家。</source>
-                <target>Now broadcasting the route of the current hunt train. There </target>
+                <target>Now broadcasting the route of the current hunt train. There {count, plural, one {is} other {are}} {count, plural, one {# player} other {# players}} nearby.
+</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
@@ -9339,6 +9341,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
                 <source>“基本情报”界面时间优化</source>
+                <target>Better Time Widget In Server Info Bar</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
