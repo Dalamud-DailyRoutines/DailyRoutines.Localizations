@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0" ?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
         <body>
             <trans-unit id="Accept" xml:space="preserve">
@@ -5279,8 +5280,11 @@
             <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
                 <source>在服务器信息栏显示当前所在的副本区</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-ButtonFormat" xml:space="preserve">
-                <source>切换至副本区{instanceText}（数字键{keyboardHint}）</source>
+            <trans-unit id="FastInstanceZoneChange-ButtonKeyHint" xml:space="preserve">
+                <source>（数字键{keyboardHint}）</source>
+            </trans-unit>
+            <trans-unit id="FastInstanceZoneChange-ButtonTitle" xml:space="preserve">
+                <source>切换至副本区{instanceText}</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
                 <source>打开或关闭快捷切换副本区界面。
