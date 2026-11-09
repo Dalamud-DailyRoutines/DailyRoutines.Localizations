@@ -8418,6 +8418,7 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE" xml:space="preserve">
                 <source>紧急遭遇战众包网</source>
+                <target>Critical Engagement Recorder</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE-Help" xml:space="preserve">
                 <source>位于特殊场景探索相关区域时，上传危命任务与紧急遭遇战信息。
@@ -8425,14 +8426,19 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
                 <source>FF14 限时奖励监控</source>
+                <target>Bonus Monitor For Chaotic Alliance Raid</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus-Help" xml:space="preserve">
                 <source>打开“任务搜索器”界面时，上传诛灭战限时奖励信息。
 网址：https://uptime.ff14.xin/</source>
+                <target>Upload the information of Chaotic Alliance Raid bonus while accessing Duty Finder.
+The information will be uploaded to https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Help" xml:space="preserve">
                 <source>部分功能和模块会使用玩家社区建立的众包平台的数据，因而也会收集并匿名上传平台所需的众包数据以回馈与共建。
 ※如果禁用上传，将不可使用部分功能和模块。</source>
+                <target>Some modules and features provided by Daily Routines are powered by crowdsourced data. Please rest assured, all the data collected from users are completely anonymous.
+※ The modules and features based on crowdsourced data may be unavailable if the crowdsourcing is disabled.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-OpenLink" xml:space="preserve">
                 <source>打开网站</source>
