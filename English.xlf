@@ -8436,6 +8436,7 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-OpenLink" xml:space="preserve">
                 <source>打开网站</source>
+                <target>Access Website</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Title" xml:space="preserve">
                 <source>众包</source>
@@ -8444,6 +8445,8 @@ Tester qualifications are not available to the public, which means there&apos;s 
             <trans-unit id="MainWindow-Settings-CrowdSource-XIVPF-Help" xml:space="preserve">
                 <source>打开“队员招募”界面时，上传招募信息。
 网址：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</source>
+                <target>Upload the information of all the available recruitments at the moment while accessing Party Finder.
+The information will be uploaded to {isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
