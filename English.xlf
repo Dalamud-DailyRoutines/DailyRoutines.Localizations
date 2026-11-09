@@ -9297,6 +9297,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
+                <target>Better Duty Finder</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
                 <source>显示秒数</source>
