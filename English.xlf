@@ -2471,6 +2471,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting" xml:space="preserve">
                 <source>即将开始自动播报狩猎路线，当前周边共有{count}名玩家。</source>
+                <target>Now broadcasting the route of the current hunt train. There </target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
@@ -2632,6 +2633,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanCompleted" xml:space="preserve">
                 <source>完成了恶名精英扫描，共发现{count}只恶名精英。</source>
+                <target>The scanning process is complete. {count, plural, one {# Notorious Monster has} other {# Notorious Monsters have}} been spotted.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
