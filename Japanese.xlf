@@ -7504,12 +7504,11 @@ UI: {0}
                 <target>クイック・ワールド間テレポ</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-                <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-                <target>エリア内のすべてのマップ遷移のロード速度を速め、ゲームキャラクターがロード中の無効状態からできるだけ早く抜け出せるようにする</target>
+                <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
+（示例：使用城内以太之晶、捷径、船头）</source>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-                <source>更快的区域内过图加载</source>
-                <target>エリア内のマップ遷移ロードを高速化する</target>
+                <source>更快的区域内移动加载</source>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
