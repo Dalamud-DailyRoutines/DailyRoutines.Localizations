@@ -6900,18 +6900,6 @@ XivGear (xivgear.app)</target>
                 <source>快捷青魔法书搜索框</source>
                 <target>快捷青魔法書搜索框</target>
             </trans-unit>
-            <trans-unit id="FastContentsFinderRegister-HoldConflictKeyToToggle" xml:space="preserve">
-                <source>按住打断热键以切换</source>
-                <target>按住打斷快速鍵以切換</target>
-            </trans-unit>
-            <trans-unit id="FastContentsFinderRegisterDescription" xml:space="preserve">
-                <source>为任务搜索器内的各任务新增快捷按钮, 用于一键以默认、解除限制、自由探索等设置参加对应的任务</source>
-                <target>為任務搜索器內的各任務新增快捷按鈕, 用於一鍵以默認、解除限制、自由探索等設置參加對應的任務</target>
-            </trans-unit>
-            <trans-unit id="FastContentsFinderRegisterTitle" xml:space="preserve">
-                <source>快捷任务搜索器匹配副本</source>
-                <target>快捷任務搜索器匹配副本</target>
-            </trans-unit>
             <trans-unit id="FastCustomDeliveriesInfo-TeleportToZone" xml:space="preserve">
                 <source>传送至对应区域</source>
                 <target>傳送至對應區域</target>
@@ -6965,6 +6953,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
                 <target>若切換失敗則重複嘗試至切換成功</target>
+            </trans-unit>
+            <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
+                <source>副本区{instanceText}</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DtrEntryTooltip" xml:space="preserve">
                 <source>点击打开快捷副本区切换菜单</source>
@@ -8224,6 +8215,34 @@ XivGear (xivgear.app)</target>
             <trans-unit id="MainWindow-Settings-About-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
             </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-CE" xml:space="preserve">
+                <source>紧急遭遇战众包网</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-CE-Help" xml:space="preserve">
+                <source>位于特殊场景探索相关区域时，上传危命任务与紧急遭遇战信息。
+网站：https://ce-crowdsource.atmoomen.top/</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
+                <source>FF14 限时奖励监控</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus-Help" xml:space="preserve">
+                <source>打开“任务搜索器”界面时，上传诛灭战限时奖励信息。
+网址：https://uptime.ff14.xin/</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-Help" xml:space="preserve">
+                <source>部分功能和模块会使用玩家社区建立的众包平台的数据，因而也会收集并匿名上传平台所需的众包数据以回馈与共建。
+※如果禁用上传，将不可使用部分功能和模块。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-OpenLink" xml:space="preserve">
+                <source>打开网站</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-Title" xml:space="preserve">
+                <source>众包</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-CrowdSource-XIVPF-Help" xml:space="preserve">
+                <source>打开“队员招募”界面时，上传招募信息。
+网址：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</source>
+            </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
             </trans-unit>
@@ -9011,13 +9030,18 @@ XivGear (xivgear.app)</target>
             <trans-unit id="OptimizedCollectablesShopTitle" xml:space="preserve">
                 <source>“收藏品交易”界面优化</source>
             </trans-unit>
-            <trans-unit id="OptimizedDutyFinderSettingDescription" xml:space="preserve">
-                <source>使任务搜索器各设置直接以可交互按钮形式显示在界面上方, 无需打开二级界面即可交互设置</source>
-                <target>使任務搜索器各設置直接以可交互按鈕形式顯示在界面上方, 無需打開二級界面即可交互設置</target>
+            <trans-unit id="OptimizedContentsFinder-Register" xml:space="preserve">
+                <source>申请参加“{contentName}”。</source>
             </trans-unit>
-            <trans-unit id="OptimizedDutyFinderSettingTitle" xml:space="preserve">
-                <source>任务搜索器设置优化</source>
-                <target>任務搜索器設置最佳化</target>
+            <trans-unit id="OptimizedContentsFinder-RegisterWithConditions" xml:space="preserve">
+                <source>以下列条件申请参加“{contentName}”。
+{conditions}</source>
+            </trans-unit>
+            <trans-unit id="OptimizedContentsFinderDescription" xml:space="preserve">
+                <source>优化“任务搜索器”界面。点击职业显示组件可直接打开“职业&amp;特职”界面；条件显示组件可直接点击设置任务搜索器条件；外显隐藏的前置任务名称；任务列表项新增快捷申请参加按钮；随机任务列表项新增指示是否已获得本日任务奖励的图标；完成任务后自动取消任务选择。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
+                <source>“任务搜索器”界面优化</source>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
