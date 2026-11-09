@@ -7618,12 +7618,12 @@ If the option is enabled, the tray icon would persistently exist even when the g
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
 （示例：使用城内以太之晶、捷径、船头）</source>
-                <target>Accelerate all zone loading in order to reduce the character downtime between zones.
+                <target>Accelerate all intra-zone loading in order to reduce character downtime.
 (For example, aethernet shards, shortcuts and ferry skippers)</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
                 <source>更快的区域内移动加载</source>
-                <target>Better Zone Loading</target>
+                <target>Better Intra-zone Loading</target>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
