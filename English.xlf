@@ -7123,6 +7123,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
                 <source>在服务器信息栏显示当前所在的副本区</source>
+                <target>Instance Info In Server Info Bar</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonKeyHint" xml:space="preserve">
                 <source>（数字键{keyboardHint}）</source>
@@ -7141,6 +7142,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
                 <source>点击打开快捷切换副本区界面。</source>
+                <target>Click to access the dedicated shortcut interface for instance switching.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
@@ -7148,13 +7150,15 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
                 <source>放弃了切换副本区。</source>
+                <target>The switching process has been terminated.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Goto" xml:space="preserve">
                 <source>准备前往副本区“{instanceText}”。</source>
+                <target>Now switching to Instance &quot;{instanceText}&quot;.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
                 <source>当前区域未划分副本区。</source>
-                <target>no instance</target>
+                <target>No instance available for the zone.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
                 <source>当前正位于副本区“{instanceText}”。</source>
