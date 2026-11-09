@@ -7451,12 +7451,11 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
                 <target>Visite intermonde améliorée</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-                <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-                <target>Accélère tous les chargements internes aux zones afin de réduire le temps d’immobilisation du personnage.</target>
+                <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
+（示例：使用城内以太之晶、捷径、船头）</source>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-                <source>更快的区域内过图加载</source>
-                <target>Chargement intra-zone accéléré</target>
+                <source>更快的区域内移动加载</source>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
