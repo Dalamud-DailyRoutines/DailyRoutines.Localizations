@@ -7127,14 +7127,19 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonKeyHint" xml:space="preserve">
                 <source>（数字键{keyboardHint}）</source>
+                <target>(Num Key {keyboardHint})</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonTitle" xml:space="preserve">
                 <source>切换至副本区{instanceText}</source>
+                <target>Switch To Instance {instanceText}</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
                 <source>打开或关闭快捷切换副本区界面。
 /pdr insc &lt;副本区编号&gt; 前往当前区域指定的副本区（从1开始）。
 /pdr insc abort 放弃切换副本区。</source>
+                <target>to access or hide the dedicated shortcut interface for instance switching.
+/pdr insc &lt;instance index&gt; to switch to the specified instance of the current zone. The index starts from 1.
+/pdr insc abort to terminate the ongoing switching process.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
