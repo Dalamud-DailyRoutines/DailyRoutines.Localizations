@@ -1,4 +1,5 @@
-<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0" ?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="zh-CN" datatype="plaintext" original="DailyRoutines">
         <body>
             <trans-unit id="Accept" xml:space="preserve">
@@ -6924,6 +6925,15 @@
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
+            </trans-unit>
+            <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
+                <source>显示秒数</source>
+            </trans-unit>
+            <trans-unit id="OptimizedDTRTimeDescription" xml:space="preserve">
+                <source>优化“基本情报”界面内的时间显示，根据服务器时间实时同步校正本地时间，并把显示精度提高到秒级。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
+                <source>“基本情报”界面时间优化</source>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
