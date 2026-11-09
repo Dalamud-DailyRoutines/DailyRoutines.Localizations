@@ -2419,6 +2419,9 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             <trans-unit id="AutoMarksFinder-AutoBroadcastBehaviour" xml:space="preserve">
                 <source>自动播报行为</source>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted" xml:space="preserve">
+                <source>结束了狩猎路线自动播报。</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
             </trans-unit>
@@ -2427,6 +2430,9 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
                 <source>开始时间</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastStarting" xml:space="preserve">
+                <source>即将开始自动播报狩猎路线，当前周边共有{count}名玩家。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
@@ -2548,6 +2554,9 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
                 <target>パス</target>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ScanCompleted" xml:space="preserve">
+                <source>完成了恶名精英扫描，共发现{count}只恶名精英。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
