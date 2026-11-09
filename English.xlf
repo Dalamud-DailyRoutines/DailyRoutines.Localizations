@@ -2454,6 +2454,9 @@ If the status was applied by a combo action, the actual duration would be the se
                 <source>自动播报行为</source>
                 <target>Auto Broadcast Mode</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted" xml:space="preserve">
+                <source>结束了狩猎路线自动播报。</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
                 <target>Now broadcasting the {current, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} spawn.</target>
@@ -2465,6 +2468,9 @@ If the status was applied by a combo action, the actual duration would be the se
             <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
                 <source>开始时间</source>
                 <target>Start Time</target>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AutoBroadcastStarting" xml:space="preserve">
+                <source>即将开始自动播报狩猎路线，当前周边共有{count}名玩家。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
@@ -2623,6 +2629,9 @@ If the status was applied by a combo action, the actual duration would be the se
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
                 <target>Route</target>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ScanCompleted" xml:space="preserve">
+                <source>完成了恶名精英扫描，共发现{count}只恶名精英。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
