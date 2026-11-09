@@ -7419,12 +7419,11 @@ XivGear (xivgear.app)</target>
                 <target>快捷跨界傳送</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-                <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-                <target>加快區域內所有過圖行為的加載速度, 使遊戲人物能盡早脫離加載期間的禁用狀態</target>
+                <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
+（示例：使用城内以太之晶、捷径、船头）</source>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-                <source>更快的区域内过图加载</source>
-                <target>更快的區域內過圖加載</target>
+                <source>更快的区域内移动加载</source>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
