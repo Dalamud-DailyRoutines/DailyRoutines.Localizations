@@ -7137,13 +7137,14 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
-                <target>Retry until switching succeeds</target>
+                <target>Retry Until Successful</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
                 <source>点击打开快捷切换副本区界面。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
+                <target>Instance {instanceText}</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
                 <source>放弃了切换副本区。</source>
@@ -7153,16 +7154,19 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
                 <source>当前区域未划分副本区。</source>
+                <target>no instance</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
                 <source>当前正位于副本区“{instanceText}”。</source>
+                <target>Now in Instance &quot;{instanceText}&quot;.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-TeleportIfNotNearAetheryte" xml:space="preserve">
                 <source>若附近无可用以太之光则先传送至最近的以太之光</source>
-                <target>Teleport to the nearest Aetheryte first if there&apos;s no Aetheryte available nearby</target>
+                <target>Teleport To Nearest Aetheryte If None Nearby</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
                 <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
+                <target>Provide quality-of-life improvements for instance switching, allowing to automatically retry after a failed attempt and re-mount after arriving at the destination instance. The feature also comes with a dedicated shortcut interface along with a command &quot;/pdr {command}&quot; for better access.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
                 <source>快捷切换副本区</source>
