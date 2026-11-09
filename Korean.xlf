@@ -7608,12 +7608,11 @@ UI: {0}
                 <target>빠른 서버 텔레포트 명령어</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
-                <source>加快区域内所有过图行为的加载速度, 使游戏人物能尽早脱离加载期间的禁用状态</source>
-                <target>지역 내 모든 맵 전환의 로딩 속도를 높여 캐릭터가 로딩 중 비활성 상태에서 최대한 빨리 벗어날 수 있게 합니다.</target>
+                <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
+（示例：使用城内以太之晶、捷径、船头）</source>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
-                <source>更快的区域内过图加载</source>
-                <target>지역 내 맵 전환 로딩 가속</target>
+                <source>更快的区域内移动加载</source>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
