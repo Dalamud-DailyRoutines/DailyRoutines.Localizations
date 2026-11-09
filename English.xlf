@@ -7166,6 +7166,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
                 <source>快捷切换副本区</source>
+                <target>Better Instance Switching</target>
             </trans-unit>
             <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
                 <source>退队并参加</source>
@@ -8418,11 +8419,13 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE" xml:space="preserve">
                 <source>紧急遭遇战众包网</source>
-                <target>Critical Engagement Recorder</target>
+                <target>FATE &amp; CE Monitor</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE-Help" xml:space="preserve">
                 <source>位于特殊场景探索相关区域时，上传危命任务与紧急遭遇战信息。
 网站：https://ce-crowdsource.atmoomen.top/</source>
+                <target>Upload the information of FATEs and CEs in the current instance when the character is in a Field Operation duty.
+The information will be uploaded to https://ce-crowdsource.atmoomen.top/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
                 <source>FF14 限时奖励监控</source>
