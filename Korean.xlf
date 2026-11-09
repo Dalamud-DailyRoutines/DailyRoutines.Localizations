@@ -9303,6 +9303,15 @@ UI: {0}
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
             </trans-unit>
+            <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
+                <source>显示秒数</source>
+            </trans-unit>
+            <trans-unit id="OptimizedDTRTimeDescription" xml:space="preserve">
+                <source>优化“基本情报”界面内的时间显示，根据服务器时间实时同步校正本地时间，并把显示精度提高到秒级。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
+                <source>“基本情报”界面时间优化</source>
+            </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
                 <target>타겟팅 제한 자동 해제</target>
