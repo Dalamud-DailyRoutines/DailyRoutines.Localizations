@@ -6934,76 +6934,48 @@ XivGear (xivgear.app)</target>
                 <source>快捷交换军票物品</source>
                 <target>快捷交换军票物品</target>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-AddDtrEntry" xml:space="preserve">
-                <source>在服务器信息栏添加快捷副本区切换菜单入口</source>
-                <target>在伺服器資訊欄添加快捷副本區切換菜單入口</target>
+            <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
+                <source>在服务器信息栏显示当前所在的副本区</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-CloseAfterUsage" xml:space="preserve">
-                <source>使用菜单后自动关闭菜单</source>
-                <target>使用菜單後自動關閉菜單</target>
+            <trans-unit id="FastInstanceZoneChange-ButtonFormat" xml:space="preserve">
+                <source>切换至副本区{instanceText}（数字键{keyboardHint}）</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
-                <source>切换快捷副本区切换菜单的显示状态
-/pdr insc &lt;副本区编号&gt; → 切换至指定副本区 (从 1 开始)
-/pdr insc abort → 放弃当前的副本区切换任务</source>
-                <target>切換快捷副本區切換菜單的顯示狀態
-/pdr insc &lt;副本區編號&gt; → 切換至指定副本區 (從 1 開始)
-/pdr insc abort → 放棄當前的副本區切換任務</target>
+                <source>打开或关闭快捷切换副本区界面。
+/pdr insc &lt;副本区编号&gt; 前往当前区域指定的副本区（从1开始）。
+/pdr insc abort 放弃切换副本区。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
                 <target>若切換失敗則重複嘗試至切換成功</target>
             </trans-unit>
+            <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
+                <source>点击打开快捷切换副本区界面。</source>
+            </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-DtrEntryTooltip" xml:space="preserve">
-                <source>点击打开快捷副本区切换菜单</source>
-                <target>點擊打開快捷副本區切換菜單</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
+                <source>放弃了切换副本区。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-MountAfterChange" xml:space="preserve">
-                <source>切换副本区后自动使用坐骑</source>
-                <target>切換副本區後自動使用坐騎</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-Goto" xml:space="preserve">
+                <source>准备前往副本区“{instanceText}”。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-Aborted" xml:space="preserve">
-                <source>已放弃队列任务</source>
-                <target>已放棄隊列任務</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
+                <source>当前区域未划分副本区。</source>
             </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-Change" xml:space="preserve">
-                <source>正在切换至副本区 {0}</source>
-                <target>正在切換至副本區 {0}</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-ChangeTimes" xml:space="preserve">
-                <source>当前尝试次数: {0}</source>
-                <target>當前嘗試次數: {0}</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-CurrentlyInSameInstance" xml:space="preserve">
-                <source>当前已位于副本区 {0}</source>
-                <target>當前已位於副本區 {0}</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-InvalidArgs" xml:space="preserve">
-                <source>输入参数 {0} 非法</source>
-                <target>輸入參數 {0} 非法</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-Notice-NoInstanceZones" xml:space="preserve">
-                <source>当前区域不存在可切换的副本区</source>
-                <target>當前區域不存在可切換的副本區</target>
-            </trans-unit>
-            <trans-unit id="FastInstanceZoneChange-SwitchInstance" xml:space="preserve">
-                <source>切换至 {0} 线</source>
-                <target>切換至 {0} 線</target>
+            <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
+                <source>当前正位于副本区“{instanceText}”。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-TeleportIfNotNearAetheryte" xml:space="preserve">
                 <source>若附近无可用以太之光则先传送至最近的以太之光</source>
                 <target>若附近無可用以太之光則先傳送至最近的以太之光</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
-                <source>快速切换副本区并显示副本区信息, 支持自动重试、自动上下坐骑与自动传送等, 通过 /pdr {0} 指令快捷切换或点击服务器信息栏条目打开界面交互切换</source>
-                <target>快速切換副本區並顯示副本區資訊, 支持自動重試、自動上下坐騎與自動傳送等, 通過 /pdr {0} 指令快捷切換或點擊伺服器資訊欄條目打開界面互動切換</target>
+                <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
-                <source>快捷副本区切换</source>
-                <target>快捷副本區切換</target>
+                <source>快捷切换副本区</source>
             </trans-unit>
             <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
                 <source>退队并参加</source>
