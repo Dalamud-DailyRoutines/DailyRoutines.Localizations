@@ -9211,6 +9211,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
                 <source>未能完整设定生产计划，请重试。</source>
             </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
+                <source>正在设定生产计划……</source>
+            </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
             </trans-unit>
