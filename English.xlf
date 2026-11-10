@@ -2505,6 +2505,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
                 <source>当前无法飞行，停止了扫描。</source>
+                <target>The scanning process has been terminated due to flight failure.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
@@ -6022,7 +6023,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
-                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts. The feature also comes with customizable spawns after teleportation including any aethernet shard.</target>
+                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts. The feature also comes with customizable spawns after teleportation including any aethernet shard location.</target>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
