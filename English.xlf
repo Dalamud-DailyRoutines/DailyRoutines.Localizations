@@ -9540,6 +9540,7 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
                 <source>正在设定生产计划……</source>
+                <target>Now implementing the agenda...</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
@@ -11112,9 +11113,11 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
                 <source>装备数据尚未完整读取，请手动打开投影台或收藏柜以更新数据。</source>
+                <target>The gear data seems incomplete. Please access Glamour Dresser or Armoire in order to update the data. </target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-RemovedEquipment" xml:space="preserve">
                 <source>移除了模板“{presetName}”中下列冲突或无效的装备。</source>
+                <target>All the incompatible or valid gear has been removed from the Glamour Plate &quot;{presetName}&quot;.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SaveAs" xml:space="preserve">
                 <source>另存为</source>
