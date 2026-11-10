@@ -10793,6 +10793,39 @@ UI: {0}
                 <source>仅显示当前投影部位可用装备</source>
                 <target>現在選択されている武具投影部位の装備のみ表示</target>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-ClearSlot" xml:space="preserve">
+                <source>清空所选部位</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
+                <source>“{itemName}”占用了该部位。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-DiscardSwitch" xml:space="preserve">
+                <source>放弃修改并切换</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-FillEmpty" xml:space="preserve">
+                <source>使用“皇帝的新装备”填充空部位</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
+                <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
+                <source>仅显示已拥有装备</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
+                <source>装备数据尚未完整读取，请手动打开投影台或收藏柜以更新数据。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-RemovedEquipment" xml:space="preserve">
+                <source>移除了模板“{presetName}”中下列冲突或无效的装备。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SaveAs" xml:space="preserve">
+                <source>另存为</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SaveSwitch" xml:space="preserve">
+                <source>保存并切换</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-SwitchWarning" xml:space="preserve">
+                <source>当前模板有未保存的修改，请保存或放弃后再切换。</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-FilteredFavoriteCount" xml:space="preserve">
                 <source>收藏数量</source>
                 <target>お気に入り数</target>
