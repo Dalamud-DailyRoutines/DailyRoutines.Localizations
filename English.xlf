@@ -6022,7 +6022,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
-                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts. The feature also comes with customizable arrival points.</target>
+                <target>Provide a better teleportation interface, allowing to search, comment and preview the destination along with many quality-of-life shortcuts. The feature also comes with customizable spawns after teleportation including any aethernet shard.</target>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
@@ -7186,7 +7186,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
                 <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
-                <target>Provide quality-of-life improvements for instance switching, allowing to automatically retry after a failed attempt and re-mount after arriving at the destination instance. The feature also comes with a dedicated shortcut interface along with a command &quot;/pdr {command}&quot; for better access.</target>
+                <target>Provide quality-of-life improvements for instance switching, allowing to automatically retry after a failed attempt and re-mount after entering the destination instance. The feature also comes with a dedicated shortcut interface along with a command &quot;/pdr {command}&quot; for better access.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
                 <source>快捷切换副本区</source>
