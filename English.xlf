@@ -9538,6 +9538,9 @@ For example, during the &quot;Manusya Confuse&quot; status in the second boss ba
                 <source>未能完整设定生产计划，请重试。</source>
                 <target>Failed to implement the agenda completely. Please try again later.</target>
             </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
+                <source>正在设定生产计划……</source>
+            </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
                 <target>Solving...</target>
@@ -11089,6 +11092,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
                 <source>“{itemName}”占用了该部位。</source>
+                <target>The slot has been filled with &quot;{itemName}&quot;.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-DiscardSwitch" xml:space="preserve">
                 <source>放弃修改并切换</source>
