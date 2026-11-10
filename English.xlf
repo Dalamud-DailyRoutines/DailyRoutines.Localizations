@@ -11104,9 +11104,11 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
+                <target>The specified gear was not found in the inventory, Armoury, Glamour Dresser or Armoire.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
                 <source>仅显示已拥有装备</source>
+                <target>Possessed Gear Only</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
                 <source>装备数据尚未完整读取，请手动打开投影台或收藏柜以更新数据。</source>
