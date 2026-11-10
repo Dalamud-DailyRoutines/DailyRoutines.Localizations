@@ -9501,6 +9501,9 @@ UI: {0}
                 <source>未能完整设定生产计划，请重试。</source>
                 <target>생산 계획을 제대로 설정할 수 없었습니다. 다시 시도해 주십시오.</target>
             </trans-unit>
+            <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
+                <source>正在设定生产计划……</source>
+            </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
                 <target>생산 일정 계산중……</target>
