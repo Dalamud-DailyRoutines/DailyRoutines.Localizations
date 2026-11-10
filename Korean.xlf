@@ -2453,6 +2453,12 @@
                 <source>自动标记风脉泉</source>
                 <target>풍맥 자동 표시</target>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-AreaBroadcastDelay" xml:space="preserve">
+                <source>区域切换播报延迟（毫秒）</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-AreaBroadcastDelayHelp" xml:space="preserve">
+                <source>切换区域或副本区后，等待指定的时间间隔后，再播报“恶名精英位置消息”。</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
                 <target>자동 전파</target>
@@ -2500,8 +2506,7 @@
                 <target>{position}에서 A급 마물 &quot;{name}&quot; 발견.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
-                <source>当前无法飞行，扫描已停止，已有结果已保留。</source>
-                <target>현재 비행이 불가능하여 스캔이 중지되고, 기존 결과는 보존되었습니다.</target>
+                <source>当前无法飞行，停止了扫描。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
@@ -2556,12 +2561,10 @@
                 <target>현재 스캔 결과 없음</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
-                <source>优先播报最近的以太之光信息</source>
-                <target>가까운 &quot;에테라이트&quot; 정보를 우선 전파하기</target>
+                <source>优先播报“以太之光集合消息”</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
-                <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合信息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
-                <target>다음 정예 마물이 있는 지역이나 던전 구역이 현재 위치와 다른 경우, 먼저 &quot;에테라이트 집합 정보&quot;를 알립니다. 목표 지역이나 던전 구역에 도착하면 자동으로 &quot;악명 엘리트 위치 정보&quot;를 알립니다.</target>
+                <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合消息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
                 <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
