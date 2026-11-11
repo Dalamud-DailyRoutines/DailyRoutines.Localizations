@@ -7955,8 +7955,7 @@ Reverse Order: Start from the self, check from the bottom to the top of the part
                 <target>ID</target>
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-                <source>安装并启用了插件 {0}</source>
-                <target>The plugin {0} is installed and enabled.</target>
+                <source>安装并启用了插件“{pluginName}”。</source>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -11370,6 +11369,9 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
+          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+            <source>贡献点位数据</source>
+          </trans-unit>
         </body>
     </file>
 </xliff>
