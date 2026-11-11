@@ -7837,8 +7837,7 @@ UI: {0}
                 <target>一意の識別ID</target>
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-                <source>安装并启用了插件 {0}</source>
-                <target>プラグイン『{0}』をインストールし、有効にする</target>
+                <source>安装并启用了插件“{pluginName}”。</source>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -11066,6 +11065,9 @@ UI: {0}
                 <source>区域</source>
                 <target>ゾーン</target>
             </trans-unit>
+          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+            <source>贡献点位数据</source>
+          </trans-unit>
         </body>
     </file>
 </xliff>
