@@ -2387,7 +2387,7 @@
                 <source>区域切换播报延迟（毫秒）</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AreaBroadcastDelayHelp" xml:space="preserve">
-                <source>切换区域或副本区后，等待指定的时间间隔后，再播报“恶名精英位置消息”。</source>
+                <source>切换区域或副本区后，等待指定的时间间隔，再播报“恶名精英位置消息”。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
