@@ -7136,17 +7136,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
                 <source>在服务器信息栏显示当前所在的副本区</source>
+                <target>서버 정보란에 현재 위치한 인스턴스 구역을 표시합니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonKeyHint" xml:space="preserve">
                 <source>（数字键{keyboardHint}）</source>
+                <target>(숫자 키 {keyboardHint})</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonTitle" xml:space="preserve">
                 <source>切换至副本区{instanceText}</source>
+                <target>{instanceText} 인스턴스 구역 이동</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
                 <source>打开或关闭快捷切换副本区界面。
 /pdr insc &lt;副本区编号&gt; 前往当前区域指定的副本区（从1开始）。
 /pdr insc abort 放弃切换副本区。</source>
+                <target>인스턴스 지역 빠른 전환 UI를 열거나 닫습니다.
+/pdr insc &lt;인스턴스 지역 번호&gt; 현재 지역에서 지정된 인스턴스 지역으로 이동합니다(1부터 시작).
+/pdr insc abort 인스턴스 지역 전환을 취소합니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
@@ -7154,21 +7160,27 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
                 <source>点击打开快捷切换副本区界面。</source>
+                <target>클릭하면 인스턴스 구역 빠른 전환 화면이 열립니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
+                <target>인스턴스 구역 {instanceText}</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
                 <source>放弃了切换副本区。</source>
+                <target>인스턴스 지역 전환을 포기했습니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Goto" xml:space="preserve">
                 <source>准备前往副本区“{instanceText}”。</source>
+                <target>인스턴스 지역 &quot;{instanceText}&quot;로 이동 준비.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
                 <source>当前区域未划分副本区。</source>
+                <target>현재 이 지역은 인스턴스 구역이 설정되어 있지 않습니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
                 <source>当前正位于副本区“{instanceText}”。</source>
+                <target>현재 &quot;{instanceText}&quot; 인스턴스에 있습니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-TeleportIfNotNearAetheryte" xml:space="preserve">
                 <source>若附近无可用以太之光则先传送至最近的以太之光</source>
@@ -7176,9 +7188,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
                 <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
+                <target>서버 정보 탭에 현재 위치한 인스턴스가 표시되며, 인스턴스 구역을 빠르게 전환할 수 있는 화면과 &quot;/pdr {command}&quot; 명령어를 추가하여 한 번의 클릭으로 지정된 인스턴스 구역으로 이동합니다. 또한 자동 재시도 기능이 지원되며, 인스턴스 구역을 전환한 후 자동으로 탈것에 탑승합니다.</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
                 <source>快捷切换副本区</source>
+                <target>인스턴스 지역 빠른 전환</target>
             </trans-unit>
             <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
                 <source>退队并参加</source>
@@ -7613,9 +7627,12 @@ UI: {0}
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
 （示例：使用城内以太之晶、捷径、船头）</source>
+                <target>모든 지역 내 서버 이동 속도를 높여, 로딩 중 비활성화 상태에서 신속히 벗어나도록 합니다.
+(예: 도시 내 에테라이트, 지름길, 선박 이용)</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
                 <source>更快的区域内移动加载</source>
+                <target>지역 내 맵 전환 로딩 가속</target>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
@@ -8429,10 +8446,13 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE" xml:space="preserve">
                 <source>紧急遭遇战众包网</source>
+                <target>비상 조우 크라우드소싱 사이트</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE-Help" xml:space="preserve">
                 <source>位于特殊场景探索相关区域时，上传危命任务与紧急遭遇战信息。
 网站：https://ce-crowdsource.atmoomen.top/</source>
+                <target>특수 탐색 지역에 있을 때, 돌발 임무 및 비상 조우 정보를 업로드합니다..
+웹사이트: https://ce-crowdsource.atmoomen.top/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
                 <source>FF14 限时奖励监控</source>
