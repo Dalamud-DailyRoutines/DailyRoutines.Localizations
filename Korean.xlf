@@ -2458,8 +2458,7 @@
                 <target>지역 전환 전파 지연 시간 (밀리초)</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AreaBroadcastDelayHelp" xml:space="preserve">
-                <source>切换区域或副本区后，等待指定的时间间隔后，再播报“恶名精英位置消息”。</source>
-                <target>지역이나 인스턴스 구역을 변경한 후, 지정된 시간이 지나면 &quot;마물 위치 알림&quot;을 전파합니다.</target>
+                <source>切换区域或副本区后，等待指定的时间间隔，再播报“恶名精英位置消息”。</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
