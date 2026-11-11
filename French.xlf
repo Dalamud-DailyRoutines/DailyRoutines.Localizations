@@ -7784,8 +7784,7 @@ Ordre inversé : commence par vous-même, puis vérifie du bas vers le haut de l
                 <target>Identifiant unique</target>
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-                <source>安装并启用了插件 {0}</source>
-                <target>Le plugin {0} est installé et activé.</target>
+                <source>安装并启用了插件“{pluginName}”。</source>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -11000,6 +10999,9 @@ Pour les utiliser, rejoignez notre serveur Discord (voir en bas à gauche de la 
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
+          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+            <source>贡献点位数据</source>
+          </trans-unit>
         </body>
     </file>
 </xliff>
