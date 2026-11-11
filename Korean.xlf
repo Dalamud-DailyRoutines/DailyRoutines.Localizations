@@ -9304,15 +9304,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
+                <target>&quot;임무 찾기&quot; UI 최적화</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
                 <source>显示秒数</source>
+                <target>초 단위 표시</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeDescription" xml:space="preserve">
                 <source>优化“基本情报”界面内的时间显示，根据服务器时间实时同步校正本地时间，并把显示精度提高到秒级。</source>
+                <target>&quot;기본 정보&quot; 화면 내의 시간 표시를 최적화하여, 서버 시간을 기준으로 로컬 시간을 실시간으로 동기화 및 보정하고, 초 단위로 표시합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
                 <source>“基本情报”界面时间优化</source>
+                <target>&quot;기본 정보&quot; UI 시간 최적화</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
@@ -9506,6 +9510,8 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
                 <source>正在设定生产计划……</source>
+                <target>생산 일정 설정중……
+ </target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
@@ -11056,6 +11062,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-ClearSlot" xml:space="preserve">
                 <source>清空所选部位</source>
+                <target>선택한 부위 지우기</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
                 <source>“{itemName}”占用了该部位。</source>
