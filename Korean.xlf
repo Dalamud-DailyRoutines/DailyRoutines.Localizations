@@ -8436,24 +8436,33 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
                 <source>FF14 限时奖励监控</source>
+                <target>FF14 보너스 타임 모니터링</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus-Help" xml:space="preserve">
                 <source>打开“任务搜索器”界面时，上传诛灭战限时奖励信息。
 网址：https://uptime.ff14.xin/</source>
+                <target>&quot;임무 찾기&quot; 화면을 열면, &quot;멸 어둠의 구름 격투전&quot; 기간 한정 보상 정보가 표시됩니다.
+URL: https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Help" xml:space="preserve">
                 <source>部分功能和模块会使用玩家社区建立的众包平台的数据，因而也会收集并匿名上传平台所需的众包数据以回馈与共建。
 ※如果禁用上传，将不可使用部分功能和模块。</source>
+                <target>일부 기능 및 모듈은 플레이어 커뮤니티가 구축한 크라우드소싱 플랫폼의 데이터를 활용하므로, 플랫폼에 필요한 크라우드소싱 데이터를 수집하여 익명으로 업로드함으로써 플랫폼에 기여하고 함께 발전시켜 나갑니다.
+※업로드를 비활성화하면 일부 기능 및 모듈을 사용할 수 없습니다.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-OpenLink" xml:space="preserve">
                 <source>打开网站</source>
+                <target>웹사이트 열기</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Title" xml:space="preserve">
                 <source>众包</source>
+                <target>크라우드소싱</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-XIVPF-Help" xml:space="preserve">
                 <source>打开“队员招募”界面时，上传招募信息。
 网址：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</source>
+                <target>&quot;파티 모집&quot; 화면을 열면 모집 정보를 업로드합니다.
+주소: {isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
@@ -9294,13 +9303,17 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-Register" xml:space="preserve">
                 <source>申请参加“{contentName}”。</source>
+                <target>&quot;{contentName}&quot;에 참가 신청합니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-RegisterWithConditions" xml:space="preserve">
                 <source>以下列条件申请参加“{contentName}”。
 {conditions}</source>
+                <target>&quot;{contentName}&quot;에 참가 신청합니다.
+다음 조건이 설정됩니다: {conditions}</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderDescription" xml:space="preserve">
                 <source>优化“任务搜索器”界面。点击职业显示组件可直接打开“职业&amp;特职”界面；条件显示组件可直接点击设置任务搜索器条件；外显隐藏的前置任务名称；任务列表项新增快捷申请参加按钮；随机任务列表项新增指示是否已获得本日任务奖励的图标；完成任务后自动取消任务选择。</source>
+                <target>&quot;임무 찾기&quot; UI를 개선합니다. 잡 구성 요소를 클릭하면 &quot;직업&quot; 화면이 바로 열립니다. 조건 표시 구성 요소를 클릭하면 퀘스트 검색기 조건을 바로 설정할 수 있습니다. 선행 임무 이름을 표시/숨김 설정할 수 있으며, 퀘스트 목록 항목에 ‘참가 신청’ 단축 버튼이 추가됩니다. 무작위 임무 항목에는 보상을 이미 받았는지 여부를 나타내는 아이콘이 추가되고, 임무 완료 시 임무 선택이 자동으로 취소됩니다.</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
