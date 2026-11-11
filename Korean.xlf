@@ -7964,8 +7964,7 @@ UI: {0}
                 <target>고유 식별 ID</target>
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-                <source>安装并启用了插件 {0}</source>
-                <target>플러그인 &apos;{0}&apos;을 설치하고 활성화</target>
+                <source>安装并启用了插件“{pluginName}”。</source>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -11376,6 +11375,9 @@ URL: https://uptime.ff14.xin/</target>
                 <source>区域</source>
                 <target>존</target>
             </trans-unit>
+          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+            <source>贡献点位数据</source>
+          </trans-unit>
         </body>
     </file>
 </xliff>
