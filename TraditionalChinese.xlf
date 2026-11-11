@@ -7752,8 +7752,7 @@ XivGear (xivgear.app)</target>
                 <target>唯一标识符</target>
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
-                <source>安装并启用了插件 {0}</source>
-                <target>安裝並啟用了插件 {0}</target>
+                <source>安装并启用了插件“{pluginName}”。</source>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -10932,6 +10931,9 @@ XivGear (xivgear.app)</target>
                 <source>区域</source>
                 <target>區域</target>
             </trans-unit>
+          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+            <source>贡献点位数据</source>
+          </trans-unit>
         </body>
     </file>
 </xliff>
