@@ -727,6 +727,9 @@
                 <source>被选中时显示连接线</source>
                 <target>被选中时显示连接线</target>
             </trans-unit>
+            <trans-unit id="AutoCountPlayers-DrawLinesOnPlayers" xml:space="preserve">
+                <source>绘制至全部玩家的连接线</source>
+            </trans-unit>
             <trans-unit id="AutoCountPlayers-FilterFriend" xml:space="preserve">
                 <source>仅被非好友选中时才通知</source>
                 <target>仅被非好友选中时才通知</target>
@@ -776,8 +779,7 @@
                 <target>被選中歷史</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayersDescription" xml:space="preserve">
-                <source>以服务器信息栏的形式显示当前周边玩家的数量, 并提供一个可以直接搜索的悬浮窗</source>
-                <target>以服務器信息欄的形式顯示當前周邊玩家的數量, 並提供一個可以直接搜索的懸浮窗</target>
+                <source>自动获取周边与区域玩家信息，在“基本信息”界面中显示人数，可快捷筛选并查看玩家，并在被其他玩家选中时提示。</source>
             </trans-unit>
             <trans-unit id="AutoCountPlayersTitle" xml:space="preserve">
                 <source>自动显示周边玩家数量</source>
@@ -2415,6 +2417,9 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+                <source>贡献点位数据</source>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
@@ -10931,9 +10936,6 @@ XivGear (xivgear.app)</target>
                 <source>区域</source>
                 <target>區域</target>
             </trans-unit>
-          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
-            <source>贡献点位数据</source>
-          </trans-unit>
         </body>
     </file>
 </xliff>
