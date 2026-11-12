@@ -738,6 +738,9 @@ A higher roll delay will result in various items. A lower roll delay might resul
                 <source>被选中时显示连接线</source>
                 <target>Trace Line While Being Targeted</target>
             </trans-unit>
+            <trans-unit id="AutoCountPlayers-DrawLinesOnPlayers" xml:space="preserve">
+                <source>绘制至全部玩家的连接线</source>
+            </trans-unit>
             <trans-unit id="AutoCountPlayers-FilterFriend" xml:space="preserve">
                 <source>仅被非好友选中时才通知</source>
                 <target>Exclude Friends</target>
@@ -787,8 +790,7 @@ A higher roll delay will result in various items. A lower roll delay might resul
                 <target>Was Targeted By</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayersDescription" xml:space="preserve">
-                <source>以服务器信息栏的形式显示当前周边玩家的数量, 并提供一个可以直接搜索的悬浮窗</source>
-                <target>Provide the count of players nearby in Server Info Bar along with a radar feature and a search bar.</target>
+                <source>自动获取周边与区域玩家信息，在“基本信息”界面中显示人数，可快捷筛选并查看玩家，并在被其他玩家选中时提示。</source>
             </trans-unit>
             <trans-unit id="AutoCountPlayersTitle" xml:space="preserve">
                 <source>自动显示周边玩家数量</source>
@@ -2490,6 +2492,10 @@ If the status was applied by a combo action, the actual duration would be the se
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
                 <target>Clear the scan results?</target>
+            </trans-unit>
+            <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+                <source>贡献点位数据</source>
+                <target>Share Spawn Data</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
@@ -11371,10 +11377,6 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>区域</source>
                 <target>Zone</target>
             </trans-unit>
-          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
-            <source>贡献点位数据</source>
-            <target>Share Spawn Data</target>
-          </trans-unit>
         </body>
     </file>
 </xliff>
