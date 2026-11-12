@@ -740,6 +740,7 @@ A higher roll delay will result in various items. A lower roll delay might resul
             </trans-unit>
             <trans-unit id="AutoCountPlayers-DrawLinesOnPlayers" xml:space="preserve">
                 <source>绘制至全部玩家的连接线</source>
+                <target>Trace Lines To Everyone Nearby</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayers-FilterFriend" xml:space="preserve">
                 <source>仅被非好友选中时才通知</source>
@@ -791,6 +792,7 @@ A higher roll delay will result in various items. A lower roll delay might resul
             </trans-unit>
             <trans-unit id="AutoCountPlayersDescription" xml:space="preserve">
                 <source>自动获取周边与区域玩家信息，在“基本信息”界面中显示人数，可快捷筛选并查看玩家，并在被其他玩家选中时提示。</source>
+                <target>Provide the counts of players nearby and players in the current zone in Server Info Bar, along with a radar and a search bar. The feature</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayersTitle" xml:space="preserve">
                 <source>自动显示周边玩家数量</source>
