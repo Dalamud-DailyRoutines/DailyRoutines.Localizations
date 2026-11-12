@@ -1852,6 +1852,9 @@
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
             </trans-unit>
+            <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
+                <source>贡献点位数据</source>
+            </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
             </trans-unit>
@@ -8441,9 +8444,6 @@
             <trans-unit id="Zone" xml:space="preserve">
                 <source>区域</source>
             </trans-unit>
-          <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
-            <source>贡献点位数据</source>
-          </trans-unit>
         </body>
     </file>
 </xliff>
