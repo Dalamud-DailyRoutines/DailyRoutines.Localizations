@@ -1592,156 +1592,99 @@
                 <target>자동 폐기 설정 그룹명</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
-                <source>如果你希望在检测材料后自动清理背包, 请前往 &quot;自动丢弃物品&quot; 模块配置完成后, 将相关配置组名称填入此处, 留空以禁用</source>
-                <target>재료 감지 후 가방을 자동 정리하고 싶다면 &apos;아이템 자동 폐기/판매&apos; 모듈에서 설정한 뒤, 해당 그룹명을 여기 입력하세요. 비워두면 비활성화됩니다.</target>
+                <source>检验材料后，执行“自动丢弃物品”模块下指定的配置组以清理背包。留空时不自动丢弃物品。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
-                <source>以太钻孔机目标黑名单</source>
-                <target>에테르 착암기 블랙리스트</target>
+                <source>不会对其使用“以太钻孔机”的目标</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonstersHelp" xml:space="preserve">
-                <source>如果不想对某些特定的怪物使用以太钻孔机, 请在此处添加它们的完整名称</source>
-                <target>특정 몬스터에게 에테르 착암기를 사용하고 싶지 않다면, 여기 정확한 이름을 추가해주세요.</target>
+                <source>不会对下列目标使用“以太钻孔机”。添加时需填写目标的完整名称。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathers" xml:space="preserve">
-                <source>黑名单天气</source>
-                <target>대상 제외 날씨</target>
+                <source>要忽略的特殊天气</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathersHelp" xml:space="preserve">
-                <source>若指定特殊天气被列入黑名单, 则不会在该天气期间进入采集对应稀有材料的逻辑</source>
-                <target>지정한 특수 날씨가 블랙리스트에 등록되어 있으면, 그 날씨 동안 해당 레어 소재 채집은 수행하지 않습니다.</target>
+                <source>所选的特殊天气期间，不会前往对应的梦幻采集点。</source>
+            </trans-unit>
+            <trans-unit id="AutoGatherDiadem-GatheringItems" xml:space="preserve">
+                <source>优先采集的物品</source>
+            </trans-unit>
+            <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
+                <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
                 <target>기술 점수 무시</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPointsHelp" xml:space="preserve">
-                <source>如果你已经双采 50 万分, 但需要完成采集第二期/第三期材料的成就, 请勾选本项</source>
-                <target>이미 광부/원예가 모두 50만 점에 도달했지만, 제 2차/제 3차 소재 채집 업적을 달성하고 싶은 경우는 이 항목을 체크해주세요.</target>
+                <source>不按技巧点切换职业或停止采集，适用于继续收集第二期、第三期重建材料。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
-                <source>待交换物品</source>
-                <target>교환 희망 아이템</target>
+                <source>要兑换的物品</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
-                <source>希望模块在手动触发交换或每一轮采集结束检验材料后自动交换的物品</source>
-                <target>수동 교환을 실행했을 때나 매 라운드 종료 후 소재 확인을 감지하면, 자동으로 희망 아이템과 교환합니다.</target>
-            </trans-unit>
-            <trans-unit id="AutoGatherDiadem-ItemToGatherName" xml:space="preserve">
-                <source>待采集物品名称</source>
-                <target>채집 예정 아이템명</target>
-            </trans-unit>
-            <trans-unit id="AutoGatherDiadem-ItemToGatherNameHelp" xml:space="preserve">
-                <source>若此处留空, 则默认采集第四期特供物品
-注: 包含关系, 大小写不敏感</source>
-                <target>비워두면 기본으로 제4차 부흥용 특수 아이템을 채집합니다
-※ 포함 문자열로 판정, 대소문자 구분 없음</target>
+                <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinute" xml:space="preserve">
-                <source>每轮循环时间 (分钟)</source>
-                <target>1사이클 시간(분)</target>
+                <source>每轮采集时间（分钟）</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinuteHelp" xml:space="preserve">
-                <source>若设置为 30, 则意为每在副本内采集 30 分钟, 则退出副本批量检验一次材料, 然后再进入副本开始新一轮采集</source>
-                <target>예를 들어 30분으로 설정하면, 해당 지역에서 30분 채집 후 지역을 나가 재료를 확인하고, 다시 들어가 새로 채집을 시작합니다.</target>
+                <source>在任务内达到设定时间后将退出“天上福地云冠群岛”，批量检验材料，然后再继续下一轮采集。</source>
+            </trans-unit>
+            <trans-unit id="AutoGatherDiadem-LevelThreshold" xml:space="preserve">
+                <source>等级阈值</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Description" xml:space="preserve">
-                <source>行为:
-	- 无名称指定情况下, 仅采集第四期梦幻材料
-	- 仅在非黑名单特殊天气下行动, 其余时间在空岛起始位置等待</source>
-                <target>행동 내용:
-	이름을 지정하지 않으면 제 4차 환상 재료만 채집합니다.
-	블랙리스트에 없는 특수 날씨일 때만 행동하며, 그 외 시간에는 디아뎀 제도 시작 위치에서 대기합니다.</target>
+                <source>特殊天气期间自动前往梦幻采集点采集，采集后退出任务并再次进入采集，依此循环。非特殊天气期间在任务起始位置等待。默认采集第四期重建用物品。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Title" xml:space="preserve">
                 <source>梦幻采集</source>
                 <target>환상 재료 채집</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Description" xml:space="preserve">
-                <source>行为:
-	- 每次等级变更时自动装备最强装备
-	- 仅采集第四期非最高级、特供材料
-	- &quot;待采集物品名称&quot; 设置不生效
-	- 不会尝试采集任何梦幻材料
-	- 在每达到一个设定的等级阈值后, 会自动切换至另一个未达到该阈值的职业
-	- 在两个职业均达到设定的最高等级阈值后, 自动停止采集并退出副本
-
-注意:
-	- 双采均需要 ≥ 10 级且有对应套装才可正常切换职业</source>
-                <target>행동 내용:
-	레벨이 바뀔 때마다 자동으로 최강 장비를 착용합니다.
-	제 4차 최상위 등급 제외, 특별 주문 재료만 채집합니다.
-	&apos;채집 대상 아이템명&apos; 설정은 무효가 됩니다.
-	환상 재료(레어)는 절대 채집하지 않습니다.
-	미리 설정한 레벨 임계치에 도달하면, 아직 그 레벨에 도달하지 않은 다른 채집 직업으로 자동 전환합니다.
-	두 직업이 모두 최고 레벨 임계치에 도달하면 채집을 멈추고 디아뎀 제도에서 자동 퇴장합니다.
-
-주의:
-	광부와 원예가를 모두 전환하려면 두 잡이 레벨 10 이상이고 각각의 장비 세트가 준비되어 있어야 합니다.</target>
+                <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
+达到任一等级阈值后，切换至尚未达到该阈值的另一采集职业；两个职业均达到设定的最高阈值后，停止采集并退出副本。
+自动切换要求采矿工、园艺工均达到10级，并各自保存了对应套装，否则不会切换职业。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
                 <target>레벨링</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Description" xml:space="preserve">
-                <source>行为:
-	- 无名称指定情况下, 仅采集第四期特供材料
-	- 仅在梦幻采集点为距离最近的采集点时才尝试采集梦幻材料
-	- 当一个职业达到 40 万分后, 自动切换至另一个未 40 万分的职业, 若均达到 40 万分, 则检测是否均到达 50 万分, 若是, 则自动停止采集并退出副本</source>
-                <target>행동 내용:
-	아이템명을 지정하지 않으면 제 4차의 특별 주문 재료만 채집합니다.
-	환상 재료는 현재 가장 가까운 채집 지점일 때에만 시도합니다.
-	한 직업이 40만 점에 도달하면 아직 40만에 도달하지 못한 직업으로 자동 전환합니다. 두 직업이 모두 40만에 도달했다면, 둘 다 50만인지 확인하고 도달 시, 채집을 멈추고 디아뎀 제도에서 퇴장합니다.</target>
+                <source>优先采集所选物品，默认采集第四期特供材料。
+当前职业达到40万技巧点后，切换至尚未达到40万技巧点的另一采集职业；继续积累至两个职业均达到50万技巧点后，停止采集并退出副本。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Title" xml:space="preserve">
                 <source>技巧点</source>
                 <target>기술 점수</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull" xml:space="preserve">
-                <source>背包物品已满, 停止采集并退出副本</source>
-                <target>가방이 가득 찼습니다. 채집을 멈추고 인스턴스를 퇴장해주세요.</target>
+                <source>背包已满，停止采集并退出任务。</source>
             </trans-unit>
-            <trans-unit id="AutoGatherDiadem-Notification-PathfindFail" xml:space="preserve">
-                <source>无法寻路至终点，将退出副本任务，稍等片刻后会自动重新进入。</source>
-                <target>목적지까지 길을 찾을 수 없으면 디아뎀 제도에서 나가게 되며, 잠시 후 자동으로 다시 입장하게 됩니다.</target>
+            <trans-unit id="AutoGatherDiadem-Notification-InventoryFull-Title" xml:space="preserve">
+                <source>背包已满</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-RoundEnd" xml:space="preserve">
-                <source>已采集 {0} 分钟, 退出副本并检测材料, 而后进入副本开始新一轮采集</source>
-                <target>{0} 분간 채집했습니다. 지역을 나가 재료를 확인한 뒤, 다시 입장해 채집을 시작하세요.</target>
+                <source>采集了{minutes}分钟，将退出“天上福地云冠群岛”并检验道具，随后自动开始新一轮采集。</source>
             </trans-unit>
-            <trans-unit id="AutoGatherDiadem-Notification-StuckInGatheringAddon" xml:space="preserve">
-                <source>滞留在采集界面过久, 自动登出游戏, 自动登入后将重新开始采集</source>
-                <target>채집 화면에 장시간 머물러 자동 로그아웃합니다. 재접속 후 채집을 재개합니다.</target>
+            <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow" xml:space="preserve">
+                <source>“天穹街振兴票”即将达到持有上限，且当前未配置“要兑换的物品”。</source>
             </trans-unit>
-            <trans-unit id="AutoGatherDiadem-Notification-StuckInGatheringState" xml:space="preserve">
-                <source>已进入采集状态, 但长时间未出现采集界面, 自动登出游戏, 自动登入后将重新开始采集</source>
-                <target>채집 모드에 들어갔지만 채집 화면이 오래 표시되지 않아 자동 로그아웃합니다. 재접속 후 채집을 재개합니다.</target>
+            <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow-Title" xml:space="preserve">
+                <source>天穹街振兴票即将达到持有上限</source>
             </trans-unit>
-            <trans-unit id="AutoGatherDiadem-Notification-StuckInPathMove" xml:space="preserve">
-                <source>等待寻路开始时间过长, 退出云冠群岛, 稍等片刻后会自动重新进入并开始采集</source>
-                <target>경로 탐색 대기 시간이 길어져 디아뎀 제도에서 퇴장합니다. 잠시 후 자동으로 재입장하여 채집을 시작합니다.</target>
-            </trans-unit>
-            <trans-unit id="AutoGatherDiadem-PreCondition-ClssJobs" xml:space="preserve">
-                <source>当前职业为 采矿工/园艺工</source>
-                <target>현재 직업: 광부/원예가</target>
-            </trans-unit>
-            <trans-unit id="AutoGatherDiadem-PreCondition-VnavmeshEnabled" xml:space="preserve">
-                <source>安装并启用了 vnavmesh 插件</source>
-                <target>플러그인 &apos;vnavmesh&apos;를 설치하고 활성화</target>
+            <trans-unit id="AutoGatherDiadem-PreCondition-ClassJobs" xml:space="preserve">
+                <source>当前职业为采矿工或园艺工</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
                 <target>강장제 사용</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordialHelp" xml:space="preserve">
-                <source>若勾选, 则会尽量在不溢出 GP 的前提下, 按照 高级强心剂 &gt; 强心剂 &gt; 轻型强心剂 | HQ &gt; NQ 的顺序使用</source>
-                <target>GP가 넘치지 않는 범위에서 최대한
-고성능 강장제&gt;강장제&gt;희석된 강장제｜HQ &gt; NQ
-를 우선순으로 사용합니다.</target>
+                <source>在尽量不浪费采集力恢复量的情况下，按照“高级强心剂”、“强心剂”、“轻型强心剂”的顺序依次使用，并优先使用高品质物品。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
-                <source>配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集指定材料以积累技巧点/练级</source>
-                <target>디아뎀 제도에서 &apos;시작&apos;을 누르면, 지정한 소재를 자동 반복 채집해 기술 점수나 레벨을 올립니다.</target>
+                <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiademTitle" xml:space="preserve">
                 <source>自动云冠群岛采集</source>
