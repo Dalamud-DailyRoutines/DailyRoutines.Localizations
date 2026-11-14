@@ -7457,6 +7457,12 @@ UI: {0}
                 <source>快捷跨界传送</source>
                 <target>クイック・ワールド間テレポ</target>
             </trans-unit>
+            <trans-unit id="FasterNormalToastDescription" xml:space="preserve">
+                <source>重构浮动提示显示机制，下一条浮动提示显示时自动快速渐隐前一条，避免大量堆积而极大拉长显示完成用时。</source>
+            </trans-unit>
+            <trans-unit id="FasterNormalToastTitle" xml:space="preserve">
+                <source>更快的浮动提示</source>
+            </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
 （示例：使用城内以太之晶、捷径、船头）</source>
