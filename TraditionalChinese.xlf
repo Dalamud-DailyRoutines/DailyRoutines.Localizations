@@ -7163,68 +7163,54 @@ XivGear (xivgear.app)</target>
                 <target>添加至黑名單</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BlacklistedIcons" xml:space="preserve">
-                <source>黑名单图标</source>
-                <target>黑名單圖示</target>
+                <source>不显示的图标</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BrowseIcons" xml:space="preserve">
                 <source>浏览图标</source>
                 <target>瀏覽圖示</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ClickToRemoveFromBlacklist" xml:space="preserve">
-                <source>单击以从黑名单中移除该图标</source>
-                <target>單擊以從黑名單中移除該圖示</target>
+                <source>单击以从黑名单中移除该图标。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Abort" xml:space="preserve">
-                <source>放弃当前所有的传送任务</source>
-                <target>放棄當前所有的傳送任務</target>
+                <source>放弃当前所有的传送任务。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
-                <source>尝试交互附近可用的任一以太之光或城内以太之晶</source>
-                <target>嘗試交互附近可用的任一以太之光或城內以太之晶</target>
+                <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Custom" xml:space="preserve">
-                <source>&lt;自定义传送点名称&gt; 传送至指定自定义传送点</source>
-                <target>&lt;自訂傳送點名稱&gt; 傳送至指定自訂傳送點</target>
+                <source>&lt;自定义传送点名称&gt; 传送至指定自定义传送点。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Flag" xml:space="preserve">
-                <source>传送至地图标点所在位置</source>
-                <target>傳送至地圖標點所在位置</target>
+                <source>传送至地图标点位置。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
-                <source>尝试检测上下方地面, 并传送至地面所在位置</source>
-                <target>嘗試檢測上下方地面, 並傳送至地面所在位置</target>
+                <source>尝试检测上下方地面，并传送至地面所在位置。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
-                <source>快捷传送面板相关指令, 详情查阅模块配置页面</source>
-                <target>快捷傳送面板相關指令, 詳情查閱模塊配置頁面</target>
+                <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
-                <source>传送至鼠标所指处游戏内地点</source>
-                <target>傳送至滑鼠所指處遊戲內地點</target>
+                <source>传送至鼠标所指处位置。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Pos" xml:space="preserve">
-                <source>&lt;x&gt; &lt;y&gt; &lt;z&gt; 传送至指定坐标</source>
-                <target>&lt;x&gt; &lt;y&gt; &lt;z&gt; 傳送至指定坐標</target>
+                <source>&lt;x&gt; &lt;y&gt; &lt;z&gt; 传送至指定坐标。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-PosOffset" xml:space="preserve">
-                <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离</source>
-                <target>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐標軸上偏移指定距離</target>
+                <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Quest" xml:space="preserve">
-                <source>&lt;任务索引&gt; 传送并交互指定索引的任务目标</source>
-                <target>&lt;任務索引&gt; 傳送並交互指定索引的任務目標</target>
+                <source>&lt;任务索引&gt; 传送并交互指定索引的任务目标。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Target" xml:space="preserve">
-                <source>传送至当前目标所在位置</source>
-                <target>傳送至當前目標所在位置</target>
+                <source>传送至当前目标所在位置。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CurrentFlagMarker" xml:space="preserve">
                 <source>当前标点</source>
                 <target>當前標點</target>
             </trans-unit>
-            <trans-unit id="FastTeleportPanel-CustomMarkerAddSuceess" xml:space="preserve">
-                <source>添加自定义传送点 {0} 成功</source>
-                <target>添加自訂傳送點 {0} 成功</target>
+            <trans-unit id="FastTeleportPanel-CustomMarkerAddSuccess" xml:space="preserve">
+                <source>成功添加了自定义传送点“{name}”。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkers" xml:space="preserve">
                 <source>自定义传送点</source>
@@ -7247,16 +7233,13 @@ XivGear (xivgear.app)</target>
                 <target>標點位置</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-IconID" xml:space="preserve">
-                <source>图标 ID</source>
-                <target>圖示 ID</target>
+                <source>图标唯一标识符</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-InaccurateYPosHelp" xml:space="preserve">
-                <source>目的地 Y 坐标不准确, 可能需要传送后手动调整</source>
-                <target>目的地 Y 坐標不準確, 可能需要傳送後手動調整</target>
+                <source>目的地高度不准确，可能需要传送后手动调整。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
-                <source>(未设置)</source>
-                <target>(未設置)</target>
+                <source>（未设置）</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-QuestObject" xml:space="preserve">
                 <source>任务物体</source>
@@ -7283,36 +7266,30 @@ XivGear (xivgear.app)</target>
                 <target>傳送並交互</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToFlag" xml:space="preserve">
-                <source>传送 (地图标点)</source>
-                <target>傳送 (地圖標點)</target>
+                <source>传送（地图标点）</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToManualPos" xml:space="preserve">
-                <source>传送 (自定义坐标)</source>
-                <target>传送 (自定义坐标)</target>
+                <source>传送（自定义坐标）</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition" xml:space="preserve">
                 <source>二次修正高度</source>
                 <target>二次修正高度</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition-Help" xml:space="preserve">
-                <source>勾选后, 会认为该标点的高度 (Y 轴) 坐标不准确, 在传送至目标坐标后, 会尝试检测人物上下方是否存在地面, 并将人物高度修正至最近的地面</source>
-                <target>勾选后, 会认为该标点的高度 (Y 轴) 坐标不准确, 在传送至目标坐标后, 会尝试检测人物上下方是否存在地面, 并将人物高度修正至最近的地面</target>
+                <source>勾选后，会认为该标点的高度（Y 轴）不准确。在传送至该标记时，会尝试检测角色上下方是否存在地面, 并将人物高度修正至最近的地面处。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue" xml:space="preserve">
-                <source>单击右键可调整偏移量</source>
-                <target>单击右键可调整偏移量</target>
+                <source>单击右键可调整偏移量。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Weight" xml:space="preserve">
                 <source>权重</source>
                 <target>權重</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-WeightHelp" xml:space="preserve">
-                <source>权重值越大, 排序越靠前</source>
-                <target>權重值越大, 排序越靠前</target>
+                <source>权重值越大，则排序越靠前。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanelDescription" xml:space="preserve">
-                <source>添加一个快捷传送面板悬浮窗, 用于快速传送至区域内任一地点处</source>
-                <target>添加一個快捷傳送面板懸浮窗, 用於快速傳送至區域內任一地點處</target>
+                <source>新增快捷传送面板，用以传送至区域内任意位置或任一标记处。</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle" xml:space="preserve">
                 <source>快捷传送面板</source>
