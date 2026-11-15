@@ -8715,6 +8715,12 @@ URL: https://uptime.ff14.xin/</target>
                 <source>模块配置</source>
                 <target>모듈 배치</target>
             </trans-unit>
+            <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Line" xml:space="preserve">
+                <source>   {pluginName}</source>
+            </trans-unit>
+            <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Title" xml:space="preserve">
+                <source>无法加载模块“{moduleName}”，缺少要求的前置插件。</source>
+            </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
                 <target>적</target>
@@ -10224,6 +10230,9 @@ URL: https://uptime.ff14.xin/</target>
             <trans-unit id="PrecedingModules" xml:space="preserve">
                 <source>前置模块</source>
                 <target>전제 모듈</target>
+            </trans-unit>
+            <trans-unit id="PrecedingPlugins" xml:space="preserve">
+                <source>前置插件</source>
             </trans-unit>
             <trans-unit id="Prefix" xml:space="preserve">
                 <source>前缀</source>
