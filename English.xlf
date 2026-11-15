@@ -1672,9 +1672,6 @@ However, Level Sync will take over immediately after dismounting within that ran
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow-Title" xml:space="preserve">
                 <source>天穹街振兴票即将达到持有上限</source>
             </trans-unit>
-            <trans-unit id="AutoGatherDiadem-PreCondition-ClassJobs" xml:space="preserve">
-                <source>当前职业为采矿工或园艺工</source>
-            </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
                 <target>Use Cordial</target>
