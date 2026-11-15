@@ -5896,8 +5896,7 @@ Check Availability At NPCs</target>
                 <target>The input &quot;{input}&quot; cannot be parsed as a regular expression.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
-                <source>使用模块界面整合、取代游戏原生多个零散的招募过滤、显示界面, 并支持多种规则智能化筛选并显示满足要求的招募信息</source>
-                <target>Provide a better filter in Party Finder, which integrates several vanilla features together and provides smart filter sets.</target>
+                <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterTitle" xml:space="preserve">
                 <source>更好的招募过滤界面</source>
