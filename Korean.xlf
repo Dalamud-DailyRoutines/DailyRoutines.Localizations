@@ -5899,8 +5899,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>입력된 &quot;{input}&quot;은 정규 표현식으로 해석할 수 없습니다.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
-                <source>使用模块界面整合、取代游戏原生多个零散的招募过滤、显示界面, 并支持多种规则智能化筛选并显示满足要求的招募信息</source>
-                <target>게임 내에 분산되어 있는 기본 파티 찾기 필터 및 표시 UI를 하나의 통합 모듈 창으로 대체합니다. 또한 다양한 규칙을 활용한 스마트 필터링을 지원하여 조건에 맞는 파티 모집만 표시할 수 있습니다.</target>
+                <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterTitle" xml:space="preserve">
                 <source>更好的招募过滤界面</source>
