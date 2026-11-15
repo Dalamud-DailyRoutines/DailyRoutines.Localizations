@@ -8419,6 +8419,12 @@ XivGear (xivgear.app)</target>
                 <source>模块配置</source>
                 <target>模組配置</target>
             </trans-unit>
+            <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Line" xml:space="preserve">
+                <source>   {pluginName}</source>
+            </trans-unit>
+            <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Title" xml:space="preserve">
+                <source>无法加载模块“{moduleName}”，缺少要求的前置插件。</source>
+            </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
                 <target>怪物</target>
@@ -9818,6 +9824,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="PrecedingModules" xml:space="preserve">
                 <source>前置模块</source>
                 <target>前置模組</target>
+            </trans-unit>
+            <trans-unit id="PrecedingPlugins" xml:space="preserve">
+                <source>前置插件</source>
             </trans-unit>
             <trans-unit id="Prefix" xml:space="preserve">
                 <source>前缀</source>
