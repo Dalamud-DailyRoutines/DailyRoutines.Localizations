@@ -3396,12 +3396,14 @@ XivGear (xivgear.app)</target>
                 <target>自動高亮幻巧拼圖最優解</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Button-Save" xml:space="preserve">
-                <source>保存当前设置为预设</source>
-                <target>保存当前设置为预设</target>
+                <source>保存为预设</source>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Delete" xml:space="preserve">
                 <source>删除该预设</source>
                 <target>删除该预设</target>
+            </trans-unit>
+            <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-EditRemark" xml:space="preserve">
+                <source>编辑备注</source>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Update" xml:space="preserve">
                 <source>以当前设置覆盖该预设</source>
@@ -3412,6 +3414,12 @@ XivGear (xivgear.app)</target>
 {description}</source>
                 <target>[{contentName}]
 {description}</target>
+            </trans-unit>
+            <trans-unit id="AutoRecordPartyFinderSetting-Message-EditRemark" xml:space="preserve">
+                <source>请设置预设的备注。</source>
+            </trans-unit>
+            <trans-unit id="AutoRecordPartyFinderSetting-Preset" xml:space="preserve">
+                <source>招募预设</source>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSettingDescription" xml:space="preserve">
                 <source>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</source>
