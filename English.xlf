@@ -1610,7 +1610,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
-                <target>It allows to set multiple materials to be prioritized.</target>
+                <target>It allows to set multiple prioritized materials. Gather the given materials with priority if available. Otherwise, gather grade 4 artisanal materials.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
