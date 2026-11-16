@@ -1642,6 +1642,8 @@ However, Level Sync will take over immediately after dismounting within that ran
                 <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
 达到任一等级阈值后，切换至尚未达到该阈值的另一采集职业；两个职业均达到设定的最高阈值后，停止采集并退出副本。
 自动切换要求采矿工、园艺工均达到10级，并各自保存了对应套装，否则不会切换职业。</source>
+                <target>Gather grade 4 (normal) materials by default, while prioritizing ones with the highest success rate.
+If it reaches 400,000 Skyward Points for a job, the automation process will proceed with another job. If it reaches 500,000 Skyward Points for both Miner and Botanist, the process will end and the character will leave the duty.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
@@ -1650,6 +1652,8 @@ However, Level Sync will take over immediately after dismounting within that ran
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Description" xml:space="preserve">
                 <source>优先采集所选物品，默认采集第四期特供材料。
 当前职业达到40万技巧点后，切换至尚未达到40万技巧点的另一采集职业；继续积累至两个职业均达到50万技巧点后，停止采集并退出副本。</source>
+                <target>Prioritize gathering the given items. Gather grade 4 artisanal materials by default.
+If it reaches 400,000 Skyward Points for a job, the automation process will proceed with another job. If it reaches 500,000 Skyward Points for both Miner and Botanist, the process will end and the character will leave the duty.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Title" xml:space="preserve">
                 <source>技巧点</source>
