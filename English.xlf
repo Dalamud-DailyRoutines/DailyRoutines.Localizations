@@ -492,11 +492,11 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoChangeCharacterRaceSex-AddOrUpdate" xml:space="preserve">
                 <source>添加或覆盖规则</source>
-                <target>Add Or Override</target>
+                <target>Add Or Overwrite</target>
             </trans-unit>
             <trans-unit id="AutoChangeCharacterRaceSex-AddOrUpdateHelp" xml:space="preserve">
                 <source>同一个源组合只保留一条规则, 再次添加相同的源组合时, 会直接覆盖原有目标组合</source>
-                <target>Only one desired combination could be applied to each applicable combination. If multiple mapping rules contain the same applicable combination, the late one would override the stale one.</target>
+                <target>Only one desired combination could be applied to each applicable combination. If multiple mapping rules contain the same applicable combination, the late one will overwrite the stale one.</target>
             </trans-unit>
             <trans-unit id="AutoChangeCharacterRaceSex-SkipLocalPlayer" xml:space="preserve">
                 <source>忽略本地玩家</source>
@@ -3548,6 +3548,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Button-Save" xml:space="preserve">
                 <source>保存为预设</source>
+                <target>Save As Preset</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Delete" xml:space="preserve">
                 <source>删除该预设</source>
@@ -3555,10 +3556,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-EditRemark" xml:space="preserve">
                 <source>编辑备注</source>
+                <target>Edit Comment</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Update" xml:space="preserve">
                 <source>以当前设置覆盖该预设</source>
-                <target>Override Based On Present</target>
+                <target>Overwrite With Current</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Message" xml:space="preserve">
                 <source>[{contentName}]
@@ -3568,9 +3570,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Message-EditRemark" xml:space="preserve">
                 <source>请设置预设的备注。</source>
+                <target>Please enter a comment.</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Preset" xml:space="preserve">
                 <source>招募预设</source>
+                <target>Preset</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSettingDescription" xml:space="preserve">
                 <source>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</source>
@@ -9272,6 +9276,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassTitle" xml:space="preserve">
                 <source>“职业&amp;特职”界面优化</source>
+                <target>Better Classes/Jobs</target>
             </trans-unit>
             <trans-unit id="OptimizedChatBubble-AdditionalDuration" xml:space="preserve">
                 <source>额外每字符持续时间</source>
