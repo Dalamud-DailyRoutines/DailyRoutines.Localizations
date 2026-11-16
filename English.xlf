@@ -2410,7 +2410,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarkAetherCurrentsDescription" xml:space="preserve">
                 <source>在地图上自动标记所有风脉泉的位置, 并用模块界面取代游戏原生界面, 允许自定义显示风脉和快速传送或寻路至指定风脉处</source>
-                <target>Automatically mark aether currents on map, replace the vanilla UI with Daily Routines UI, and allow to customize the display of aether currents and to travel to a specific aether current via wayfinding or instant movement.</target>
+                <target>Automatically mark aether currents on map, replace the vanilla UI with Daily Routines UI, and allow to customize the display of aether currents and to travel to a specific aether current via wayfinding or warping.</target>
             </trans-unit>
             <trans-unit id="AutoMarkAetherCurrentsTitle" xml:space="preserve">
                 <source>自动标记风脉泉</source>
@@ -7493,7 +7493,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportAndInteract" xml:space="preserve">
                 <source>传送并交互</source>
-                <target>Teleport &amp; Interact</target>
+                <target>Warp &amp; Interact</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToFlag" xml:space="preserve">
                 <source>传送（地图标点）</source>
@@ -7523,11 +7523,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle" xml:space="preserve">
                 <source>快捷传送面板</source>
-                <target>Fast Teleportation Panel</target>
+                <target>Warp Panel</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle-Tips-NoNull" xml:space="preserve">
                 <source>名称不能为空</source>
-                <target>The name cannot be empty</target>
+                <target>The name cannot be empty.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-AddDtrEntry" xml:space="preserve">
                 <source>在服务器信息栏添加快捷跨界传送菜单入口</source>
