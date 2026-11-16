@@ -7406,7 +7406,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Abort" xml:space="preserve">
                 <source>放弃当前所有的传送任务。</source>
-                <target>All warping has been terminated.</target>
+                <target>to terminate all ongoing warping tasks.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
                 <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
@@ -7438,6 +7438,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Target" xml:space="preserve">
                 <source>传送至当前目标所在位置。</source>
+                <target>to warp to the location of the current target.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CurrentFlagMarker" xml:space="preserve">
                 <source>当前标点</source>
@@ -7469,6 +7470,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-IconID" xml:space="preserve">
                 <source>图标唯一标识符</source>
+                <target>Icon ID</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-InaccurateYPosHelp" xml:space="preserve">
                 <source>目的地高度不准确，可能需要传送后手动调整。</source>
@@ -11282,8 +11284,8 @@ Parameter(s): {2}</target>
             <trans-unit id="VersionUpdateWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
-                <target>Recommended modules are the modules officially recommended by Daily Routines developers. These modules could effectively improve the game experience overall and didn&apos;t change the gameplay excessively.
-Enabling these modules will provide an out-of-the-box experience, and of course you could disable any of them later.</target>
+                <target>Recommended modules are the modules recommended by Daily Routines developers. These modules could effectively improve the game experience while not excessively changing the gameplay.
+Enabling recommended modules will provide an out-of-the-box experience. You could disable any module after finishing the wizard.</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
