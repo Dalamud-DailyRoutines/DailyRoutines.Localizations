@@ -1177,10 +1177,10 @@
                 <source>自动护理</source>
             </trans-unit>
             <trans-unit id="AutoGardensWorkDescription" xml:space="preserve">
-                <source>自动或半自动完成园圃相关作业, 包含种植, 收获, 施肥, 护理等</source>
+                <source>自动园圃相关操作，支持自动种植、收获、施肥与护理。</source>
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
-                <source>自动园圃作业</source>
+                <source>自动管理园圃</source>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupName" xml:space="preserve">
                 <source>自动丢弃配置组名称</source>
