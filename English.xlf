@@ -1202,7 +1202,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-OpenShopAndExchange" xml:space="preserve">
                 <source>用军票交换物品</source>
-                <target>Exchange Items Using Seals</target>
+                <target>Exchange For Items Using Seals</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
                 <source>跳过镶嵌魔晶石的装备</source>
@@ -1590,7 +1590,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
                 <source>检验材料后，执行“自动丢弃物品”模块下指定的配置组以清理背包。留空时不自动丢弃物品。</source>
-                <target>A discard preset from the module &quot;Auto Discard Items&quot; is required for auto discarding. Please enter the preset name below after creating a preset. Leave it blank to disable auto discarding.</target>
+                <target>A discard preset from the module &quot;Auto Discard Items&quot; is required for auto discarding. Please enter the preset name below after creating a preset. Leave it blank to disable the feature.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
                 <source>不会对其使用“以太钻孔机”的目标</source>
@@ -1623,6 +1623,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
                 <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
+                <target>Items to be exchanged for using Skybuilders&apos; Scrips. Leave it blank to disable the feature.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinute" xml:space="preserve">
                 <source>每轮采集时间（分钟）</source>
