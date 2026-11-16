@@ -7410,9 +7410,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
                 <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
+                <target>to try to interact with an aetheryte or aethernet shard nearby.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Custom" xml:space="preserve">
                 <source>&lt;自定义传送点名称&gt; 传送至指定自定义传送点。</source>
+                <target>&lt;custom destination name&gt; to warp to the custom destination.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Flag" xml:space="preserve">
                 <source>传送至地图标点位置。</source>
@@ -7420,15 +7422,19 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
                 <source>尝试检测上下方地面，并传送至地面所在位置。</source>
+                <target>to warp to the ground</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
                 <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
+                <target>The command belongs</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
                 <source>传送至鼠标所指处位置。</source>
+                <target>to warp to the location in the world that the cursor is pointing at.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Pos" xml:space="preserve">
                 <source>&lt;x&gt; &lt;y&gt; &lt;z&gt; 传送至指定坐标。</source>
+                <target>&lt;x&gt; &lt;y&gt; &lt;z&gt; to warp to the given coordinate.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-PosOffset" xml:space="preserve">
                 <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离。</source>
