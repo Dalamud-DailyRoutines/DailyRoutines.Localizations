@@ -2162,7 +2162,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
-                <target>All the duties belonging to the &quot;High-end Duty&quot; catalog in Party Finder at the moment. The catalog is typically rolled over with every medium update. Therefore, duties in the past will not be considered as High-end Duties.</target>
+                <target>All the duties belong to the &quot;High-end Duty&quot; catalog in Party Finder at the moment. The catalog is typically rolled over with every medium update. Therefore, duties in the past will not be considered as High-end Duties.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
@@ -7422,7 +7422,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
                 <source>尝试检测上下方地面，并传送至地面所在位置。</source>
-                <target>to warp to the ground</target>
+                <target>to try to detect the closest landable ground and warp to it.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
                 <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
@@ -7438,9 +7438,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-PosOffset" xml:space="preserve">
                 <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离。</source>
+                <target>&lt;x/y/z&gt; &lt;offset&gt; to apply the given offset.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Quest" xml:space="preserve">
                 <source>&lt;任务索引&gt; 传送并交互指定索引的任务目标。</source>
+                <target>&lt;quest index&gt; to warp to and interact with the given quest object.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Target" xml:space="preserve">
                 <source>传送至当前目标所在位置。</source>
@@ -8995,7 +8997,7 @@ The information will be uploaded to {isGL, select, true {https://xivpf.com/} oth
             </trans-unit>
             <trans-unit id="OccultCrescentHelper-OthersManager-FastUseKnowledgeCrystal-Help" xml:space="preserve">
                 <source>在知见水晶上显示快捷交互按钮, 以一键使用各辅助职业的长效增益效果技能</source>
-                <target>Provide buttons on Knowledge Crystals to execute the durable-buff actions belong to various Phantom Jobs.</target>
+                <target>Provide buttons on Knowledge Crystals to execute the durable-buff actions belonging to various Phantom Jobs.</target>
             </trans-unit>
             <trans-unit id="OccultCrescentHelper-OthersManager-HideDutyCommand" xml:space="preserve">
                 <source>隐藏“任务指令”界面</source>
