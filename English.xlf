@@ -1202,7 +1202,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-OpenShopAndExchange" xml:space="preserve">
                 <source>用军票交换物品</source>
-                <target>Exchange For Items Using Seals</target>
+                <target>Exchange Seals For Items</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
                 <source>跳过镶嵌魔晶石的装备</source>
@@ -1606,9 +1606,11 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItems" xml:space="preserve">
                 <source>优先采集的物品</source>
+                <target>Materials To Be Prioritized</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
+                <target>It allows to set multiple materials to be prioritized.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
@@ -1623,7 +1625,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
                 <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
-                <target>Items to be exchanged for using Skybuilders&apos; Scrips. Leave it blank to disable the feature.</target>
+                <target>Items to purchase with Skybuilders&apos; Scrips. Leave it blank to disable the feature.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinute" xml:space="preserve">
                 <source>每轮采集时间（分钟）</source>
@@ -1633,6 +1635,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LevelThreshold" xml:space="preserve">
                 <source>等级阈值</source>
+                <target>Level Threshold</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Description" xml:space="preserve">
                 <source>特殊天气期间自动前往梦幻采集点采集，采集后退出任务并再次进入采集，依此循环。非特殊天气期间在任务起始位置等待。默认采集第四期重建用物品。</source>
@@ -1669,6 +1672,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull-Title" xml:space="preserve">
                 <source>背包已满</source>
+                <target>The inventory is full.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-RoundEnd" xml:space="preserve">
                 <source>采集了{minutes}分钟，将退出“天上福地云冠群岛”并检验道具，随后自动开始新一轮采集。</source>
