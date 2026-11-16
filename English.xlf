@@ -1611,7 +1611,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
-                <target>Ignore Skyward Points</target>
+                <target>Ignore Skyward Point</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPointsHelp" xml:space="preserve">
                 <source>不按技巧点切换职业或停止采集，适用于继续收集第二期、第三期重建材料。</source>
@@ -1633,6 +1633,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Description" xml:space="preserve">
                 <source>特殊天气期间自动前往梦幻采集点采集，采集后退出任务并再次进入采集，依此循环。非特殊天气期间在任务起始位置等待。默认采集第四期重建用物品。</source>
+                <target>Gather clouded nodes only during special weather. Leave the duty after gathering all available clouded nodes, then re-join immediately for another round of gathering. Stand by at the spawn during normal weather. Gather grade 4 materials by default.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Title" xml:space="preserve">
                 <source>梦幻采集</source>
@@ -2526,7 +2527,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
                 <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
-                <target>Please standby at &quot;{name}&quot;, {position}{instance, plural, =0 {} other { (Instance {instanceText})}}.</target>
+                <target>Please stand by at &quot;{name}&quot;, {position}{instance, plural, =0 {} other { (Instance {instanceText})}}.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
                 <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
