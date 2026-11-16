@@ -1694,6 +1694,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
                 <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
+                <target>Automatically gather materials in the Diadem for clouded materials, skyward points, leveling or progressing achievements.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademTitle" xml:space="preserve">
                 <source>自动云冠群岛采集</source>
