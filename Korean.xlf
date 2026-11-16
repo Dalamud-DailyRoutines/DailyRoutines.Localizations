@@ -9196,13 +9196,23 @@ URL: https://uptime.ff14.xin/</target>
                 <source>“咏唱栏”界面优化</source>
                 <target>&quot;시전바&quot; UI 최적화</target>
             </trans-unit>
+            <trans-unit id="OptimizedCharacterClass-Gearset" xml:space="preserve">
+                <source>（套装{index} {name}）</source>
+            </trans-unit>
+            <trans-unit id="OptimizedCharacterClass-NoGearset" xml:space="preserve">
+                <source>没有保存{jobName}相关的套装。</source>
+            </trans-unit>
+            <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
+                <source>设置切换职业时使用的套装</source>
+            </trans-unit>
+            <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Sub" xml:space="preserve">
+                <source>使用套装{index}“{name}”。</source>
+            </trans-unit>
             <trans-unit id="OptimizedCharacterClassDescription" xml:space="preserve">
-                <source>对 职业&amp;特职 (PVE) 与 角色 (PVP) 界面进行优化, 使其可以通过点击职业名称/图标直接切换至对应职业</source>
-                <target>직업&amp;직군(PvE) 및 캐릭터(PvP) UI를 최적화하여, 직업명이나 아이콘을 클릭해 해당 직업으로 바로 전환할 수 있게 합니다.</target>
+                <source>优化“职业&amp;特职”界面与玩家对战的“角色”界面，可以直接点击各个职业的界面组件以切换至对应职业。</source>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassTitle" xml:space="preserve">
-                <source>职业&amp;特职 / 角色 界面优化</source>
-                <target>직업&amp;직군/캐릭터 UI 최적화</target>
+                <source>“职业&amp;特职”界面优化</source>
             </trans-unit>
             <trans-unit id="OptimizedChatBubble-AdditionalDuration" xml:space="preserve">
                 <source>额外每字符持续时间</source>
