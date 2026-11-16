@@ -1676,6 +1676,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-RoundEnd" xml:space="preserve">
                 <source>采集了{minutes}分钟，将退出“天上福地云冠群岛”并检验道具，随后自动开始新一轮采集。</source>
+                <target>The gathering round has lasted for {minutes, plural, one {# minute} other {# minutes}}. Now going to leave the duty and inspect the materials, then re-join the duty for a new round of gathering.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow" xml:space="preserve">
                 <source>“天穹街振兴票”即将达到持有上限，且当前未配置“要兑换的物品”。</source>
@@ -1691,6 +1692,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordialHelp" xml:space="preserve">
                 <source>在尽量不浪费采集力恢复量的情况下，按照“高级强心剂”、“强心剂”、“轻型强心剂”的顺序依次使用，并优先使用高品质物品。</source>
+                <target>Cordial will be consumed by priority (Hi-Cordial &gt; Cordial &gt; Watered Cordial) while minimizing GP overkill. High-quality Cordial will be prioritized.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
                 <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
