@@ -1642,7 +1642,9 @@ However, Level Sync will take over immediately after dismounting within that ran
                 <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
 达到任一等级阈值后，切换至尚未达到该阈值的另一采集职业；两个职业均达到设定的最高阈值后，停止采集并退出副本。
 自动切换要求采矿工、园艺工均达到10级，并各自保存了对应套装，否则不会切换职业。</source>
-                <target>Gather grade 4 (normal) materials by default, while prioritizing ones with the highest success rate. Prioritize higher-level materials if success rates are equal. Equip recommended gear automatically while leveling. Clouded nodes will be always ignored.</target>
+                <target>Gather grade 4 (normal) materials by default, while prioritizing ones with the highest success rate. Prioritize higher-level materials if success rates are equal. Equip recommended gear automatically while leveling. Clouded nodes will be always ignored.
+If it reaches the given level threshold for a job, the automation process will proceed with another job. If it reaches the given level threshold for both Miner and Botanist, the process will end and the character will leave the duty.
+In order to make the auto job switching feature work, both Miner and Botanist have to be at least Level 10, with at least one gear set ready for each job.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
