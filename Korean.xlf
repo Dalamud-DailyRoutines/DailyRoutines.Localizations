@@ -11072,6 +11072,9 @@ URL: https://uptime.ff14.xin/</target>
                 <source>使用“皇帝的新装备”填充空部位</source>
                 <target>&quot;임금님 장비”으로 빈 슬롯을 채우기</target>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
+                <source>实时试穿</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
                 <target>인벤토리, 장비함, 환상의 옷장, 또는 추억의 보관함 어디에서도 이 장비를 찾을 수 없습니다.</target>
