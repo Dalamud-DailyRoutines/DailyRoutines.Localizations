@@ -1880,7 +1880,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoHighlightFlagMarkerDescription" xml:space="preserve">
                 <source>当放置地图标点时, 自动使用场景标记组成光柱以在游戏内高亮标点目的地</source>
-                <target>When placing a flag, automatically use Waymarks to create a light pillar to highlight the destination.</target>
+                <target>Automatically highlight the location of the map flag in the world using a pillar of light composed of Waymarks.</target>
             </trans-unit>
             <trans-unit id="AutoHighlightFlagMarkerTitle" xml:space="preserve">
                 <source>自动高亮地图标点</source>
@@ -7481,7 +7481,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ReturnToGround" xml:space="preserve">
                 <source>回到地面</source>
-                <target>Return Ground</target>
+                <target>Return To Ground</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ReturnToOrigPos" xml:space="preserve">
                 <source>返回原始位置</source>
@@ -7489,7 +7489,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ReturnToSafePoint" xml:space="preserve">
                 <source>返回安全区</source>
-                <target>Return To Safe Zone</target>
+                <target>Return To Satety</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportAndInteract" xml:space="preserve">
                 <source>传送并交互</source>
