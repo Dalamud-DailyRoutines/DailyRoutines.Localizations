@@ -1580,6 +1580,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGardensWorkDescription" xml:space="preserve">
                 <source>自动园圃相关操作，支持自动种植、收获、施肥与护理。</source>
+                <target>Automate gardenwork, including planting, harvesting, fertilizing and tending.</target>
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
                 <source>自动管理园圃</source>
