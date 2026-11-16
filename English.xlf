@@ -5873,15 +5873,15 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-Category-Description" xml:space="preserve">
                 <source>招募描述</source>
-                <target>Description</target>
+                <target>Criteria</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-Category-SearchByName" xml:space="preserve">
                 <source>按角色名搜索</source>
-                <target>Search By Name</target>
+                <target>Search By Player Name</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-Description-Add" xml:space="preserve">
                 <source>添加正则过滤规则</source>
-                <target>Add Regex</target>
+                <target>Add Regex Rule</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-Description-Blacklist-Help" xml:space="preserve">
                 <source>若招募人或招募描述匹配任一正则，则隐藏该招募。</source>
@@ -5929,6 +5929,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
                 <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
+                <target>Provide a better Party Finder filter which integrates several vanilla filters. The feature also comes with smart filter rule sets.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterTitle" xml:space="preserve">
                 <source>更好的招募过滤界面</source>
