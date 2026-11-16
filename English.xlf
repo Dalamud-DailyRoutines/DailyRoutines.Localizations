@@ -11073,6 +11073,9 @@ Parameter(s): {2}</target>
                 <source>使用“皇帝的新装备”填充空部位</source>
                 <target>Fill Empty Slots With Emperor&apos;s New Gear</target>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
+                <source>实时试穿</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
                 <target>The specified gear was not found in the inventory, Armoury, Glamour Dresser or Armoire.</target>
