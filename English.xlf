@@ -5913,7 +5913,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-HighEndFilter-RoleCount-ManualMode-Help" xml:space="preserve">
                 <source>若招募中任一职能人数超出设定值，则隐藏该招募。</source>
-                <target>Exclude all the recruitments that any role has reached the given cap.</target>
+                <target>Exclude all the recruitments that any role has reached its cap.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob" xml:space="preserve">
                 <source>过滤相同职业</source>
@@ -5921,11 +5921,11 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-HighEndFilter-SameJob-Help" xml:space="preserve">
                 <source>若招募中已有和自己相同的职业，则隐藏该招募。</source>
-                <target>Exclude all the recruitments with a member taking the same job as mine.</target>
+                <target>Exclude all the recruitments that a member has already taken the same job as mine.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilter-Notification-RegexError" xml:space="preserve">
                 <source>输入的“{input}”无法被解析为正则表达式。</source>
-                <target>The input &quot;{input}&quot; cannot be parsed as a regular expression.</target>
+                <target>Failed to parse the input &quot;{input}&quot; as a regular expression.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
                 <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
