@@ -7386,7 +7386,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Abort" xml:space="preserve">
                 <source>放弃传送</source>
-                <target>Abort Warp</target>
+                <target>Terminate Warp</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-AddToBlacklist" xml:space="preserve">
                 <source>添加至黑名单</source>
@@ -7394,6 +7394,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BlacklistedIcons" xml:space="preserve">
                 <source>不显示的图标</source>
+                <target>Blacklisted Icons</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BrowseIcons" xml:space="preserve">
                 <source>浏览图标</source>
@@ -7401,9 +7402,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ClickToRemoveFromBlacklist" xml:space="preserve">
                 <source>单击以从黑名单中移除该图标。</source>
+                <target>Click To Remove From Blacklist</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Abort" xml:space="preserve">
                 <source>放弃当前所有的传送任务。</source>
+                <target>All warping has been terminated.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
                 <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
@@ -7413,6 +7416,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Flag" xml:space="preserve">
                 <source>传送至地图标点位置。</source>
+                <target>to warp to the location of the map flag.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
                 <source>尝试检测上下方地面，并传送至地面所在位置。</source>
@@ -7441,6 +7445,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkerAddSuccess" xml:space="preserve">
                 <source>成功添加了自定义传送点“{name}”。</source>
+                <target>The custom destination &quot;{name}&quot; has been created.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkers" xml:space="preserve">
                 <source>自定义传送点</source>
@@ -7517,6 +7522,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-WeightHelp" xml:space="preserve">
                 <source>权重值越大，则排序越靠前。</source>
+                <target>The higher the weight, the higher up in the list the entry appears.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelDescription" xml:space="preserve">
                 <source>新增快捷传送面板，用以传送至区域内任意位置或任一标记处。</source>
