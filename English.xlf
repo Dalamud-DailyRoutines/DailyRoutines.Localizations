@@ -1636,7 +1636,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Title" xml:space="preserve">
                 <source>梦幻采集</source>
-                <target>Clouded Node Gathering</target>
+                <target>Clouded Node</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Description" xml:space="preserve">
                 <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
