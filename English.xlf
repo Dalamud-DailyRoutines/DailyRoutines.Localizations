@@ -1594,9 +1594,11 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
                 <source>不会对其使用“以太钻孔机”的目标</source>
+                <target>Aetheromatic Auger Blacklist</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonstersHelp" xml:space="preserve">
                 <source>不会对下列目标使用“以太钻孔机”。添加时需填写目标的完整名称。</source>
+                <target>It won&apos;t cast &quot;Aetheromatic Auger&quot; on blacklisted targets. Please enter full names while adding targets to the list.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathers" xml:space="preserve">
                 <source>要忽略的特殊天气</source>
@@ -1620,6 +1622,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPointsHelp" xml:space="preserve">
                 <source>不按技巧点切换职业或停止采集，适用于继续收集第二期、第三期重建材料。</source>
+                <target>Disable the auto job switching feature after reaching 400,000 Skyward Points. Stay in the duty after reaching 500,000 Skyward Points. The option is for gathering materials for Phase 2 or 3 of Ishgardian Restoration.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
                 <source>要兑换的物品</source>
@@ -1701,7 +1704,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
                 <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
-                <target>Automatically gather materials in the Diadem for clouded materials, skyward points, leveling or progressing achievements.</target>
+                <target>Automatically gather materials in the Diadem for clouded materials, Skyward Points, leveling or progressing achievements.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademTitle" xml:space="preserve">
                 <source>自动云冠群岛采集</source>
