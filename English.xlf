@@ -1876,7 +1876,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoHighlightFlagMarker-ConstantlyUpdate" xml:space="preserve">
                 <source>持续更新高亮光柱位置</source>
-                <target>Continuously update the position of the light pillar.</target>
+                <target>Update At High Frequency</target>
             </trans-unit>
             <trans-unit id="AutoHighlightFlagMarkerDescription" xml:space="preserve">
                 <source>当放置地图标点时, 自动使用场景标记组成光柱以在游戏内高亮标点目的地</source>
@@ -7386,18 +7386,18 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Abort" xml:space="preserve">
                 <source>放弃传送</source>
-                <target>Abort Teleport</target>
+                <target>Abort Warp</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-AddToBlacklist" xml:space="preserve">
                 <source>添加至黑名单</source>
-                <target>Add to Blacklist</target>
+                <target>Add To Blacklist</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BlacklistedIcons" xml:space="preserve">
                 <source>不显示的图标</source>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BrowseIcons" xml:space="preserve">
                 <source>浏览图标</source>
-                <target>Browse Icons</target>
+                <target>Icon Browser</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ClickToRemoveFromBlacklist" xml:space="preserve">
                 <source>单击以从黑名单中移除该图标。</source>
@@ -7437,7 +7437,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CurrentFlagMarker" xml:space="preserve">
                 <source>当前标点</source>
-                <target>Current Flag</target>
+                <target>Current Map Flag</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkerAddSuccess" xml:space="preserve">
                 <source>成功添加了自定义传送点“{name}”。</source>
@@ -7448,19 +7448,19 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkersShort" xml:space="preserve">
                 <source>自建</source>
-                <target>Custom</target>
+                <target>Create</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-DoubleRightClickToAdd" xml:space="preserve">
                 <source>双击右键以添加</source>
-                <target>Right-Double-Click to Add</target>
+                <target>Double Right-click To Add</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-FateTimeRemaining" xml:space="preserve">
                 <source>剩余时间</source>
-                <target>Remaining</target>
+                <target>Time Remaining</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-FlagPosition" xml:space="preserve">
                 <source>标点位置</source>
-                <target>Flag Position</target>
+                <target>Map Flag</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-IconID" xml:space="preserve">
                 <source>图标唯一标识符</source>
@@ -7477,7 +7477,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-QuestTeleport" xml:space="preserve">
                 <source>任务传送</source>
-                <target>Quest Teleport</target>
+                <target>Quest Warp</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ReturnToGround" xml:space="preserve">
                 <source>回到地面</source>
@@ -7520,6 +7520,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanelDescription" xml:space="preserve">
                 <source>新增快捷传送面板，用以传送至区域内任意位置或任一标记处。</source>
+                <target>Provide a panel to warp to any location in the current zone.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle" xml:space="preserve">
                 <source>快捷传送面板</source>
