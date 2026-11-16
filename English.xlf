@@ -1428,7 +1428,7 @@ Time elapsed: {1}</target>
             </trans-unit>
             <trans-unit id="AutoFate-PluginPrerequisite-Config" xml:space="preserve">
                 <source>前置插件/模块配置</source>
-                <target>Prerequisite Modules &amp; Plugins</target>
+                <target>Prerequisite Module &amp; Plugin</target>
             </trans-unit>
             <trans-unit id="AutoFate-PluginPrerequisite-Config-AEAssist-Help" xml:space="preserve">
                 <source>启用 &quot;目标选择器&quot;, 设置为 &quot;FATE 模式&quot;, 使用非高难的 ACR</source>
@@ -2162,7 +2162,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
-                <target>All the duties belong to the &quot;High-end Duty&quot; catalog in Party Finder at the moment. The catalog is typically rolled over with every medium update. Therefore, duties in the past will not be considered as High-end Duties.</target>
+                <target>All the duties belonging to the &quot;High-end Duty&quot; catalog in Party Finder at the moment. The catalog is typically rolled over with every medium update. Therefore, duties in the past will not be considered as High-end Duties.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
@@ -7426,7 +7426,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
                 <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
-                <target>The command belongs</target>
+                <target>These commands belong to the module &quot;Warp Panel&quot;. Refer to the module configuration for details.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
                 <source>传送至鼠标所指处位置。</source>
@@ -8771,9 +8771,11 @@ The information will be uploaded to {isGL, select, true {https://xivpf.com/} oth
             </trans-unit>
             <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Line" xml:space="preserve">
                 <source>   {pluginName}</source>
+                <target>   {pluginName}</target>
             </trans-unit>
             <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Title" xml:space="preserve">
                 <source>无法加载模块“{moduleName}”，缺少要求的前置插件。</source>
+                <target>Failed to load the module &quot;{moduleName}&quot; due to missing prerequisite plugins.</target>
             </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
@@ -10297,10 +10299,11 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="PrecedingModules" xml:space="preserve">
                 <source>前置模块</source>
-                <target>Prerequisite Modules</target>
+                <target>Prerequisite Module</target>
             </trans-unit>
             <trans-unit id="PrecedingPlugins" xml:space="preserve">
                 <source>前置插件</source>
+                <target>Prerequisite Plugin</target>
             </trans-unit>
             <trans-unit id="Prefix" xml:space="preserve">
                 <source>前缀</source>
