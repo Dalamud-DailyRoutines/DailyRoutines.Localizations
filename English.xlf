@@ -1645,7 +1645,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
-                <target>Leveling Up</target>
+                <target>Leveling</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Description" xml:space="preserve">
                 <source>优先采集所选物品，默认采集第四期特供材料。
@@ -1653,7 +1653,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Title" xml:space="preserve">
                 <source>技巧点</source>
-                <target>Skyward Points</target>
+                <target>Skyward Point</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止采集并退出任务。</source>
@@ -1672,7 +1672,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
-                <target>Use Cordial</target>
+                <target>Cordial</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordialHelp" xml:space="preserve">
                 <source>在尽量不浪费采集力恢复量的情况下，按照“高级强心剂”、“强心剂”、“轻型强心剂”的顺序依次使用，并优先使用高品质物品。</source>
