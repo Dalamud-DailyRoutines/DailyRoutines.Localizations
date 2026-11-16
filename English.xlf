@@ -7475,6 +7475,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
                 <source>（未设置）</source>
+                <target>(not set)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-QuestObject" xml:space="preserve">
                 <source>任务物体</source>
@@ -7502,9 +7503,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToFlag" xml:space="preserve">
                 <source>传送（地图标点）</source>
+                <target>Warp (map flag)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToManualPos" xml:space="preserve">
                 <source>传送（自定义坐标）</source>
+                <target>Warp (custom)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition" xml:space="preserve">
                 <source>二次修正高度</source>
@@ -7515,6 +7518,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue" xml:space="preserve">
                 <source>单击右键可调整偏移量。</source>
+                <target>Right Click To Adjust Offset</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Weight" xml:space="preserve">
                 <source>权重</source>
