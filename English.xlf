@@ -271,7 +271,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoBackupGameConfig-Notification-InvalidFolder" xml:space="preserve">
                 <source>文件夹设置无效，无法完成游戏配置数据恢复。</source>
-                <target>The configuration cannot be recovered due to invalid folder configurations.</target>
+                <target>The configuration cannot be recovered due to invalid folder directories.</target>
             </trans-unit>
             <trans-unit id="AutoBackupGameConfig-Notification-NoGist" xml:space="preserve">
                 <source>尚未创建云端备份，无法完成游戏配置数据恢复。</source>
@@ -3754,7 +3754,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoReplaceActionLowLevelDescription" xml:space="preserve">
                 <source>当因等级同步而导致部分高等级技能无法使用时, 自动将它们替换为对应的下位低等级技能</source>
-                <target>When high level actions are unavailable due to level sync, automatically replace them with their low level counterparts.</target>
+                <target>When high level actions are unavailable due to the level sync, automatically replace them with their low level counterparts.</target>
             </trans-unit>
             <trans-unit id="AutoReplaceActionLowLevelTitle" xml:space="preserve">
                 <source>自动替换低等级技能</source>
@@ -4160,7 +4160,7 @@ Then click start to dispatch all the retainers to the current settlement.</targe
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-AutoAdjustWhenNewOnSale-Warning" xml:space="preserve">
                 <source>无法手动调整价格，将根据配置与市场时价自动确定出售价格。</source>
-                <target>The price cannot be adjusted manually due to your settings. It will be determined automatically based on the configurations and data while listing.</target>
+                <target>The price cannot be adjusted manually due to the settings. It will be determined automatically based on the configurations and data while listing.</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-AutoOnSale" xml:space="preserve">
                 <source>自动确认上架</source>
