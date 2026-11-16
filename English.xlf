@@ -874,7 +874,7 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             </trans-unit>
             <trans-unit id="AutoDiscard-CommandHelp" xml:space="preserve">
                 <source>&lt;配置组名称&gt; 运行指定的自动丢弃模块配置组</source>
-                <target>&lt;preset name&gt; to execute the preset for discarding.</target>
+                <target>&lt;preset name&gt; to execute the discard preset.</target>
             </trans-unit>
             <trans-unit id="AutoDiscard-ContextMenu" xml:space="preserve">
                 <source>设置自动丢弃</source>
@@ -902,15 +902,15 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             </trans-unit>
             <trans-unit id="AutoDiscard-Notification-Added" xml:space="preserve">
                 <source>将{0}加入到了自动丢弃配置组“{1}”。</source>
-                <target>{0} has been added to the preset &quot;{1}&quot;.</target>
+                <target>{0} has been added to the discard preset &quot;{1}&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoDiscard-Notification-BatchAdded" xml:space="preserve">
                 <source>批量添加了{0}个物品至自动丢弃配置组“{1}”。</source>
-                <target>{0} item(s) have been added to the preset &quot;{1}&quot;.</target>
+                <target>{0} item(s) have been added to the discard preset &quot;{1}&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoDiscard-Notification-Removed" xml:space="preserve">
                 <source>从自动丢弃配置组“{0}”中移除了{1}。</source>
-                <target>{1} has been removed from the preset &quot;{0}&quot;.</target>
+                <target>{1} has been removed from the discard preset &quot;{0}&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoDiscardDescription" xml:space="preserve">
                 <source>允许快速丢弃/出售预设好中的一组物品</source>
@@ -1586,10 +1586,11 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupName" xml:space="preserve">
                 <source>自动丢弃配置组名称</source>
-                <target>Preset Name</target>
+                <target>Discard Preset</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
                 <source>检验材料后，执行“自动丢弃物品”模块下指定的配置组以清理背包。留空时不自动丢弃物品。</source>
+                <target>A discard preset from the module &quot;Auto Discard Items&quot; is required for auto discarding. Please enter the preset name below after creating a preset. Leave it blank to disable auto discarding.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
                 <source>不会对其使用“以太钻孔机”的目标</source>
