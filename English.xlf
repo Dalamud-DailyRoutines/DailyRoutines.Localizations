@@ -1619,6 +1619,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
                 <source>要兑换的物品</source>
+                <target>Item To Be Exchanged For</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
                 <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
@@ -1673,9 +1674,11 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow" xml:space="preserve">
                 <source>“天穹街振兴票”即将达到持有上限，且当前未配置“要兑换的物品”。</source>
+                <target>Skybuilders&apos; Scrips are about to reach the cap, and &quot;Items To Be Exchanged For&quot; are not configured yet.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow-Title" xml:space="preserve">
                 <source>天穹街振兴票即将达到持有上限</source>
+                <target>Skybuilders&apos; Scrips are about to reach the cap.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
