@@ -9258,21 +9258,27 @@ Replace the action name and icon with the name and icon of the result of Mount R
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-Gearset" xml:space="preserve">
                 <source>（套装{index} {name}）</source>
+                <target>(Set {index} {name})</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-NoGearset" xml:space="preserve">
                 <source>没有保存{jobName}相关的套装。</source>
+                <target>The gear set {jobName} was not found.</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
                 <source>设置切换职业时使用的套装</source>
+                <target>Assign Default Gear Set To Job</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Message" xml:space="preserve">
                 <source>切换至{jobName}时将会使用套装{index}“{gearsetName}”。</source>
+                <target>Set {index} &quot;{gearsetName}&quot; has been assigned to the job {jobName}.</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Sub" xml:space="preserve">
                 <source>使用套装{index}“{name}”。</source>
+                <target>Set {index} &quot;{name}&quot; has been assigned.</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassDescription" xml:space="preserve">
                 <source>优化“职业&amp;特职”界面与玩家对战的“角色”界面，可以直接点击各个职业的界面组件以切换至对应职业。</source>
+                <target>Provide a better Classes/Jobs interface for PvE and a better Character interface for PvP, allowing to switch to the job by clicking job thumbnails.</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassTitle" xml:space="preserve">
                 <source>“职业&amp;特职”界面优化</source>
