@@ -7583,9 +7583,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FasterNormalToastDescription" xml:space="preserve">
                 <source>重构浮动提示显示机制，下一条浮动提示显示时自动快速渐隐前一条，避免大量堆积而极大拉长显示完成用时。</source>
+                <target>Provide a better Duty Mechanic Gauge queue, where the previous gauge will fade out before the next gauge pops up, in order to prevent queue buildup.</target>
             </trans-unit>
             <trans-unit id="FasterNormalToastTitle" xml:space="preserve">
                 <source>更快的浮动提示</source>
+                <target>Better Duty Gauge</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
