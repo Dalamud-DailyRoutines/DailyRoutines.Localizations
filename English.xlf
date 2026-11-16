@@ -7472,6 +7472,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-InaccurateYPosHelp" xml:space="preserve">
                 <source>目的地高度不准确，可能需要传送后手动调整。</source>
+                <target>The altitude is very likely inaccurate. It&apos;s recommended to adjust the altitude manually after warping.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
                 <source>（未设置）</source>
@@ -7515,6 +7516,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition-Help" xml:space="preserve">
                 <source>勾选后，会认为该标点的高度（Y 轴）不准确。在传送至该标记时，会尝试检测角色上下方是否存在地面, 并将人物高度修正至最近的地面处。</source>
+                <target>The altitude acquired (that is, the y-axis value) will always be considered inaccurate if the option is checked. Therefore, it will attempt to detect the closest landable ground above or below the destination and adjust the destination coordinate based on the detection results.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue" xml:space="preserve">
                 <source>单击右键可调整偏移量。</source>
