@@ -1583,6 +1583,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
                 <source>自动管理园圃</source>
+                <target>Auto Gardenwork</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupName" xml:space="preserve">
                 <source>自动丢弃配置组名称</source>
@@ -11139,6 +11140,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
                 <source>实时试穿</source>
+                <target>Live Try On </target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
