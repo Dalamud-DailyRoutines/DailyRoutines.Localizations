@@ -8942,6 +8942,9 @@ Pendant l’incantation de « Monture aléatoire », remplace le nom et l’icô
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
                 <source>设置切换职业时使用的套装</source>
             </trans-unit>
+            <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Message" xml:space="preserve">
+                <source>切换至{jobName}时将会使用套装{index}“{gearsetName}”。</source>
+            </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Sub" xml:space="preserve">
                 <source>使用套装{index}“{name}”。</source>
             </trans-unit>
