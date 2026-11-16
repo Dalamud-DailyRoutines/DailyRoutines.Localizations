@@ -1600,9 +1600,11 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathers" xml:space="preserve">
                 <source>要忽略的特殊天气</source>
+                <target>Special Weather To Be Ignored</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathersHelp" xml:space="preserve">
                 <source>所选的特殊天气期间，不会前往对应的梦幻采集点。</source>
+                <target>It will remain on standby during ignored special weather.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItems" xml:space="preserve">
                 <source>优先采集的物品</source>
