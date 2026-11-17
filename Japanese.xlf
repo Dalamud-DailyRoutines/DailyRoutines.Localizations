@@ -55,9 +55,11 @@
             </trans-unit>
             <trans-unit id="Alphascape3HelperDescription" xml:space="preserve">
                 <source>进入副本“欧米茄时空狭缝 阿尔法幻境3”后，当“雷力投射点”出现时，自动反复对其发动任务指令“欧米茄干扰器”。</source>
+                <target>『時空の狭間オメガ：アルファ編3』に入った後、電力投射地点が出現した際に、自動的に『オメガジャマー』を繰り返し使用する</target>
             </trans-unit>
             <trans-unit id="Alphascape3HelperTitle" xml:space="preserve">
                 <source>阿尔法幻境3助手</source>
+                <target>『時空の狭間オメガ：アルファ編3』アシスト</target>
             </trans-unit>
             <trans-unit id="AlwaysPathfinding" xml:space="preserve">
                 <source>始终寻路</source>
@@ -92,6 +94,7 @@
             </trans-unit>
             <trans-unit id="Auth-Error-Blacklisted" xml:space="preserve">
                 <source>你已被列入黑名单，无法使用 Daily Routines。</source>
+                <target>あなたはブラックリストに追加されており、Daily Routinesを使用できません。</target>
             </trans-unit>
             <trans-unit id="Auth-Error-FailToUpdateCredentialInfo" xml:space="preserve">
                 <source>无法获取在线验证信息, 请检查本地网络设置。</source>
@@ -737,6 +740,7 @@
             </trans-unit>
             <trans-unit id="AutoCountPlayers-DrawLinesOnPlayers" xml:space="preserve">
                 <source>绘制至全部玩家的连接线</source>
+                <target>全プレイヤーへの接続線を描画する</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayers-FilterFriend" xml:space="preserve">
                 <source>仅被非好友选中时才通知</source>
@@ -788,6 +792,7 @@
             </trans-unit>
             <trans-unit id="AutoCountPlayersDescription" xml:space="preserve">
                 <source>自动获取周边与区域玩家信息，在“基本信息”界面中显示人数，可快捷筛选并查看玩家，并在被其他玩家选中时提示。</source>
+                <target>周辺およびエリア内のプレイヤー情報を自動的に取得し、「基本情報」画面に人数を表示します。プレイヤーの素早い絞り込みや確認が可能なほか、他のプレイヤーから選択された際には通知が行われます。</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayersTitle" xml:space="preserve">
                 <source>自动显示周边玩家数量</source>
@@ -1005,9 +1010,11 @@
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
                 <source>{ms}毫秒</source>
+                <target>{0} ms</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
                 <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
+                <target>サーバー情報欄に接続の往復時間をリアルタイムで表示するほか、ネットワーク遅延の推移グラフを確認できるようにし、さらにゲームサーバーのIPアドレスと所在地情報を明示します。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle" xml:space="preserve">
                 <source>自动显示网络延迟</source>
@@ -1019,6 +1026,7 @@
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Loss" xml:space="preserve">
                 <source>重传率</source>
+                <target>再送率</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Max" xml:space="preserve">
                 <source>峰值</source>
