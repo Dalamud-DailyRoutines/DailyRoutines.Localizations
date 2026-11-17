@@ -1583,6 +1583,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGardensWorkDescription" xml:space="preserve">
                 <source>自动园圃相关操作，支持自动种植、收获、施肥与护理。</source>
+                <target>庭園関連の自動操作。自動での植え付け、収穫、施肥、手入れに対応しています。</target>
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
                 <source>自动管理园圃</source>
