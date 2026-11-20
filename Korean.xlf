@@ -1599,9 +1599,11 @@
             </trans-unit>
             <trans-unit id="AutoGardensWorkDescription" xml:space="preserve">
                 <source>自动园圃相关操作，支持自动种植、收获、施肥与护理。</source>
+                <target>자동 재배 관련 조작을 지원하며, 씨앗 심기, 수확, 비료 및 관리를 지원합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
                 <source>自动管理园圃</source>
+                <target>자동 재배</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupName" xml:space="preserve">
                 <source>自动丢弃配置组名称</source>
@@ -1609,21 +1611,27 @@
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
                 <source>检验材料后，执行“自动丢弃物品”模块下指定的配置组以清理背包。留空时不自动丢弃物品。</source>
+                <target>검사 재료를 확인한 후, &quot;자동 아이템 버리기&quot; 모듈의 지정된 구성 그룹을 실행하여 인벤토리를 정리합니다. 빈 칸으로 두면 자동으로 아이템이 버려지지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
                 <source>不会对其使用“以太钻孔机”的目标</source>
+                <target>&quot;에테르 착암기&quot; 대상 필터</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonstersHelp" xml:space="preserve">
                 <source>不会对下列目标使用“以太钻孔机”。添加时需填写目标的完整名称。</source>
+                <target>다음 대상에는 &quot;에테르 착암기&quot;를 = 사용하지 않습니다. 추가할 때 대상의 전체 이름을 입력해야 합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathers" xml:space="preserve">
                 <source>要忽略的特殊天气</source>
+                <target>대상 제외 특수날씨</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathersHelp" xml:space="preserve">
                 <source>所选的特殊天气期间，不会前往对应的梦幻采集点。</source>
+                <target>선택한 특수 날씨 중에 해당 몽환 채집 지점으로 이동하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItems" xml:space="preserve">
                 <source>优先采集的物品</source>
+                <target>채집한 물품 우선</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
@@ -7389,6 +7397,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BlacklistedIcons" xml:space="preserve">
                 <source>不显示的图标</source>
+                <target>표시하지 않는 아이콘</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BrowseIcons" xml:space="preserve">
                 <source>浏览图标</source>
@@ -7396,24 +7405,31 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ClickToRemoveFromBlacklist" xml:space="preserve">
                 <source>单击以从黑名单中移除该图标。</source>
+                <target>클릭으로 해당 아이콘을 블랙리스트에서 삭제</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Abort" xml:space="preserve">
                 <source>放弃当前所有的传送任务。</source>
+                <target>현재 모든 텔레포를 중지</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
                 <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
+                <target>근처 이용 가능한 에테라이트 또는 도심 에테라이트와 자동 상호작용 시도</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Custom" xml:space="preserve">
                 <source>&lt;自定义传送点名称&gt; 传送至指定自定义传送点。</source>
+                <target>&lt;사용자 정의 전송 지점명&gt; 지정한 지점으로 전송</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Flag" xml:space="preserve">
                 <source>传送至地图标点位置。</source>
+                <target>지도 플래그 위치로 전송</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
                 <source>尝试检测上下方地面，并传送至地面所在位置。</source>
+                <target>상하 지면을 감지해 해당 위치로 순간이동 시도</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
                 <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
+                <target>이 명령어는 &quot;빠른 전송 패널&quot; 모듈에 속하며, 자세한 내용은 모듈 구성 페이지를 참조해 주십시오.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
                 <source>传送至鼠标所指处位置。</source>
