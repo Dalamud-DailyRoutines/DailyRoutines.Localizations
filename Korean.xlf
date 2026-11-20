@@ -7457,6 +7457,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
                 <source>（未设置）</source>
+                <target>(미설정)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-QuestObject" xml:space="preserve">
                 <source>任务物体</source>
@@ -7484,9 +7485,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToFlag" xml:space="preserve">
                 <source>传送（地图标点）</source>
+                <target>전송(지도 플래그)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToManualPos" xml:space="preserve">
                 <source>传送（自定义坐标）</source>
+                <target>텔레포 (사용자 지정 좌표)</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition" xml:space="preserve">
                 <source>二次修正高度</source>
@@ -7494,9 +7497,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition-Help" xml:space="preserve">
                 <source>勾选后，会认为该标点的高度（Y 轴）不准确。在传送至该标记时，会尝试检测角色上下方是否存在地面, 并将人物高度修正至最近的地面处。</source>
+                <target>선택하면 해당 위치 높이(Y축)가 정확하지 않다고 표시됩니다. 해당 표식으로 전송될 때 캐릭터의 상하방에 지면이 있는지 확인하고, 인물 높이를 가장 가까운 지면 위치로 조정합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue" xml:space="preserve">
                 <source>单击右键可调整偏移量。</source>
+                <target>우클릭하여 오프셋 값을 조정할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Weight" xml:space="preserve">
                 <source>权重</source>
@@ -7504,9 +7509,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-WeightHelp" xml:space="preserve">
                 <source>权重值越大，则排序越靠前。</source>
+                <target>가중치가 클수록 정렬 순위가 더 앞쪽에 위치합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelDescription" xml:space="preserve">
                 <source>新增快捷传送面板，用以传送至区域内任意位置或任一标记处。</source>
+                <target>빠른 이동 패널이 새로 추가되어, 구역 내의 임의 위치나 아무 표식 지점으로 이동할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle" xml:space="preserve">
                 <source>快捷传送面板</source>
@@ -7570,9 +7577,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FasterNormalToastDescription" xml:space="preserve">
                 <source>重构浮动提示显示机制，下一条浮动提示显示时自动快速渐隐前一条，避免大量堆积而极大拉长显示完成用时。</source>
+                <target>임무 게이지 표시 메커니즘을 재구성하여, 다음 임무 게이지가 표시될 때 이전 알림이  빠르게 사라지도록 하여, 과도한 누적으로 표시 완료 시간이 크게 늘어나는 것을 방지합니다.</target>
             </trans-unit>
             <trans-unit id="FasterNormalToastTitle" xml:space="preserve">
                 <source>更快的浮动提示</source>
+                <target>더 빠른 임무 게이지</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
@@ -7908,6 +7917,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
                 <source>安装并启用了插件“{pluginName}”。</source>
+                <target>플러그인 &quot;{pluginName}&quot;을 설치하고 활성화했습니다.</target>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -7919,6 +7929,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="IconBrowser-Suggestion" xml:space="preserve">
                 <source>建议从60000及之后寻找想要的图标。</source>
+                <target>60000 이후부터 원하시는 아이콘을 찾으시는 것을 권장합니다.</target>
             </trans-unit>
             <trans-unit id="IconOffset" xml:space="preserve">
                 <source>图标偏移</source>
@@ -8728,9 +8739,11 @@ URL: https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Line" xml:space="preserve">
                 <source>   {pluginName}</source>
+                <target>   {pluginName}</target>
             </trans-unit>
             <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Title" xml:space="preserve">
                 <source>无法加载模块“{moduleName}”，缺少要求的前置插件。</source>
+                <target>&quot;{moduleName}&quot;을 로드할 수 없습니다. 필요한 선행 플러그인이 없습니다.</target>
             </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
