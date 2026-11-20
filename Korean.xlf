@@ -1635,6 +1635,7 @@
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
+                <target>다양한 물품을 선택할 수 있습니다. 현재 채집 지점에 선택한 아이템이 포함되어 있으면 우선 채집하며, 선택한 아이템이 하나도 없을 경우 4차 부흥용 아이템을 채집합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
@@ -1642,24 +1643,31 @@
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPointsHelp" xml:space="preserve">
                 <source>不按技巧点切换职业或停止采集，适用于继续收集第二期、第三期重建材料。</source>
+                <target>기술 지점에서 직업을 전환하거나 채집을 중지하지 마십시오. 2차, 3차 부흥용 재료를 계속 수집하는 데 적합합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
                 <source>要兑换的物品</source>
+                <target>교환 희망 아이템</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
                 <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
+                <target>&quot;창천 거리 진흥권&quot;으로 교환한 아이템을 자동으로 사용해야 합니다. 비워 두면 교환하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinute" xml:space="preserve">
                 <source>每轮采集时间（分钟）</source>
+                <target>1사이클 채집 시간(분)</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinuteHelp" xml:space="preserve">
                 <source>在任务内达到设定时间后将退出“天上福地云冠群岛”，批量检验材料，然后再继续下一轮采集。</source>
+                <target>임무 내에서 설정된 시간이 도달하면 &quot;디아뎀 제도&quot;를 종료하고, 재료를 일괄 검사한 뒤 다음 채집 라운드로 진행합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LevelThreshold" xml:space="preserve">
                 <source>等级阈值</source>
+                <target>레벨 임계값</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Description" xml:space="preserve">
                 <source>特殊天气期间自动前往梦幻采集点采集，采集后退出任务并再次进入采集，依此循环。非特殊天气期间在任务起始位置等待。默认采集第四期重建用物品。</source>
+                <target>특수 날씨 중에는 자동으로 몽환 채집 지점으로 이동해 채집하며, 채집 후 임무에서 나갔다가 다시 채집에 들어가는 방식으로 반복됩니다. 특수한 날씨가 아닌 동안에는 작업 시작 위치에서 대기합니다. 기본 수집 아이템은 4기 재건용 아이템입니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Title" xml:space="preserve">
                 <source>梦幻采集</source>
@@ -1669,6 +1677,9 @@
                 <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
 达到任一等级阈值后，切换至尚未达到该阈值的另一采集职业；两个职业均达到设定的最高阈值后，停止采集并退出副本。
 自动切换要求采矿工、园艺工均达到10级，并各自保存了对应套装，否则不会切换职业。</source>
+                <target>제4차 일반 재료를 채집합니다. 성공률이 가장 높은 아이템을 우선 선택하고, 성공률이 같을 때는 등급이 더 높은 아이템을 선택합니다. 업그레이드 후 최강 장비가 자동으로 장착됩니다. 몽환 채집 지점을 수집하지 않습니다.
+어느 한 등급의 임계값에 도달하면 아직 해당 임계값에 도달하지 않은 다른 채집 직업으로 전환합니다. 두 직업이 모두 설정된 최고 임계값에 도달하면 채집을 중지하고 던전에서 나갑니다.
+자동 전환을 적용하려면 채광공과 원예공 모두 10레벨에 도달하고 각자 해당 세트를 보유하고 있어야 하며, 그렇지 않으면 직업이 전환되지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
@@ -1677,6 +1688,9 @@
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Description" xml:space="preserve">
                 <source>优先采集所选物品，默认采集第四期特供材料。
 当前职业达到40万技巧点后，切换至尚未达到40万技巧点的另一采集职业；继续积累至两个职业均达到50万技巧点后，停止采集并退出副本。</source>
+                <target>선택 물품을 우선 수집하며, 기본적으로 제4차 부흥용 툭별 주문 재료를 수집합니다.
+
+현재 직업의 기술 포인트가 40만에 도달하면, 아직 40만 기술 포인트에 도달하지 않은 다른 채집 직업으로 전환합니다. 이후 두 직업 모두 기술 포인트 50만에 도달할 때까지 계속 적립한 다음, 채집을 중지하고 던전에서 나갑니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Title" xml:space="preserve">
                 <source>技巧点</source>
