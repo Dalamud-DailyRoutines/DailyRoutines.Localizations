@@ -1694,7 +1694,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止采集并退出任务。</source>
-                <target>The gathering round has been terminated since the inventory is full. Now going to leave the duty.</target>
+                <target>The gathering round has been terminated since the inventory is full. Now leaving the duty.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull-Title" xml:space="preserve">
                 <source>背包已满</source>
@@ -1702,7 +1702,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-RoundEnd" xml:space="preserve">
                 <source>采集了{minutes}分钟，将退出“天上福地云冠群岛”并检验道具，随后自动开始新一轮采集。</source>
-                <target>The gathering round has lasted for {minutes, plural, one {# minute} other {# minutes}}. Now going to leave the duty and inspect the materials, then re-join the duty for a new round of gathering.</target>
+                <target>The gathering round has lasted for {minutes, plural, one {# minute} other {# minutes}}. Now leaving the duty to inspect the materials, then re-join the duty for a new round of gathering.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow" xml:space="preserve">
                 <source>“天穹街振兴票”即将达到持有上限，且当前未配置“要兑换的物品”。</source>
@@ -2477,6 +2477,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting-TrayTitle" xml:space="preserve">
                 <source>即将开始自动播报</source>
+                <target>Now starting auto broadcast...</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
