@@ -1038,21 +1038,27 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Alliance" xml:space="preserve">
                 <source>团队成员判定点</source>
+                <target>Alliance</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Enabled" xml:space="preserve">
                 <source>显示判定点</source>
+                <target>Enable</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Party" xml:space="preserve">
                 <source>小队成员判定点</source>
+                <target>Party</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
                 <source>自身判定点</source>
+                <target>Self</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxDescription" xml:space="preserve">
                 <source>自动显示出自身、小队队友和团队队友的实际判定点，以辅助判断与调整位置。</source>
+                <target>Automatically display hitboxes of the specified targets for better perception.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxTitle" xml:space="preserve">
                 <source>自动显示玩家判定点</source>
+                <target>Auto Display Hitbox</target>
             </trans-unit>
             <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
                 <source>灵魂凝聚度</source>
