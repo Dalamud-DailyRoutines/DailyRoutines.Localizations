@@ -2456,6 +2456,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted-TrayTitle" xml:space="preserve">
                 <source>自动播报结束</source>
+                <target>The auto broadcast is complete.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
@@ -2535,6 +2536,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件或导航路径。</source>
+                <target>The navigation has been terminated since the character, the route or flight is unavailable at the moment.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted-TrayTitle" xml:space="preserve">
                 <source>寻路中断了</source>
@@ -2647,6 +2649,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanCompleted-TrayTitle" xml:space="preserve">
                 <source>恶名精英扫描完毕</source>
+                <target>Scan complete.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanError-TrayTitle" xml:space="preserve">
                 <source>扫描恶名精英异常</source>
