@@ -1587,6 +1587,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGardensWorkTitle" xml:space="preserve">
                 <source>自动管理园圃</source>
+                <target>リテイナーの自動管理</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupName" xml:space="preserve">
                 <source>自动丢弃配置组名称</source>
@@ -1594,21 +1595,27 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-AutoDiscardGroupNameHelp" xml:space="preserve">
                 <source>检验材料后，执行“自动丢弃物品”模块下指定的配置组以清理背包。留空时不自动丢弃物品。</source>
+                <target>材料を検査した後、「Auto-Drop Items」モジュールで指定された構成グループを実行してバックパックをクリアします。空のままにしてもアイテムを自動的に破棄しません。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonsters" xml:space="preserve">
                 <source>不会对其使用“以太钻孔机”的目标</source>
+                <target>「エーテルドリル」が使用できない対象</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistMonstersHelp" xml:space="preserve">
                 <source>不会对下列目标使用“以太钻孔机”。添加时需填写目标的完整名称。</source>
+                <target>以下の対象にはエーテルドリルは使用されません。追加する場合は、ターゲットの完全な名前を入力する必要があります。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathers" xml:space="preserve">
                 <source>要忽略的特殊天气</source>
+                <target>無視すべき特別な気象条件</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-BlacklistWeathersHelp" xml:space="preserve">
                 <source>所选的特殊天气期间，不会前往对应的梦幻采集点。</source>
+                <target>選択した特別天候期間中は、対応するファンタジー収集ポイントには行きません。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItems" xml:space="preserve">
                 <source>优先采集的物品</source>
+                <target>最初に集めるべきアイテム</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
