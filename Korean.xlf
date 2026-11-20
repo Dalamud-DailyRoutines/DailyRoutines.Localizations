@@ -1684,18 +1684,23 @@
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止采集并退出任务。</source>
+                <target>가방이 가득 찼습니다. 채집을 멈추고 인스턴스를 퇴장해주세요.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull-Title" xml:space="preserve">
                 <source>背包已满</source>
+                <target>인벤토리가 가득 찼습니다</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-RoundEnd" xml:space="preserve">
                 <source>采集了{minutes}分钟，将退出“天上福地云冠群岛”并检验道具，随后自动开始新一轮采集。</source>
+                <target>{minutes}분을 채집했으며, &quot;디아뎀 제도&quot;를 종료하고 아이템을 검사한 뒤 자동으로 새로운 채집 라운드를 시작합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow" xml:space="preserve">
                 <source>“天穹街振兴票”即将达到持有上限，且当前未配置“要兑换的物品”。</source>
+                <target>&quot;창천 거리 진흥권&quot;의 보유 한도에 곧 도달하며, 현재 교환할 &quot;아이템&quot;이 설정되어 있지 않습니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow-Title" xml:space="preserve">
                 <source>天穹街振兴票即将达到持有上限</source>
+                <target>창천 거리 진흥권 보유 한도에 곧 도달합니다</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
@@ -1703,9 +1708,11 @@
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordialHelp" xml:space="preserve">
                 <source>在尽量不浪费采集力恢复量的情况下，按照“高级强心剂”、“强心剂”、“轻型强心剂”的顺序依次使用，并优先使用高品质物品。</source>
+                <target>채집력 회복량을 최대한 낭비하지 않는 범위에서 &quot;고급 강심제&quot;, &quot;강심제&quot;, &quot;경량 강심제&quot; 순서로 차례대로 사용하며, 고품질 아이템을 우선 사용합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
                 <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
+                <target>&quot;디아뎀 제도&quot;에서 재료를 자동으로 반복 채집 및 재구성하여, 환재료 수집, 기술 포인트 축적, 업적 달성 또는 채집 직업 레벨 상승에 사용합니다.</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademTitle" xml:space="preserve">
                 <source>自动云冠群岛采集</source>
@@ -2425,6 +2432,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AreaBroadcastDelayHelp" xml:space="preserve">
                 <source>切换区域或副本区后，等待指定的时间间隔，再播报“恶名精英位置消息”。</source>
+                <target>지역이나 인스턴스 구역을 변경한 후, 지정된 시간이 지나면 &quot;마물 위치 알림&quot;을 전파합니다.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
@@ -2464,6 +2472,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
                 <source>贡献点位数据</source>
+                <target>공헌 위치 데이터</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
@@ -3549,6 +3558,7 @@
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Button-Save" xml:space="preserve">
                 <source>保存为预设</source>
+                <target>프리셋을 저장</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Delete" xml:space="preserve">
                 <source>删除该预设</source>
@@ -3556,6 +3566,7 @@
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-EditRemark" xml:space="preserve">
                 <source>编辑备注</source>
+                <target>편집 메모</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Update" xml:space="preserve">
                 <source>以当前设置覆盖该预设</source>
@@ -3569,9 +3580,11 @@
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Message-EditRemark" xml:space="preserve">
                 <source>请设置预设的备注。</source>
+                <target>프리셋의 메모를 설정해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Preset" xml:space="preserve">
                 <source>招募预设</source>
+                <target>파티모집 프리셋</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSettingDescription" xml:space="preserve">
                 <source>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</source>
@@ -5932,6 +5945,7 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
                 <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
+                <target>여러 개의 흩어져 있는 모집 필터 설정 화면을 통합하고, 다양한 규칙 기반의 지능형 필터링을 통해 요구 조건에 맞는 채용 정보를 선별할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterTitle" xml:space="preserve">
                 <source>更好的招募过滤界面</source>
