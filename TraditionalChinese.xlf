@@ -1018,13 +1018,23 @@
                 <source>谷值</source>
                 <target>谷值</target>
             </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Alliance" xml:space="preserve">
+                <source>团队成员判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Enabled" xml:space="preserve">
+                <source>显示判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Party" xml:space="preserve">
+                <source>小队成员判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
+                <source>自身判定点</source>
+            </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxDescription" xml:space="preserve">
-                <source>自动在当前玩家实际判定点处绘制图标, 以强调、辅助调整人物当前位置</source>
-                <target>自動在當前玩家實際判定點處繪製圖示, 以強調、輔助調整人物當前位置</target>
+                <source>自动显示出自身、小队队友和团队队友的实际判定点，以辅助判断与调整位置。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxTitle" xml:space="preserve">
-                <source>自动显示本地玩家判定点</source>
-                <target>自動顯示本地玩家判定點</target>
+                <source>自动显示玩家判定点</source>
             </trans-unit>
             <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
                 <source>灵魂凝聚度</source>
@@ -7698,8 +7708,7 @@ XivGear (xivgear.app)</target>
                 <target>遊戲圖示一覽</target>
             </trans-unit>
             <trans-unit id="IconBrowser-Suggestion" xml:space="preserve">
-                <source>建议从 60000 及以后找寻心仪图标</source>
-                <target>建議從 60000 及以後找尋心儀圖示</target>
+                <source>建议从60000及之后寻找想要的图标。</source>
             </trans-unit>
             <trans-unit id="IconOffset" xml:space="preserve">
                 <source>图标偏移</source>
