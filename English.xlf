@@ -556,6 +556,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint-2" xml:space="preserve">
                 <source>条件变更时</source>
+                <target>Prerequisite Satisfiability</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-JobRestrictions" xml:space="preserve">
                 <source>职业限制</source>
@@ -569,15 +570,18 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThresholdHelp" xml:space="preserve">
                 <source>当“进食”状态剩余时间不超过设定时间，或当前没有对应食物与对应品质的“进食”状态时，自动使用一次所选食物。</source>
+                <target>Consume the specified food once when the remaining duration of the &quot;Well Fed&quot; status is at or below the given threshold or when the current &quot;Well Fed&quot; status is not from the specified food. </target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-SelectedCount" xml:space="preserve">
                 <source>选中了{count}项</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionBegin" xml:space="preserve">
                 <source>条件满足瞬间</source>
+                <target>On Prerequisites Met</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionEnd" xml:space="preserve">
                 <source>条件不满足瞬间</source>
+                <target>On Prerequisites Unmet</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ZoneRestrictions" xml:space="preserve">
                 <source>区域限制</source>
