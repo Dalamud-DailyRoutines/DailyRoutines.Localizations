@@ -1039,12 +1039,15 @@
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Alliance" xml:space="preserve">
                 <source>团队成员判定点</source>
+                <target>チームメンバーの判定ポイント</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Enabled" xml:space="preserve">
                 <source>显示判定点</source>
+                <target>判定点を表示</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Party" xml:space="preserve">
                 <source>小队成员判定点</source>
+                <target>部隊メンバー判定ポイント</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
                 <source>自身判定点</source>
