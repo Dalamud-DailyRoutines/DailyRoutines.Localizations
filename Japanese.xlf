@@ -535,53 +535,53 @@
                 <source>新增配置</source>
                 <target>新しい設定を追加する</target>
             </trans-unit>
-            <trans-unit id="AutoCheckFoodUsage-ChangeTo" xml:space="preserve">
-                <source>切换为</source>
-                <target>切り替える</target>
+            <trans-unit id="AutoCheckFoodUsage-ChangeToHQ" xml:space="preserve">
+                <source>切换为高品质</source>
+            </trans-unit>
+            <trans-unit id="AutoCheckFoodUsage-ChangeToNQ" xml:space="preserve">
+                <source>切换为普通品质</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint" xml:space="preserve">
                 <source>检查时机</source>
                 <target>チェックのタイミング『エリア切替時/リスタート時/条件指定』</target>
             </trans-unit>
+            <trans-unit id="AutoCheckFoodUsage-Checkpoint-0" xml:space="preserve">
+                <source>切换区域时</source>
+            </trans-unit>
+            <trans-unit id="AutoCheckFoodUsage-Checkpoint-1" xml:space="preserve">
+                <source>倒计时开始时</source>
+            </trans-unit>
+            <trans-unit id="AutoCheckFoodUsage-Checkpoint-2" xml:space="preserve">
+                <source>条件变更时</source>
+            </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-JobRestrictions" xml:space="preserve">
                 <source>职业限制</source>
                 <target>ジョブ制限</target>
             </trans-unit>
-            <trans-unit id="AutoCheckFoodUsage-NoZoneSelectHelp" xml:space="preserve">
-                <source>如未选择区域, 则代表所有区域都生效</source>
-                <target>エリアを選択していない場合、すべてのエリアに適用されます</target>
-            </trans-unit>
-            <trans-unit id="AutoCheckFoodUsage-NoticeMessage" xml:space="preserve">
-                <source>自动食用了 {0}</source>
-                <target>自動で {0} を食べました</target>
+            <trans-unit id="AutoCheckFoodUsage-Notification" xml:space="preserve">
+                <source>自动食用了{item}。</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThreshold" xml:space="preserve">
-                <source>刷新阈值 (秒)</source>
-                <target>更新閾値(秒)</target>
+                <source>“进食”状态剩余时间（秒）</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThresholdHelp" xml:space="preserve">
-                <source>当无 进食 状态或其剩余时间低于刷新阈值时, 则自动食用一次食物</source>
-                <target>食事バフがない場合、または残り効果時間が更新閾値を下回った場合、食事を自動的に使用する。</target>
+                <source>当“进食”状态剩余时间不超过设定时间，或当前没有对应食物与对应品质的“进食”状态时，自动使用一次所选食物。</source>
             </trans-unit>
-            <trans-unit id="AutoCheckFoodUsage-SelectedAmount" xml:space="preserve">
-                <source>已选中 {0} 项</source>
-                <target>{0} 項目が選択されました</target>
+            <trans-unit id="AutoCheckFoodUsage-SelectedCount" xml:space="preserve">
+                <source>选中了{count}项</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionBegin" xml:space="preserve">
-                <source>条件开始时</source>
-                <target>条件が開始された時</target>
+                <source>条件满足瞬间</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionEnd" xml:space="preserve">
-                <source>条件结束时</source>
-                <target>条件が終了した時</target>
+                <source>条件不满足瞬间</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ZoneRestrictions" xml:space="preserve">
                 <source>区域限制</source>
                 <target>エリア制限</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageDescription" xml:space="preserve">
-                <source>自动检查自身对应食物使用状态, 并在剩余时间低于阈值时自动补充使用特定食物</source>
-                <target>食事バフの使用状態を自動で確認し、残り時間が閾値以下になると指定した食事を自動で使用する</target>
+                <source>配置后，自动根据“进食”状态类型与剩余时间、区域、职业与设置顺序等选择并使用食物。</source>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageTitle" xml:space="preserve">
                 <source>自动检查自身食物状态</source>
