@@ -1644,12 +1644,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinuteHelp" xml:space="preserve">
                 <source>在任务内达到设定时间后将退出“天上福地云冠群岛”，批量检验材料，然后再继续下一轮采集。</source>
+                <target>任務内で設定時間に達すると「ディアデム諸島・空島」から退出します。その後、素材を一括で確認し、次の採取ラウンドへと進みます。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LevelThreshold" xml:space="preserve">
                 <source>等级阈值</source>
+                <target>等級閾値</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Description" xml:space="preserve">
                 <source>特殊天气期间自动前往梦幻采集点采集，采集后退出任务并再次进入采集，依此循环。非特殊天气期间在任务起始位置等待。默认采集第四期重建用物品。</source>
+                <target>特殊天候時に自動で「幻の採集ポイント」へ移動して採集を行い、採集完了後に一度クエストから離脱して再入場するというサイクルを繰り返します。特殊天候時以外は、クエスト開始地点で待機します。デフォルトでは、第4期復興用アイテムを採集する設定になっています。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Clouded-Title" xml:space="preserve">
                 <source>梦幻采集</source>
@@ -1659,6 +1662,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <source>采集第四期非特供普通材料。优先选择成功率最高的物品，成功率相同时选择等级更高的物品。升级后自动装备最强装备。不会采集梦幻采集点。
 达到任一等级阈值后，切换至尚未达到该阈值的另一采集职业；两个职业均达到设定的最高阈值后，停止采集并退出副本。
 自动切换要求采矿工、园艺工均达到10级，并各自保存了对应套装，否则不会切换职业。</source>
+                <target>第4期の通常素材（非特供品）を採集します。成功率が最も高いアイテムを優先し、成功率が同じ場合はレベルが高いアイテムを選択します。レベルアップ後は、自動的に最強の装備へ変更します。「夢幻の採集ポイント」は採集しません。いずれかの採集職が設定したレベル閾値に達すると、まだその閾値に達していない別の採集職へ切り替えます。両方の採集職が設定した上限閾値に達した時点で、採集を終了し、インスタンスから退出します。自動切り替えを行うには、採掘師と園芸師の両方がレベル10に達しており、かつそれぞれに対応する装備セットが保存されている必要があります。条件を満たさない場合、ジョブの切り替えは行われません。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-Leveling-Title" xml:space="preserve">
                 <source>练级</source>
@@ -1667,6 +1671,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Description" xml:space="preserve">
                 <source>优先采集所选物品，默认采集第四期特供材料。
 当前职业达到40万技巧点后，切换至尚未达到40万技巧点的另一采集职业；继续积累至两个职业均达到50万技巧点后，停止采集并退出副本。</source>
+                <target>選択したアイテムを優先的に採取します（デフォルトでは第4期特供素材を採取）。現在の採取職の技巧ポイントが40万に達したら、まだ40万に達していない別の採取職に切り替えてください。両方の採取職の技巧ポイントが50万に達するまで継続し、その後、採取を終了してダンジョンから退出してください。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Mode-SkillPT-Title" xml:space="preserve">
                 <source>技巧点</source>
@@ -1674,6 +1679,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止采集并退出任务。</source>
+                <target>所持品がいっぱいです。採取を停止し、任務を終了します。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-InventoryFull-Title" xml:space="preserve">
                 <source>背包已满</source>
