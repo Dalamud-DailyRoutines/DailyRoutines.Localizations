@@ -1619,6 +1619,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-GatheringItemsHelp" xml:space="preserve">
                 <source>可选择多种物品。若当前采集点中包含选定物品则会优先采集；不存在任一选定物品时，则采集第四期重建用物品。</source>
+                <target>幅広いアイテムを取り揃えております。現在の収集ポイントに選択したアイテムが含まれている場合は、それらのアイテムが最初に収集されます。選択されたアイテムがない場合は、第 4 段階の再構築用のアイテムが収集されます。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPoints" xml:space="preserve">
                 <source>忽略技巧点</source>
@@ -1626,6 +1627,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-IgnoreSkillPointsHelp" xml:space="preserve">
                 <source>不按技巧点切换职业或停止采集，适用于继续收集第二期、第三期重建材料。</source>
+                <target>職業を変更したり、スキルポイントに応じて収集を中止したりしなければ、第2期、第3期復興素材を引き続き収集できます。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
                 <source>要兑换的物品</source>
