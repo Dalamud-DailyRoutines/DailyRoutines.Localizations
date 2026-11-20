@@ -774,11 +774,23 @@
             <trans-unit id="AutoDisplayNetworkLatencyTitle-Stat-Min" xml:space="preserve">
                 <source>谷值</source>
             </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Alliance" xml:space="preserve">
+                <source>团队成员判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Enabled" xml:space="preserve">
+                <source>显示判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Party" xml:space="preserve">
+                <source>小队成员判定点</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
+                <source>自身判定点</source>
+            </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxDescription" xml:space="preserve">
-                <source>自动在当前玩家实际判定点处绘制图标, 以强调、辅助调整人物当前位置</source>
+                <source>自动显示出自身、小队队友和团队队友的实际判定点，以辅助判断与调整位置。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxTitle" xml:space="preserve">
-                <source>自动显示本地玩家判定点</source>
+                <source>自动显示玩家判定点</source>
             </trans-unit>
             <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
                 <source>灵魂凝聚度</source>
@@ -5917,7 +5929,7 @@
                 <source>游戏图标一览</source>
             </trans-unit>
             <trans-unit id="IconBrowser-Suggestion" xml:space="preserve">
-                <source>建议从 60000 及以后找寻心仪图标</source>
+                <source>建议从60000及之后寻找想要的图标。</source>
             </trans-unit>
             <trans-unit id="IconOffset" xml:space="preserve">
                 <source>图标偏移</source>
