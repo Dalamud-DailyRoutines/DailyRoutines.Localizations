@@ -75,6 +75,7 @@
             </trans-unit>
             <trans-unit id="Append" xml:space="preserve">
                 <source>追加</source>
+                <target>追加</target>
             </trans-unit>
             <trans-unit id="Apply" xml:space="preserve">
                 <source>应用</source>
@@ -1631,12 +1632,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchange" xml:space="preserve">
                 <source>要兑换的物品</source>
+                <target>交換するアイテム</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-ItemToExchangeHelp" xml:space="preserve">
                 <source>要自动使用“天穹街振兴票”兑换的物品。留空为不兑换。</source>
+                <target>「蒼天街振興券」で自動的に交換するアイテム。空欄にした場合は交換しません。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinute" xml:space="preserve">
                 <source>每轮采集时间（分钟）</source>
+                <target>1回あたりの収集時間（分）</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-LeaveDutyThresholdMinuteHelp" xml:space="preserve">
                 <source>在任务内达到设定时间后将退出“天上福地云冠群岛”，批量检验材料，然后再继续下一轮采集。</source>
