@@ -741,6 +741,7 @@
             </trans-unit>
             <trans-unit id="AutoCountPlayers-DrawLinesOnPlayers" xml:space="preserve">
                 <source>绘制至全部玩家的连接线</source>
+                <target>모든 플레이어의 연결선을 그리기</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayers-FilterFriend" xml:space="preserve">
                 <source>仅被非好友选中时才通知</source>
@@ -792,6 +793,7 @@
             </trans-unit>
             <trans-unit id="AutoCountPlayersDescription" xml:space="preserve">
                 <source>自动获取周边与区域玩家信息，在“基本信息”界面中显示人数，可快捷筛选并查看玩家，并在被其他玩家选中时提示。</source>
+                <target>주변 및 지역 플레이어 정보를 자동으로 가져와 &quot;기본 정보&quot; 화면에 인원 수를 표시하며, 플레이어를 빠르게 필터링해 확인할 수 있고 다른 플레이어가 주시했을때 알림을 표시합니다.</target>
             </trans-unit>
             <trans-unit id="AutoCountPlayersTitle" xml:space="preserve">
                 <source>自动显示周边玩家数量</source>
@@ -1037,21 +1039,27 @@
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Alliance" xml:space="preserve">
                 <source>团队成员判定点</source>
+                <target>연합파티원 판정점</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Enabled" xml:space="preserve">
                 <source>显示判定点</source>
+                <target>판정포인트 표시</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Party" xml:space="preserve">
                 <source>小队成员判定点</source>
+                <target>파티원 판정포인트</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
                 <source>自身判定点</source>
+                <target>자신 판정포인트</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxDescription" xml:space="preserve">
                 <source>自动显示出自身、小队队友和团队队友的实际判定点，以辅助判断与调整位置。</source>
+                <target>자신, 파티원, 연합파티원의 실제 판정 지점을 자동으로 표시하여 위치 판단과 조정을 돕습니다.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxTitle" xml:space="preserve">
                 <source>自动显示玩家判定点</source>
+                <target>플레이어 판정포인트 표시</target>
             </trans-unit>
             <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
                 <source>灵魂凝聚度</source>
@@ -7409,18 +7417,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
                 <source>传送至鼠标所指处位置。</source>
+                <target>마우스가 가리키는 위치로 전송합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Pos" xml:space="preserve">
                 <source>&lt;x&gt; &lt;y&gt; &lt;z&gt; 传送至指定坐标。</source>
+                <target>&lt;x&gt; &lt;y&gt; &lt;z&gt; 지정 좌표로 전송합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-PosOffset" xml:space="preserve">
                 <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离。</source>
+                <target>&lt;x/y/z&gt; &lt;편차&gt; 지정한 좌표축에서 지정한 거리만큼 이동합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Quest" xml:space="preserve">
                 <source>&lt;任务索引&gt; 传送并交互指定索引的任务目标。</source>
+                <target>&lt;임무 인덱스&gt; 지정한 인덱스의 임무 대상을 전송하고 상호작용합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Target" xml:space="preserve">
                 <source>传送至当前目标所在位置。</source>
+                <target>현재 대상이 있는 위치로 전송합니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CurrentFlagMarker" xml:space="preserve">
                 <source>当前标点</source>
@@ -7428,6 +7441,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkerAddSuccess" xml:space="preserve">
                 <source>成功添加了自定义传送点“{name}”。</source>
+                <target>사용자 지정 텔레포 지점 &quot;{name}&quot;을 추가했습니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkers" xml:space="preserve">
                 <source>自定义传送点</source>
@@ -7451,9 +7465,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-IconID" xml:space="preserve">
                 <source>图标唯一标识符</source>
+                <target>아이콘 고유 식별자</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-InaccurateYPosHelp" xml:space="preserve">
                 <source>目的地高度不准确，可能需要传送后手动调整。</source>
+                <target>목적지 고도가 정확하지 않아 전송 후 수동으로 조정해야 할 수 있습니다.</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
                 <source>（未设置）</source>
