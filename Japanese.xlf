@@ -1051,12 +1051,15 @@
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitbox-Self" xml:space="preserve">
                 <source>自身判定点</source>
+                <target>自身判定点</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxDescription" xml:space="preserve">
                 <source>自动显示出自身、小队队友和团队队友的实际判定点，以辅助判断与调整位置。</source>
+                <target>自分自身、パーティメンバー、およびチームメンバーの実際の判定点を自動的に表示し、位置の判断や調整を補助します。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayPlayerHitboxTitle" xml:space="preserve">
                 <source>自动显示玩家判定点</source>
+                <target>プレイヤーの判定点を自動表示</target>
             </trans-unit>
             <trans-unit id="AutoDisplayRelicGrowthProgress-Progress" xml:space="preserve">
                 <source>灵魂凝聚度</source>
@@ -1708,6 +1711,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-Notification-ScripsOverflow-Title" xml:space="preserve">
                 <source>天穹街振兴票即将达到持有上限</source>
+                <target>蒼天街振興券の所持数が上限に達しようとしています</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordial" xml:space="preserve">
                 <source>使用强心剂</source>
