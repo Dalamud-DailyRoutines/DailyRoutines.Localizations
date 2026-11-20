@@ -1719,9 +1719,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGatherDiadem-UseCordialHelp" xml:space="preserve">
                 <source>在尽量不浪费采集力恢复量的情况下，按照“高级强心剂”、“强心剂”、“轻型强心剂”的顺序依次使用，并优先使用高品质物品。</source>
+                <target>採取力回復量を極力無駄にしないよう、「ハイコーディアル」、「コーディアル」、「ライトコーディアル」の順に使用し、その際、品質の高いアイテムを優先的に使ってください。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademDescription" xml:space="preserve">
                 <source>在“天上福地云冠群岛”中自动循环采集重建材料，用于收集幻材、积累技巧点、完成成就或提升采集职业等级。</source>
+                <target>「雲海探索 ディアデム諸島」にて、再建用素材の採取を自動でループ実行し、幻材の収集、スキルポイントの蓄積、実績の達成、あるいは採取職のレベル上げを行います。</target>
             </trans-unit>
             <trans-unit id="AutoGatherDiademTitle" xml:space="preserve">
                 <source>自动云冠群岛采集</source>
@@ -2031,6 +2033,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitDescription" xml:space="preserve">
                 <source>将各类商店内道具的单次购买上限提高至999或255。</source>
+                <target>各ショップにおけるアイテムの1回あたりの購入上限を、999または255に引き上げます。</target>
             </trans-unit>
             <trans-unit id="AutoIncreaseBuyAmountLimitTitle" xml:space="preserve">
                 <source>自动提高商店单次购买上限</source>
@@ -2134,9 +2137,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents" xml:space="preserve">
                 <source>不自动退出的副本</source>
+                <target>自動的に終了しないダンジョン</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-BlacklistContents-Help" xml:space="preserve">
                 <source>完成任务时，不会自动退出。</source>
+                <target>タスク完了時、自動的には終了しません。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set" xml:space="preserve">
                 <source>手动指定本次副本任务完成时的自动退出行为。</source>
