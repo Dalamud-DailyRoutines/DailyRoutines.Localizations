@@ -532,7 +532,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-AddNewPreset" xml:space="preserve">
                 <source>新增配置</source>
-                <target>Add Preset</target>
+                <target>Create Preset</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ChangeToHQ" xml:space="preserve">
                 <source>切换为高品质</source>
@@ -576,7 +576,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-SelectedCount" xml:space="preserve">
                 <source>选中了{count}项</source>
-                <target>{count} Selected</target>
+                <target>{count, plural, one {# food item has} other {# food items have}} been selected.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionBegin" xml:space="preserve">
                 <source>条件满足瞬间</source>
@@ -592,6 +592,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageDescription" xml:space="preserve">
                 <source>配置后，自动根据“进食”状态类型与剩余时间、区域、职业与设置顺序等选择并使用食物。</source>
+                <target>Automatically consume the specified food after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageTitle" xml:space="preserve">
                 <source>自动检查自身食物状态</source>
