@@ -2216,29 +2216,41 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <source>自动退出副本</source>
                 <target>コンテンツから自動退出する</target>
             </trans-unit>
+            <trans-unit id="AutoLeveQuests-AcceptRejected" xml:space="preserve">
+                <source>无法接取理符任务，停止了自动提交。</source>
+            </trans-unit>
+            <trans-unit id="AutoLeveQuests-AllowancesExhausted" xml:space="preserve">
+                <source>剩余理符额度不足，停止了自动提交。</source>
+            </trans-unit>
             <trans-unit id="AutoLeveQuests-CompleteHelp" xml:space="preserve">
-                <source>批量提交理符任务已完成</source>
-                <target>リーヴの一括処理が完了しました</target>
+                <source>停止了自动提交生产理符</source>
             </trans-unit>
-            <trans-unit id="AutoLeveQuests-ObtainHelp" xml:space="preserve">
-                <source>待获取 (选中目标后点击左侧按钮)</source>
-                <target>取得待ち (ターゲットを選択後、左側のボタンをクリック)</target>
+            <trans-unit id="AutoLeveQuests-InventoryFull" xml:space="preserve">
+                <source>背包已满，停止了自动提交。</source>
             </trans-unit>
-            <trans-unit id="AutoLeveQuests-ObtainLeveClient" xml:space="preserve">
-                <source>获取理符委托人</source>
-                <target>リーヴ報告NPCを取得</target>
+            <trans-unit id="AutoLeveQuests-ItemsExhausted" xml:space="preserve">
+                <source>符合交付要求的物品数量不足，停止了自动提交。</source>
             </trans-unit>
-            <trans-unit id="AutoLeveQuests-ObtainLevemete" xml:space="preserve">
-                <source>获取理符发行人</source>
-                <target>リーヴ受注NPCを取得</target>
+            <trans-unit id="AutoLeveQuests-JournalFull" xml:space="preserve">
+                <source>接取的理符任务数量已达到上限，停止了自动提交。</source>
+            </trans-unit>
+            <trans-unit id="AutoLeveQuests-NPCUnavailable" xml:space="preserve">
+                <source>未发现理符任务对应的发行人或委托人，停止了自动提交。</source>
+            </trans-unit>
+            <trans-unit id="AutoLeveQuests-PreferHQ" xml:space="preserve">
+                <source>优先交付高品质物品</source>
+            </trans-unit>
+            <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
+                <source>等待理符任务处理结果超时，停止了自动提交。</source>
+            </trans-unit>
+            <trans-unit id="AutoLeveQuests-UnexpectedResponse" xml:space="preserve">
+                <source>理符任务数据非预期，停止了自动提交。</source>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
-                <source>配置完成并点击开始后, 自动重复完成指定的生产理符任务, 直至理符额度耗尽</source>
-                <target>受注/報告NPCの設定を完了させ、「スタート」をクリックすると、指定したのクラフターリーヴをリーヴ権がなくなるまで納品します。</target>
+                <source>配置后，自动重复接取并提交指定的生产理符。</source>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsTitle" xml:space="preserve">
-                <source>自动批量完成生产理符</source>
-                <target>クラフターリーヴ自動納品</target>
+                <source>自动提交生产理符</source>
             </trans-unit>
             <trans-unit id="AutoLockGameWindowDescription" xml:space="preserve">
                 <source>进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外</source>
