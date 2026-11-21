@@ -573,15 +573,19 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThresholdHelp" xml:space="preserve">
                 <source>当“进食”状态剩余时间不超过设定时间，或当前没有对应食物与对应品质的“进食”状态时，自动使用一次所选食物。</source>
+                <target>「食事」状態の残り時間が設定時間を下回った場合、または現在、該当する食品および品質に対応する「食事」状態がない場合に、選択した食品を自動的に1回使用します。</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-SelectedCount" xml:space="preserve">
                 <source>选中了{count}项</source>
+                <target>{count}項目を選択しました</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionBegin" xml:space="preserve">
                 <source>条件满足瞬间</source>
+                <target>条件が揃った瞬間</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionEnd" xml:space="preserve">
                 <source>条件不满足瞬间</source>
+                <target>条件が満たされなくなった瞬間</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ZoneRestrictions" xml:space="preserve">
                 <source>区域限制</source>
@@ -589,6 +593,7 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageDescription" xml:space="preserve">
                 <source>配置后，自动根据“进食”状态类型与剩余时间、区域、职业与设置顺序等选择并使用食物。</source>
+                <target>設定後、「食事」状態の種類、残り時間、エリア、ジョブ、設定順序などに基づき、自動的に食事を選択して使用します。</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageTitle" xml:space="preserve">
                 <source>自动检查自身食物状态</source>
@@ -2156,6 +2161,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-InstantLeave" xml:space="preserve">
                 <source>完成任务时立刻自动退出。</source>
+                <target>タスク完了時に、直ちに自動退出します。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
                 <source>完成任务时不自动退出。</source>
