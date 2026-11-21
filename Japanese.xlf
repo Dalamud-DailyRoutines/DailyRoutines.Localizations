@@ -10078,30 +10078,41 @@ UI: {0}
                 <source>任务</source>
                 <target>クエスト</target>
             </trans-unit>
-            <trans-unit id="QueueCombatTeleport-Notice-Cleared" xml:space="preserve">
-                <source>已清理存储的传送请求</source>
-                <target>保存されたテレポリクエストをクリアしました</target>
+            <trans-unit id="QueueCombatTeleport-CancelRequest" xml:space="preserve">
+                <source>取消请求</source>
             </trans-unit>
-            <trans-unit id="QueueCombatTeleport-Notice-Executed" xml:space="preserve">
-                <source>已执行传送请求: {0}</source>
-                <target>テレポリクエストを実行しました: {0}</target>
+            <trans-unit id="QueueCombatTeleport-Delay" xml:space="preserve">
+                <source>传送延迟（毫秒）</source>
             </trans-unit>
-            <trans-unit id="QueueCombatTeleport-Notice-Saved" xml:space="preserve">
-                <source>已存储传送请求: {0}</source>
-                <target>テレポリクエストを保存しました: {0}</target>
+            <trans-unit id="QueueCombatTeleport-Delay-Help" xml:space="preserve">
+                <source>战斗结束时，会等待固定时间再发起先前存储的传送请求。</source>
             </trans-unit>
-            <trans-unit id="QueueCombatTeleport-Notice-Waiting" xml:space="preserve">
-                <source>等待中, 设定延迟: {0}ms</source>
-                <target>待機中、設定されたウェイト: {0}ms</target>
+            <trans-unit id="QueueCombatTeleport-RequestCancelled" xml:space="preserve">
+                <source>取消了前往“{destination}”的传送请求。</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-RequestSaved" xml:space="preserve">
+                <source>存储了前往“{destination}”的传送请求。</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-RequestSubmitted" xml:space="preserve">
+                <source>提交了前往“{destination}”的传送请求。</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-RequestTimedOut" xml:space="preserve">
+                <source>等待超时，取消了前往“{destination}”的传送请求。</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-RequestWaiting" xml:space="preserve">
+                <source>将在{delay}毫秒后尝试传送到“{destination}”。</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-WaitForFateEnd" xml:space="preserve">
+                <source>等待危命任务结束后再传送</source>
+            </trans-unit>
+            <trans-unit id="QueueCombatTeleport-WaitForFateEnd-Help" xml:space="preserve">
+                <source>若当前在危命任务中，则会等待其结束后再发起先前存储的传送请求</source>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportDescription" xml:space="preserve">
-                <source>解除战斗中无法打开传送界面的限制, 并存储战斗中发出的传送请求, 在战斗结束瞬间自动进行传送</source>
-                <target>戦闘中にテレポUIを開けない制限を解除し、戦闘中に発生したテレポリクエストを保存します
-戦闘が終了した瞬間に自動でテレポを実行します</target>
+                <source>自动存储战斗中发出的传送请求，在战斗结束时自动传送，并解除战斗中无法打开传送界面的限制。</source>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportTitle" xml:space="preserve">
-                <source>存储战斗中传送请求</source>
-                <target>戦闘中のテレポリクエストを保存する</target>
+                <source>自动延后战斗中传送请求</source>
             </trans-unit>
             <trans-unit id="QuickChatPanel-Buttons" xml:space="preserve">
                 <source>按钮</source>
