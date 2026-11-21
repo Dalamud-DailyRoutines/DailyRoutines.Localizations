@@ -2216,15 +2216,19 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AcceptRejected" xml:space="preserve">
                 <source>无法接取理符任务，停止了自动提交。</source>
+                <target>Failed to accept the levequest. The levequest turn-in has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AllowancesExhausted" xml:space="preserve">
                 <source>剩余理符额度不足，停止了自动提交。</source>
+                <target>The levequest turn-in has been terminated due to insufficient levequest allowances.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-CompleteHelp" xml:space="preserve">
                 <source>停止了自动提交生产理符</source>
+                <target>The levequest turn-in has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止了自动提交。</source>
+                <target>The levequest turn-in has been terminated due to the full inventory.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-ItemsExhausted" xml:space="preserve">
                 <source>符合交付要求的物品数量不足，停止了自动提交。</source>
