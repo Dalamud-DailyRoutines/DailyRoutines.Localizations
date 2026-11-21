@@ -2161,11 +2161,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-InstantLeave" xml:space="preserve">
                 <source>完成任务时立刻自动退出。</source>
-                <target>タスク完了時に、直ちに自動退出します。</target>
+                <target>コンテンツ完了時に、直ちに自動退出します。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
                 <source>完成任务时不自动退出。</source>
-                <target>タスク完了時に、自動退出しない。</target>
+                <target>コンテンツ完了時に、自動退出しない。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-None" xml:space="preserve">
                 <source>清除手动指定的自动退出行为。</source>
@@ -2190,18 +2190,23 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
                 <source>不自动退出高难度任务</source>
+                <target>高難易度コンテンツから自動的に退出しない</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties-Help" xml:space="preserve">
                 <source>即在“队员招募”界面内被划分在“高难度任务”的所有任务，一般不包括过往版本的高难度任务。</source>
+                <target>具体的には、「隊員募集」画面において「高難易度任務」に分類されているすべての任務を指しますが、通常、過去のバージョンにおける高難易度任務は含まれません。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-InstantLeave" xml:space="preserve">
                 <source>本次任务完成时将立刻自动退出。</source>
+                <target>今回のコンテンツが完了すると、直ちに自動的に退出します。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-NoLeave" xml:space="preserve">
                 <source>本次任务完成时将不自动退出。</source>
+                <target>今回のコンテンツが完了しても、自動的には退出しません。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Notification-Set-None" xml:space="preserve">
                 <source>清除了为本次任务手动指定的自动退出行为。</source>
+                <target>今回のコンテンツに対して手動で指定されていた自動退出の動作を解除しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
