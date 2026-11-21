@@ -10405,26 +10405,31 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay-Help" xml:space="preserve">
                 <source>战斗结束时，会等待固定时间再发起先前存储的传送请求。</source>
-                <target>Introduce a delay
-</target>
+                <target>Apply a delay before accepting the teleport offer once combat ends.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestCancelled" xml:space="preserve">
                 <source>取消了前往“{destination}”的传送请求。</source>
+                <target>The teleport offer to &quot;{destination}&quot; has been cancelled.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSaved" xml:space="preserve">
                 <source>存储了前往“{destination}”的传送请求。</source>
+                <target>The teleport offer to &quot;{destination}&quot; has been put on hold.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSubmitted" xml:space="preserve">
                 <source>提交了前往“{destination}”的传送请求。</source>
+                <target>The teleport offer to &quot;{destination}&quot; has been accepted.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestTimedOut" xml:space="preserve">
                 <source>等待超时，取消了前往“{destination}”的传送请求。</source>
+                <target>The request has timed out. The teleport offer to &quot;{destination}&quot; has been cancelled.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestWaiting" xml:space="preserve">
                 <source>将在{delay}毫秒后尝试传送到“{destination}”。</source>
+                <target>It will accept the teleport offer to &quot;{destination}&quot; after a delay of {delay, plural, one {# millisecond} other {# milliseconds}}.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd" xml:space="preserve">
                 <source>等待危命任务结束后再传送</source>
+                <target>Put On Hold Until FATE Ends</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd-Help" xml:space="preserve">
                 <source>若当前在危命任务中，则会等待其结束后再发起先前存储的传送请求</source>
