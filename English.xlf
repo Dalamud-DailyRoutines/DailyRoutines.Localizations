@@ -10397,12 +10397,16 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-CancelRequest" xml:space="preserve">
                 <source>取消请求</source>
+                <target>Cancel</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay" xml:space="preserve">
                 <source>传送延迟（毫秒）</source>
+                <target>Acceptance Delay (milliseconds)</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay-Help" xml:space="preserve">
                 <source>战斗结束时，会等待固定时间再发起先前存储的传送请求。</source>
+                <target>Introduce a delay
+</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestCancelled" xml:space="preserve">
                 <source>取消了前往“{destination}”的传送请求。</source>
@@ -10427,9 +10431,11 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="QueueCombatTeleportDescription" xml:space="preserve">
                 <source>自动存储战斗中发出的传送请求，在战斗结束时自动传送，并解除战斗中无法打开传送界面的限制。</source>
+                <target>Put the last teleport offer on hold in combat and automatically accept it after combat. The feature also allows to access the teleportation interface in combat.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportTitle" xml:space="preserve">
                 <source>自动延后战斗中传送请求</source>
+                <target>Put Teleport Offer On Hold In Combat</target>
             </trans-unit>
             <trans-unit id="QuickChatPanel-Buttons" xml:space="preserve">
                 <source>按钮</source>
