@@ -2165,22 +2165,28 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-NoLeave" xml:space="preserve">
                 <source>完成任务时不自动退出。</source>
+                <target>タスク完了時に、自動退出しない。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Command-Set-None" xml:space="preserve">
                 <source>清除手动指定的自动退出行为。</source>
+                <target>手動で指定された自動退出動作を解除します。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay" xml:space="preserve">
                 <source>退出延迟（毫秒）</source>
+                <target>終了遅延（ミリ秒）</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-Delay-Help" xml:space="preserve">
                 <source>由服务器下发“任务完成”事件时开始计时，一般远早于角色和场地被调整至任务完成后的状态。</source>
+                <target>サーバーから「タスク完了」イベントが送信された時点から計測が開始されますが、これは通常、キャラクターやフィールドがタスク完了後の状態に調整されるよりも、かなり早いタイミングとなります。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents" xml:space="preserve">
                 <source>立刻退出的任务</source>
+                <target>コンテンツから即座に退出する</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-ImmediateLeaveContents-Help" xml:space="preserve">
                 <source>完成任务时，会忽略“退出延迟”设置，立刻退出。
 ※优先级低于“不自动退出的副本”。</source>
+                <target>タスク完了時は「退出遅延」設定を無視し、即座に退出します。※「インスタンスから自動退出しない」より優先度は低くなります。</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDuty-NoLeaveHighEndDuties" xml:space="preserve">
                 <source>不自动退出高难度任务</source>
