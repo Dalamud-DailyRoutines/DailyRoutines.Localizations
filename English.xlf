@@ -2232,15 +2232,19 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeveQuests-ItemsExhausted" xml:space="preserve">
                 <source>符合交付要求的物品数量不足，停止了自动提交。</source>
+                <target>The levequest turn-in has been terminated due to insufficient items that meet the levequest requirements.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-JournalFull" xml:space="preserve">
                 <source>接取的理符任务数量已达到上限，停止了自动提交。</source>
+                <target>The levequest turn-in has been terminated since the quests accepted have reached the cap.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-NPCUnavailable" xml:space="preserve">
                 <source>未发现理符任务对应的发行人或委托人，停止了自动提交。</source>
+                <target>No levemete available nearby. The levequest turn-in has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-PreferHQ" xml:space="preserve">
                 <source>优先交付高品质物品</source>
+                <target>Prioritize Turning In HQ Items</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
                 <source>等待理符任务处理结果超时，停止了自动提交。</source>
