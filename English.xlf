@@ -2248,9 +2248,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
                 <source>等待理符任务处理结果超时，停止了自动提交。</source>
+                <target>The processing of levequest data has timed out. The levequest turn-in has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-UnexpectedResponse" xml:space="preserve">
                 <source>理符任务数据非预期，停止了自动提交。</source>
+                <target>The levequest turn-in has been terminated due to unexpected levequest data.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
                 <source>配置后，自动重复接取并提交指定的生产理符。</source>
