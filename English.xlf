@@ -2246,9 +2246,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
                 <source>配置后，自动重复接取并提交指定的生产理符。</source>
+                <target>Automatically turn in levequest items repeatedly after proper configurations.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsTitle" xml:space="preserve">
                 <source>自动提交生产理符</source>
+                <target>Auto Turn In Levequest Items</target>
             </trans-unit>
             <trans-unit id="AutoLockGameWindowDescription" xml:space="preserve">
                 <source>进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外</source>
@@ -10433,6 +10435,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd-Help" xml:space="preserve">
                 <source>若当前在危命任务中，则会等待其结束后再发起先前存储的传送请求</source>
+                <target>Accept the last teleport offer until the current FATE ends. </target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportDescription" xml:space="preserve">
                 <source>自动存储战斗中发出的传送请求，在战斗结束时自动传送，并解除战斗中无法打开传送界面的限制。</source>
