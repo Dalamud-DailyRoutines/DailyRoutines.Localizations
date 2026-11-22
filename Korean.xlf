@@ -2234,30 +2234,39 @@
             </trans-unit>
             <trans-unit id="AutoLeveQuests-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止了自动提交。</source>
+                <target>가방이 가득 찼습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-ItemsExhausted" xml:space="preserve">
                 <source>符合交付要求的物品数量不足，停止了自动提交。</source>
+                <target>물품 수량이 부족하여 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-JournalFull" xml:space="preserve">
                 <source>接取的理符任务数量已达到上限，停止了自动提交。</source>
+                <target>수주한 의뢰 수가 한도에 도달하여 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-NPCUnavailable" xml:space="preserve">
                 <source>未发现理符任务对应的发行人或委托人，停止了自动提交。</source>
+                <target>의뢰에 해당하는 발행인 또는 위탁인이 발견되지 않아 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-PreferHQ" xml:space="preserve">
                 <source>优先交付高品质物品</source>
+                <target>고품질 아이템을 우선 납품</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
                 <source>等待理符任务处理结果超时，停止了自动提交。</source>
+                <target>의뢰 처리결과 대기시간 초과. 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-UnexpectedResponse" xml:space="preserve">
                 <source>理符任务数据非预期，停止了自动提交。</source>
+                <target>의뢰 임무 데이터가 예상과 다르므로 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
                 <source>配置后，自动重复接取并提交指定的生产理符。</source>
+                <target>설정 후 지정된 의뢰를 자동으로 반복 수신하여 제출합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsTitle" xml:space="preserve">
                 <source>自动提交生产理符</source>
+                <target>수주권 자동 납품</target>
             </trans-unit>
             <trans-unit id="AutoLockGameWindowDescription" xml:space="preserve">
                 <source>进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外</source>
@@ -2489,6 +2498,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted-TrayTitle" xml:space="preserve">
                 <source>自动播报结束</source>
+                <target>자동 전파 종료</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
@@ -2508,6 +2518,7 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting-TrayTitle" xml:space="preserve">
                 <source>即将开始自动播报</source>
+                <target>곧 자동 전파를 시작합니다</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
@@ -2567,9 +2578,11 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件或导航路径。</source>
+                <target>경로 탐색이 중지되었습니다. 캐릭터 상태, 비행 조건 및 내비게이션 경로를 확인해 주세요.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted-TrayTitle" xml:space="preserve">
                 <source>寻路中断了</source>
+                <target>경로 탐색 중단</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
                 <source>寻路至恶名精英行为</source>
@@ -2679,9 +2692,11 @@
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanCompleted-TrayTitle" xml:space="preserve">
                 <source>恶名精英扫描完毕</source>
+                <target>마물 스캔 완료</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanError-TrayTitle" xml:space="preserve">
                 <source>扫描恶名精英异常</source>
+                <target>스캔 중 문제가 발생</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
@@ -10398,27 +10413,35 @@ URL: https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-CancelRequest" xml:space="preserve">
                 <source>取消请求</source>
+                <target>요청 취소</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay" xml:space="preserve">
                 <source>传送延迟（毫秒）</source>
+                <target>전송 지연 (밀리초)</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay-Help" xml:space="preserve">
                 <source>战斗结束时，会等待固定时间再发起先前存储的传送请求。</source>
+                <target>전투가 종료되면, 정해진 시간이 지난 뒤 이전에 저장해 둔 텔레포 요청을 다시 시작합니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestCancelled" xml:space="preserve">
                 <source>取消了前往“{destination}”的传送请求。</source>
+                <target>&quot;{destination}&quot;으로 가는 텔레포 요청을 취소했습니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSaved" xml:space="preserve">
                 <source>存储了前往“{destination}”的传送请求。</source>
+                <target>&quot;{destination}&quot;으로 가는 텔레포 요청을 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSubmitted" xml:space="preserve">
                 <source>提交了前往“{destination}”的传送请求。</source>
+                <target>&quot;{destination}&quot;으로 가는 텔레포 요청을 제출했습니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestTimedOut" xml:space="preserve">
                 <source>等待超时，取消了前往“{destination}”的传送请求。</source>
+                <target>대기 시간이 초과되어 &quot;{destination}&quot;으로 가는 텔레포 요청이 취소되었습니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestWaiting" xml:space="preserve">
                 <source>将在{delay}毫秒后尝试传送到“{destination}”。</source>
+                <target>{delay}밀리초 후에 &quot;{destination}&quot;로 전송을 시도합니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd" xml:space="preserve">
                 <source>等待危命任务结束后再传送</source>
