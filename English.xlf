@@ -4092,9 +4092,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destination" xml:space="preserve">
                 <source>要把{furnitureType}移动到哪里去？</source>
+                <target>Transfer {furnitureType} to?</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destructive" xml:space="preserve">
                 <source>所选庭具或家具中包含无法移动的物品，请取消勾选对应庭具或家具后重试。</source>
+                <target>Non-transferable furnishings are included. Please try again after removing all non-transferable furnishings.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-DestructiveTooltip" xml:space="preserve">
                 <source>该庭具或家具无法收回背包。</source>
@@ -4113,6 +4115,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Source" xml:space="preserve">
                 <source>要移动哪里的{furnitureType}？</source>
+                <target>Transfer {furnitureType} from which category?</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureDescription" xml:space="preserve">
                 <source>为“庭具设置”/“家具设置”界面新增批量移动家具界面，支持在“已布置”、“仓库”与“背包”间批量移动所选家具。</source>
