@@ -4080,9 +4080,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-AddonTitle" xml:space="preserve">
                 <source>批量移动{furnitureType}</source>
+                <target>Batch Transfer {furnitureType}</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Completed" xml:space="preserve">
                 <source>移动了{count}件庭具或家具。</source>
+                <target>{count, plural, one {# furnishing has} other {# furnishings have}} been transferred.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-ConfirmRemoval" xml:space="preserve">
                 <source>所选庭具或家具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
@@ -4096,12 +4098,15 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-DestructiveTooltip" xml:space="preserve">
                 <source>该庭具或家具无法收回背包。</source>
+                <target>The furnishing cannot be retrieved to the inventory.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Failed" xml:space="preserve">
                 <source>未能移动庭具或家具，已停止批量移动。</source>
+                <target>The transfer has been terminated due to failed transfers.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Move" xml:space="preserve">
                 <source>批量移动</source>
+                <target>Batch Transfer</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-RemovalWarningTooltip" xml:space="preserve">
                 <source>移动可能导致摆设、栽培内容或外观设置丢失。</source>
@@ -4111,6 +4116,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureDescription" xml:space="preserve">
                 <source>为“庭具设置”/“家具设置”界面新增批量移动家具界面，支持在“已布置”、“仓库”与“背包”间批量移动所选家具。</source>
+                <target>Provide a dedicated panel alongside the furnishing interface to batch transfer furnishings among the &quot;Placed&quot; category, the &quot;Storeroom&quot; category and the inventory.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureTitle" xml:space="preserve">
                 <source>自动批量移动庭具家具</source>
