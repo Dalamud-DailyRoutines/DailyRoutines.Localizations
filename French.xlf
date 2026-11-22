@@ -3899,40 +3899,30 @@ En dessous du seuil : l’écrasement est autorisé</target>
             <trans-unit id="AutoRestoreFurniture-AddonTitle" xml:space="preserve">
                 <source>批量移动{furnitureType}</source>
             </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Completed-Indoor" xml:space="preserve">
-                <source>移动了{count}件家具。</source>
+            <trans-unit id="AutoRestoreFurniture-Completed" xml:space="preserve">
+                <source>移动了{count}件庭具或家具。</source>
             </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Completed-Outdoor" xml:space="preserve">
-                <source>移动了{count}件庭具。</source>
-            </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-ConfirmRemoval-Indoor" xml:space="preserve">
-                <source>所选家具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
-确认要继续移动吗？</source>
-            </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-ConfirmRemoval-Outdoor" xml:space="preserve">
-                <source>所选庭具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
+            <trans-unit id="AutoRestoreFurniture-ConfirmRemoval" xml:space="preserve">
+                <source>所选庭具或家具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
 确认要继续移动吗？</source>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destination" xml:space="preserve">
                 <source>要把{furnitureType}移动到哪里去？</source>
             </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Destructive-Indoor" xml:space="preserve">
-                <source>所选家具包含移动时会销毁的物品。请取消勾选这些家具，或改为移入仓库。</source>
-            </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Destructive-Outdoor" xml:space="preserve">
-                <source>所选庭具包含移动时会销毁的物品。请取消勾选这些庭具，或改为移入仓库。</source>
+            <trans-unit id="AutoRestoreFurniture-Destructive" xml:space="preserve">
+                <source>所选庭具或家具中包含无法移动的物品，请取消勾选对应庭具或家具后重试。</source>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-DestructiveTooltip" xml:space="preserve">
-                <source>移动时会销毁</source>
+                <source>该庭具或家具无法收回背包。</source>
             </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Failed-Indoor" xml:space="preserve">
-                <source>未能移动家具，停止了批量移动。</source>
-            </trans-unit>
-            <trans-unit id="AutoRestoreFurniture-Failed-Ourdoor" xml:space="preserve">
-                <source>未能移动庭具，停止了批量移动。</source>
+            <trans-unit id="AutoRestoreFurniture-Failed" xml:space="preserve">
+                <source>未能移动庭具或家具，已停止批量移动。</source>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Move" xml:space="preserve">
                 <source>批量移动</source>
+            </trans-unit>
+            <trans-unit id="AutoRestoreFurniture-RemovalWarningTooltip" xml:space="preserve">
+                <source>移动可能导致摆设、栽培内容或外观设置丢失。</source>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Source" xml:space="preserve">
                 <source>要移动哪里的{furnitureType}？</source>
