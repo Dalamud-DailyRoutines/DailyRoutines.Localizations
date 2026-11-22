@@ -4089,6 +4089,8 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             <trans-unit id="AutoRestoreFurniture-ConfirmRemoval" xml:space="preserve">
                 <source>所选庭具或家具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
 确认要继续移动吗？</source>
+                <target>Transferring some of the selected furnishings may result in customization loss.
+Proceed?</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destination" xml:space="preserve">
                 <source>要把{furnitureType}移动到哪里去？</source>
@@ -4112,6 +4114,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-RemovalWarningTooltip" xml:space="preserve">
                 <source>移动可能导致摆设、栽培内容或外观设置丢失。</source>
+                <target>Transferring furnishings may result in customization loss.</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Source" xml:space="preserve">
                 <source>要移动哪里的{furnitureType}？</source>
