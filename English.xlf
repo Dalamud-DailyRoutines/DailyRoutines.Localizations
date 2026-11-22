@@ -4114,6 +4114,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureTitle" xml:space="preserve">
                 <source>自动批量移动庭具家具</source>
+                <target>Batch Furnishing Transfer</target>
             </trans-unit>
             <trans-unit id="AutoResumeQuestRedoDescription" xml:space="preserve">
                 <source>若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。</source>
