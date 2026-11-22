@@ -10445,15 +10445,19 @@ URL: https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd" xml:space="preserve">
                 <source>等待危命任务结束后再传送</source>
+                <target>돌발 임무가 끝난 뒤에 전송</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd-Help" xml:space="preserve">
                 <source>若当前在危命任务中，则会等待其结束后再发起先前存储的传送请求</source>
+                <target>현재 돌발 임무 중인 경우, 해당 임무가 끝난 뒤 이전에 저장해 둔 전송 요청을 다시 시작합니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportDescription" xml:space="preserve">
                 <source>自动存储战斗中发出的传送请求，在战斗结束时自动传送，并解除战斗中无法打开传送界面的限制。</source>
+                <target>전투 중 발생한 텔레포 요청을 자동으로 저장하며, 전투 종료 시 자동으로 텔레포트하고 전투 중 텔레포트 인터페이스를 열 수 없도록 제한하는 기능을 해제합니다.</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportTitle" xml:space="preserve">
                 <source>自动延后战斗中传送请求</source>
+                <target>전투 중 텔레포 요청 연기</target>
             </trans-unit>
             <trans-unit id="QuickChatPanel-Buttons" xml:space="preserve">
                 <source>按钮</source>
