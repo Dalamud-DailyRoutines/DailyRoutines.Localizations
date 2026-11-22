@@ -537,9 +537,11 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ChangeToHQ" xml:space="preserve">
                 <source>切换为高品质</source>
+                <target>고품질로전환</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ChangeToNQ" xml:space="preserve">
                 <source>切换为普通品质</source>
+                <target>일반품질로전환</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint" xml:space="preserve">
                 <source>检查时机</source>
@@ -547,12 +549,15 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint-0" xml:space="preserve">
                 <source>切换区域时</source>
+                <target>구역전환시</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint-1" xml:space="preserve">
                 <source>倒计时开始时</source>
+                <target>초읽기시작시</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Checkpoint-2" xml:space="preserve">
                 <source>条件变更时</source>
+                <target>조건변경시</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-JobRestrictions" xml:space="preserve">
                 <source>职业限制</source>
@@ -560,21 +565,27 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-Notification" xml:space="preserve">
                 <source>自动食用了{item}。</source>
+                <target>{item}을 먹었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThreshold" xml:space="preserve">
                 <source>“进食”状态剩余时间（秒）</source>
+                <target>&quot;식사&quot; 남은 시간(초)</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-RefreshThresholdHelp" xml:space="preserve">
                 <source>当“进食”状态剩余时间不超过设定时间，或当前没有对应食物与对应品质的“进食”状态时，自动使用一次所选食物。</source>
+                <target>&quot;식사&quot; 버프의 남은 시간이 설정 시간을 넘지 않고, 현재 해당 품질의 &quot;식사&quot; 상태에 해당하는 음식이 없을 경우 선택한 음식을 자동으로 1회 사용합니다.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-SelectedCount" xml:space="preserve">
                 <source>选中了{count}项</source>
+                <target>{count}개 항목을 선택했습니다.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionBegin" xml:space="preserve">
                 <source>条件满足瞬间</source>
+                <target>조건 만족 시</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-WhenConditionEnd" xml:space="preserve">
                 <source>条件不满足瞬间</source>
+                <target>조건 종료 시</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsage-ZoneRestrictions" xml:space="preserve">
                 <source>区域限制</source>
@@ -582,6 +593,7 @@
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageDescription" xml:space="preserve">
                 <source>配置后，自动根据“进食”状态类型与剩余时间、区域、职业与设置顺序等选择并使用食物。</source>
+                <target>설정 후 &quot;식사&quot; 상태 유형과 남은 시간, 구역, 잡, 설정 순서 등에 따라 음식을 자동으로 선택하여 사용합니다.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageTitle" xml:space="preserve">
                 <source>自动检查自身食物状态</source>
@@ -2210,12 +2222,15 @@
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AcceptRejected" xml:space="preserve">
                 <source>无法接取理符任务，停止了自动提交。</source>
+                <target>의뢰 작업을 수락할 수 없어 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AllowancesExhausted" xml:space="preserve">
                 <source>剩余理符额度不足，停止了自动提交。</source>
+                <target>의뢰 수준권이 부족합니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-CompleteHelp" xml:space="preserve">
                 <source>停止了自动提交生产理符</source>
+                <target>제작 의뢰 자동 제출이 중지되었습니다.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止了自动提交。</source>
