@@ -7760,12 +7760,14 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FirstSetupWindow-AuthTitle" xml:space="preserve">
                 <source>免费与在线验证</source>
+                <target>Anti-piracy Authentication</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CanChangeLater" xml:space="preserve">
                 <source>以上设置均可随时在主界面的“设置”中调整。</source>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CompactMode" xml:space="preserve">
                 <source>紧凑模式</source>
+                <target>Compact View</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CompactMode-Help" xml:space="preserve">
                 <source>在主界面以更紧凑的卡片展示模块列表，同屏可浏览更多模块。</source>
