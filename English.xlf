@@ -8555,6 +8555,12 @@ Tester qualifications are not available to the public, which means there&apos;s 
                 <source>模块：{enabledCount}/{totalCount}</source>
                 <target>Module: {enabledCount}/{totalCount}</target>
             </trans-unit>
+            <trans-unit id="MainWindow-Modules-Back" xml:space="preserve">
+                <source>返回</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-ClearSearch" xml:space="preserve">
+                <source>清除搜索内容</source>
+            </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
                 <target>Compact View</target>
@@ -8570,6 +8576,12 @@ Tester qualifications are not available to the public, which means there&apos;s 
             <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
                 <source>复制模块内部名称</source>
                 <target>Copy Internal Name</target>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-EmptySearch" xml:space="preserve">
+                <source>未找到匹配的模块</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Modules-EnableToConfig" xml:space="preserve">
+                <source>启用模块后可配置</source>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
@@ -11508,6 +11520,9 @@ Parameter(s): {2}</target>
             <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
                 <source>清除筛选</source>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClearSearch" xml:space="preserve">
+                <source>清除搜索内容</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
                 <source>点击查看大图</source>
             </trans-unit>
@@ -11516,6 +11531,9 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
                 <source>收起目录</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-EmptySearch" xml:space="preserve">
+                <source>未找到匹配的更新内容</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
                 <source>全部展开</source>
