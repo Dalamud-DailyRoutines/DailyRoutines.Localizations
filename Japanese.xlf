@@ -2238,12 +2238,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeveQuests-JournalFull" xml:space="preserve">
                 <source>接取的理符任务数量已达到上限，停止了自动提交。</source>
+                <target>受注中のリーヴ数が上限に達したため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-NPCUnavailable" xml:space="preserve">
                 <source>未发现理符任务对应的发行人或委托人，停止了自动提交。</source>
+                <target>対象リーヴの発行人または依頼人が見つからないため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-PreferHQ" xml:space="preserve">
                 <source>优先交付高品质物品</source>
+                <target>HQアイテムを優先して納品する</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
                 <source>等待理符任务处理结果超时，停止了自动提交。</source>
