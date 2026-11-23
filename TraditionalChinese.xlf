@@ -10852,6 +10852,21 @@ XivGear (xivgear.app)</target>
                 <source>值</source>
                 <target>值</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-BackToTop" xml:space="preserve">
+                <source>回到顶部</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
+                <source>清除筛选</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
+                <source>点击查看大图</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseAll" xml:space="preserve">
+                <source>全部折叠</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
+                <source>收起目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ConfigTitle" xml:space="preserve">
                 <source>重要配置</source>
                 <target>重要配置</target>
@@ -10862,9 +10877,18 @@ XivGear (xivgear.app)</target>
                 <target>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
+                <source>全部展开</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandOutline" xml:space="preserve">
+                <source>展开目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
                 <target>开始使用</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ImageLoading" xml:space="preserve">
+                <source>图片加载中……</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
@@ -10884,13 +10908,25 @@ XivGear (xivgear.app)</target>
                 <source>插件简介</source>
                 <target>插件简介</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-LocateModule" xml:space="preserve">
+                <source>在主界面中查看</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-NextStep" xml:space="preserve">
                 <source>下一步</source>
                 <target>下一步</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-OpenModuleConfig" xml:space="preserve">
+                <source>在主界面中打开配置</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-Outline" xml:space="preserve">
+                <source>目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-PreviousStep" xml:space="preserve">
                 <source>上一步</source>
                 <target>上一步</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
+                <source>返回更新日志</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-SelectLanguage" xml:space="preserve">
                 <source>请选择界面语言</source>
@@ -10903,10 +10939,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="VersionUpdateWindow-Title" xml:space="preserve">
                 <source>版本更新</source>
                 <target>版本更新</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-Updated" xml:space="preserve">
-                <source>Daily Routines 已更新至 {0}</source>
-                <target>Daily Routines 已更新至 {0}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
