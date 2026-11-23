@@ -7469,9 +7469,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="FirstSetupWindow-GameSection" xml:space="preserve">
                 <source>游戏体验</source>
             </trans-unit>
-            <trans-unit id="FirstSetupWindow-InterfaceSection" xml:space="preserve">
-                <source>界面选项</source>
-            </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
             </trans-unit>
@@ -7516,9 +7513,6 @@ XivGear (xivgear.app)</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Preferences" xml:space="preserve">
                 <source>常用偏好</source>
-            </trans-unit>
-            <trans-unit id="FirstSetupWindow-StyleSection" xml:space="preserve">
-                <source>界面主题</source>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
@@ -8370,7 +8364,13 @@ XivGear (xivgear.app)</target>
                 <source>字体缩放</source>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
-                <source>相对于 Dalamud 字号的缩放倍率，默认为1，最小为0.1。</source>
+                <source>相对于 Dalamud 字号的缩放倍率。默认为1，最小为0.1，最大为3。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-Options" xml:space="preserve">
+                <source>界面选项</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-Theme" xml:space="preserve">
+                <source>界面主题</source>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
                 <source>托盘悬浮窗</source>
@@ -10645,10 +10645,6 @@ XivGear (xivgear.app)</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
-            </trans-unit>
-            <trans-unit id="Style" xml:space="preserve">
-                <source>样式</source>
-                <target>樣式</target>
             </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
