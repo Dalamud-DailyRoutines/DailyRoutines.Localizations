@@ -8583,9 +8583,11 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Back" xml:space="preserve">
                 <source>返回</source>
+                <target>Back</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
+                <target>Clear Search</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
@@ -8605,9 +8607,11 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Modules-EmptySearch" xml:space="preserve">
                 <source>未找到匹配的模块</source>
+                <target>No matching module found.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-EnableToConfig" xml:space="preserve">
                 <source>启用模块后可配置</source>
+                <target>Enable To Configure</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
@@ -11553,6 +11557,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
+                <target>Clear Search</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
                 <source>点击查看大图</source>
@@ -11568,6 +11573,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-EmptySearch" xml:space="preserve">
                 <source>未找到匹配的更新内容</source>
+                <target>No matching changlog entry found.</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
                 <source>全部展开</source>
@@ -11595,7 +11601,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
                 <source>返回更新日志</source>
-                <target>Return To Changelog</target>
+                <target>Back To Changelog</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-Subtitle" xml:space="preserve">
                 <source>更新完成，请查阅下方的更新日志。</source>
