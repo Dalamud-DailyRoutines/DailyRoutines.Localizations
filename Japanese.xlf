@@ -2218,18 +2218,23 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AcceptRejected" xml:space="preserve">
                 <source>无法接取理符任务，停止了自动提交。</source>
+                <target>リーヴを受注できなかったため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-AllowancesExhausted" xml:space="preserve">
                 <source>剩余理符额度不足，停止了自动提交。</source>
+                <target>リーヴ受注権が不足しているため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-CompleteHelp" xml:space="preserve">
                 <source>停止了自动提交生产理符</source>
+                <target>製作リーヴの自動納品を停止しました</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-InventoryFull" xml:space="preserve">
                 <source>背包已满，停止了自动提交。</source>
+                <target>所持品がいっぱいのため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-ItemsExhausted" xml:space="preserve">
                 <source>符合交付要求的物品数量不足，停止了自动提交。</source>
+                <target>条件に合う納品アイテムが不足しているため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-JournalFull" xml:space="preserve">
                 <source>接取的理符任务数量已达到上限，停止了自动提交。</source>
