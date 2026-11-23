@@ -11425,6 +11425,21 @@ Parameter(s): {2}</target>
                 <source>值</source>
                 <target>Value</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-BackToTop" xml:space="preserve">
+                <source>回到顶部</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
+                <source>清除筛选</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
+                <source>点击查看大图</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseAll" xml:space="preserve">
+                <source>全部折叠</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
+                <source>收起目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ConfigTitle" xml:space="preserve">
                 <source>重要配置</source>
                 <target>Key Configuration</target>
@@ -11435,9 +11450,18 @@ Parameter(s): {2}</target>
                 <target>Recommended modules are the modules recommended by Daily Routines developers. These modules could effectively improve the game experience while not excessively changing the gameplay.
 Enabling recommended modules will provide an out-of-the-box experience. You could disable any module after finishing the wizard.</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
+                <source>全部展开</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandOutline" xml:space="preserve">
+                <source>展开目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
                 <target>Finish</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ImageLoading" xml:space="preserve">
+                <source>图片加载中……</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
@@ -11457,13 +11481,25 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
                 <source>插件简介</source>
                 <target>Introduction</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-LocateModule" xml:space="preserve">
+                <source>在主界面中查看</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-NextStep" xml:space="preserve">
                 <source>下一步</source>
                 <target>Next</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-OpenModuleConfig" xml:space="preserve">
+                <source>在主界面中打开配置</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-Outline" xml:space="preserve">
+                <source>目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-PreviousStep" xml:space="preserve">
                 <source>上一步</source>
                 <target>Back</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
+                <source>返回更新日志</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-SelectLanguage" xml:space="preserve">
                 <source>请选择界面语言</source>
@@ -11476,10 +11512,6 @@ Please join our Discord for authentication, see the bottom-left corner.</target>
             <trans-unit id="VersionUpdateWindow-Title" xml:space="preserve">
                 <source>版本更新</source>
                 <target>Update</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-Updated" xml:space="preserve">
-                <source>Daily Routines 已更新至 {0}</source>
-                <target>Daily Routines has been updated to {0}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
