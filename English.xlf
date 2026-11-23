@@ -7773,7 +7773,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             <trans-unit id="FirstSetupWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
-                <target>Recommended modules are the modules recommended by Daily Routines developers. These modules could effectively improve the game experience while not excessively changing the gameplay. Enabling recommended modules will provide an out-of-the-box experience.
+                <target>Recommended modules are the ones recommended by the Daily Routines developers. These modules could effectively improve the game experience while not excessively interfering with the gameplay. Enabling recommended modules will provide an out-of-the-box experience.
 You could disable any module after finishing the wizard.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-FinishAndStart" xml:space="preserve">
@@ -7786,6 +7786,7 @@ You could disable any module after finishing the wizard.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
+                <target>Daily Routines is a versatile all-in-one plugin dedicated to enhancing the accessibility and general experience of Final Fantasy XIV, by introducing tons of quality-of-life improvements and automation. Features are delivered through a vast array of optional independent components, known as &quot;modules&quot;.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP2" xml:space="preserve">
                 <source>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。</source>
