@@ -7780,9 +7780,6 @@ If the option is enabled, the tray icon would persistently exist even when the g
             <trans-unit id="FirstSetupWindow-GameSection" xml:space="preserve">
                 <source>游戏体验</source>
             </trans-unit>
-            <trans-unit id="FirstSetupWindow-InterfaceSection" xml:space="preserve">
-                <source>界面选项</source>
-            </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
             </trans-unit>
@@ -7827,9 +7824,6 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Preferences" xml:space="preserve">
                 <source>常用偏好</source>
-            </trans-unit>
-            <trans-unit id="FirstSetupWindow-StyleSection" xml:space="preserve">
-                <source>界面主题</source>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
@@ -8760,8 +8754,13 @@ The information will be uploaded to {isGL, select, true {https://xivpf.com/} oth
                 <target>Font Scaling</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
-                <source>相对于 Dalamud 字号的缩放倍率，默认为1，最小为0.1。</source>
-                <target>The font scaling here is relative to the font size in Dalamud. Its value is 1 by default, with a minimum of 0.1.</target>
+                <source>相对于 Dalamud 字号的缩放倍率。默认为1，最小为0.1，最大为3。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-Options" xml:space="preserve">
+                <source>界面选项</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Settings-Interface-Theme" xml:space="preserve">
+                <source>界面主题</source>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
                 <source>托盘悬浮窗</source>
@@ -11202,10 +11201,6 @@ Parameter(s): {2}</target>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
                 <target>Striking Tree Helper</target>
-            </trans-unit>
-            <trans-unit id="Style" xml:space="preserve">
-                <source>样式</source>
-                <target>Style</target>
             </trans-unit>
             <trans-unit id="Suffix" xml:space="preserve">
                 <source>后缀</source>
