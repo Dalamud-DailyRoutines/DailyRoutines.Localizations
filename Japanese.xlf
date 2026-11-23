@@ -11058,6 +11058,21 @@ UI: {0}
                 <source>值</source>
                 <target>値</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-BackToTop" xml:space="preserve">
+                <source>回到顶部</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
+                <source>清除筛选</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
+                <source>点击查看大图</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseAll" xml:space="preserve">
+                <source>全部折叠</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
+                <source>收起目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ConfigTitle" xml:space="preserve">
                 <source>重要配置</source>
                 <target>主な仕様</target>
@@ -11068,9 +11083,18 @@ UI: {0}
                 <target>「推奨モジュール」は開発チームが厳選した、大部分のプレイヤーのゲーム体験を向上させつつもプレイスタイルを大きく変えないモジュール群です。プラグインを「導入後すぐに活用できる」状態にすることを目的としています。
  これらのモジュールは後からいつでも無効化できます。</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
+                <source>全部展开</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ExpandOutline" xml:space="preserve">
+                <source>展开目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
                 <target>使い始める</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ImageLoading" xml:space="preserve">
+                <source>图片加载中……</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
@@ -11090,13 +11114,25 @@ UI: {0}
                 <source>插件简介</source>
                 <target>プラグインの概要</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-LocateModule" xml:space="preserve">
+                <source>在主界面中查看</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-NextStep" xml:space="preserve">
                 <source>下一步</source>
                 <target>次へ</target>
             </trans-unit>
+            <trans-unit id="VersionUpdateWindow-OpenModuleConfig" xml:space="preserve">
+                <source>在主界面中打开配置</source>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-Outline" xml:space="preserve">
+                <source>目录</source>
+            </trans-unit>
             <trans-unit id="VersionUpdateWindow-PreviousStep" xml:space="preserve">
                 <source>上一步</source>
                 <target>前へ</target>
+            </trans-unit>
+            <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
+                <source>返回更新日志</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-SelectLanguage" xml:space="preserve">
                 <source>请选择界面语言</source>
@@ -11109,10 +11145,6 @@ UI: {0}
             <trans-unit id="VersionUpdateWindow-Title" xml:space="preserve">
                 <source>版本更新</source>
                 <target>バージョン更新</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-Updated" xml:space="preserve">
-                <source>Daily Routines 已更新至 {0}</source>
-                <target>Daily Routines が {0} に更新されました</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
