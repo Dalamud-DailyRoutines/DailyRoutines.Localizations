@@ -5283,7 +5283,7 @@ Note: Except for the Item ID, all inputs should match the current client languag
             </trans-unit>
             <trans-unit id="BetterBlacklist-NoChangeLogsOrLoading" xml:space="preserve">
                 <source>无变更日志或正在加载中</source>
-                <target>No change logs available at the moment. The logs may still be loading.</target>
+                <target>No changelog available at the moment. It may still be loading.</target>
             </trans-unit>
             <trans-unit id="BetterBlacklist-Notification-AddedPlayerToGroup" xml:space="preserve">
                 <source>已将{0}加入到共享黑名单“{1}”中。</source>
@@ -11555,10 +11555,11 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
                 <source>返回更新日志</source>
+                <target>Return To Changelog</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-Subtitle" xml:space="preserve">
                 <source>更新完成，请查阅下方的更新日志。</source>
-                <target>Update complete. Update notes are provided below.</target>
+                <target>Update complete. Please refer to the changelog below for details.</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-Title" xml:space="preserve">
                 <source>版本更新</source>
