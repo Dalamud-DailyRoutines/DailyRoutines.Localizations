@@ -7444,6 +7444,88 @@ XivGear (xivgear.app)</target>
                 <source>已完成</source>
                 <target>已完成</target>
             </trans-unit>
+            <trans-unit id="FirstSetupWindow-AppearanceSubtitle" xml:space="preserve">
+                <source>选择喜欢的主题样式与界面布局</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-AuthTitle" xml:space="preserve">
+                <source>免费与在线验证</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-CanChangeLater" xml:space="preserve">
+                <source>以上设置均可随时在主界面的“设置”中调整。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-CompactMode" xml:space="preserve">
+                <source>紧凑模式</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-CompactMode-Help" xml:space="preserve">
+                <source>在主界面以更紧凑的卡片展示模块列表，同屏可浏览更多模块。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-DefaultEnableHelp" xml:space="preserve">
+                <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
+稍后可以随时禁用这些模块。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-FinishAndStart" xml:space="preserve">
+                <source>开始使用</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-GameSection" xml:space="preserve">
+                <source>游戏体验</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-InterfaceSection" xml:space="preserve">
+                <source>界面选项</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-IntroP1" xml:space="preserve">
+                <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-IntroP2" xml:space="preserve">
+                <source>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-IntroP3" xml:space="preserve">
+                <source>插件内各类功能无所不包，不正当地使用部分模块可能招致举报乃至封号。请谨慎选择开启与使用，并自行承担任何可能的使用风险。</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-IntroTitle" xml:space="preserve">
+                <source>关于插件</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-JoinDiscord" xml:space="preserve">
+                <source>加入 Discord</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-NextStep" xml:space="preserve">
+                <source>下一步</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-NoticeSubtitle" xml:space="preserve">
+                <source>了解插件定位、免费原则与使用风险</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-PreferencesSubtitle" xml:space="preserve">
+                <source>按需开启推荐模块与常用体验优化</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-PreviousStep" xml:space="preserve">
+                <source>上一步</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-RejectTooltip" xml:space="preserve">
+                <source>拒绝须知并禁用 Daily Routines 插件</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-SelectLanguage" xml:space="preserve">
+                <source>请选择界面语言</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-Step-Appearance" xml:space="preserve">
+                <source>界面外观</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-Step-Language" xml:space="preserve">
+                <source>界面语言</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-Step-Notice" xml:space="preserve">
+                <source>使用须知</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-Step-Preferences" xml:space="preserve">
+                <source>常用偏好</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-StyleSection" xml:space="preserve">
+                <source>界面主题</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-WarningTitle" xml:space="preserve">
+                <source>风险说明</source>
+            </trans-unit>
+            <trans-unit id="FirstSetupWindow-WelcomeTitle" xml:space="preserve">
+                <source>欢迎使用 Daily Routines</source>
+            </trans-unit>
             <trans-unit id="Focused" xml:space="preserve">
                 <source>聚焦</source>
                 <target>聚焦</target>
@@ -10867,53 +10949,17 @@ XivGear (xivgear.app)</target>
             <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
                 <source>收起目录</source>
             </trans-unit>
-            <trans-unit id="VersionUpdateWindow-ConfigTitle" xml:space="preserve">
-                <source>重要配置</source>
-                <target>重要配置</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-DefaultEnableHelp" xml:space="preserve">
-                <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
-稍后可以随时禁用这些模块。</source>
-                <target>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
-稍后可以随时禁用这些模块。</target>
-            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
                 <source>全部展开</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandOutline" xml:space="preserve">
                 <source>展开目录</source>
             </trans-unit>
-            <trans-unit id="VersionUpdateWindow-FinishAndStart" xml:space="preserve">
-                <source>开始使用</source>
-                <target>开始使用</target>
-            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ImageLoading" xml:space="preserve">
                 <source>图片加载中……</source>
             </trans-unit>
-            <trans-unit id="VersionUpdateWindow-IntroP1" xml:space="preserve">
-                <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
-                <target>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-IntroP2" xml:space="preserve">
-                <source>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。
-如需使用这部分模块，请加入我们的 Discord 服务器（见页面左下角）。</source>
-                <target>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。
-如需使用这部分模块，请加入我们的 Discord 服务器（见页面左下角）。</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-IntroP3" xml:space="preserve">
-                <source>插件内各类功能无所不包，不正当地使用部分模块可能招致举报乃至封号。请谨慎选择开启与使用，并自行承担任何可能的使用风险。</source>
-                <target>插件内各类功能无所不包，不正当地使用部分模块可能招致举报乃至封号。请谨慎选择开启与使用，并自行承担任何可能的使用风险。</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-IntroTitle" xml:space="preserve">
-                <source>插件简介</source>
-                <target>插件简介</target>
-            </trans-unit>
             <trans-unit id="VersionUpdateWindow-LocateModule" xml:space="preserve">
                 <source>在主界面中查看</source>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-NextStep" xml:space="preserve">
-                <source>下一步</source>
-                <target>下一步</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-OpenModuleConfig" xml:space="preserve">
                 <source>在主界面中打开配置</source>
@@ -10921,16 +10967,8 @@ XivGear (xivgear.app)</target>
             <trans-unit id="VersionUpdateWindow-Outline" xml:space="preserve">
                 <source>目录</source>
             </trans-unit>
-            <trans-unit id="VersionUpdateWindow-PreviousStep" xml:space="preserve">
-                <source>上一步</source>
-                <target>上一步</target>
-            </trans-unit>
             <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
                 <source>返回更新日志</source>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-SelectLanguage" xml:space="preserve">
-                <source>请选择界面语言</source>
-                <target>请选择界面语言</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-Subtitle" xml:space="preserve">
                 <source>更新完成，请查阅下方的更新日志。</source>
@@ -10939,14 +10977,6 @@ XivGear (xivgear.app)</target>
             <trans-unit id="VersionUpdateWindow-Title" xml:space="preserve">
                 <source>版本更新</source>
                 <target>版本更新</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-WarningTitle" xml:space="preserve">
-                <source>风险说明</source>
-                <target>风险说明</target>
-            </trans-unit>
-            <trans-unit id="VersionUpdateWindow-WelcomeTitle" xml:space="preserve">
-                <source>欢迎使用 Daily Routines</source>
-                <target>歡迎使用 Daily Routines</target>
             </trans-unit>
             <trans-unit id="Wan" xml:space="preserve">
                 <source>万</source>
