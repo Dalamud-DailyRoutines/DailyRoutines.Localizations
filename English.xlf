@@ -7809,27 +7809,35 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FirstSetupWindow-RejectTooltip" xml:space="preserve">
                 <source>拒绝须知并禁用 Daily Routines 插件</source>
+                <target>Reject &amp; Disable Daily Routines</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-SelectLanguage" xml:space="preserve">
                 <source>请选择界面语言</source>
+                <target>Please select the UI language.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Appearance" xml:space="preserve">
                 <source>界面外观</source>
+                <target>UI Appearance</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Language" xml:space="preserve">
                 <source>界面语言</source>
+                <target>UI Language</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Notice" xml:space="preserve">
                 <source>使用须知</source>
+                <target>Terms Of Use</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Preferences" xml:space="preserve">
                 <source>常用偏好</source>
+                <target>Preference</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
+                <target>Disclaimer</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WelcomeTitle" xml:space="preserve">
                 <source>欢迎使用 Daily Routines</source>
+                <target>Welcome to Daily Routines!</target>
             </trans-unit>
             <trans-unit id="Focused" xml:space="preserve">
                 <source>聚焦</source>
@@ -11516,15 +11524,18 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-BackToTop" xml:space="preserve">
                 <source>回到顶部</source>
+                <target>Back To Top</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
                 <source>清除筛选</source>
+                <target>Clear Filters</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
                 <source>点击查看大图</source>
+                <target>Click To View Full Size</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-CollapseAll" xml:space="preserve">
                 <source>全部折叠</source>
