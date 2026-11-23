@@ -7790,9 +7790,11 @@ You could disable any module after finishing the wizard.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP2" xml:space="preserve">
                 <source>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。</source>
+                <target>All features provided by Daily Routines are completely free, meaning nothing is locked behind a paywall. Many resellers are trying to sell pirated copies of Daily Routines for profit. Please be aware that these are all scams, and we strongly condemn such practices. To counter re-selling, we sincerely ask users to complete a quick and free authentication process periodically in order to enable certain modules.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP3" xml:space="preserve">
                 <source>插件内各类功能无所不包，不正当地使用部分模块可能招致举报乃至封号。请谨慎选择开启与使用，并自行承担任何可能的使用风险。</source>
+                <target>Daily Routines provides a comprehensive suite of features, ranging from harmless quality-of-life improvements to game-altering tools. Misuse may result in warnings or account bans from Square Enix and access restrictions from Daily Routines Team. Please enable modules at your discretion and assume full responsibility for any potential risks.</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroTitle" xml:space="preserve">
                 <source>关于插件</source>
