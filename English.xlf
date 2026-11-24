@@ -8660,12 +8660,15 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateDownloading" xml:space="preserve">
                 <source>正在下载新版本 {version}...</source>
+                <target>Now downloading the latest version {version}...</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateDownloadingProgress" xml:space="preserve">
                 <source>正在下载新版本 {version}（{percent}%）</source>
+                <target>Now downloading the latest version {version}... ({percent}%)</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateReady" xml:space="preserve">
                 <source>新版本 {version} 已下载就绪，点击立即更新并重载插件。</source>
+                <target>The latest version {version} is ready to install. Click to update and reload.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-Updating" xml:space="preserve">
                 <source>正在应用更新并重载插件...</source>
@@ -8927,6 +8930,7 @@ The information will be uploaded to {isGL, select, true {https://xivpf.com/} oth
             </trans-unit>
             <trans-unit id="MainWindow-Tray-UpdateReady" xml:space="preserve">
                 <source>新版本 {version} 已下载就绪，点击打开主界面更新</source>
+                <target>The latest version {version} is ready to install. Click to view in the main interface.</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
