@@ -3560,13 +3560,15 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn" xml:space="preserve">
                 <source>实时试穿</source>
-                <target>Live Try On </target>
+                <target>On-click Try On</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
                 <source>勾选后，点击左侧任意染剂颜色将自动应用至试穿室预览。</source>
+                <target>Click a dye in Dye Log to immediately preview it in Fitting Room.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>{count}种颜色</source>
+                <target>{count, plural, one {# Dye} other {# Dyes}}</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-CatalogTitle" xml:space="preserve">
                 <source>染剂图鉴</source>
@@ -3598,6 +3600,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Hint" xml:space="preserve">
                 <source>按 {conflictKey} 打开染剂图鉴</source>
+                <target>Press {conflictKey} To Access Dye Log</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-OwnedCount" xml:space="preserve">
                 <source>持有 {count}</source>
