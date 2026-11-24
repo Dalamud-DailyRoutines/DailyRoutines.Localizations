@@ -8045,12 +8045,10 @@ XivGear (xivgear.app)</target>
                 <target>職業</target>
             </trans-unit>
             <trans-unit id="JobSwitchCommand-CommandHelp" xml:space="preserve">
-                <source>&lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 切换至指定职业</source>
-                <target>&lt;職業 ID / 職業名稱 / 職業名稱拼音&gt; (部分包含, 大小寫不敏感) 切換至指定職業</target>
+                <source>&lt;职业唯一标识符/职业名称/职业名称拼音&gt; 切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandDescription" xml:space="preserve">
-                <source>添加 /pdr {0} &lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 指令, 以快捷切换至指定职业</source>
-                <target>添加 /pdr {0} &lt;職業 ID / 職業名稱 / 職業名稱拼音&gt; (部分包含, 大小寫不敏感) 指令, 以快捷切換至指定職業</target>
+                <source>新增“/pdr {command} &lt;职业唯一标识符/职业名称/职业名称拼音&gt;”指令，以切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandTitle" xml:space="preserve">
                 <source>职业切换指令</source>
