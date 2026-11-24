@@ -3584,6 +3584,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
+                <target>Furnishing-applicable</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Metallic" xml:space="preserve">
                 <source>仅金属</source>
@@ -3602,30 +3603,39 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-SearchPlaceholder" xml:space="preserve">
                 <source>搜索染剂……</source>
+                <target>Search for dyes here...</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-SimilarColors" xml:space="preserve">
                 <source>相近颜色对比</source>
+                <target>Similar Dyes</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-HousingNo" xml:space="preserve">
                 <source>不可染家具</source>
+                <target>Furnishing-inapplicable</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-HousingYes" xml:space="preserve">
                 <source>可染家具</source>
+                <target>Furnishing-applicable</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-Metallic" xml:space="preserve">
                 <source>金属光泽</source>
+                <target>Metallic</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-Normal" xml:space="preserve">
                 <source>常规质感</source>
+                <target>Standard</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnDye1" xml:space="preserve">
                 <source>试穿染色1</source>
+                <target>Try On Dye 1</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnDye2" xml:space="preserve">
                 <source>试穿染色2</source>
+                <target>Try On Dye 2</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
                 <source>当前没有可供染色预览的装备</source>
+                <target>No gear available for dye preview at the moment.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
