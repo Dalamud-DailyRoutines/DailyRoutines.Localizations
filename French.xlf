@@ -1968,6 +1968,12 @@ Si cela reste bloqué trop longtemps, veuillez vérifier votre réseau local.</t
                 <source>自动取消登录操作冷却锁</source>
                 <target>Annulation automatique du délai de connexion</target>
             </trans-unit>
+            <trans-unit id="AutoIgnoreMacroExecutionLimitDescription" xml:space="preserve">
+                <source>移除连续执行宏或文本指令时附加的冷却限制，继续执行本应受限的指令。</source>
+            </trans-unit>
+            <trans-unit id="AutoIgnoreMacroExecutionLimitTitle" xml:space="preserve">
+                <source>自动解除宏指令连续执行限制</source>
+            </trans-unit>
             <trans-unit id="AutoIgnorePortraitLimitation-LimitationToIgnore" xml:space="preserve">
                 <source>可解除的限制包括但不限于</source>
                 <target>Les restrictions pouvant être supprimées incluent notamment</target>
