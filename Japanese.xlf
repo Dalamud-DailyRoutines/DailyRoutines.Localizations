@@ -2023,6 +2023,12 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <source>自动取消登录操作冷却锁</source>
                 <target>ログイン操作時のクールタイムロックを解除</target>
             </trans-unit>
+            <trans-unit id="AutoIgnoreMacroExecutionLimitDescription" xml:space="preserve">
+                <source>移除连续执行宏或文本指令时附加的冷却限制，继续执行本应受限的指令。</source>
+            </trans-unit>
+            <trans-unit id="AutoIgnoreMacroExecutionLimitTitle" xml:space="preserve">
+                <source>自动解除宏指令连续执行限制</source>
+            </trans-unit>
             <trans-unit id="AutoIgnorePortraitLimitation-LimitationToIgnore" xml:space="preserve">
                 <source>可解除的限制包括但不限于</source>
                 <target>以下のような制限が自動で解除されます。 (一部抜粋)</target>
