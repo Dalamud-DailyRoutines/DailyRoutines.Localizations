@@ -2360,6 +2360,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
                 <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
+                <target>必要な開拓ツールが解放されていないか、選択した素材の採集情報が開拓採集手帳に登録されていません。これらが完了しているか確認してください。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
                 <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
