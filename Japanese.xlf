@@ -2356,6 +2356,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoProgress" xml:space="preserve">
                 <source>本轮未完成任何采集，已停止。请检查点位是否可采集、库存与采集条件。</source>
+                <target>採集を実行できなかったため、処理を停止しました。採集ポイントが採集可能な状態か、所持品の空き容量や採集条件を確認してください。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-NoUsablePoints" xml:space="preserve">
                 <source>所选材料尚无可用点位，或缺少所需采集工具。请先记录点位并确认工具已解锁。</source>
