@@ -8211,12 +8211,10 @@ UI: {0}
                 <target>クラス</target>
             </trans-unit>
             <trans-unit id="JobSwitchCommand-CommandHelp" xml:space="preserve">
-                <source>&lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 切换至指定职业</source>
-                <target>&lt;ジョブID / ジョブ名&gt;（部分一致・大文字小文字を区別しない）で指定ジョブに切り替える。</target>
+                <source>&lt;职业唯一标识符/职业名称/职业名称拼音&gt; 切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandDescription" xml:space="preserve">
-                <source>添加 /pdr {0} &lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 指令, 以快捷切换至指定职业</source>
-                <target>/pdr {0} &lt;ジョブID / ジョブ名&gt;（部分一致、大小文字を区別しない）コマンドを追加し、指定したジョブへ素早く切り替えられるようにする。</target>
+                <source>新增“/pdr {command} &lt;职业唯一标识符/职业名称/职业名称拼音&gt;”指令，以切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandTitle" xml:space="preserve">
                 <source>职业切换指令</source>
