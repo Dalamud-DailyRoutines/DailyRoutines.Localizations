@@ -11344,7 +11344,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
-                <target>提供一系列特殊の描画オプション、〜するため满足多种需求。</target>
+                <target>多様なニーズに応えるため、一連の特別なレンダリングオプションを提供します。</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -11376,7 +11376,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
-                <target>ダンジョン「ラムウ討滅戦」に入ると、自動強調表示〜を持つ「恐怖」ステータスのパーティメンバー。</target>
+                <target>インスタンスダンジョン「ラムウ討滅戦」に入ると、「恐怖」状態のパーティメンバーが自動的に強調表示されます。</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
@@ -11504,27 +11504,27 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-ClearSlot" xml:space="preserve">
                 <source>清空所选部位</source>
-                <target>清空選択した部位</target>
+                <target>選択した部位をクリア</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
                 <source>“{itemName}”占用了该部位。</source>
-                <target>「{itemName}」使用中了该部位。</target>
+                <target>「{itemName}」がその部位を占有しています。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-DiscardSwitch" xml:space="preserve">
                 <source>放弃修改并切换</source>
-                <target>放弃変更し、切り替え</target>
+                <target>変更を破棄して切り替え</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-FillEmpty" xml:space="preserve">
                 <source>使用“皇帝的新装备”填充空部位</source>
-                <target>使用「皇帝の新装備」填充空部位</target>
+                <target>「皇帝の新しい装備」を使って空き部位を埋める</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
                 <source>实时试穿</source>
-                <target>リアルタイム试穿</target>
+                <target>リアルタイムで試着</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
-                <target>未在所持品、兵装库、ミラージュドレッサーまたはアーマリーチェスト中找到此装備。</target>
+                <target>この装備は、バックパック、兵装庫、ミラージュドレッサー、またはコレクションキャビネットのいずれにも見つかりませんでした。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
                 <source>仅显示已拥有装备</source>
