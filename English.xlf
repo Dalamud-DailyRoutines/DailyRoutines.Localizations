@@ -8657,6 +8657,7 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateBusy" xml:space="preserve">
                 <source>模块正在加载或卸载，请稍后再更新。</source>
+                <target>Failed to update Daily Routines since a module is currently being loaded or unloaded.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateDownloading" xml:space="preserve">
                 <source>正在下载新版本 {version}...</source>
@@ -8668,10 +8669,11 @@ Tester qualifications are not available to the public, which means there&apos;s 
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateReady" xml:space="preserve">
                 <source>新版本 {version} 已下载就绪，点击立即更新并重载插件。</source>
-                <target>The latest version {version} is ready to install. Click to update and reload.</target>
+                <target>The latest version {version} is ready to install. Click to update and reload Daily Routines.</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-Updating" xml:space="preserve">
                 <source>正在应用更新并重载插件...</source>
+                <target>Now updating and reloading Daily Routines...</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Back" xml:space="preserve">
                 <source>返回</source>
