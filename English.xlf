@@ -3594,12 +3594,15 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-OwnedCount" xml:space="preserve">
                 <source>持有 {count}</source>
+                <target>{count} Possessed</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Scope-All" xml:space="preserve">
                 <source>全部染剂</source>
+                <target>All</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Scope-Single" xml:space="preserve">
                 <source>稀有单色</source>
+                <target>Rare Solid</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-SearchPlaceholder" xml:space="preserve">
                 <source>搜索染剂……</source>
