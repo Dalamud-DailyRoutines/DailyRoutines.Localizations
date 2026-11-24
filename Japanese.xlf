@@ -11528,27 +11528,27 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
                 <source>仅显示已拥有装备</source>
-                <target>のみ表示已拥有装備</target>
+                <target>所持している装備のみ表示</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
                 <source>装备数据尚未完整读取，请手动打开投影台或收藏柜以更新数据。</source>
-                <target>装備データ尚未完整読み込み、してください手動開くミラージュドレッサーまたはアーマリーチェスト以更新データ。</target>
+                <target>装備データが完全には読み込まれていません。投影台またはコレクションケースを手動で開き、データを更新してください。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-RemovedEquipment" xml:space="preserve">
                 <source>移除了模板“{presetName}”中下列冲突或无效的装备。</source>
-                <target>削除了テンプレート「{presetName}」中回の競合または無効の装備。</target>
+                <target>プリセット「{presetName}」から、以下の競合している、または無効な装備を削除しました。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SaveAs" xml:space="preserve">
                 <source>另存为</source>
-                <target>另存为</target>
+                <target>名前を付けて保存</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SaveSwitch" xml:space="preserve">
                 <source>保存并切换</source>
-                <target>保存し、切り替え</target>
+                <target>保存して切り替え</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SwitchWarning" xml:space="preserve">
                 <source>当前模板有未保存的修改，请保存或放弃后再切换。</source>
-                <target>現在のテンプレート有未保存の変更、してください保存または放弃後再切り替え。</target>
+                <target>現在のテンプレートには未保存の変更があります。保存または破棄してから切り替えてください。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-FilteredFavoriteCount" xml:space="preserve">
                 <source>收藏数量</source>
@@ -11624,7 +11624,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
                 <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
-                <target>追加モジュール画面〜するため一元管理装備ミラージュと編集ミラージュテンプレート。対応クイック絞り込みとお気に入りミラージュドレッサーとアーマリーチェスト内すべての装備、し、可クイック製作、保存、インポートとエクスポートミラージュテンプレート。</target>
+                <target>装備の投影（ミラージュプリズム）および投影テンプレートの編集を一元管理できる画面が追加されました。ミラージュドレッサーやミラージュプレート内の全装備を素早く絞り込んだり、お気に入り登録したりできるほか、投影テンプレートの作成・保存・インポート・エクスポートもスムーズに行えます。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
@@ -11688,15 +11688,15 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
                 <source>清除筛选</source>
-                <target>クリア絞り込み</target>
+                <target>フィルターのクリア</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
-                <target>クリア検索内容</target>
+                <target>検索内容を消去</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
                 <source>点击查看大图</source>
-                <target>クリック表示大图</target>
+                <target>クリックして拡大表示</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-CollapseAll" xml:space="preserve">
                 <source>全部折叠</source>
@@ -11704,7 +11704,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-CollapseOutline" xml:space="preserve">
                 <source>收起目录</source>
-                <target>收起目回</target>
+                <target>目次を閉じる</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-EmptySearch" xml:space="preserve">
                 <source>未找到匹配的更新内容</source>
