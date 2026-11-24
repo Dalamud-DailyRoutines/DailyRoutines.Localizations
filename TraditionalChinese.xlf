@@ -3366,25 +3366,77 @@ XivGear (xivgear.app)</target>
                 <source>自动阻止 &quot;火炎&quot; 与 &quot;冰结&quot; 释放</source>
                 <target>自动阻止 &quot;火炎&quot; 与 &quot;冰结&quot; 释放</target>
             </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-AutoTryOn" xml:space="preserve">
+                <source>实时试穿</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
+                <source>勾选后，点击左侧任意染剂颜色将自动应用至试穿室预览。</source>
+            </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
-                <source>可用颜色: {0} 种</source>
-                <target>可用顏色: {0} 種</target>
+                <source>{count}种颜色</source>
             </trans-unit>
-            <trans-unit id="AutoPreviewColorsInDye-ClickToViewDetail" xml:space="preserve">
-                <source>点击颜色查看色值详情</source>
-                <target>点击颜色查看色值详情</target>
+            <trans-unit id="AutoPreviewColorsInDye-CatalogTitle" xml:space="preserve">
+                <source>染剂图鉴</source>
             </trans-unit>
-            <trans-unit id="AutoPreviewColorsInDye-ColorDetail" xml:space="preserve">
-                <source>色值详情</source>
-                <target>色值详情</target>
+            <trans-unit id="AutoPreviewColorsInDye-ColorValues" xml:space="preserve">
+                <source>色值</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
+                <source>打开“染剂图鉴”界面。</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
+                <source>预览染剂颜色</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
+                <source>没有符合条件的染剂颜色</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
+                <source>可染家具</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Filter-Metallic" xml:space="preserve">
+                <source>仅金属</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Hint" xml:space="preserve">
-                <source>按下打断热键 ({0}) 以固定</source>
-                <target>按下打断热键 ({0}) 以固定</target>
+                <source>按 {conflictKey} 打开染剂图鉴</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-OwnedCount" xml:space="preserve">
+                <source>持有 {count}</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Scope-All" xml:space="preserve">
+                <source>全部染剂</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Scope-Single" xml:space="preserve">
+                <source>稀有单色</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-SearchPlaceholder" xml:space="preserve">
+                <source>搜索染剂……</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-SimilarColors" xml:space="preserve">
+                <source>相近颜色对比</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Tag-HousingNo" xml:space="preserve">
+                <source>不可染家具</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Tag-HousingYes" xml:space="preserve">
+                <source>可染家具</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Tag-Metallic" xml:space="preserve">
+                <source>金属光泽</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-Tag-Normal" xml:space="preserve">
+                <source>常规质感</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-TryOnDye1" xml:space="preserve">
+                <source>试穿染色1</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-TryOnDye2" xml:space="preserve">
+                <source>试穿染色2</source>
+            </trans-unit>
+            <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
+                <source>当前没有可供染色预览的装备</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
-                <source>当悬停通用染剂或追加染剂物品时, 自动预览该染剂包含的所有可用颜色</source>
-                <target>當懸停通用染劑或追加染劑物品時, 自動預覽該染劑包含的所有可用顏色</target>
+                <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeTitle" xml:space="preserve">
                 <source>自动预览染剂颜色</source>
@@ -5880,6 +5932,9 @@ XivGear (xivgear.app)</target>
                 <source>黑名单区域</source>
                 <target>黑名單區域</target>
             </trans-unit>
+            <trans-unit id="Blue" xml:space="preserve">
+                <source>蓝</source>
+            </trans-unit>
             <trans-unit id="BottomLeft" xml:space="preserve">
                 <source>左下角</source>
                 <target>左下角</target>
@@ -5893,6 +5948,9 @@ XivGear (xivgear.app)</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
                 <source>休养胜地布雷福洛克斯野营地助手</source>
+            </trans-unit>
+            <trans-unit id="Brown" xml:space="preserve">
+                <source>棕</source>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -6214,6 +6272,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="Control" xml:space="preserve">
                 <source>控制</source>
                 <target>控制</target>
+            </trans-unit>
+            <trans-unit id="CopiedTextToClipboard" xml:space="preserve">
+                <source>复制了“{text}”到剪贴板。</source>
             </trans-unit>
             <trans-unit id="CopiedToClipboard" xml:space="preserve">
                 <source>已复制至剪贴板</source>
@@ -7662,6 +7723,9 @@ XivGear (xivgear.app)</target>
                 <source>投影模板切换指令</source>
                 <target>投影模板切換指令</target>
             </trans-unit>
+            <trans-unit id="Green" xml:space="preserve">
+                <source>绿</source>
+            </trans-unit>
             <trans-unit id="HQ" xml:space="preserve">
                 <source>高品质</source>
                 <target>高品質</target>
@@ -8224,6 +8288,21 @@ XivGear (xivgear.app)</target>
             <trans-unit id="MainWindow-Header-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
             </trans-unit>
+            <trans-unit id="MainWindow-Header-UpdateBusy" xml:space="preserve">
+                <source>模块正在加载或卸载，请稍后再更新。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-UpdateDownloading" xml:space="preserve">
+                <source>正在下载新版本 {version}...</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-UpdateDownloadingProgress" xml:space="preserve">
+                <source>正在下载新版本 {version}（{percent}%）</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-UpdateReady" xml:space="preserve">
+                <source>新版本 {version} 已下载就绪，点击立即更新并重载插件。</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Header-Updating" xml:space="preserve">
+                <source>正在应用更新并重载插件...</source>
+            </trans-unit>
             <trans-unit id="MainWindow-Modules-Back" xml:space="preserve">
                 <source>返回</source>
             </trans-unit>
@@ -8409,6 +8488,9 @@ XivGear (xivgear.app)</target>
             </trans-unit>
             <trans-unit id="MainWindow-SupportAuthor" xml:space="preserve">
                 <source>支持作者</source>
+            </trans-unit>
+            <trans-unit id="MainWindow-Tray-UpdateReady" xml:space="preserve">
+                <source>新版本 {version} 已下载就绪，点击打开主界面更新</source>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -10004,6 +10086,9 @@ XivGear (xivgear.app)</target>
                 <source>预览</source>
                 <target>預覽</target>
             </trans-unit>
+            <trans-unit id="Purple" xml:space="preserve">
+                <source>紫</source>
+            </trans-unit>
             <trans-unit id="Quest" xml:space="preserve">
                 <source>任务</source>
                 <target>任務</target>
@@ -10137,6 +10222,9 @@ XivGear (xivgear.app)</target>
                 <source>范围</source>
                 <target>範圍</target>
             </trans-unit>
+            <trans-unit id="Rare" xml:space="preserve">
+                <source>稀有</source>
+            </trans-unit>
             <trans-unit id="RealPositionInNaviMap-CopyFormat" xml:space="preserve">
                 <source>复制格式</source>
                 <target>複製格式</target>
@@ -10232,6 +10320,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="Recipe" xml:space="preserve">
                 <source>配方</source>
                 <target>配方</target>
+            </trans-unit>
+            <trans-unit id="Red" xml:space="preserve">
+                <source>红</source>
             </trans-unit>
             <trans-unit id="Refresh" xml:space="preserve">
                 <source>刷新</source>
@@ -11010,6 +11101,9 @@ XivGear (xivgear.app)</target>
                 <source>网站</source>
                 <target>網站</target>
             </trans-unit>
+            <trans-unit id="WhiteGray" xml:space="preserve">
+                <source>白灰</source>
+            </trans-unit>
             <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
                 <target>白名單</target>
@@ -11025,6 +11119,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="WorkTheory" xml:space="preserve">
                 <source>工作原理</source>
                 <target>工作原理</target>
+            </trans-unit>
+            <trans-unit id="Yellow" xml:space="preserve">
+                <source>黄</source>
             </trans-unit>
             <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
