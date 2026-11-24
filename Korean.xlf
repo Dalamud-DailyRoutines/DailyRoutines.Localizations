@@ -8355,12 +8355,10 @@ UI: {0}
                 <target>직업</target>
             </trans-unit>
             <trans-unit id="JobSwitchCommand-CommandHelp" xml:space="preserve">
-                <source>&lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 切换至指定职业</source>
-                <target>&lt;직업 ID / 직업 이름 / 직업 이름의 병음&gt; (부분 일치, 대소문자 구분 없음)으로 지정된 직업으로 전환합니다.</target>
+                <source>&lt;职业唯一标识符/职业名称/职业名称拼音&gt; 切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandDescription" xml:space="preserve">
-                <source>添加 /pdr {0} &lt;职业 ID / 职业名称 / 职业名称拼音&gt; (部分包含, 大小写不敏感) 指令, 以快捷切换至指定职业</source>
-                <target>/pdr {0} &lt;직업 ID / 직업 이름 / 직업 이름의 병음&gt; (부분 일치, 대소문자 구분 없음) 명령어를 추가하여, 지정한 직업으로 빠르게 전환할 수 있도록 합니다.</target>
+                <source>新增“/pdr {command} &lt;职业唯一标识符/职业名称/职业名称拼音&gt;”指令，以切换到指定职业或特职。</source>
             </trans-unit>
             <trans-unit id="JobSwitchCommandTitle" xml:space="preserve">
                 <source>职业切换指令</source>
