@@ -9572,10 +9572,6 @@ Replace the action name and icon with the name and icon of the result of Mount R
                 <source>（套装{index} {name}）</source>
                 <target>(Set {index} {name})</target>
             </trans-unit>
-            <trans-unit id="OptimizedCharacterClass-NoGearset" xml:space="preserve">
-                <source>没有保存{jobName}相关的套装。</source>
-                <target>The gear set {jobName} was not found.</target>
-            </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
                 <source>设置切换职业时使用的套装</source>
                 <target>Assign Default Gear Set To Job</target>
