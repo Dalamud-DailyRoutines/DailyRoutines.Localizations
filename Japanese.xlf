@@ -9298,9 +9298,6 @@ UI: {0}
             <trans-unit id="OptimizedCharacterClass-Gearset" xml:space="preserve">
                 <source>（套装{index} {name}）</source>
             </trans-unit>
-            <trans-unit id="OptimizedCharacterClass-NoGearset" xml:space="preserve">
-                <source>没有保存{jobName}相关的套装。</source>
-            </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
                 <source>设置切换职业时使用的套装</source>
             </trans-unit>
