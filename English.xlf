@@ -2022,9 +2022,11 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoIgnoreMacroExecutionLimitDescription" xml:space="preserve">
                 <source>移除连续执行宏或文本指令时附加的冷却限制，继续执行本应受限的指令。</source>
+                <target>Remove the macro lockout in order to bypass the &quot;Consecutive text command input is currently restricted&quot; restriction.</target>
             </trans-unit>
             <trans-unit id="AutoIgnoreMacroExecutionLimitTitle" xml:space="preserve">
                 <source>自动解除宏指令连续执行限制</source>
+                <target>No Macro Lockout</target>
             </trans-unit>
             <trans-unit id="AutoIgnorePortraitLimitation-LimitationToIgnore" xml:space="preserve">
                 <source>可解除的限制包括但不限于</source>
@@ -3834,7 +3836,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRepairDescription" xml:space="preserve">
                 <source>配置后，在装备中装备耐久度低于设定下限时自动修理，并取消修理时的前后摇限制。</source>
-                <target>Automatically get gear repaired when the condition is below the given threshold, and remove all the animation lock before and after the repair.</target>
+                <target>Automatically get gear repaired when the condition is below the given threshold, and remove all lockouts before and after repairing.</target>
             </trans-unit>
             <trans-unit id="AutoRepairTitle" xml:space="preserve">
                 <source>自动修理</source>
@@ -6193,6 +6195,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="Blue" xml:space="preserve">
                 <source>蓝</source>
+                <target>Blue</target>
             </trans-unit>
             <trans-unit id="BottomLeft" xml:space="preserve">
                 <source>左下角</source>
@@ -6212,6 +6215,7 @@ Check Availability At NPCs</target>
             </trans-unit>
             <trans-unit id="Brown" xml:space="preserve">
                 <source>棕</source>
+                <target>Brown</target>
             </trans-unit>
             <trans-unit id="BurnHelperDescription" xml:space="preserve">
                 <source>进入副本“死亡大地终末焦土”后，自动阻止选中、攻击处于“雾散”状态下的“雾龙”。</source>
@@ -6537,6 +6541,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CopiedTextToClipboard" xml:space="preserve">
                 <source>复制了“{text}”到剪贴板。</source>
+                <target>&quot;{text}&quot; has been copied to the clipboard.</target>
             </trans-unit>
             <trans-unit id="CopiedToClipboard" xml:space="preserve">
                 <source>已复制至剪贴板</source>
@@ -8062,6 +8067,7 @@ You could disable any module after finishing the wizard.</target>
             </trans-unit>
             <trans-unit id="Green" xml:space="preserve">
                 <source>绿</source>
+                <target>Green</target>
             </trans-unit>
             <trans-unit id="HQ" xml:space="preserve">
                 <source>高品质</source>
@@ -9546,7 +9552,7 @@ Replace the action name and icon with the name and icon of the result of Mount R
                 <source>显示位置仅供参考，实际可滑步时机由颜色指示。
 （若修改了动画锁，则实际可滑步时机无法从本地准确获取。）</source>
                 <target>The slidecast indicator is just for reference. The actual slidecast availability will be better indicated by the colour.
-(Please be aware that, the slidecast availability may be unreliable if the animation lock has been adjusted.)</target>
+(Please be aware that the slidecast availability may be unreliable if the duration of action lockouts has been adjusted.)</target>
             </trans-unit>
             <trans-unit id="OptimizedCastBar-SlideCastMarkerNotReadyColor" xml:space="preserve">
                 <source>未可滑步状态颜色</source>
@@ -10639,6 +10645,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="Purple" xml:space="preserve">
                 <source>紫</source>
+                <target>Purple</target>
             </trans-unit>
             <trans-unit id="Quest" xml:space="preserve">
                 <source>任务</source>
@@ -10794,6 +10801,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="Rare" xml:space="preserve">
                 <source>稀有</source>
+                <target>Rare</target>
             </trans-unit>
             <trans-unit id="RealPositionInNaviMap-CopyFormat" xml:space="preserve">
                 <source>复制格式</source>
@@ -10893,6 +10901,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="Red" xml:space="preserve">
                 <source>红</source>
+                <target>Red</target>
             </trans-unit>
             <trans-unit id="Refresh" xml:space="preserve">
                 <source>刷新</source>
@@ -11716,6 +11725,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="WhiteGray" xml:space="preserve">
                 <source>白灰</source>
+                <target>White &amp; Grey</target>
             </trans-unit>
             <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
@@ -11735,6 +11745,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="Yellow" xml:space="preserve">
                 <source>黄</source>
+                <target>Yellow</target>
             </trans-unit>
             <trans-unit id="Yes" xml:space="preserve">
                 <source>是</source>
