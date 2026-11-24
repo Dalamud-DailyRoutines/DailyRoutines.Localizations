@@ -3560,6 +3560,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn" xml:space="preserve">
                 <source>实时试穿</source>
+                <target>Live Try On </target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
                 <source>勾选后，点击左侧任意染剂颜色将自动应用至试穿室预览。</source>
@@ -3569,18 +3570,23 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-CatalogTitle" xml:space="preserve">
                 <source>染剂图鉴</source>
+                <target>Dye Log</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ColorValues" xml:space="preserve">
                 <source>色值</source>
+                <target>Colour Value</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
                 <source>打开“染剂图鉴”界面。</source>
+                <target>to access Dye Log.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
                 <source>预览染剂颜色</source>
+                <target>Dye Preview</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
                 <source>没有符合条件的染剂颜色</source>
+                <target>No matching dye found.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
@@ -3588,6 +3594,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Metallic" xml:space="preserve">
                 <source>仅金属</source>
+                <target>Metallic Only</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Hint" xml:space="preserve">
                 <source>按 {conflictKey} 打开染剂图鉴</source>
