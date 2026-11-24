@@ -11725,7 +11725,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="WhiteGray" xml:space="preserve">
                 <source>白灰</source>
-                <target>White &amp; Grey</target>
+                <target>Grey</target>
             </trans-unit>
             <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
