@@ -71,7 +71,7 @@
             </trans-unit>
             <trans-unit id="AnimationLock" xml:space="preserve">
                 <source>动画锁</source>
-                <target>Animation Lock</target>
+                <target>Action Lockout</target>
             </trans-unit>
             <trans-unit id="Append" xml:space="preserve">
                 <source>追加</source>
@@ -3778,11 +3778,11 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoRemoveAnimationLockPunishmentDescription" xml:space="preserve">
                 <source>自动移除所有技能使用后均会附加的约 100ms 左右的动画锁, 并自动阻拦服务器下发的强制动画锁数据包, 以提升各类技能使用、插入的流畅度</source>
-                <target>Automatically remove the 100ms animation lock that is added to all skills after use, and automatically block the mandatory animation lock data packets sent by the server to improve the smoothness of using and weaving various skills</target>
+                <target>Remove the 100ms lockout after executing an action in order to improve the combat experience. All data packets intended to trigger an action lockout will also be dropped.</target>
             </trans-unit>
             <trans-unit id="AutoRemoveAnimationLockPunishmentTitle" xml:space="preserve">
                 <source>自动移除技能动画锁</source>
-                <target>Auto Remove Action Animation Lock</target>
+                <target>No Action Lockout</target>
             </trans-unit>
             <trans-unit id="AutoRenewRecruitment-Notification-NextRenewTime" xml:space="preserve">
                 <source>预计将在 {0} 尝试下一次招募续期</source>
