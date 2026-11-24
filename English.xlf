@@ -3652,6 +3652,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
+                <target>Automatically list all available colours for the dye in &quot;Item Help&quot; while hovering over a dye. Provide a dedicated interface named &quot;Dye Log&quot;, allowing to inspect colours by colour family, search for dyes, compare dyes, preview dyes on click, and check exact colour values in the interface. Dye Log can be accessed via the interrupt hotkey, the right-click menu and the &quot;/pdr {command}&quot; command.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeTitle" xml:space="preserve">
                 <source>自动预览染剂颜色</source>
