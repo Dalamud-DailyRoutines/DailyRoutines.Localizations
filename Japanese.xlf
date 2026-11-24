@@ -1023,7 +1023,7 @@
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatency-Format" xml:space="preserve">
                 <source>{ms}毫秒</source>
-                <target>{0} ms</target>
+                <target>{ms} ms</target>
             </trans-unit>
             <trans-unit id="AutoDisplayNetworkLatencyDescription" xml:space="preserve">
                 <source>在服务器信息栏实时显示连接往返时间，提供网络延迟走势图以供查询，并外显游戏服务器 IP 地址与属地信息。</source>
@@ -2025,11 +2025,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoIgnoreMacroExecutionLimitDescription" xml:space="preserve">
                 <source>移除连续执行宏或文本指令时附加的冷却限制，继续执行本应受限的指令。</source>
-                <target>削除連続実行宏またはテキストコマンド時に追加されるのクールダウン制限、実行を継続本来制限されるコマンド。</target>
+                <target>マクロやテキストコマンドの連続実行に設けられた待機制限を解除し、通常は制限されるコマンドも続けて実行できるようにします。</target>
             </trans-unit>
             <trans-unit id="AutoIgnoreMacroExecutionLimitTitle" xml:space="preserve">
                 <source>自动解除宏指令连续执行限制</source>
-                <target>自動解除宏指令連続実行限制</target>
+                <target>マクロ連続実行の制限を解除</target>
             </trans-unit>
             <trans-unit id="AutoIgnorePortraitLimitation-LimitationToIgnore" xml:space="preserve">
                 <source>可解除的限制包括但不限于</source>
@@ -2374,27 +2374,27 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
                 <source>可用点位数</source>
-                <target>可用地点数</target>
+                <target>利用可能な採集地点数</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReachCapsMessage" xml:space="preserve">
                 <source>全部所选材料均已达到持有上限，已停止采集。</source>
-                <target>すべての選択した素材均已達する所持上限、停止しました采集。</target>
+                <target>選択した素材がすべて所持上限に達したため、採集を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-ReturnTimeout" xml:space="preserve">
                 <source>未能完成“海岛返回”，已停止采集。请确认角色状态后重新开始。</source>
-                <target>できませんでした完成「海岛戻る」、停止しました采集。してください確認キャラクターステータス後重新開始。</target>
+                <target>無人島から戻れなかったため、採集を停止しました。キャラクターの状態を確認して、もう一度開始してください。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Stock" xml:space="preserve">
                 <source>持有数量</source>
-                <target>所持数量</target>
+                <target>所持数</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-StopWhenReachCaps" xml:space="preserve">
                 <source>全部所选材料达到持有上限时停止并发送通知</source>
-                <target>すべての選択した素材達する所持上限時停止し、送信通知</target>
+                <target>選択した素材がすべて所持上限に達したら、通知して採集を停止する</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
                 <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
-                <target>設定後、自動在开拓無人島内循环采集選択したの素材。</target>
+                <target>設定した素材を無人島で自動採集します。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
@@ -2482,11 +2482,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AreaBroadcastDelay" xml:space="preserve">
                 <source>区域切换播报延迟（毫秒）</source>
-                <target>エリア移動播报延迟（ミリ秒）</target>
+                <target>エリア切り替え後の通知待ち時間（ミリ秒）</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AreaBroadcastDelayHelp" xml:space="preserve">
                 <source>切换区域或副本区后，等待指定的时间间隔，再播报“恶名精英位置消息”。</source>
-                <target>切り替えエリアまたはインスタンスエリア後、待機指定の時間间隔、再播报「リスキーモブ位置メッセージ」。</target>
+                <target>エリアまたはインスタンスエリアの切り替え後、指定時間待ってからリスキーモブの位置を通知します。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcast" xml:space="preserve">
                 <source>自动播报</source>
@@ -2494,11 +2494,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastBehaviour" xml:space="preserve">
                 <source>自动播报行为</source>
-                <target>自動通知動作</target>
+                <target>自動通知の動作</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted" xml:space="preserve">
                 <source>结束了狩猎路线自动播报。</source>
-                <target>終了了狩猎ルート自動通知。</target>
+                <target>モブハントルートの自動通知を終了しました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastCompleted-TrayTitle" xml:space="preserve">
                 <source>自动播报结束</source>
@@ -2506,55 +2506,55 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastProgress" xml:space="preserve">
                 <source>正在播报第{pointIndex}个点位。</source>
-                <target>〜中播报第{pointIndex}個地点。</target>
+                <target>{pointIndex}個目の地点を通知しています。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastRemain" xml:space="preserve">
                 <source>距出发还有{remainingTimeText}。</source>
-                <target>距出发还有{remainingTimeText}。</target>
+                <target>出発まであと{remainingTimeText}です。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStartTime" xml:space="preserve">
                 <source>开始时间</source>
-                <target>開始時間</target>
+                <target>開始時刻</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting" xml:space="preserve">
                 <source>即将开始自动播报狩猎路线，当前周边共有{count}名玩家。</source>
-                <target>まもなく開始自動通知狩猎ルート、周囲の現在共有{count}名プレイヤー。</target>
+                <target>モブハントルートの自動通知を開始します。周囲にプレイヤーが{count}人います。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastStarting-TrayTitle" xml:space="preserve">
                 <source>即将开始自动播报</source>
-                <target>まもなく開始自動通知</target>
+                <target>自動通知を開始します</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-AutoBroadcastUseCurrentTime" xml:space="preserve">
                 <source>使用当前时间</source>
-                <target>使用現在の時間</target>
+                <target>現在時刻を使用</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ClearResultsConfirm" xml:space="preserve">
                 <source>确定要清除本轮扫描结果吗？</source>
-                <target>本当にクリア今回のスキャン結果しますか？</target>
+                <target>今回のスキャン結果を消去しますか？</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ContributeSpawnPoints" xml:space="preserve">
                 <source>贡献点位数据</source>
-                <target>贡献地点データ</target>
+                <target>出現地点データを共有する</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-CreationTime" xml:space="preserve">
                 <source>创建时间</source>
-                <target>作成時間</target>
+                <target>作成日時</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DeleteConfirm" xml:space="preserve">
                 <source>确定要删除吗？</source>
-                <target>本当に削除しますか？</target>
+                <target>削除しますか？</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-DetectPowerfulMark" xml:space="preserve">
                 <source>发现了恶名精英“{name}”于{position}。</source>
-                <target>发现了リスキーモブ「{name}」于{position}。</target>
+                <target>リスキーモブ「{name}」を{position}で発見しました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-FlightUnavailable" xml:space="preserve">
                 <source>当前无法飞行，停止了扫描。</source>
-                <target>現在のできません飞行、停止了スキャン。</target>
+                <target>現在飛行できないため、スキャンを停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-HelpMessage" xml:space="preserve">
                 <source>打开狩猎行车器界面</source>
-                <target>開く狩猎行车器画面</target>
+                <target>モブハントナビゲーターを開く</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-IntendedStartingPoint" xml:space="preserve">
                 <source>指定出发点</source>
@@ -2566,35 +2566,35 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-MoveAfterBroadcast" xml:space="preserve">
                 <source>播报后自动传送、寻路或切换副本区</source>
-                <target>播报後自動テレポ、経路探索または切り替えインスタンスエリア</target>
+                <target>通知後にテレポ、経路探索、またはインスタンスエリア移動を行う</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigateToMonster" xml:space="preserve">
                 <source>寻路至恶名精英</source>
-                <target>経路探索至リスキーモブ</target>
+                <target>リスキーモブまで経路探索</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationDistance" xml:space="preserve">
                 <source>距离阈值</source>
-                <target>距離阈值</target>
+                <target>距離のしきい値</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationExact" xml:space="preserve">
                 <source>寻路至精准位置</source>
-                <target>経路探索至正確位置</target>
+                <target>正確な位置まで経路探索</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted" xml:space="preserve">
                 <source>寻路已停止，请检查角色状态、飞行条件或导航路径。</source>
-                <target>経路探索停止しました、してください检查キャラクターステータス、飞行条件またはナビゲーション路径。</target>
+                <target>経路探索を停止しました。キャラクターの状態、飛行条件、または経路を確認してください。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationInterrupted-TrayTitle" xml:space="preserve">
                 <source>寻路中断了</source>
-                <target>経路探索中断了</target>
+                <target>経路探索が中断されました</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationMode" xml:space="preserve">
                 <source>寻路至恶名精英行为</source>
-                <target>経路探索至リスキーモブ動作</target>
+                <target>リスキーモブへの移動方法</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NavigationNearby" xml:space="preserve">
                 <source>寻路至附近</source>
-                <target>経路探索至付近</target>
+                <target>近くまで経路探索</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NearestAetheryte" xml:space="preserve">
                 <source>最近的以太之光</source>
@@ -2602,31 +2602,31 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NewTrainListTip" xml:space="preserve">
                 <source>新建列表，按下 Enter 键确认。</source>
-                <target>新建列表、按下 Enter 键確認。</target>
+                <target>リスト名を入力し、Enterキーで確定してください。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-NoRunningScanner" xml:space="preserve">
                 <source>暂无扫描结果</source>
-                <target>暂无スキャン結果</target>
+                <target>スキャン結果はありません</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcast" xml:space="preserve">
                 <source>优先播报“以太之光集合消息”</source>
-                <target>优先播报「エーテライト集合メッセージ」</target>
+                <target>「エーテライト集合」メッセージを優先する</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-PreferAetheryteBroadcastHelp" xml:space="preserve">
                 <source>若下一只恶名精英所在的区域或副本区与当前不同，则先播报“以太之光集合消息”。到达目标区域或副本区后再自动播报“恶名精英位置消息”。</source>
-                <target>もし下一体リスキーモブにあるエリアまたはインスタンスエリアと現在の不同、则先播报「エーテライト集合メッセージ」。到着対象エリアまたはインスタンスエリア後再自動通知「リスキーモブ位置メッセージ」。</target>
+                <target>次のリスキーモブが現在と異なるエリアまたはインスタンスエリアにいる場合、先にエーテライト集合メッセージを通知します。目的地のエリアに到着すると、リスキーモブの位置を自動で通知します。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-Position" xml:space="preserve">
                 <source>发现恶名精英“{name}”位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
-                <target>发现リスキーモブ「{name}」位于{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</target>
+                <target>リスキーモブ「{name}」を{position}{instance, plural, =0 {} other {（{instanceText}）}}で発見しました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Default-WaitAetheryte" xml:space="preserve">
                 <source>请先前往“{name}”集合等待，位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</source>
-                <target>してください先移動「{name}」集合待機、位置：{position}{instance, plural, =0 {} other {（{instanceText}线）}}。</target>
+                <target>「{name}」に集合してお待ちください。位置：{position}{instance, plural, =0 {} other {（{instanceText}）}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-InstancePattern" xml:space="preserve">
                 <source>{instance, plural, =0 {} other {（{instanceText}线）}}</source>
-                <target>{instance, plural, =0 {} other {（{instanceText}线）}}</target>
+                <target>{instance, plural, =0 {} other {（{instanceText}）}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Pattern-Position" xml:space="preserve">
                 <source>恶名精英位置消息</source>
@@ -2643,20 +2643,20 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
 {instanceText}：分线编号的游戏内显示形式
 {routeName}：当前路线名称
 {routeMonsterCount}：当前路线的恶名精英总数</source>
-                <target>{name}：リスキーモブまたはエーテライト名前
-{position}：マップ旗标
-{instance}：分线情報、无分线時为空
-{instanceText}：分线编号の游戏内表示形式
-{routeName}：現在のルート名前
-{routeMonsterCount}：現在のルートのリスキーモブ总数</target>
+                <target>{name}：リスキーモブまたはエーテライトの名前
+{position}：マップの位置
+{instance}：インスタンスエリア情報。該当しない場合は空欄
+{instanceText}：ゲーム内で表示されるインスタンス番号
+{routeName}：現在のルート名
+{routeMonsterCount}：現在のルートに含まれるリスキーモブの数</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-Placeholders" xml:space="preserve">
                 <source>消息占位符</source>
-                <target>メッセージ占位符</target>
+                <target>メッセージのプレースホルダー</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Relay-SelectedChannels" xml:space="preserve">
                 <source>选择了{count}个频道</source>
-                <target>選択了{count}個チャンネル</target>
+                <target>{count}個のチャンネルを選択中</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAetheryte" xml:space="preserve">
                 <source>播报以太之光</source>
@@ -2664,15 +2664,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastEnd" xml:space="preserve">
                 <source>狩猎车结束消息</source>
-                <target>モブハント列車終了メッセージ</target>
+                <target>モブハント自動通知の終了メッセージ</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayAutoBroadcastStart" xml:space="preserve">
                 <source>狩猎车开始消息</source>
-                <target>モブハント列車開始メッセージ</target>
+                <target>モブハント自動通知の開始メッセージ</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayChatTypes" xml:space="preserve">
                 <source>文本播报频道</source>
-                <target>テキスト播报チャンネル</target>
+                <target>通知先チャットチャンネル</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayPosition" xml:space="preserve">
                 <source>播报位置信息</source>
@@ -2680,11 +2680,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayTrainEnd" xml:space="preserve">
                 <source>播报狩猎车结束消息</source>
-                <target>播报モブハント列車終了メッセージ</target>
+                <target>モブハント列車の終了を通知</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-RelayTrainStart" xml:space="preserve">
                 <source>播报狩猎车开始消息</source>
-                <target>播报モブハント列車開始メッセージ</target>
+                <target>モブハント列車の開始を通知</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-Routes" xml:space="preserve">
                 <source>路线</source>
@@ -2692,19 +2692,19 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanCompleted" xml:space="preserve">
                 <source>完成了恶名精英扫描，共发现{count}只恶名精英。</source>
-                <target>完了しましたリスキーモブスキャン、共发现{count}体リスキーモブ。</target>
+                <target>リスキーモブのスキャンが完了しました。{count}体見つかりました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanCompleted-TrayTitle" xml:space="preserve">
                 <source>恶名精英扫描完毕</source>
-                <target>リスキーモブスキャン完毕</target>
+                <target>リスキーモブのスキャン完了</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanError-TrayTitle" xml:space="preserve">
                 <source>扫描恶名精英异常</source>
-                <target>スキャンリスキーモブエラー</target>
+                <target>リスキーモブのスキャンエラー</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanInterrupted" xml:space="preserve">
                 <source>扫描已停止，已有结果已保留。请检查角色状态、区域和导航是否就绪。</source>
-                <target>スキャン停止しました、已有結果已保留。してください检查キャラクターステータス、エリアとナビゲーション是否就绪。</target>
+                <target>スキャンを停止しました。取得済みの結果は保持されています。キャラクターの状態、エリア、経路探索の準備状況を確認してください。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPoints" xml:space="preserve">
                 <source>扫描点</source>
@@ -2712,7 +2712,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanPreview" xml:space="preserve">
                 <source>扫描预览</source>
-                <target>スキャンプレビュー</target>
+                <target>スキャン結果のプレビュー</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ScanResults" xml:space="preserve">
                 <source>扫描结果</source>
@@ -2720,7 +2720,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SelectedZonePreview" xml:space="preserve">
                 <source>选择了{count}个目标区域</source>
-                <target>選択了{count}個対象エリア</target>
+                <target>{count}個の対象エリアを選択中</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-SmallCardTitle" xml:space="preserve">
                 <source>狩猎行车器</source>
@@ -2740,11 +2740,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-TeleportToMobsZone" xml:space="preserve">
                 <source>传送至以太之光</source>
-                <target>テレポ至エーテライト</target>
+                <target>エーテライトへテレポ</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UnreachablePoints" xml:space="preserve">
                 <source>剩余点位均无法到达，扫描已停止，已有结果已保留。</source>
-                <target>残り地点均できません到着、スキャン停止しました、已有結果已保留。</target>
+                <target>残りの地点に到達できないため、スキャンを停止しました。取得済みの結果は保持されています。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPoints" xml:space="preserve">
                 <source>更新点位数据</source>
@@ -2752,19 +2752,19 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsFailed" xml:space="preserve">
                 <source>更新点位数据失败，请检查网络连接后重试。</source>
-                <target>更新地点データ失敗、してください检查ネットワーク接続後再試行。</target>
+                <target>出現地点データを更新できませんでした。ネットワーク接続を確認して、もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-UpdateSpawnPointsRet" xml:space="preserve">
                 <source>更新了{count}个恶名精英点位。</source>
-                <target>更新しました{count}個リスキーモブ地点。</target>
+                <target>リスキーモブの出現地点を{count}件更新しました。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinder-ZoneInfoForEachMark" xml:space="preserve">
                 <source>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</source>
-                <target>{location}{instance, plural, =0 {} other {（{instanceText}线）}}</target>
+                <target>{location}{instance, plural, =0 {} other {（{instanceText}）}}</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
                 <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
-                <target>設定後、自動スキャン選択したエリア内の A 级リスキーモブ、し、可に基づいて記録データクイック带领モブハント列車。</target>
+                <target>選択したエリアにいるAランクリスキーモブを自動でスキャンします。記録したデータを使って、モブハント列車を簡単に案内できます。</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
@@ -3562,51 +3562,51 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn" xml:space="preserve">
                 <source>实时试穿</source>
-                <target>リアルタイム试穿</target>
+                <target>試着プレビューを自動更新</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
                 <source>勾选后，点击左侧任意染剂颜色将自动应用至试穿室预览。</source>
-                <target>勾选後、クリック左侧任意染料色将自動適用至试穿室プレビュー。</target>
+                <target>有効にすると、左側の染料をクリックしたときに試着室のプレビューへ自動で反映します。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>{count}种颜色</source>
-                <target>{count}种色</target>
+                <target>{count}色</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-CatalogTitle" xml:space="preserve">
                 <source>染剂图鉴</source>
-                <target>染料图鉴</target>
+                <target>染料カタログ</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ColorValues" xml:space="preserve">
                 <source>色值</source>
-                <target>色值</target>
+                <target>色の値</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
                 <source>打开“染剂图鉴”界面。</source>
-                <target>開く「染料图鉴」画面。</target>
+                <target>染料カタログを開きます。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
                 <source>预览染剂颜色</source>
-                <target>プレビュー染料色</target>
+                <target>染料の色をプレビュー</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
                 <source>没有符合条件的染剂颜色</source>
-                <target>没有符合条件の染料色</target>
+                <target>条件に一致する染料はありません</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
-                <target>可染家具</target>
+                <target>染色可能な調度品</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Metallic" xml:space="preserve">
                 <source>仅金属</source>
-                <target>のみ金属</target>
+                <target>メタリックのみ</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Hint" xml:space="preserve">
                 <source>按 {conflictKey} 打开染剂图鉴</source>
-                <target>按 {conflictKey} 開く染料图鉴</target>
+                <target>{conflictKey}キーで染料カタログを開く</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-OwnedCount" xml:space="preserve">
                 <source>持有 {count}</source>
-                <target>所持 {count}</target>
+                <target>所持数：{count}</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Scope-All" xml:space="preserve">
                 <source>全部染剂</source>
@@ -3614,47 +3614,47 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Scope-Single" xml:space="preserve">
                 <source>稀有单色</source>
-                <target>レア单色</target>
+                <target>希少な単色染料</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-SearchPlaceholder" xml:space="preserve">
                 <source>搜索染剂……</source>
-                <target>検索染料……</target>
+                <target>染料を検索…</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-SimilarColors" xml:space="preserve">
                 <source>相近颜色对比</source>
-                <target>相近色对比</target>
+                <target>近似色を比較</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-HousingNo" xml:space="preserve">
                 <source>不可染家具</source>
-                <target>不可染家具</target>
+                <target>染色不可の調度品</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-HousingYes" xml:space="preserve">
                 <source>可染家具</source>
-                <target>可染家具</target>
+                <target>染色可能な調度品</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-Metallic" xml:space="preserve">
                 <source>金属光泽</source>
-                <target>金属光泽</target>
+                <target>メタリック</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Tag-Normal" xml:space="preserve">
                 <source>常规质感</source>
-                <target>常规质感</target>
+                <target>通常の質感</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnDye1" xml:space="preserve">
                 <source>试穿染色1</source>
-                <target>试穿染色1</target>
+                <target>染色1を試着</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnDye2" xml:space="preserve">
                 <source>试穿染色2</source>
-                <target>试穿染色2</target>
+                <target>染色2を試着</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
                 <source>当前没有可供染色预览的装备</source>
-                <target>現在の没有可供染色プレビューの装備</target>
+                <target>染色プレビュー可能な装備がありません</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
-                <target>悬浮染料時自動在「道具ヘルプ」旁プレビュー其包含の色。追加「染料图鉴」画面、可在その中で絞り込み色系、検索染料、比较相近色、リアルタイム试穿と表示复制具体のな色值、対応〜を通じて打断热键、右クリック菜单または「/pdr {command}」文本指令開く。</target>
+                <target>染料にマウスカーソルを合わせると、「アイテム詳細」の横に色をプレビューします。染料カタログでは、色系統の絞り込みや検索、近似色の比較、試着、色の値のコピーができます。競合キー、右クリックメニュー、または「/pdr {command}」で開けます。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeTitle" xml:space="preserve">
                 <source>自动预览染剂颜色</source>
@@ -3708,7 +3708,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Button-Save" xml:space="preserve">
                 <source>保存为预设</source>
-                <target>保存为プリセット</target>
+                <target>プリセットとして保存</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Delete" xml:space="preserve">
                 <source>删除该预设</source>
@@ -3716,7 +3716,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-EditRemark" xml:space="preserve">
                 <source>编辑备注</source>
-                <target>編集备注</target>
+                <target>メモを編集</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-ContextMenu-Update" xml:space="preserve">
                 <source>以当前设置覆盖该预设</source>
@@ -3730,11 +3730,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Message-EditRemark" xml:space="preserve">
                 <source>请设置预设的备注。</source>
-                <target>してください設定プリセットの备注。</target>
+                <target>プリセットのメモを入力してください。</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSetting-Preset" xml:space="preserve">
                 <source>招募预设</source>
-                <target>招募プリセット</target>
+                <target>募集プリセット</target>
             </trans-unit>
             <trans-unit id="AutoRecordPartyFinderSettingDescription" xml:space="preserve">
                 <source>支持将“编辑招募内容”界面内的填写设置的各项信息保存为预设，并自动保存上次填写设置的信息以供下次打开界面时自动填充。</source>
@@ -4166,33 +4166,33 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-AddonTitle" xml:space="preserve">
                 <source>批量移动{furnitureType}</source>
-                <target>一括移動{furnitureType}</target>
+                <target>{furnitureType}をまとめて移動</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Completed" xml:space="preserve">
                 <source>移动了{count}件庭具或家具。</source>
-                <target>移動了{count}件庭具または家具。</target>
+                <target>調度品・家具を{count}個移動しました。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-ConfirmRemoval" xml:space="preserve">
                 <source>所选庭具或家具中有部分可能会因为移动而丢失摆设、栽培内容或外观设置。
 确认要继续移动吗？</source>
-                <target>選択した庭具または家具中有一部の可能性があります会因为移動、丢失摆设、栽培内容または外観設定。
-確認要继续移動しますか？</target>
+                <target>選択した調度品・家具の中に、移動によって設置内容、栽培内容、または外観設定が失われるものがあります。
+続行しますか？</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destination" xml:space="preserve">
                 <source>要把{furnitureType}移动到哪里去？</source>
-                <target>要把{furnitureType}移動到哪里去？</target>
+                <target>{furnitureType}の移動先を選択してください。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Destructive" xml:space="preserve">
                 <source>所选庭具或家具中包含无法移动的物品，请取消勾选对应庭具或家具后重试。</source>
-                <target>選択した庭具または家具中包含移動できないの物品、してくださいキャンセル勾选对应庭具または家具後再試行。</target>
+                <target>選択した調度品・家具に移動できないものがあります。該当するものの選択を解除して、もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-DestructiveTooltip" xml:space="preserve">
                 <source>该庭具或家具无法收回背包。</source>
-                <target>该庭具または家具できません所持品に戻す。</target>
+                <target>この調度品・家具は所持品に戻せません。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Failed" xml:space="preserve">
                 <source>未能移动庭具或家具，已停止批量移动。</source>
-                <target>できませんでした移動庭具または家具、停止しました一括移動。</target>
+                <target>調度品・家具を移動できなかったため、一括移動を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Move" xml:space="preserve">
                 <source>批量移动</source>
@@ -4200,19 +4200,19 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-RemovalWarningTooltip" xml:space="preserve">
                 <source>移动可能导致摆设、栽培内容或外观设置丢失。</source>
-                <target>移動可能性があります导致摆设、栽培内容または外観設定丢失。</target>
+                <target>移動すると、設置内容、栽培内容、または外観設定が失われる場合があります。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurniture-Source" xml:space="preserve">
                 <source>要移动哪里的{furnitureType}？</source>
-                <target>要移動哪里の{furnitureType}？</target>
+                <target>移動元の{furnitureType}を選択してください。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureDescription" xml:space="preserve">
                 <source>为“庭具设置”/“家具设置”界面新增批量移动家具界面，支持在“已布置”、“仓库”与“背包”间批量移动所选家具。</source>
-                <target>为「庭具設定」/「家具設定」画面追加一括移動家具画面、対応在「已布置」、「倉庫」と「所持品」间一括移動選択した家具。</target>
+                <target>「庭具の設置」「家具の設置」画面に家具の一括移動画面を追加します。「設置済み」「倉庫」「所持品」の間で、選択した家具をまとめて移動できます。</target>
             </trans-unit>
             <trans-unit id="AutoRestoreFurnitureTitle" xml:space="preserve">
                 <source>自动批量移动庭具家具</source>
-                <target>自動一括移動庭具・家具</target>
+                <target>調度品・家具の一括移動</target>
             </trans-unit>
             <trans-unit id="AutoResumeQuestRedoDescription" xml:space="preserve">
                 <source>若已有中断的存档，则在登录、退出副本后自动继续游玩昔日重现。</source>
@@ -4662,11 +4662,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerDescription" xml:space="preserve">
                 <source>在副本“魔光键影”中，自动显示被刻意隐藏的“消息”界面，以便核对各种消息。</source>
-                <target>在ダンジョン「魔光键影」中、自動表示被刻意非表示の「メッセージ」画面、以便核对各种メッセージ。</target>
+                <target>「魔光鍵影」内で、意図的に非表示にされたチャットログを自動で表示し、各種メッセージを確認できるようにします。</target>
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动魔光键影内显示“消息”界面</source>
-                <target>自動魔光键影内表示「メッセージ」画面</target>
+                <target>魔光鍵影でチャットログを自動表示</target>
             </trans-unit>
             <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
                 <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
@@ -5774,7 +5774,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListDescription" xml:space="preserve">
                 <source>将蜃景幻界新月岛中的“辅助职业列表”界面替换为更加美观易用的界面，支持自定义排序、外显职业名称、拖出真实技能与显示解锁方式。</source>
-                <target>将蜃景幻界新月岛中の「辅助ジョブ列表」画面替换为更加美观易用の画面、対応自定义排序、表示ジョブ名前、拖出真实スキルと表示解锁方法。</target>
+                <target>蜃気楼の新月島にある「サポートジョブ一覧」画面を、より使いやすい画面に置き換えます。並べ替え、ジョブ名の表示、実際のアクションのドラッグ、解放条件の表示に対応します。</target>
             </trans-unit>
             <trans-unit id="BetterMKDSupportJobListTitle" xml:space="preserve">
                 <source>更好的辅助职业列表</source>
@@ -6117,7 +6117,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterDescription" xml:space="preserve">
                 <source>整合原生多个零散的招募过滤设置界面，并支持多种规则智能化筛选满足要求的招募信息。</source>
-                <target>整合原生多個零散の招募过滤設定画面、し、対応多种规则智能化絞り込み满足要求の招募情報。</target>
+                <target>複数の募集フィルター設定をまとめ、さまざまな条件で要件に合うパーティ募集を自動的に絞り込めるようにします。</target>
             </trans-unit>
             <trans-unit id="BetterPartyFinderFilterTitle" xml:space="preserve">
                 <source>更好的招募过滤界面</source>
@@ -6169,7 +6169,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterTeleport-Notification" xml:space="preserve">
                 <source>准备传送至“{destination}”。</source>
-                <target>准备テレポ至「{destination}」。</target>
+                <target>「{destination}」へテレポします。</target>
             </trans-unit>
             <trans-unit id="BetterTeleport-PageFull" xml:space="preserve">
                 <source>完整列表</source>
@@ -6193,7 +6193,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterTeleportDescription" xml:space="preserve">
                 <source>提供更好的界面以取代“传送”界面，支持搜索、快捷键操作、预览目的地位置、添加备注、修改传送目的地位置并可传送至任一城内以太之晶处。</source>
-                <target>提供更好の画面以取代「テレポ」画面、対応検索、クイック键操作、プレビュー目の地位置、添加备注、変更テレポ目の地位置し、可テレポ至任一城内以太の晶处。</target>
+                <target>検索、ショートカット操作、目的地の位置のプレビューやメモ、テレポ先の変更に対応した「テレポ」画面を追加します。都市内のエーテライトにもテレポできます。</target>
             </trans-unit>
             <trans-unit id="BetterTeleportTitle" xml:space="preserve">
                 <source>更好的传送界面</source>
@@ -6230,7 +6230,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
                 <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
-                <target>ダンジョン「休養地ブレイフロクスの野営地」に入ると、自動と「哥布林経路探索人」对话获取「避难地正门の钥匙」。</target>
+                <target>「休養地ブレイフロクスの野営地」に入ると、「ゴブリン族の道案内」と自動で会話し、「避難地の正門の鍵」を入手します。</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
                 <source>休养胜地布雷福洛克斯野营地助手</source>
@@ -6566,7 +6566,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CopiedTextToClipboard" xml:space="preserve">
                 <source>复制了“{text}”到剪贴板。</source>
-                <target>コピーしました「{text}」到剪贴板。</target>
+                <target>「{text}」をクリップボードにコピーしました。</target>
             </trans-unit>
             <trans-unit id="CopiedToClipboard" xml:space="preserve">
                 <source>已复制至剪贴板</source>
@@ -6594,11 +6594,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperDescription" xml:space="preserve">
                 <source>进入副本“亚历山大机神城 启动之章2”后，突出显示“炸弹”位置与爆炸范围，并在未骑乘“7号哥布林战车”时自动禁止选中“炸弹”。</source>
-                <target>ダンジョン「亚历山大机神城 启动の章2」に入ると、突出表示「炸弹」位置と爆炸范围、し、在未マウント「7号哥布林战车」時自動禁止选中「炸弹」。</target>
+                <target>「機工城アレキサンダー：起動編2」に入ると、「爆弾」の位置と爆発範囲を強調表示します。「ゴブリンスチーマー7号」に乗っていない間は、爆弾を選択できないようにします。</target>
             </trans-unit>
             <trans-unit id="CuffOfTheFatherHelperTitle" xml:space="preserve">
                 <source>启动之章2助手</source>
-                <target>启动の章2アシスタント</target>
+                <target>起動編2アシスタント</target>
             </trans-unit>
             <trans-unit id="Current" xml:space="preserve">
                 <source>当前</source>
@@ -6870,7 +6870,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerDescription" xml:space="preserve">
                 <source>支持为“地图”界面添加不限数量的自定义标记，并可备注、分组与批量导入或导出。</source>
-                <target>対応为「マップ」画面添加不限数量の自定义标记、し、可备注、分组と一括インポートまたはエクスポート。</target>
+                <target>マップに数の制限なくカスタムマーカーを追加できます。メモやグループの設定、まとめてのインポート・エクスポートにも対応します。</target>
             </trans-unit>
             <trans-unit id="CustomizeMapMarkerTitle" xml:space="preserve">
                 <source>自定义地图标记</source>
@@ -7294,11 +7294,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInn-CommandHelp" xml:space="preserve">
                 <source>一键进入或离开旅馆。</source>
-                <target>ワンクリック入るとまたは离开旅馆。</target>
+                <target>宿屋への入室・退室をワンボタンで行います。</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnDescription" xml:space="preserve">
                 <source>移除进入和离开旅馆时弹出的二次确认对话框，并提供“/pdr {command}”指令以一键进入最近的旅馆。</source>
-                <target>削除入るとと离开旅馆時弹出の再確認对话框、し、提供「/pdr {command}」指令以ワンクリック入ると最近の旅馆。</target>
+                <target>宿屋への入室・退室時に表示される確認ダイアログを省略します。「/pdr {command}」で最寄りの宿屋にすぐ入室することもできます。</target>
             </trans-unit>
             <trans-unit id="FastEnterAndLeaveInnTitle" xml:space="preserve">
                 <source>快捷进出旅馆</source>
@@ -7321,23 +7321,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-AddDTREntry" xml:space="preserve">
                 <source>在服务器信息栏显示当前所在的副本区</source>
-                <target>在サーバー情報栏表示現在のにあるインスタンスエリア</target>
+                <target>サーバー情報欄に現在のインスタンスエリアを表示する</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonKeyHint" xml:space="preserve">
                 <source>（数字键{keyboardHint}）</source>
-                <target>（数字键{keyboardHint}）</target>
+                <target>（テンキー{keyboardHint}）</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ButtonTitle" xml:space="preserve">
                 <source>切换至副本区{instanceText}</source>
-                <target>切り替え至インスタンスエリア{instanceText}</target>
+                <target>インスタンスエリア{instanceText}へ切り替え</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-CommandHelp" xml:space="preserve">
                 <source>打开或关闭快捷切换副本区界面。
 /pdr insc &lt;副本区编号&gt; 前往当前区域指定的副本区（从1开始）。
 /pdr insc abort 放弃切换副本区。</source>
-                <target>開くまたは閉じるクイック切り替えインスタンスエリア画面。
-/pdr insc &lt;インスタンスエリア编号&gt; 〜へ移動現在の区域指定のインスタンスエリア（从1开始）。
-/pdr insc abort 放弃切换インスタンスエリア。</target>
+                <target>インスタンスエリア切り替え画面を開閉します。
+/pdr insc &lt;インスタンス番号&gt;：現在のエリアの指定したインスタンスへ移動します（番号は1から）。
+/pdr insc abort：インスタンスエリアの切り替えを中止します。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-ConstantlyTry" xml:space="preserve">
                 <source>若切换失败则重复尝试至切换成功</source>
@@ -7345,7 +7345,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTREntryTooltip" xml:space="preserve">
                 <source>点击打开快捷切换副本区界面。</source>
-                <target>クリック開くクイック切り替えインスタンスエリア画面。</target>
+                <target>クリックしてインスタンスエリア切り替え画面を開く</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-DTRFormat" xml:space="preserve">
                 <source>副本区{instanceText}</source>
@@ -7353,19 +7353,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Aborted" xml:space="preserve">
                 <source>放弃了切换副本区。</source>
-                <target>放弃了切り替えインスタンスエリア。</target>
+                <target>インスタンスエリアの切り替えを中止しました。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-Goto" xml:space="preserve">
                 <source>准备前往副本区“{instanceText}”。</source>
-                <target>准备移動インスタンスエリア「{instanceText}」。</target>
+                <target>インスタンスエリア「{instanceText}」へ移動します。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-NoInstanceZones" xml:space="preserve">
                 <source>当前区域未划分副本区。</source>
-                <target>現在のエリア未划分インスタンスエリア。</target>
+                <target>現在のエリアにインスタンスエリアはありません。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-Notification-SameInstance" xml:space="preserve">
                 <source>当前正位于副本区“{instanceText}”。</source>
-                <target>現在の正位于インスタンスエリア「{instanceText}」。</target>
+                <target>すでにインスタンスエリア「{instanceText}」にいます。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChange-TeleportIfNotNearAetheryte" xml:space="preserve">
                 <source>若附近无可用以太之光则先传送至最近的以太之光</source>
@@ -7373,11 +7373,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeDescription" xml:space="preserve">
                 <source>在服务器信息栏显示所在的副本区，新增快捷副本区切换界面与“/pdr {command}”指令以一键前往指定的副本区，并支持自动重试与切换副本区后自动恢复骑乘坐骑。</source>
-                <target>在サーバー情報栏表示にあるインスタンスエリア、追加クイックインスタンスエリア切り替え画面と「/pdr {command}」指令以ワンクリック〜へ移動指定のインスタンスエリア，、対応自动再試行与切换インスタンスエリア後自动恢复骑乘坐骑。</target>
+                <target>サーバー情報欄に現在のインスタンスエリアを表示します。指定したインスタンスへすぐ移動する画面と「/pdr {command}」コマンドを追加します。再試行や、移動後のマウント再騎乗にも対応します。</target>
             </trans-unit>
             <trans-unit id="FastInstanceZoneChangeTitle" xml:space="preserve">
                 <source>快捷切换副本区</source>
-                <target>クイック切り替えインスタンスエリア</target>
+                <target>インスタンスエリアをすばやく切り替え</target>
             </trans-unit>
             <trans-unit id="FastJoinAnotherPartyRecruitment-LeaveAndJoin" xml:space="preserve">
                 <source>退队并参加</source>
@@ -7599,7 +7599,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BlacklistedIcons" xml:space="preserve">
                 <source>不显示的图标</source>
-                <target>表示しないのアイコン</target>
+                <target>非表示にするアイコン</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-BrowseIcons" xml:space="preserve">
                 <source>浏览图标</source>
@@ -7607,51 +7607,51 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ClickToRemoveFromBlacklist" xml:space="preserve">
                 <source>单击以从黑名单中移除该图标。</source>
-                <target>クリック以从黑名单中削除该アイコン。</target>
+                <target>クリックして、このアイコンを非表示リストから削除します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Abort" xml:space="preserve">
                 <source>放弃当前所有的传送任务。</source>
-                <target>放弃現在のすべてののテレポコンテンツ。</target>
+                <target>保留中のテレポをすべて中止します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Aetheryte" xml:space="preserve">
                 <source>尝试交互附近可用的任一以太之光或城内以太之晶。</source>
-                <target>操作を試行付近可用の任一エーテライトまたは城内以太の晶。</target>
+                <target>近くで利用可能なエーテライトまたは都市内エーテライトにアクセスします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Custom" xml:space="preserve">
                 <source>&lt;自定义传送点名称&gt; 传送至指定自定义传送点。</source>
-                <target>&lt;自定义テレポ点名前&gt; テレポ至指定自定义テレポ点。</target>
+                <target>&lt;カスタムテレポ地点名&gt;：指定したカスタム地点へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Flag" xml:space="preserve">
                 <source>传送至地图标点位置。</source>
-                <target>テレポ至マップ标地点置。</target>
+                <target>マップのフラッグ位置へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Ground" xml:space="preserve">
                 <source>尝试检测上下方地面，并传送至地面所在位置。</source>
-                <target>試行検出上下方地面、し、テレポ至地面にある位置。</target>
+                <target>上下の地面を検出し、地面の位置へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Main" xml:space="preserve">
                 <source>该指令所属于“快捷传送面板”模块，详情请查阅模块配置页面。</source>
-                <target>该指令所属于「クイックテレポ面板」モジュール、詳細してください查阅モジュール設定页面。</target>
+                <target>このコマンドは「クイックテレポパネル」モジュールのものです。詳しくはモジュール設定をご確認ください。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Mouse" xml:space="preserve">
                 <source>传送至鼠标所指处位置。</source>
-                <target>テレポ至鼠标所指处位置。</target>
+                <target>マウスカーソル位置へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Pos" xml:space="preserve">
                 <source>&lt;x&gt; &lt;y&gt; &lt;z&gt; 传送至指定坐标。</source>
-                <target>&lt;x&gt; &lt;y&gt; &lt;z&gt; テレポ至指定坐标。</target>
+                <target>&lt;x&gt; &lt;y&gt; &lt;z&gt;：指定した座標へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-PosOffset" xml:space="preserve">
                 <source>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距离。</source>
-                <target>&lt;x/y/z&gt; &lt;偏移量&gt; 在指定坐标轴上偏移指定距離。</target>
+                <target>&lt;x/y/z&gt; &lt;オフセット&gt;：指定した座標軸に沿って、指定距離だけ移動します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Quest" xml:space="preserve">
                 <source>&lt;任务索引&gt; 传送并交互指定索引的任务目标。</source>
-                <target>&lt;コンテンツ索引&gt; テレポし、操作指定索引のコンテンツ対象。</target>
+                <target>&lt;クエストインデックス&gt;：指定したクエスト目標へテレポして操作します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CommandHelp-Target" xml:space="preserve">
                 <source>传送至当前目标所在位置。</source>
-                <target>テレポ至現在の対象にある位置。</target>
+                <target>現在のターゲット位置へテレポします。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CurrentFlagMarker" xml:space="preserve">
                 <source>当前标点</source>
@@ -7659,7 +7659,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkerAddSuccess" xml:space="preserve">
                 <source>成功添加了自定义传送点“{name}”。</source>
-                <target>追加しました自定义テレポ点「{name}」。</target>
+                <target>カスタムテレポ地点「{name}」を追加しました。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-CustomMarkers" xml:space="preserve">
                 <source>自定义传送点</source>
@@ -7683,11 +7683,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-IconID" xml:space="preserve">
                 <source>图标唯一标识符</source>
-                <target>アイコン唯一标识符</target>
+                <target>アイコンID</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-InaccurateYPosHelp" xml:space="preserve">
                 <source>目的地高度不准确，可能需要传送后手动调整。</source>
-                <target>目の地高度不准确、可能性があります必要テレポ後手動调整。</target>
+                <target>目的地の高さが正確でないため、テレポ後に手動調整が必要な場合があります。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-NotSet" xml:space="preserve">
                 <source>（未设置）</source>
@@ -7719,11 +7719,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToFlag" xml:space="preserve">
                 <source>传送（地图标点）</source>
-                <target>テレポ（マップ标点）</target>
+                <target>テレポ（マップのフラッグ）</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-TeleportToManualPos" xml:space="preserve">
                 <source>传送（自定义坐标）</source>
-                <target>テレポ（自定义坐标）</target>
+                <target>テレポ（座標指定）</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition" xml:space="preserve">
                 <source>二次修正高度</source>
@@ -7731,11 +7731,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-ToCorrectYPosition-Help" xml:space="preserve">
                 <source>勾选后，会认为该标点的高度（Y 轴）不准确。在传送至该标记时，会尝试检测角色上下方是否存在地面, 并将人物高度修正至最近的地面处。</source>
-                <target>勾选後、会认为该标点の高度（Y 轴）不准确。在テレポ至该标记時、会試行検出キャラクター上下方是否存在地面, し、将人物高度修正至最近の地面处。</target>
+                <target>有効にすると、フラッグの高さ（Y軸）が不正確とみなされます。その位置にテレポする際、上下の地面を検出し、最も近い地面に高さを合わせます。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Tooltip-ToAdjustPosOffsetValue" xml:space="preserve">
                 <source>单击右键可调整偏移量。</source>
-                <target>クリック右クリック可调整偏移量。</target>
+                <target>右クリックでオフセットを調整します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanel-Weight" xml:space="preserve">
                 <source>权重</source>
@@ -7743,11 +7743,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastTeleportPanel-WeightHelp" xml:space="preserve">
                 <source>权重值越大，则排序越靠前。</source>
-                <target>权重值越大、则排序越靠前。</target>
+                <target>重みを大きくすると、より上位に表示されます。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelDescription" xml:space="preserve">
                 <source>新增快捷传送面板，用以传送至区域内任意位置或任一标记处。</source>
-                <target>追加クイックテレポ面板、〜するためテレポ至エリア内任意位置または任一标记处。</target>
+                <target>エリア内の任意の位置やマーカーへテレポできるクイックテレポパネルを追加します。</target>
             </trans-unit>
             <trans-unit id="FastTeleportPanelTitle" xml:space="preserve">
                 <source>快捷传送面板</source>
@@ -7811,21 +7811,21 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FasterNormalToastDescription" xml:space="preserve">
                 <source>重构浮动提示显示机制，下一条浮动提示显示时自动快速渐隐前一条，避免大量堆积而极大拉长显示完成用时。</source>
-                <target>重构浮动ヒント表示机制、下一条浮动ヒント表示時自動高速渐隐前一条、避免大量堆积、极大拉长表示完成用時。</target>
+                <target>新しい通常通知が表示されると、前の通知をすばやくフェードアウトします。通知が大量に重なり、表示に時間がかかるのを防ぎます。</target>
             </trans-unit>
             <trans-unit id="FasterNormalToastTitle" xml:space="preserve">
                 <source>更快的浮动提示</source>
-                <target>更快の浮动ヒント</target>
+                <target>通常通知をすばやく表示</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportDescription" xml:space="preserve">
                 <source>加快所有区域内服务器移动行为的速度，以尽早脱离加载期间的禁用状态。
 （示例：使用城内以太之晶、捷径、船头）</source>
-                <target>加快すべてのエリア内サーバー移動動作の速度、以尽早脱离読み込み期间の禁用ステータス。
-（示例：使用城内以太の晶、捷径、船头）</target>
+                <target>エリア内のサーバー移動処理を高速化し、ロード中の操作制限を早く解除します。
+（例：都市内エーテライト、ショートカット、船首）</target>
             </trans-unit>
             <trans-unit id="FasterTerritoryTransportTitle" xml:space="preserve">
                 <source>更快的区域内移动加载</source>
-                <target>更快のエリア内移動読み込み</target>
+                <target>エリア内移動の高速化</target>
             </trans-unit>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>收藏</source>
@@ -7857,105 +7857,105 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FirstSetupWindow-AppearanceSubtitle" xml:space="preserve">
                 <source>选择喜欢的主题样式与界面布局</source>
-                <target>選択喜欢の主题样式と画面布局</target>
+                <target>テーマと画面レイアウトを選択します</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-AuthTitle" xml:space="preserve">
                 <source>免费与在线验证</source>
-                <target>無料とオンライン認証</target>
+                <target>無料のオンライン認証</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CanChangeLater" xml:space="preserve">
                 <source>以上设置均可随时在主界面的“设置”中调整。</source>
-                <target>以上設定均可随時在メイン画面の「設定」中调整。</target>
+                <target>これらの設定は、後からメイン画面の「設定」でいつでも変更できます。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CompactMode" xml:space="preserve">
                 <source>紧凑模式</source>
-                <target>紧凑モード</target>
+                <target>コンパクトモード</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-CompactMode-Help" xml:space="preserve">
                 <source>在主界面以更紧凑的卡片展示模块列表，同屏可浏览更多模块。</source>
-                <target>在メイン画面以更紧凑の卡片展示モジュール列表、同じ画面可浏览更多モジュール。</target>
+                <target>メイン画面のモジュール一覧をコンパクトなカードで表示し、一度に多くのモジュールを確認できます。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
-                <target>「推奨モジュール」是由开发组絞り込みの、能改善绝大多数プレイヤーの游玩体験、又不会过多改变游玩方法のモジュール、目の是让プラグイン足够「开箱即用」。
-稍後できます随時禁用这些モジュール。</target>
+                <target>「推奨モジュール」は、開発チームが多くのプレイヤーの遊びやすさを向上させ、プレイスタイルを大きく変えないものとして選定しています。プラグインをすぐ使い始められるようにするための設定です。
+これらのモジュールは後からいつでも無効にできます。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-FinishAndStart" xml:space="preserve">
                 <source>开始使用</source>
-                <target>開始使用</target>
+                <target>開始する</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-GameSection" xml:space="preserve">
                 <source>游戏体验</source>
-                <target>游戏体験</target>
+                <target>ゲームプレイ</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP1" xml:space="preserve">
                 <source>Daily Routines 是一款合集类插件，致力于通过易用性改动与自动化提升游戏体验，提供海量可自由搭配的模块。</source>
-                <target>Daily Routines 是一款合集类プラグイン、致力于〜を通じて易用性改动と自動化提升游戏体験、提供海量可自由搭配のモジュール。</target>
+                <target>Daily Routinesは、使いやすさの改善や自動化によってゲーム体験を向上させる、多数のモジュールを備えたプラグインです。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP2" xml:space="preserve">
                 <source>插件完全免费，没有任何功能需要收费。为遏制倒卖与更改署名行为，部分模块需要通过免费、定期、自助的在线验证才能使用。</source>
-                <target>プラグイン完全無料、没有任何功能必要收费。为遏制倒卖と更改署名動作、一部のモジュール必要〜を通じて無料、定期、自助のオンライン認証才能使用。</target>
+                <target>プラグインは完全無料で、有料機能はありません。転売やクレジット改変を防ぐため、一部のモジュールでは無料のオンライン認証が定期的に必要です。認証はいつでも自分で行えます。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroP3" xml:space="preserve">
                 <source>插件内各类功能无所不包，不正当地使用部分模块可能招致举报乃至封号。请谨慎选择开启与使用，并自行承担任何可能的使用风险。</source>
-                <target>プラグイン内各类功能无所不包、不正当地使用一部のモジュール可能性があります招致举报乃至封号。してください慎重選択开启と使用、し、自行承担任何可能性がありますの使用リスク。</target>
+                <target>プラグインにはさまざまな機能があります。一部のモジュールを不適切に使用すると、通報やアカウント停止につながるおそれがあります。有効化や使用は慎重に判断し、想定されるリスクはご自身で負ってください。</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-IntroTitle" xml:space="preserve">
                 <source>关于插件</source>
-                <target>概要プラグイン</target>
+                <target>プラグインについて</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-JoinDiscord" xml:space="preserve">
                 <source>加入 Discord</source>
-                <target>加入 Discord</target>
+                <target>Discordに参加</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-NextStep" xml:space="preserve">
                 <source>下一步</source>
-                <target>回へ</target>
+                <target>次へ</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-NoticeSubtitle" xml:space="preserve">
                 <source>了解插件定位、免费原则与使用风险</source>
-                <target>了解プラグイン定位、無料原则と使用リスク</target>
+                <target>プラグインの方針、無料であること、使用上のリスクを確認します</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-PreferencesSubtitle" xml:space="preserve">
                 <source>按需开启推荐模块与常用体验优化</source>
-                <target>按需开启推奨モジュールと常用体験优化</target>
+                <target>必要に応じて推奨モジュールや便利な機能を有効にします</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-PreviousStep" xml:space="preserve">
                 <source>上一步</source>
-                <target>前へ</target>
+                <target>戻る</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-RejectTooltip" xml:space="preserve">
                 <source>拒绝须知并禁用 Daily Routines 插件</source>
-                <target>拒绝须知し、禁用 Daily Routines プラグイン</target>
+                <target>注意事項に同意せず、Daily Routinesを無効にする</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-SelectLanguage" xml:space="preserve">
                 <source>请选择界面语言</source>
-                <target>選択してください画面言語</target>
+                <target>表示言語を選択してください</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Appearance" xml:space="preserve">
                 <source>界面外观</source>
-                <target>画面外観</target>
+                <target>画面の外観</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Language" xml:space="preserve">
                 <source>界面语言</source>
-                <target>画面言語</target>
+                <target>表示言語</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Notice" xml:space="preserve">
                 <source>使用须知</source>
-                <target>使用须知</target>
+                <target>使用上の注意</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-Step-Preferences" xml:space="preserve">
                 <source>常用偏好</source>
-                <target>常用偏好</target>
+                <target>基本設定</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WarningTitle" xml:space="preserve">
                 <source>风险说明</source>
-                <target>リスク説明</target>
+                <target>リスクについて</target>
             </trans-unit>
             <trans-unit id="FirstSetupWindow-WelcomeTitle" xml:space="preserve">
                 <source>欢迎使用 Daily Routines</source>
-                <target>ようこそ Daily Routines</target>
+                <target>Daily Routinesへようこそ</target>
             </trans-unit>
             <trans-unit id="Focused" xml:space="preserve">
                 <source>聚焦</source>
@@ -8245,11 +8245,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperDescription" xml:space="preserve">
                 <source>进入副本“财宝传说破舰岛”后，自动突出标记需要避开的“捕兽夹”与需要开启的“怪宝箱”。</source>
-                <target>ダンジョン「財宝伝説 ハルブレーカー・アイル」に入ると、自動強調表示必要避开の「捕兽夹」と必要开启の「怪宝箱」。</target>
+                <target>「財宝伝説 ハルブレーカー・アイル」に入ると、避けるべき「トラバサミ」と開けるべき「宝箱」を強調表示します。</target>
             </trans-unit>
             <trans-unit id="HullbreakerIsleHelperTitle" xml:space="preserve">
                 <source>财宝传说破舰岛助手</source>
-                <target>財宝伝説 ハルブレーカー・アイルアシスタント</target>
+                <target>財宝伝説 ハルブレーカー・アイル アシスタント</target>
             </trans-unit>
             <trans-unit id="ID" xml:space="preserve">
                 <source>唯一标识符</source>
@@ -8257,7 +8257,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="IPC-InstalledAndEnabledPlugin" xml:space="preserve">
                 <source>安装并启用了插件“{pluginName}”。</source>
-                <target>安装し、启用了プラグイン「{pluginName}」。</target>
+                <target>プラグイン「{pluginName}」をインストールして有効にしました。</target>
             </trans-unit>
             <trans-unit id="Icon" xml:space="preserve">
                 <source>图标</source>
@@ -8269,7 +8269,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="IconBrowser-Suggestion" xml:space="preserve">
                 <source>建议从60000及之后寻找想要的图标。</source>
-                <target>建议从60000及の後寻找想要のアイコン。</target>
+                <target>60000以降の番号から目的のアイコンを探すことをおすすめします。</target>
             </trans-unit>
             <trans-unit id="IconOffset" xml:space="preserve">
                 <source>图标偏移</source>
@@ -8421,11 +8421,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="JobSwitchCommand-CommandHelp" xml:space="preserve">
                 <source>&lt;职业唯一标识符/职业名称/职业名称拼音&gt; 切换到指定职业或特职。</source>
-                <target>&lt;ジョブ唯一标识符/ジョブ名前/ジョブ名前拼音&gt; 切り替え到指定ジョブまたはジョブ。</target>
+                <target>&lt;ジョブID／ジョブ名／ジョブ名の拼音&gt;：指定したクラスまたはジョブに切り替えます。</target>
             </trans-unit>
             <trans-unit id="JobSwitchCommandDescription" xml:space="preserve">
                 <source>新增“/pdr {command} &lt;职业唯一标识符/职业名称/职业名称拼音&gt;”指令，以切换到指定职业或特职。</source>
-                <target>追加「/pdr {command} &lt;职业唯一标识符/职业名称/职业名称拼音&gt;」指令，以切换到指定职业或特职。</target>
+                <target>「/pdr {command} &lt;ジョブID／ジョブ名／ジョブ名の拼音&gt;」コマンドで、指定したクラスまたはジョブに切り替えられるようにします。</target>
             </trans-unit>
             <trans-unit id="JobSwitchCommandTitle" xml:space="preserve">
                 <source>职业切换指令</source>
@@ -8605,39 +8605,39 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account" xml:space="preserve">
                 <source>账号认证凭证</source>
-                <target>アカウント認証資格情報</target>
+                <target>アカウント認証情報</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Account-Help" xml:space="preserve">
                 <source>绑定当前登录的游戏账号，激活后运行在该账号上的插件视为已激活。</source>
-                <target>绑定現在のログインの游戏アカウント、激活後运行在该アカウント上のプラグイン视为已激活。</target>
+                <target>現在ログイン中のゲームアカウントに紐付けます。有効化すると、そのアカウントで実行するプラグインが認証済みになります。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Copy" xml:space="preserve">
                 <source>点击即可复制用于自助验证服务的加密验证令牌。</source>
-                <target>クリックするだけで复制用于自助验证サービスの加密验证令牌。</target>
+                <target>クリックすると、オンライン認証に使用する暗号化トークンをコピーします。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device" xml:space="preserve">
                 <source>设备认证凭证</source>
-                <target>デバイス認証資格情報</target>
+                <target>デバイス認証情報</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Device-Help" xml:space="preserve">
                 <source>绑定单一设备，激活后运行在该设备上的插件视为已激活。</source>
-                <target>绑定单一デバイス、激活後运行在该デバイス上のプラグイン视为已激活。</target>
+                <target>このデバイスに紐付けます。有効化すると、このデバイスで実行するプラグインが認証済みになります。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint" xml:space="preserve">
                 <source>无法生成有效的认证凭证，原因可能为：</source>
-                <target>できません生成有効の認証資格情報、原因可能性があります为：</target>
+                <target>有効な認証情報を生成できません。次の原因が考えられます：</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-IncompleteDevice" xml:space="preserve">
                 <source>设备缺乏有效辨识信息（如虚拟机）</source>
-                <target>デバイス缺乏有効辨识情報（如虚拟机）</target>
+                <target>デバイスを識別する情報が不足しています（仮想マシンなど）</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-NeedLogin" xml:space="preserve">
                 <source>尚未登录</source>
-                <target>尚未ログイン</target>
+                <target>ログインしていません</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-EmptyHint-WaitForServer" xml:space="preserve">
                 <source>等待服务器下发凭证信息</source>
-                <target>待機サーバー下发資格情報情報</target>
+                <target>サーバーから認証情報が届くのを待っています</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-ExpireTime" xml:space="preserve">
                 <source>过期时间</source>
@@ -8645,19 +8645,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester" xml:space="preserve">
                 <source>内部测试凭证</source>
-                <target>内部测试資格情報</target>
+                <target>内部テスト用認証情報</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Credential-Tester-Help" xml:space="preserve">
                 <source>受限范围的测试人员内部测试功能用。无任何公开获取渠道，谨防上当受骗。</source>
-                <target>受限范围の测试人员内部测试功能用。无任何公开获取渠道、谨防上当受骗。</target>
+                <target>限定された範囲の内部テストに使用します。一般向けの入手方法はありません。詐欺にご注意ください。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-InvalidCredential" xml:space="preserve">
                 <source>无效的凭证信息</source>
-                <target>無効の資格情報情報</target>
+                <target>認証情報が無効です</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-ServerConnectionLost" xml:space="preserve">
                 <source>无法连接至认证服务器</source>
-                <target>できません连接至認証サーバー</target>
+                <target>認証サーバーに接続できません</target>
             </trans-unit>
             <trans-unit id="MainWindow-Auth-Title" xml:space="preserve">
                 <source>Daily Routines 在线验证服务</source>
@@ -8665,19 +8665,19 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportError" xml:space="preserve">
                 <source>导入收藏夹失败。</source>
-                <target>インポートお気に入り夹失敗。</target>
+                <target>お気に入りのインポートに失敗しました。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-ImportSuccess" xml:space="preserve">
                 <source>已导入收藏夹。</source>
-                <target>インポートしましたお気に入り夹。</target>
+                <target>お気に入りをインポートしました。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Favorites-NameHint" xml:space="preserve">
                 <source>请输入新收藏夹名称，不可重复</source>
-                <target>入力してください新お気に入り夹名前、不可重复</target>
+                <target>重複しないお気に入り名を入力してください</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-DailyActiveUsers" xml:space="preserve">
                 <source>日活跃用户：{count}人</source>
-                <target>日活跃用户：{count}人</target>
+                <target>デイリーアクティブユーザー：{count}人</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-ModuleCounts" xml:space="preserve">
                 <source>模块：{enabledCount}/{totalCount}</source>
@@ -8685,23 +8685,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateBusy" xml:space="preserve">
                 <source>模块正在加载或卸载，请稍后再更新。</source>
-                <target>モジュール〜中読み込みまたは卸载、してください稍後再更新。</target>
+                <target>モジュールを読み込みまたはアンロード中です。しばらくしてから更新してください。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateDownloading" xml:space="preserve">
                 <source>正在下载新版本 {version}...</source>
-                <target>〜中ダウンロード新版本 {version}...</target>
+                <target>新しいバージョン{version}をダウンロード中…</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateDownloadingProgress" xml:space="preserve">
                 <source>正在下载新版本 {version}（{percent}%）</source>
-                <target>〜中ダウンロード新版本 {version}（{percent}%）</target>
+                <target>新しいバージョン{version}をダウンロード中（{percent}%）</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-UpdateReady" xml:space="preserve">
                 <source>新版本 {version} 已下载就绪，点击立即更新并重载插件。</source>
-                <target>新版本 {version} 已ダウンロード就绪、クリック立即更新し、重载プラグイン。</target>
+                <target>新しいバージョン{version}のダウンロードが完了しました。クリックすると更新してプラグインを再読み込みします。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Header-Updating" xml:space="preserve">
                 <source>正在应用更新并重载插件...</source>
-                <target>〜中適用更新し、重载プラグイン...</target>
+                <target>更新を適用してプラグインを再読み込みしています…</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Back" xml:space="preserve">
                 <source>返回</source>
@@ -8709,15 +8709,15 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
-                <target>クリア検索内容</target>
+                <target>検索語をクリア</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CompactView" xml:space="preserve">
                 <source>切换至紧凑视图</source>
-                <target>切り替え至紧凑视图</target>
+                <target>コンパクト表示に切り替え</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ConfigOverlay" xml:space="preserve">
                 <source>显示配置悬浮窗</source>
-                <target>表示設定悬浮窗</target>
+                <target>設定をオーバーレイ表示</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Configuration" xml:space="preserve">
                 <source>模块配置</source>
@@ -8725,43 +8725,43 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Modules-CopyInternalName" xml:space="preserve">
                 <source>复制模块内部名称</source>
-                <target>复制モジュール内部名前</target>
+                <target>モジュール内部名をコピー</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-EmptySearch" xml:space="preserve">
                 <source>未找到匹配的模块</source>
-                <target>未找到匹配のモジュール</target>
+                <target>一致するモジュールが見つかりません</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-EnableToConfig" xml:space="preserve">
                 <source>启用模块后可配置</source>
-                <target>启用モジュール後可設定</target>
+                <target>設定するにはモジュールを有効にしてください</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-FullView" xml:space="preserve">
                 <source>切换至完整视图</source>
-                <target>切り替え至完整视图</target>
+                <target>標準表示に切り替え</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-PreviewImage" xml:space="preserve">
                 <source>预览图</source>
-                <target>プレビュー图</target>
+                <target>プレビュー画像</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-RenderError" xml:space="preserve">
                 <source>渲染模块配置界面失败</source>
-                <target>描画モジュール設定画面失敗</target>
+                <target>モジュール設定画面の表示に失敗しました</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Report" xml:space="preserve">
                 <source>反馈</source>
-                <target>反馈</target>
+                <target>フィードバック</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-Reset" xml:space="preserve">
                 <source>重置模块</source>
-                <target>リセットモジュール</target>
+                <target>モジュールをリセット</target>
             </trans-unit>
             <trans-unit id="MainWindow-Modules-ResetSuccess" xml:space="preserve">
                 <source>已重置“{module}”模块。</source>
-                <target>已リセット「{module}」モジュール。</target>
+                <target>モジュール「{module}」をリセットしました。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Credits" xml:space="preserve">
                 <source>致谢</source>
-                <target>謝辞</target>
+                <target>クレジット</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-DevelopmentTeam" xml:space="preserve">
                 <source>开发团队</source>
@@ -8773,7 +8773,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-Title" xml:space="preserve">
                 <source>关于</source>
-                <target>概要</target>
+                <target>このプラグインについて</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-About-UsefulLinks" xml:space="preserve">
                 <source>相关链接</source>
@@ -8781,29 +8781,29 @@ UI: {0}
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE" xml:space="preserve">
                 <source>紧急遭遇战众包网</source>
-                <target>FATE众包网</target>
+                <target>緊急FATE情報共有サービス</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-CE-Help" xml:space="preserve">
                 <source>位于特殊场景探索相关区域时，上传危命任务与紧急遭遇战信息。
 网站：https://ce-crowdsource.atmoomen.top/</source>
-                <target>位于特殊场景探索関連エリア時、アップロード危命コンテンツとFATE情報。
+                <target>特殊フィールド探索エリアにいるとき、FATEおよび緊急FATEの情報をアップロードします。
 ウェブサイト：https://ce-crowdsource.atmoomen.top/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus" xml:space="preserve">
                 <source>FF14 限时奖励监控</source>
-                <target>FF14 期間限定報酬监控</target>
+                <target>FF14期間限定報酬モニター</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-ChaoticBonus-Help" xml:space="preserve">
                 <source>打开“任务搜索器”界面时，上传诛灭战限时奖励信息。
 网址：https://uptime.ff14.xin/</source>
-                <target>開く「コンテンツファインダー」画面時、アップロード诛灭战期間限定報酬情報。
-URL：https://uptime.ff14.xin/</target>
+                <target>コンテンツファインダーを開いたとき、幻討滅戦の期間限定報酬情報をアップロードします。
+ウェブサイト：https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Help" xml:space="preserve">
                 <source>部分功能和模块会使用玩家社区建立的众包平台的数据，因而也会收集并匿名上传平台所需的众包数据以回馈与共建。
 ※如果禁用上传，将不可使用部分功能和模块。</source>
-                <target>一部の功能とモジュール会使用プレイヤー社区建立の众包平台のデータ、因、也会收集し、匿名アップロード平台必要なの众包データ以回馈と共建。
-※もし禁用アップロード、将不可使用一部の功能とモジュール。</target>
+                <target>一部の機能やモジュールは、プレイヤーコミュニティが運営する情報共有サービスのデータを利用します。そのため、サービスに必要な情報を匿名で収集・アップロードし、共有に協力します。
+※アップロードを無効にすると、一部の機能やモジュールを利用できません。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-OpenLink" xml:space="preserve">
                 <source>打开网站</source>
@@ -8811,155 +8811,155 @@ URL：https://uptime.ff14.xin/</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-Title" xml:space="preserve">
                 <source>众包</source>
-                <target>众包</target>
+                <target>情報共有</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-CrowdSource-XIVPF-Help" xml:space="preserve">
                 <source>打开“队员招募”界面时，上传招募信息。
 网址：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</source>
-                <target>開く「パーティ募集」画面時、アップロード招募情報。
-URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</target>
+                <target>パーティ募集画面を開いたとき、募集情報をアップロードします。
+ウェブサイト：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightmare.top/}}</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport" xml:space="preserve">
                 <source>跨区域移动时尽量降低金币花费</source>
-                <target>エリア間移動時尽量降低ギル花费</target>
+                <target>エリア移動時のギル消費をできるだけ抑える</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-AlwaysMinGilTransport-Help" xml:space="preserve">
                 <source>部分模块会使用内部共享的逻辑前往不同的区域。此时会尝试通过非玩家对象和过图线等方式尽可能降低金币消耗，但可能会产生极长的路径。</source>
-                <target>一部のモジュール会使用内部共享の逻辑移動不同のエリア。このとき会試行〜を通じて非プレイヤー对象と过图线等方法尽可能性があります降低ギル消耗、但可能性があります会発生极长の路径。</target>
+                <target>一部のモジュールは、共通の移動処理を使って別エリアへ移動します。その際、NPCやエリア移動地点を利用してギルの消費を抑えますが、移動経路が非常に長くなる場合があります。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment" xml:space="preserve">
                 <source>修正环境不一致状态</source>
-                <target>修正環境不一致ステータス</target>
+                <target>環境状態の不整合を修正</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-CorrectEnvironment-Help" xml:space="preserve">
                 <source>在进入和退出潜水状态时，自动修正由于种种原因产生的环境不一致状态，避免无法交互或被服务器强制移动到区域安全区内。</source>
-                <target>在入るとと退出潜水ステータス時、自動修正〜により种种原因発生の環境不一致ステータス、避免できません操作または被サーバー强制移動到エリア安全区内。</target>
+                <target>潜水状態への移行・解除時に、さまざまな原因で発生する環境状態の不整合を自動修正します。操作不能になったり、サーバーによってエリアの安全地帯へ強制移動されたりするのを防ぎます。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK" xml:space="preserve">
                 <source>防止暂离状态</source>
-                <target>防止離席ステータス</target>
+                <target>離席状態を防止</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-PreventAFK-Help" xml:space="preserve">
                 <source>禁用所有暂离状态计时器，避免在线状态被自动切换、因不活跃被移出副本与在标题界面自动播放版本动画等。</source>
-                <target>禁用すべての離席ステータス计時器、避免在线ステータス被自動切り替え、因不活跃被移出ダンジョンと在标题画面自動播放版本动画等。</target>
+                <target>すべての離席タイマーを無効にします。オンライン状態の自動切り替え、非アクティブ状態によるコンテンツからの退出、タイトル画面でのバージョン映像の自動再生を防ぎます。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo" xml:space="preserve">
                 <source>跳过标志界面</source>
-                <target>跳过标志画面</target>
+                <target>ロゴ画面をスキップ</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-SkipLogo-Help" xml:space="preserve">
                 <source>跳过游戏启动时展示的数个标志界面，快速进入标题界面。</source>
-                <target>跳过游戏启动時展示の数個标志画面、高速入ると标题画面。</target>
+                <target>ゲーム起動時に表示されるロゴ画面をスキップし、タイトル画面をすばやく表示します。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix" xml:space="preserve">
                 <source>不显示“DR”前缀</source>
-                <target>表示しない「DR」前缀</target>
+                <target>「DR」接頭辞を非表示</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Game-StripeDRPrefix-Help" xml:space="preserve">
                 <source>插件发送的聊天消息与添加的右键菜单项将不再包含“DR”前缀，看起来与游戏原生功能更加融洽，但可能造成混淆。
 ※更改后需要重启插件。</source>
-                <target>プラグイン送信の聊日メッセージと添加の右クリック菜单项将不再包含「DR」前缀、看起来と游戏原生功能更加融洽、但可能性があります造成混淆。
-※更改後必要重启プラグイン。</target>
+                <target>プラグインが送信するチャットメッセージや追加する右クリックメニューから「DR」を取り除きます。ゲーム標準の機能に近い見た目になりますが、混同しやすくなる場合があります。
+※変更後はプラグインの再起動が必要です。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy" xml:space="preserve">
                 <source>在线验证绕过系统代理</source>
-                <target>オンライン認証绕过系统代理</target>
+                <target>オンライン認証でシステムプロキシを無視</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-AuthBypassProxy-Help" xml:space="preserve">
                 <source>发送在线验证请求时忽略系统代理设置，直接连接验证服务器。若使用虚拟网卡等全局透明代理方式，本选项无效。
 ※更改后需要重启插件。</source>
-                <target>送信オンライン認証してください求時忽略系统代理設定、直接连接验证サーバー。もし使用虚拟网卡等全局透明代理方法、本オプション無効。
-※更改後必要重启プラグイン。</target>
+                <target>オンライン認証のリクエスト時にシステムプロキシを使わず、認証サーバーへ直接接続します。仮想ネットワークアダプターなどの透過プロキシには適用されません。
+※変更後はプラグインの再起動が必要です。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-ConflictKey-Help" xml:space="preserve">
                 <source>使用部分模块时，按住该键即可打断操作、切换不同的模式或使行为表现变化。</source>
-                <target>使用一部のモジュール時、按住该键するだけで打断操作、切り替え不同のモードまたは使動作表现变化。</target>
+                <target>一部のモジュールでこのキーを押すと、操作を中断したり、モードを切り替えたり、動作を変更したりできます。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage" xml:space="preserve">
                 <source>默认页面</source>
-                <target>默认页面</target>
+                <target>既定のページ</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-DefaultHomePage-Help" xml:space="preserve">
                 <source>每次加载插件后首次打开主界面时显示的页面。</source>
-                <target>毎回読み込みプラグイン後首回開くメイン画面時表示の页面。</target>
+                <target>プラグインの読み込み後、メイン画面を最初に開いたときに表示するページです。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo" xml:space="preserve">
                 <source>通知在线验证信息</source>
-                <target>通知オンライン認証情報</target>
+                <target>オンライン認証情報を通知</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-OnlineAuthInfo-Help" xml:space="preserve">
                 <source>每次刷新在线验证信息时，通知已激活凭证的验证信息。</source>
-                <target>毎回刷新オンライン認証情報時、通知已激活資格情報の验证情報。</target>
+                <target>オンライン認証情報が更新されるたびに、有効な認証情報の状態を通知します。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TTSMigrationHelp" xml:space="preserve">
                 <source>文本转语音功能已迁移至独立的 EdgeTTS.Dalamud 插件，如有需要，请单独下载。</source>
-                <target>音声読み上げ功能已迁移至独立の EdgeTTS.Dalamud プラグイン、如有必要、してください单独ダウンロード。</target>
+                <target>音声読み上げ機能は独立したEdgeTTS.Dalamudプラグインに移行しました。必要な場合は別途ダウンロードしてください。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold" xml:space="preserve">
                 <source>前台无操作通知提醒时间（毫秒）</source>
-                <target>前台无操作通知提醒時間（ミリ秒）</target>
+                <target>非操作時のトレイ通知までの時間（ミリ秒）</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-General-TrayIdleThreshold-Help" xml:space="preserve">
                 <source>当持续无操作的时间达到设定值时，即使游戏位于前台，也会展示 Windows 托盘通知。
 ※设为0时表示永远仅游戏位于后台时才通知。</source>
-                <target>当持续无操作の時間達する设定值時、即使游戏位于前台、也会展示 Windows トレイ通知。
-※设为0時表示永远のみ游戏位于バックグラウンド時才通知。</target>
+                <target>指定時間操作がないと、ゲームが前面に表示されていてもWindowsのトレイ通知を表示します。
+※0にすると、ゲームがバックグラウンドにある場合のみ通知します。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-HelpTranslate" xml:space="preserve">
                 <source>帮忙翻译</source>
-                <target>帮忙翻译</target>
+                <target>翻訳に協力する</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-DalamudStyle" xml:space="preserve">
                 <source>使用 Dalamud 样式</source>
-                <target>使用 Dalamud 样式</target>
+                <target>Dalamudスタイルを使用</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale" xml:space="preserve">
                 <source>字体缩放</source>
-                <target>字体缩放</target>
+                <target>フォント倍率</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-FontScale-Help" xml:space="preserve">
                 <source>相对于 Dalamud 字号的缩放倍率。默认为1，最小为0.1，最大为3。</source>
-                <target>相对于 Dalamud 字号の缩放倍率。默认为1、最小为0.1、最大为3。</target>
+                <target>Dalamudのフォントサイズに対する倍率です。既定値は1、最小値は0.1、最大値は3です。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-Options" xml:space="preserve">
                 <source>界面选项</source>
-                <target>画面オプション</target>
+                <target>画面設定</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-Theme" xml:space="preserve">
                 <source>界面主题</source>
-                <target>画面主题</target>
+                <target>テーマ</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay" xml:space="preserve">
                 <source>托盘悬浮窗</source>
-                <target>トレイ悬浮窗</target>
+                <target>トレイオーバーレイ</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Interface-TrayOverlay-Help" xml:space="preserve">
                 <source>在主界面关闭时显示一个托盘悬浮窗，点击即可快捷打开主界面。
 ※右键拖拽该悬浮窗即可调整位置。</source>
-                <target>在メイン画面閉じる時表示一個トレイ悬浮窗、クリックするだけでクイック開くメイン画面。
-※右クリック拖拽该悬浮窗するだけで调整位置。</target>
+                <target>メイン画面を閉じている間、クリックしてメイン画面をすぐ開けるトレイオーバーレイを表示します。
+※右クリックしながらドラッグすると位置を変更できます。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-LocalModules-PathHelp" xml:space="preserve">
                 <source>请填写本地模块文件的绝对路径。</source>
-                <target>してください入力本地モジュール文件の絶対パス。</target>
+                <target>ローカルモジュールの絶対パスを入力してください。</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules" xml:space="preserve">
                 <source>默认启用推荐模块</source>
-                <target>デフォルトで有効化推奨モジュール</target>
+                <target>推奨モジュールを既定で有効化</target>
             </trans-unit>
             <trans-unit id="MainWindow-Settings-Module-DefaultEnableModules-Help" xml:space="preserve">
                 <source>若新模块被标记为“推荐模块”，则会被直接启用。
 ※“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，同时不会过多改变日常游玩方式的模块。</source>
-                <target>新しいモジュール被标记为「推奨モジュール」、则会被直接启用。
-※「推奨モジュール」是由开发组絞り込みの、能改善绝大多数プレイヤーの游玩体験、同時不会过多改变日常游玩方法のモジュール。</target>
+                <target>新しいモジュールが「推奨」に指定されている場合、自動的に有効化します。
+※「推奨モジュール」は、日常のプレイスタイルを大きく変えず、多くのプレイヤーの体験を向上させるものとして開発チームが選定しています。</target>
             </trans-unit>
             <trans-unit id="MainWindow-SupportAuthor" xml:space="preserve">
                 <source>支持作者</source>
-                <target>対応作者</target>
+                <target>作者を支援</target>
             </trans-unit>
             <trans-unit id="MainWindow-Tray-UpdateReady" xml:space="preserve">
                 <source>新版本 {version} 已下载就绪，点击打开主界面更新</source>
-                <target>新版本 {version} 已ダウンロード就绪、クリック開くメイン画面更新</target>
+                <target>新しいバージョン{version}をダウンロードしました。クリックしてメイン画面を開き、更新してください。</target>
             </trans-unit>
             <trans-unit id="Mannequin" xml:space="preserve">
                 <source>服装模特</source>
@@ -9011,19 +9011,19 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="ModuleBase-ExportError" xml:space="preserve">
                 <source>尝试导出配置至剪贴板时发生错误。</source>
-                <target>試行エクスポート設定至剪贴板時发生错误。</target>
+                <target>設定をクリップボードにエクスポートできませんでした。</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Exported" xml:space="preserve">
                 <source>成功导出了配置至剪贴板。</source>
-                <target>成功エクスポート了設定至剪贴板。</target>
+                <target>設定をクリップボードにエクスポートしました。</target>
             </trans-unit>
             <trans-unit id="ModuleBase-ImportError" xml:space="preserve">
                 <source>尝试从剪贴板导入配置时发生错误。</source>
-                <target>試行从剪贴板インポート設定時发生错误。</target>
+                <target>クリップボードから設定をインポートできませんでした。</target>
             </trans-unit>
             <trans-unit id="ModuleBase-Imported" xml:space="preserve">
                 <source>成功从剪贴板导入了配置。</source>
-                <target>成功从剪贴板インポート了設定。</target>
+                <target>設定をクリップボードからインポートしました。</target>
             </trans-unit>
             <trans-unit id="ModuleCategory-Action" xml:space="preserve">
                 <source>技能</source>
@@ -9131,7 +9131,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="ModuleManager-PrerequisitePluginsMissing-Title" xml:space="preserve">
                 <source>无法加载模块“{moduleName}”，缺少要求的前置插件。</source>
-                <target>できません読み込みモジュール「{moduleName}」、缺少要求の前提プラグイン。</target>
+                <target>必要なプラグインがないため、モジュール「{moduleName}」を読み込めません。</target>
             </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>怪物</source>
@@ -9211,11 +9211,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="NoRenderWhenBackground-OnlyProhibitedInIconic" xml:space="preserve">
                 <source>仅在最小化时禁止渲染（适用于“{configName}”）</source>
-                <target>のみ在最小化時禁止描画（适用于「{configName}」）</target>
+                <target>最小化時のみ描画を停止（「{configName}」用）</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundDescription" xml:space="preserve">
                 <source>当游戏位于后台时，自动禁止游戏三维图形渲染输出，从而极大降低占用与功耗。</source>
-                <target>当游戏位于バックグラウンド時、自動禁止游戏三维图形描画出力、从、极大降低使用中と功耗。</target>
+                <target>ゲームがバックグラウンドにある間、3Dグラフィックスの描画を停止し、CPU・GPUの使用率と消費電力を大幅に削減します。</target>
             </trans-unit>
             <trans-unit id="NoRenderWhenBackgroundTitle" xml:space="preserve">
                 <source>后台禁止渲染游戏画面</source>
@@ -9610,27 +9610,27 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-Gearset" xml:space="preserve">
                 <source>（套装{index} {name}）</source>
-                <target>（套装{index} {name}）</target>
+                <target>（ギアセット{index}：{name}）</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob" xml:space="preserve">
                 <source>设置切换职业时使用的套装</source>
-                <target>設定切り替えジョブ時使用の套装</target>
+                <target>クラス・ジョブ切り替え時に使用するギアセットを設定</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Message" xml:space="preserve">
                 <source>切换至{jobName}时将会使用套装{index}“{gearsetName}”。</source>
-                <target>切り替え至{jobName}時将会使用套装{index}「{gearsetName}」。</target>
+                <target>{jobName}に切り替えるとき、ギアセット{index}「{gearsetName}」を使用します。</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClass-SetSetForClassJob-Sub" xml:space="preserve">
                 <source>使用套装{index}“{name}”。</source>
-                <target>使用套装{index}「{name}」。</target>
+                <target>ギアセット{index}「{name}」を使用</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassDescription" xml:space="preserve">
                 <source>优化“职业&amp;特职”界面与玩家对战的“角色”界面，可以直接点击各个职业的界面组件以切换至对应职业。</source>
-                <target>优化「ジョブ&amp;ジョブ」画面とプレイヤー对战の「キャラクター」画面、できます直接クリック各個ジョブの画面组件以切り替え至对应ジョブ。</target>
+                <target>「クラス・ジョブ」画面とPvPの「キャラクター」画面を使いやすくします。各ジョブの表示をクリックして、該当ジョブに切り替えられます。</target>
             </trans-unit>
             <trans-unit id="OptimizedCharacterClassTitle" xml:space="preserve">
                 <source>“职业&amp;特职”界面优化</source>
-                <target>「ジョブ&amp;ジョブ」画面の最適化</target>
+                <target>「クラス・ジョブ」画面の最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedChatBubble-AdditionalDuration" xml:space="preserve">
                 <source>额外每字符持续时间</source>
@@ -9698,33 +9698,33 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-Register" xml:space="preserve">
                 <source>申请参加“{contentName}”。</source>
-                <target>申してください参加「{contentName}」。</target>
+                <target>「{contentName}」への参加を申請します。</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinder-RegisterWithConditions" xml:space="preserve">
                 <source>以下列条件申请参加“{contentName}”。
 {conditions}</source>
-                <target>以回の条件申してください参加「{contentName}」。
+                <target>次の条件で「{contentName}」への参加を申請します。
 {conditions}</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderDescription" xml:space="preserve">
                 <source>优化“任务搜索器”界面。点击职业显示组件可直接打开“职业&amp;特职”界面；条件显示组件可直接点击设置任务搜索器条件；外显隐藏的前置任务名称；任务列表项新增快捷申请参加按钮；随机任务列表项新增指示是否已获得本日任务奖励的图标；完成任务后自动取消任务选择。</source>
-                <target>优化「コンテンツファインダー」画面。クリックジョブ表示组件直接開く「ジョブ&amp;ジョブ」画面；条件表示组件直接クリック設定コンテンツファインダー条件；表示非表示の前置コンテンツ名前；コンテンツ列表项追加クイック申してください参加ボタン；ランダムコンテンツ列表项追加指示是否已获得本日コンテンツ報酬のアイコン；完成コンテンツ後自動キャンセルコンテンツ選択。</target>
+                <target>コンテンツファインダー画面を使いやすくします。ジョブ表示から「クラス・ジョブ」画面を開き、条件表示から参加条件を設定できます。非表示の前提クエスト名を表示し、コンテンツ一覧に参加申請ボタンを追加します。ルーレットには本日の報酬獲得状況を示すアイコンを表示し、コンテンツ完了後は選択を自動解除します。</target>
             </trans-unit>
             <trans-unit id="OptimizedContentsFinderTitle" xml:space="preserve">
                 <source>“任务搜索器”界面优化</source>
-                <target>「コンテンツファインダー」画面の最適化</target>
+                <target>コンテンツファインダー画面の最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTime-ShowSeconds" xml:space="preserve">
                 <source>显示秒数</source>
-                <target>秒数を表示</target>
+                <target>秒を表示</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeDescription" xml:space="preserve">
                 <source>优化“基本情报”界面内的时间显示，根据服务器时间实时同步校正本地时间，并把显示精度提高到秒级。</source>
-                <target>优化「基本情报」画面内の時間表示、に基づいてサーバー時間リアルタイム同步校正本地時間、し、把表示精度提高到秒级。</target>
+                <target>基本情報欄の時刻表示を改善します。サーバー時刻に合わせてリアルタイムに補正し、秒単位で表示します。</target>
             </trans-unit>
             <trans-unit id="OptimizedDTRTimeTitle" xml:space="preserve">
                 <source>“基本情报”界面时间优化</source>
-                <target>「基本情报」画面時間优化</target>
+                <target>基本情報欄の時刻表示を改善</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-AlwaysUnlock" xml:space="preserve">
                 <source>自动解锁目标选择</source>
@@ -9738,15 +9738,15 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus" xml:space="preserve">
                 <source>交换体力与状态显示位置</source>
-                <target>交换HPとステータス表示位置</target>
+                <target>HPとステータスの表示位置を入れ替える</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyList-SwapHealthStatus-Help" xml:space="preserve">
                 <source>使状态显示在左侧，向左展开；体力显示在右侧，向右展开。</source>
-                <target>使ステータス表示在左侧、向左展开；HP表示在右侧、向右展开。</target>
+                <target>ステータスを左側に表示して左へ展開し、HPを右側に表示して右へ展開します。</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListDescription" xml:space="preserve">
                 <source>优化“敌对列表”界面，支持显示体力、仇恨、咏唱与状态信息，并可以强制选中锁定选中的目标。</source>
-                <target>优化「敌对列表」画面、対応表示HP、敵視、詠唱とステータス情報、し、できます强制选中锁定选中の対象。</target>
+                <target>敵視リストを改善し、HP、敵視、詠唱、ステータスを表示します。選択中のターゲットを強制的に固定することもできます。</target>
             </trans-unit>
             <trans-unit id="OptimizedEnemyListTitle" xml:space="preserve">
                 <source>“敌对列表”界面优化</source>
@@ -9874,11 +9874,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
-                <target>优化ダンジョン「魔光键影」中の情報表示画面、対応表示報酬加成残りの具体のな時間、表示所持の金碟点、金碟币と魔光键影宝箱数量、し、表示関連成就の进度。</target>
+                <target>「魔光鍵影」の情報画面を改善します。ボーナスの残り時間、所持しているMGP・金蝶貨・宝箱の数、関連アチーブメントの進捗を表示します。</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
-                <target>魔光键影情報画面の最適化</target>
+                <target>魔光鍵影の情報画面を最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedLetter-Button-Claim" xml:space="preserve">
                 <source>领取全部邮件附件</source>
@@ -9906,47 +9906,47 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applied" xml:space="preserve">
                 <source>设定了生产计划。</source>
-                <target>设定了生産計画。</target>
+                <target>生産計画を設定しました。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Apply" xml:space="preserve">
                 <source>一键设定</source>
-                <target>ワンクリック設定</target>
+                <target>一括設定</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ApplyFailed" xml:space="preserve">
                 <source>未能完整设定生产计划，请重试。</source>
-                <target>できませんでした完整设定生産計画、してください再試行。</target>
+                <target>生産計画をすべて設定できませんでした。もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Applying" xml:space="preserve">
                 <source>正在设定生产计划……</source>
-                <target>〜中设定生産計画……</target>
+                <target>生産計画を設定しています…</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Busy" xml:space="preserve">
                 <source>正在求解生产计划……</source>
-                <target>〜中計算生産計画……</target>
+                <target>生産計画を計算しています…</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-CancelPreview" xml:space="preserve">
                 <source>取消预览</source>
-                <target>キャンセルプレビュー</target>
+                <target>プレビューをキャンセル</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Hint" xml:space="preserve">
                 <source>请选择周期并根据需求求解生产计划。</source>
-                <target>選択してくださいサイクルし、に基づいて需求計算生産計画。</target>
+                <target>期間を選択し、希望条件に合わせて生産計画を計算してください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NextWeek" xml:space="preserve">
                 <source>下周期</source>
-                <target>下サイクル</target>
+                <target>次の週</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoRest" xml:space="preserve">
                 <source>不休息</source>
-                <target>不休業</target>
+                <target>休業日なし</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NoWork" xml:space="preserve">
                 <source>没有可安排的生产日、工房或已解锁配方。</source>
-                <target>没有可設定の生产日、工房または已解锁レシピ。</target>
+                <target>設定可能な生産日、工房、または解放済みレシピがありません。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-NotReady" xml:space="preserve">
                 <source>需求数据读取失败，请重试。</source>
-                <target>需求データ読み込み失敗、してください再試行。</target>
+                <target>必要なデータを読み込めませんでした。もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-PreviewMode" xml:space="preserve">
                 <source>预览模式</source>
@@ -9960,7 +9960,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
                 <source>确定要变更休息日吗？对应日期的生产计划将被清空。
 
 {text}</source>
-                <target>本当に变更休業日しますか？对应日期の生産計画将被清空。
+                <target>休業日を変更しますか？該当日の生産計画は消去されます。
 
 {text}</target>
             </trans-unit>
@@ -9970,7 +9970,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-RestHint" xml:space="preserve">
                 <source>两个周期合计可选择将其中的1至4天设定为休息日，单个周期可以不休息。</source>
-                <target>两個サイクル合计可選択将その中での1至4日设定为休業日、单個サイクルできます不休業。</target>
+                <target>2週間の合計で1～4日を休業日にできます。各週の休業日は0日でもかまいません。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Solve" xml:space="preserve">
                 <source>求解</source>
@@ -9978,63 +9978,63 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-SolveFailed" xml:space="preserve">
                 <source>求解失败，请重试。</source>
-                <target>計算失敗、してください再試行。</target>
+                <target>計算に失敗しました。もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-SolveFavors" xml:space="preserve">
                 <source>求解（猫耳小员）</source>
-                <target>計算（猫耳小员）</target>
+                <target>計算（猫耳の職員）</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Stale" xml:space="preserve">
                 <source>生产计划安排或材料持有情况发生了变化，请重新求解。</source>
-                <target>生産計画設定または素材所持情况发生了变化、してください重新計算。</target>
+                <target>生産計画または素材の所持数が変わりました。もう一度計算してください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Summary" xml:space="preserve">
                 <source>预计收益：{value}谢尔达莱青船币</source>
-                <target>予想収益：{value}谢尔达莱青船币</target>
+                <target>予想収益：{value}シェルダレースクリップ：青船貨</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-ThisWeek" xml:space="preserve">
                 <source>本周期</source>
-                <target>本サイクル</target>
+                <target>今週</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftSchedule-Timeout" xml:space="preserve">
                 <source>生产计划数据读取超时，请重试。</source>
-                <target>生産計画データ読み込み超時、してください再試行。</target>
+                <target>生産計画データの読み込みがタイムアウトしました。もう一度お試しください。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“工房生产计划”界面。自动根据需求求解生产计划并安排，且支持更加灵活的休息日设置。</source>
-                <target>优化开拓無人島の「工房生産計画」画面。自動に基づいて需求計算生産計画し、設定、且対応更加灵活の休業日設定。</target>
+                <target>無人島の「工房の製作計画」画面を改善します。需要に応じて生産計画を自動計算・設定でき、休業日も柔軟に指定できます。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJICraftScheduleTitle" xml:space="preserve">
                 <source>“工房生产计划”界面优化</source>
-                <target>「工房生産計画」画面の最適化</target>
+                <target>工房の製作計画画面を最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-Claim" xml:space="preserve">
                 <source>一键领取</source>
-                <target>ワンクリック领取</target>
+                <target>一括受け取り</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-Dispatch" xml:space="preserve">
                 <source>一键派遣</source>
-                <target>ワンクリック派遣</target>
+                <target>一括派遣</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-NormalExceed" xml:space="preserve">
                 <source>开拓素材“{name}”持有数量即将超出上限，已停止领取。</source>
-                <target>开拓素材「{name}」所持数量まもなく上限を超える、停止しました领取。</target>
+                <target>開拓素材「{name}」が所持上限を超えそうなため、受け取りを停止しました。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-RareExceed" xml:space="preserve">
                 <source>稀少开拓素材“{name}”持有数量即将超出上限，已停止领取。</source>
-                <target>稀少开拓素材「{name}」所持数量まもなく上限を超える、停止しました领取。</target>
+                <target>レア開拓素材「{name}」が所持上限を超えそうなため、受け取りを停止しました。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouse-StopOnExceed" xml:space="preserve">
                 <source>超出上限时自动停止领取</source>
-                <target>超える上限時自動停止领取</target>
+                <target>所持上限に達したら受け取りを停止</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseDescription" xml:space="preserve">
                 <source>优化开拓无人岛的“屯货仓库”界面。支持一键领取开拓素材，并根据当前持有数量最少的稀少开拓素材一键派遣探索队。“选择探索目的地”界面内支持直接在目的地上显示对应的稀少开拓素材与持有数量。</source>
-                <target>优化开拓無人島の「屯货倉庫」画面。対応ワンクリック领取开拓素材、し、に基づいて現在の所持数量最少の稀少开拓素材ワンクリック派遣探索队。「選択探索目の地」画面内対応直接在目の地上表示对应の稀少开拓素材と所持数量。</target>
+                <target>無人島の「貯蔵庫」画面を改善します。開拓素材を一括受け取りでき、所持数が最も少ないレア開拓素材を基準に探索隊を派遣できます。「探索先を選択」画面では、各目的地で入手できるレア開拓素材と所持数を表示します。</target>
             </trans-unit>
             <trans-unit id="OptimizedMJIGatheringHouseTitle" xml:space="preserve">
                 <source>“屯货仓库”界面优化</source>
-                <target>「屯货倉庫」画面の最適化</target>
+                <target>貯蔵庫画面を最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-CommandHelp" xml:space="preserve">
                 <source>&lt;显示名称&gt; 读取指定显示名称的宏预设。</source>
@@ -10046,7 +10046,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-Load" xml:space="preserve">
                 <source>确定要读取预设“{presetName}”吗？</source>
-                <target>本当に読み込みプリセット「{presetName}」しますか？</target>
+                <target>プリセット「{presetName}」を読み込みますか？</target>
             </trans-unit>
             <trans-unit id="OptimizedMacro-Dialogue-SaveInput" xml:space="preserve">
                 <source>请输入待保存预设的显示名称。</source>
@@ -10110,23 +10110,23 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty" xml:space="preserve">
                 <source>组队状态下不修改界面</source>
-                <target>组队ステータス下不変更画面</target>
+                <target>パーティ参加中は画面を変更しない</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-NotDisplayInParty-Help" xml:space="preserve">
                 <source>组队状态下，不接管以太之光传送、不令城内以太之晶可交互传送、不添加任何额外传送目的地，以避免发送异常的小队传送邀请。</source>
-                <target>组队ステータス下、不接管エーテライトテレポ、不令城内以太の晶可操作テレポ、不添加任何追加テレポ目の地、以避免送信エラーのパーティテレポ邀してください。</target>
+                <target>パーティ参加中はエーテライトのテレポ機能を置き換えず、都市内エーテライトからのテレポや追加の移動先も有効にしません。誤ったパーティテレポの招待を送信するのを防ぎます。</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation" xml:space="preserve">
                 <source>传送无需二次确认</source>
-                <target>テレポ不要再確認</target>
+                <target>確認なしでテレポ</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryte-SkipConfirmation-Help" xml:space="preserve">
                 <source>移除交互时弹出的二次确认界面，直接传送。</source>
-                <target>削除操作時弹出の再確認画面、直接テレポ。</target>
+                <target>操作時に表示される確認画面を省略し、そのままテレポします。</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteDescription" xml:space="preserve">
                 <source>优化“地图”界面内的以太之光与城内以太之晶，使二者始终显示在最上层，令城内以太之晶也可如以太之光一样交互传送，并额外添加大量同样可以在界面内直接交互前往的传送目的地。</source>
-                <target>优化「マップ」画面内のエーテライトと城内以太の晶、使二者始终表示在最上层、令城内以太の晶也可如エーテライト一样操作テレポ、し、追加添加大量同样できます在画面内直接操作移動のテレポ目の地。</target>
+                <target>マップ上のエーテライトと都市内エーテライトを最前面に表示します。都市内エーテライトからもテレポできるようにし、画面から直接移動できる目的地を追加します。</target>
             </trans-unit>
             <trans-unit id="OptimizedMapAetheryteTitle" xml:space="preserve">
                 <source>“地图”界面以太之光优化</source>
@@ -10166,11 +10166,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CopyMacro" xml:space="preserve">
                 <source>复制宏#{index}</source>
-                <target>复制宏#{index}</target>
+                <target>マクロ#{index}をコピー</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-CraftMultiple" xml:space="preserve">
                 <source>制作{count}次</source>
-                <target>製作{count}回</target>
+                <target>{count}回製作</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Button-ShowOtherRecipes" xml:space="preserve">
                 <source>显示其余</source>
@@ -10194,7 +10194,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CaculateRecipeButton-Help" xml:space="preserve">
                 <source>在“开始制作”按钮上新增“求解配方”按钮，用以根据当前状态求解出用于制作配方的技能序列。</source>
-                <target>在「開始製作」ボタン上追加「計算レシピ」ボタン、〜するために基づいて現在のステータス計算出用于製作レシピのスキル序列。</target>
+                <target>「製作開始」ボタンに「レシピを計算」ボタンを追加します。現在の状態に合わせて、レシピ製作に使用するアクションの順序を計算します。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons" xml:space="preserve">
                 <source>精准分类切换按钮</source>
@@ -10203,8 +10203,8 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             <trans-unit id="OptimizedRecipeNote-Config-CategoryButtons-Help" xml:space="preserve">
                 <source>将配方分类组件划分为三个可交互区域，点击即可直接切换至对应分类。
 ※原本点击后仅能固定切换至下一个分类</source>
-                <target>将レシピ分类组件划分为三個可操作エリア、クリック即直接切り替え至对应分类。
-※原本クリック後のみ能固定切り替え至下一個分类</target>
+                <target>レシピ分類の表示を3つの操作領域に分け、それぞれをクリックして該当する分類に切り替えられるようにします。
+※従来はクリックするたびに次の分類へ切り替わっていました。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality" xml:space="preserve">
                 <source>突破制作练习初始品质上限</source>
@@ -10213,8 +10213,8 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             <trans-unit id="OptimizedRecipeNote-Config-MorePraticeQuality-Help" xml:space="preserve">
                 <source>使制作练习初期品质可以直接设置为最高品质。
 ※原本仅能设置为最高品质的一半。</source>
-                <target>使製作练习初期品质できます直接設定为最高品质。
-※原本のみ能設定为最高品质の一半。</target>
+                <target>製作練習の開始時に品質を最大値に設定できるようにします。
+※従来は最大値の半分までしか設定できませんでした。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-CopyAsMacro" xml:space="preserve">
                 <source>复制宏</source>
@@ -10238,7 +10238,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacroCopied" xml:space="preserve">
                 <source>复制了宏#{index}至剪贴板。</source>
-                <target>コピーしました宏#{index}至剪贴板。</target>
+                <target>マクロ#{index}をクリップボードにコピーしました。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-MacrosCopied" xml:space="preserve">
                 <source>复制了宏到剪贴板。</source>
@@ -10250,11 +10250,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthBatch" xml:space="preserve">
                 <source>超出了单次简易制作上限，自动分批简易制作，共{batchCount}批。</source>
-                <target>超える了单回簡易製作上限、自動分批簡易製作、共{batchCount}批。</target>
+                <target>簡易製作の1回あたりの上限を超えたため、{batchCount}回に分けて実行します。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-QuickSynthFinish" xml:space="preserve">
                 <source>完成了全部简易制作。</source>
-                <target>完了しましたすべての簡易製作。</target>
+                <target>すべての簡易製作が完了しました。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Message-SolveResult" xml:space="preserve">
                 <source>求解了{classJob}配方“{item}”，共{step}步，单次制作需要约{second}秒。</source>
@@ -10266,23 +10266,23 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-CraftType" xml:space="preserve">
                 <source>按制作职业分类</source>
-                <target>按製作ジョブ分类</target>
+                <target>製作クラスで分類</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Equipment" xml:space="preserve">
                 <source>按装备适用职业分类</source>
-                <target>按装備适用ジョブ分类</target>
+                <target>装備可能ジョブで分類</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-SearchView-Weapons" xml:space="preserve">
                 <source>主副手</source>
-                <target>主副手</target>
+                <target>主道具・副道具</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNote-Text-MacroStats" xml:space="preserve">
                 <source>共{steps}步 · 约{seconds}秒</source>
-                <target>共{steps}步 · 约{seconds}秒</target>
+                <target>{steps}ステップ・約{seconds}秒</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteDescription" xml:space="preserve">
                 <source>优化“制作笔记”界面。可快速切换至配方所需职业、记忆各职业上次选择的配方、持久记忆配方搜索历史、快速切换至同一配方不同职业的版本、显示配方材料来源、添加快捷清除搜索结果按钮、拆分左侧“分级配方”/“特殊配方”/“秘籍”组件以支持精准选择、极大加速配方搜索速度、支持模糊和拼音搜索配方、支持搜索按照装备适用职业分类结果、突破单次简易制作次数上限、提醒简易制作完成与突破制作练习初始品质上限。并支持求解配方，可视化预览求解结果、复制为宏与批量制作。</source>
-                <target>优化「製作笔记」画面。可高速切り替え至レシピ必要なジョブ、记忆各ジョブ上回選択のレシピ、持久记忆レシピ検索历史、高速切り替え至同一レシピ不同ジョブの版本、表示レシピ素材来源、添加クイッククリア検索結果ボタン、拆分左侧「分级レシピ」/「特殊レシピ」/「秘籍」组件以対応正確選択、极大加速レシピ検索速度、対応模糊と拼音検索レシピ、対応検索按照装備适用ジョブ分类結果、突破单回簡易製作回数上限、提醒簡易製作完成と突破製作练习初始品质上限。し、対応計算レシピ、可视化プレビュー計算結果、复制为宏と一括製作。</target>
+                <target>製作手帳を改善します。レシピに必要なクラスへの切り替え、各クラスで前回選択したレシピの記憶、検索履歴の保存、同一レシピの別クラス版への切り替え、素材の入手先表示、検索結果の一括消去、分類の細分化、検索の高速化に対応します。あいまい検索やローマ字検索、装備可能ジョブによる絞り込みも利用できます。簡易製作の上限を超えた一括製作や完了通知、製作練習の初期品質上限の変更も可能です。レシピ計算では結果をプレビューし、マクロとしてコピーして一括製作できます。</target>
             </trans-unit>
             <trans-unit id="OptimizedRecipeNoteTitle" xml:space="preserve">
                 <source>“制作笔记”界面优化</source>
@@ -10476,7 +10476,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="Overwrite" xml:space="preserve">
                 <source>覆写</source>
-                <target>覆写</target>
+                <target>上書き</target>
             </trans-unit>
             <trans-unit id="PFPageSizeCustomize-DisplayAmount" xml:space="preserve">
                 <source>单页显示数量</source>
@@ -10616,7 +10616,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperDescription" xml:space="preserve">
                 <source>进入副本“须佐之男歼灭战”后，自动突出标记被封入“天之岩户”、带有“拘束”状态的小队成员。</source>
-                <target>ダンジョン「スサノオ討滅戦」に入ると、自動強調表示被封入「日の岩户」、〜を持つ「拘束」ステータスのパーティメンバー。</target>
+                <target>「スサノオ討滅戦」に入ると、「天岩戸」に閉じ込められた「拘束」状態のパーティメンバーを強調表示します。</target>
             </trans-unit>
             <trans-unit id="PoolOfTributeHelperTitle" xml:space="preserve">
                 <source>须佐之男歼灭战助手</source>
@@ -10648,11 +10648,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="PraetoriumHelperDescription" xml:space="preserve">
                 <source>进入副本“最终决战天幕魔导城”后，当骑乘“魔导装甲”时，自动朝着最佳范围攻击目标所在处发动“魔导加农炮”。</source>
-                <target>ダンジョン「最终决战日幕魔导城」に入ると、当マウント「魔导装甲」時、自動朝着最適范围攻击対象にある处发动「魔导加农炮」。</target>
+                <target>「最終決戦 魔導城プラエトリウム」で魔導アーマーに乗っているとき、最適な範囲攻撃対象に向けて「魔導フォトン砲」を自動で使用します。</target>
             </trans-unit>
             <trans-unit id="PraetoriumHelperTitle" xml:space="preserve">
                 <source>最终决战天幕魔导城助手</source>
-                <target>最终决战日幕魔导城アシスタント</target>
+                <target>最終決戦 魔導城プラエトリウム アシスタント</target>
             </trans-unit>
             <trans-unit id="PreCondition" xml:space="preserve">
                 <source>先决条件</source>
@@ -10688,51 +10688,51 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-CancelRequest" xml:space="preserve">
                 <source>取消请求</source>
-                <target>キャンセルしてください求</target>
+                <target>テレポの予約をキャンセル</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay" xml:space="preserve">
                 <source>传送延迟（毫秒）</source>
-                <target>テレポ延迟（ミリ秒）</target>
+                <target>テレポまでの待ち時間（ミリ秒）</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-Delay-Help" xml:space="preserve">
                 <source>战斗结束时，会等待固定时间再发起先前存储的传送请求。</source>
-                <target>戦闘終了時、会待機固定時間再发起先前存储のテレポしてください求。</target>
+                <target>戦闘終了後、指定時間待ってから、保存したテレポ要求を実行します。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestCancelled" xml:space="preserve">
                 <source>取消了前往“{destination}”的传送请求。</source>
-                <target>キャンセル了移動「{destination}」のテレポしてください求。</target>
+                <target>「{destination}」へのテレポ予約をキャンセルしました。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSaved" xml:space="preserve">
                 <source>存储了前往“{destination}”的传送请求。</source>
-                <target>存储了移動「{destination}」のテレポしてください求。</target>
+                <target>「{destination}」へのテレポを予約しました。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestSubmitted" xml:space="preserve">
                 <source>提交了前往“{destination}”的传送请求。</source>
-                <target>提交了移動「{destination}」のテレポしてください求。</target>
+                <target>「{destination}」へのテレポを開始しました。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestTimedOut" xml:space="preserve">
                 <source>等待超时，取消了前往“{destination}”的传送请求。</source>
-                <target>待機超時、キャンセル了移動「{destination}」のテレポしてください求。</target>
+                <target>待機時間を超過したため、「{destination}」へのテレポ予約をキャンセルしました。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-RequestWaiting" xml:space="preserve">
                 <source>将在{delay}毫秒后尝试传送到“{destination}”。</source>
-                <target>将在{delay}ミリ秒後試行テレポ到「{destination}」。</target>
+                <target>{delay}ミリ秒後に「{destination}」へのテレポを試みます。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd" xml:space="preserve">
                 <source>等待危命任务结束后再传送</source>
-                <target>待機危命コンテンツ終了後再テレポ</target>
+                <target>FATE終了後にテレポ</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleport-WaitForFateEnd-Help" xml:space="preserve">
                 <source>若当前在危命任务中，则会等待其结束后再发起先前存储的传送请求</source>
-                <target>もし現在の在危命コンテンツ中、则会待機其終了後再发起先前存储のテレポしてください求</target>
+                <target>FATE参加中の場合、終了するまで待ってから保存したテレポ要求を実行します。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportDescription" xml:space="preserve">
                 <source>自动存储战斗中发出的传送请求，在战斗结束时自动传送，并解除战斗中无法打开传送界面的限制。</source>
-                <target>自動存储戦闘中发出のテレポしてください求、在戦闘終了時自動テレポ、し、解除戦闘中できません開くテレポ画面の限制。</target>
+                <target>戦闘中に行ったテレポ要求を保存し、戦闘終了後に自動実行します。戦闘中にテレポ画面を開けない制限も解除します。</target>
             </trans-unit>
             <trans-unit id="QueueCombatTeleportTitle" xml:space="preserve">
                 <source>自动延后战斗中传送请求</source>
-                <target>自動延後戦闘中テレポしてください求</target>
+                <target>戦闘中のテレポを予約</target>
             </trans-unit>
             <trans-unit id="QuickChatPanel-Buttons" xml:space="preserve">
                 <source>按钮</source>
@@ -11112,15 +11112,15 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="SastashaHelper-Message" xml:space="preserve">
                 <source>正确的珊瑚装置是“{name}”。</source>
-                <target>正确の珊瑚装置是「{name}」。</target>
+                <target>正しいサンゴは「{name}」です。</target>
             </trans-unit>
             <trans-unit id="SastashaHelperDescription" xml:space="preserve">
                 <source>进入副本“天然要害沙斯塔夏溶洞”后，自动判断正确的珊瑚装置，发送通知提示并突出显示。</source>
-                <target>ダンジョン「日然要害沙斯塔夏溶洞」に入ると、自動判断正确の珊瑚装置、送信通知ヒントし、突出表示。</target>
+                <target>「天然要害 サスタシャ浸食洞」に入ると、正しいサンゴを判定して通知し、強調表示します。</target>
             </trans-unit>
             <trans-unit id="SastashaHelperTitle" xml:space="preserve">
                 <source>天然要害沙斯塔夏溶洞助手</source>
-                <target>日然要害沙斯塔夏溶洞アシスタント</target>
+                <target>天然要害 サスタシャ浸食洞アシスタント</target>
             </trans-unit>
             <trans-unit id="Save" xml:space="preserve">
                 <source>保存</source>
@@ -11312,19 +11312,19 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-DisableWorldRenderButAddons" xml:space="preserve">
                 <source>以纯色覆盖画面，仅保留游戏界面（不包括姓名板）</source>
-                <target>以単色上書き画面、のみ保留游戏画面（不包括ネームプレート）</target>
+                <target>画面を単色で塗りつぶし、ゲーム画面だけを表示（ネームプレートを除く）</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideActionBars" xml:space="preserve">
                 <source>禁止热键栏渲染</source>
-                <target>禁止ホットバー描画</target>
+                <target>ホットバーの描画を停止</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButChatLog" xml:space="preserve">
                 <source>禁止界面渲染，仅保留聊天栏</source>
-                <target>禁止画面描画、のみ保留チャットログ</target>
+                <target>チャットログ以外のUI描画を停止</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideAddonsButNameplate" xml:space="preserve">
                 <source>禁止界面渲染，仅保留姓名板</source>
-                <target>禁止画面描画、のみ保留ネームプレート</target>
+                <target>ネームプレート以外のUI描画を停止</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideChatLog" xml:space="preserve">
                 <source>禁止聊天栏渲染</source>
@@ -11332,7 +11332,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideNameplate" xml:space="preserve">
                 <source>禁止姓名板渲染</source>
-                <target>禁止ネームプレート描画</target>
+                <target>ネームプレートの描画を停止</target>
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTargetInfo" xml:space="preserve">
                 <source>禁止目标情报渲染</source>
@@ -11340,11 +11340,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="SpecialRenderMode-Mode-HideTitleExtraInfos" xml:space="preserve">
                 <source>隐藏标题界面版本信息与操作菜单</source>
-                <target>非表示标题画面バージョン情報と操作メニュー</target>
+                <target>タイトル画面のバージョン情報と操作メニューを非表示</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeDescription" xml:space="preserve">
                 <source>提供一系列特殊的渲染选项，用以满足多种需求。</source>
-                <target>多様なニーズに応えるため、一連の特別なレンダリングオプションを提供します。</target>
+                <target>用途に応じて選べる特殊な描画オプションを提供します。</target>
             </trans-unit>
             <trans-unit id="SpecialRenderModeTitle" xml:space="preserve">
                 <source>特殊渲染模式</source>
@@ -11376,7 +11376,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="StrikingTreeHelperDescription" xml:space="preserve">
                 <source>进入副本“拉姆歼灭战”后，自动突出标记带有“恐怖”状态的小队成员。</source>
-                <target>インスタンスダンジョン「ラムウ討滅戦」に入ると、「恐怖」状態のパーティメンバーが自動的に強調表示されます。</target>
+                <target>「ラムウ討滅戦」に入ると、「恐怖」状態のパーティメンバーを自動で強調表示します。</target>
             </trans-unit>
             <trans-unit id="StrikingTreeHelperTitle" xml:space="preserve">
                 <source>拉姆歼灭战助手</source>
@@ -11508,7 +11508,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-CoveredSlot" xml:space="preserve">
                 <source>“{itemName}”占用了该部位。</source>
-                <target>「{itemName}」がその部位を占有しています。</target>
+                <target>「{itemName}」がこの部位を使用しています。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-DiscardSwitch" xml:space="preserve">
                 <source>放弃修改并切换</source>
@@ -11516,7 +11516,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-FillEmpty" xml:space="preserve">
                 <source>使用“皇帝的新装备”填充空部位</source>
-                <target>「皇帝の新しい装備」を使って空き部位を埋める</target>
+                <target>空き部位を「武具投影」装備で埋める</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-LivePreview" xml:space="preserve">
                 <source>实时试穿</source>
@@ -11524,7 +11524,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-NotOwnedHint" xml:space="preserve">
                 <source>未在背包、兵装库、投影台或收藏柜中找到此装备。</source>
-                <target>この装備は、バックパック、兵装庫、ミラージュドレッサー、またはコレクションキャビネットのいずれにも見つかりませんでした。</target>
+                <target>所持品、アーマリーチェスト、ミラージュドレッサー、愛蔵品キャビネットにこの装備はありません。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnedOnly" xml:space="preserve">
                 <source>仅显示已拥有装备</source>
@@ -11532,11 +11532,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-OwnershipUnknownHint" xml:space="preserve">
                 <source>装备数据尚未完整读取，请手动打开投影台或收藏柜以更新数据。</source>
-                <target>装備データが完全には読み込まれていません。投影台またはコレクションケースを手動で開き、データを更新してください。</target>
+                <target>装備データの読み込みが完了していません。ミラージュドレッサーまたは愛蔵品キャビネットを開いて、データを更新してください。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-RemovedEquipment" xml:space="preserve">
                 <source>移除了模板“{presetName}”中下列冲突或无效的装备。</source>
-                <target>プリセット「{presetName}」から、以下の競合している、または無効な装備を削除しました。</target>
+                <target>テンプレート「{presetName}」から、競合または無効な次の装備を削除しました。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SaveAs" xml:space="preserve">
                 <source>另存为</source>
@@ -11548,7 +11548,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Editor-SwitchWarning" xml:space="preserve">
                 <source>当前模板有未保存的修改，请保存或放弃后再切换。</source>
-                <target>現在のテンプレートには未保存の変更があります。保存または破棄してから切り替えてください。</target>
+                <target>テンプレートに未保存の変更があります。保存または破棄してから切り替えてください。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-FilteredFavoriteCount" xml:space="preserve">
                 <source>收藏数量</source>
@@ -11624,7 +11624,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerDescription" xml:space="preserve">
                 <source>新增模块界面用以统合管理装备投影与编辑投影模板。支持快捷筛选与收藏投影台与收藏柜内全部装备，并可快捷制作、保存、导入与导出投影模板。</source>
-                <target>装備の投影（ミラージュプリズム）および投影テンプレートの編集を一元管理できる画面が追加されました。ミラージュドレッサーやミラージュプレート内の全装備を素早く絞り込んだり、お気に入り登録したりできるほか、投影テンプレートの作成・保存・インポート・エクスポートもスムーズに行えます。</target>
+                <target>装備投影と投影テンプレートの編集をまとめて管理する画面を追加します。ミラージュドレッサーや愛蔵品キャビネットにある装備をすばやく絞り込み、お気に入りに登録できます。投影テンプレートの作成、保存、インポート、エクスポートも簡単に行えます。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManagerTitle" xml:space="preserve">
                 <source>统一投影管理器</source>
@@ -11688,11 +11688,11 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearFilters" xml:space="preserve">
                 <source>清除筛选</source>
-                <target>フィルターのクリア</target>
+                <target>フィルターをクリア</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClearSearch" xml:space="preserve">
                 <source>清除搜索内容</source>
-                <target>検索内容を消去</target>
+                <target>検索語をクリア</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ClickToZoom" xml:space="preserve">
                 <source>点击查看大图</source>
@@ -11708,7 +11708,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-EmptySearch" xml:space="preserve">
                 <source>未找到匹配的更新内容</source>
-                <target>一致する更新内容が見つかりませんでした</target>
+                <target>一致する更新内容がありません</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandAll" xml:space="preserve">
                 <source>全部展开</source>
@@ -11716,15 +11716,15 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ExpandOutline" xml:space="preserve">
                 <source>展开目录</source>
-                <target>目次を展開</target>
+                <target>目次を開く</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ImageLoading" xml:space="preserve">
                 <source>图片加载中……</source>
-                <target>画像を読み込み中……</target>
+                <target>画像を読み込み中…</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-LocateModule" xml:space="preserve">
                 <source>在主界面中查看</source>
-                <target>メイン画面で確認する</target>
+                <target>メイン画面で表示</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-OpenModuleConfig" xml:space="preserve">
                 <source>在主界面中打开配置</source>
@@ -11736,7 +11736,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-ReturnToChangelog" xml:space="preserve">
                 <source>返回更新日志</source>
-                <target>戻る変更履歴</target>
+                <target>更新履歴に戻る</target>
             </trans-unit>
             <trans-unit id="VersionUpdateWindow-Subtitle" xml:space="preserve">
                 <source>更新完成，请查阅下方的更新日志。</source>
@@ -11760,7 +11760,7 @@ URL：{isGL, select, true {https://xivpf.com/} other {https://xivpf.littlenightm
             </trans-unit>
             <trans-unit id="WhiteGray" xml:space="preserve">
                 <source>白灰</source>
-                <target>白灰</target>
+                <target>白と灰色</target>
             </trans-unit>
             <trans-unit id="Whitelist" xml:space="preserve">
                 <source>白名单</source>
