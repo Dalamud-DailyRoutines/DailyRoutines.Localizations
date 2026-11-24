@@ -2256,15 +2256,19 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoLeveQuests-Timeout" xml:space="preserve">
                 <source>等待理符任务处理结果超时，停止了自动提交。</source>
+                <target>リーヴの処理結果がタイムアウトしたため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuests-UnexpectedResponse" xml:space="preserve">
                 <source>理符任务数据非预期，停止了自动提交。</source>
+                <target>リーヴのデータが想定外だったため、自動納品を停止しました。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
                 <source>配置后，自动重复接取并提交指定的生产理符。</source>
+                <target>設定した納品系リーヴを自動で繰り返し受注・納品します。</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsTitle" xml:space="preserve">
                 <source>自动提交生产理符</source>
+                <target>リーヴ自動納品</target>
             </trans-unit>
             <trans-unit id="AutoLockGameWindowDescription" xml:space="preserve">
                 <source>进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外</source>
