@@ -2364,9 +2364,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMJIGather-ObjectTimeout" xml:space="preserve">
                 <source>尝试采集“{name}”时发生异常，{stage, select, arrival {未能到达目标位置} occupied {等待角色解除占用超时} object {未找到目标采集点物体} resource {等待采集点资源就绪超时} other {等待采集点超时}}，发动“海岛返回”后将自动继续采集。</source>
+                <target>「{name}」の採集中に問題が発生しました。{stage, select, arrival {目的地に到達できませんでした} occupied {キャラクターの操作完了を待機中にタイムアウトしました} object {対象の採集ポイントが見つかりませんでした} resource {採集ポイントの準備を待機中にタイムアウトしました} other {採集ポイントを待機中にタイムアウトしました}}。「アイルデジョン」を実行すると採集を再開します。</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-PointGroup" xml:space="preserve">
                 <source>{name}（{count}个点位）</source>
+                <target>{name}（{count}か所）</target>
             </trans-unit>
             <trans-unit id="AutoMJIGather-Points" xml:space="preserve">
                 <source>可用点位数</source>
