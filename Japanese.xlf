@@ -4662,7 +4662,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerDescription" xml:space="preserve">
                 <source>在副本“魔光键影”中，自动显示被刻意隐藏的“消息”界面，以便核对各种消息。</source>
-                <target>「魔光鍵影」内で、意図的に非表示にされたチャットログを自動で表示し、各種メッセージを確認できるようにします。</target>
+                <target>「キーバウンドブロウラー」内で、意図的に非表示にされたチャットログを自動で表示し、各種メッセージを確認できるようにします。</target>
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动魔光键影内显示“消息”界面</source>
@@ -6230,7 +6230,7 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperDescription" xml:space="preserve">
                 <source>进入副本“休养胜地布雷福洛克斯野营地”后，自动与“哥布林寻路人”对话获取“避难地正门的钥匙”。</source>
-                <target>「休養地ブレイフロクスの野営地」に入ると、「ゴブリン族の道案内」と自動で会話し、「避難地の正門の鍵」を入手します。</target>
+                <target>「奪還支援 ブレイフロクスの野営地」に入ると、「ゴブリン族の道案内」と自動で会話し、「避難地の主門の鍵」を入手します。</target>
             </trans-unit>
             <trans-unit id="BrayfloxsLongstopHelperTitle" xml:space="preserve">
                 <source>休养胜地布雷福洛克斯野营地助手</source>
