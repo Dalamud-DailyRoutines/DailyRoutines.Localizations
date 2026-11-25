@@ -9155,6 +9155,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="Mount" xml:space="preserve">
                 <source>坐骑</source>
+                <target>マウント</target>
             </trans-unit>
             <trans-unit id="MoveDown" xml:space="preserve">
                 <source>下移</source>
@@ -10447,6 +10448,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="Ornament" xml:space="preserve">
                 <source>时尚配饰</source>
+                <target>ファッションアクセサリー</target>
             </trans-unit>
             <trans-unit id="OrnamentActionCommand-CommandHelp" xml:space="preserve">
                 <source>&lt;技能 ID / 技能名称 / 技能名称拼音&gt; (部分包含, 大小写不敏感) 使用时尚配饰技能</source>
