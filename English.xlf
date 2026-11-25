@@ -6733,6 +6733,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScaleTitle" xml:space="preserve">
                 <source>自定义对象缩放</source>
+                <target>Custom Object Scaling</target>
             </trans-unit>
             <trans-unit id="CustomizeInterfaceText-ReplaceMode" xml:space="preserve">
                 <source>替换模式</source>
@@ -9149,6 +9150,7 @@ The information will be uploaded to {isGL, select, true {https://xivpf.com/} oth
             </trans-unit>
             <trans-unit id="Mount" xml:space="preserve">
                 <source>坐骑</source>
+                <target>Mount</target>
             </trans-unit>
             <trans-unit id="MoveDown" xml:space="preserve">
                 <source>下移</source>
@@ -10439,6 +10441,7 @@ Enable the option to turn the fake panel into a real three-button panel.</target
             </trans-unit>
             <trans-unit id="Ornament" xml:space="preserve">
                 <source>时尚配饰</source>
+                <target>Accessory</target>
             </trans-unit>
             <trans-unit id="OrnamentActionCommand-CommandHelp" xml:space="preserve">
                 <source>&lt;技能 ID / 技能名称 / 技能名称拼音&gt; (部分包含, 大小写不敏感) 使用时尚配饰技能</source>
