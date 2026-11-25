@@ -7867,14 +7867,6 @@ UI: {0}
                 <source>以上设置均可随时在主界面的“设置”中调整。</source>
                 <target>これらの設定は、後からメイン画面の「設定」でいつでも変更できます。</target>
             </trans-unit>
-            <trans-unit id="FirstSetupWindow-CompactMode" xml:space="preserve">
-                <source>紧凑模式</source>
-                <target>コンパクトモード</target>
-            </trans-unit>
-            <trans-unit id="FirstSetupWindow-CompactMode-Help" xml:space="preserve">
-                <source>在主界面以更紧凑的卡片展示模块列表，同屏可浏览更多模块。</source>
-                <target>メイン画面のモジュール一覧をコンパクトなカードで表示し、一度に多くのモジュールを確認できます。</target>
-            </trans-unit>
             <trans-unit id="FirstSetupWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
