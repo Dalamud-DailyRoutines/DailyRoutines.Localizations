@@ -11500,6 +11500,27 @@ URL: https://uptime.ff14.xin/</target>
                 <source>双击可以修改标题/备注</source>
                 <target>더블 클릭하여 제목/메모를 수정할 수 있습니다.</target>
             </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportDone" xml:space="preserve">
+                <source>导入了{count}套模板。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportFailed" xml:space="preserve">
+                <source>导入失败，请检查文件路径、格式和读取权限。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportGlamaholic" xml:space="preserve">
+                <source>批量导入“Glamaholic”插件内的投影模板</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportPath" xml:space="preserve">
+                <source>“Glamaholic”插件配置文件</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportSkipped" xml:space="preserve">
+                <source>查看跳过的装备和模板</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportSkippedPreset" xml:space="preserve">
+                <source>忽略了模板“{presetName}”，其中所有的装备均无效。</source>
+            </trans-unit>
+            <trans-unit id="UnifiedGlamourManager-Preset-ImportSummary" xml:space="preserve">
+                <source>读取了{totalCount}套模板，可导入{importCount}套，重复{duplicateCount}套，跳过{skippedCount}项。</source>
+            </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-MissingItemsText" xml:space="preserve">
                 <source>缺少以下装备</source>
                 <target>다음 장비를 소지하고 있지 않습니다</target>
