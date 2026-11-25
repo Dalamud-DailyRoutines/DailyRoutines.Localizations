@@ -6721,9 +6721,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Duplicate" xml:space="preserve">
                 <source>规则已存在</source>
+                <target>The rule already exists.</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-ScaleVFX" xml:space="preserve">
                 <source>缩放特效</source>
+                <target>Also Scale Visual Effects</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
                 <source>自身</source>
