@@ -2653,7 +2653,7 @@
                 <source>实时试穿</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
-                <source>勾选后，点击左侧任意染剂颜色将自动应用至试穿室预览。</source>
+                <source>点击任意颜色时，将自动在“试穿室”内预览。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>{count}种颜色</source>
@@ -2665,7 +2665,7 @@
                 <source>色值</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
-                <source>打开“染剂图鉴”界面。</source>
+                <source>打开或关闭“染剂图鉴”界面。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
                 <source>预览染剂颜色</source>
