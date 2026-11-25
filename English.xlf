@@ -11589,6 +11589,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportFailed" xml:space="preserve">
                 <source>导入失败，请检查文件路径、格式和读取权限。</source>
+                <target>Failed to import </target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportGlamaholic" xml:space="preserve">
                 <source>批量导入“Glamaholic”插件内的投影模板</source>
@@ -11600,12 +11601,15 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSkipped" xml:space="preserve">
                 <source>查看跳过的装备和模板</source>
+                <target>Gear &amp; Plates Skipped</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSkippedPreset" xml:space="preserve">
                 <source>忽略了模板“{presetName}”，其中所有的装备均无效。</source>
+                <target>Glamour Plate &quot;{presetName}&quot; has been skipped since all the gear in it is invalid.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSummary" xml:space="preserve">
                 <source>读取了{totalCount}套模板，可导入{importCount}套，重复{duplicateCount}套，跳过{skippedCount}项。</source>
+                <target>{totalCount, plural, one {# Glamour Plate has} other {# Glamour Plates have}} been detected. {importCount}{totalCount, plural, one {} other { of them}} could be imported. There {duplicateCount, plural, one {is # duplicate Glamour Plate} other {are # duplicate Glamour Plates}}. {skippedCount, plural, one {# Glamour Plate has} other {# Glamour Plates have}} been skipped.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-MissingItemsText" xml:space="preserve">
                 <source>缺少以下装备</source>
