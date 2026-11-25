@@ -11588,24 +11588,31 @@ UI: {0}
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportDone" xml:space="preserve">
                 <source>导入了{count}套模板。</source>
+                <target>{count}セットのテンプレートをインポートしました。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportFailed" xml:space="preserve">
                 <source>导入失败，请检查文件路径、格式和读取权限。</source>
+                <target>インポートに失敗しました。ファイルパス、形式、および読み取り権限を確認してください。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportGlamaholic" xml:space="preserve">
                 <source>批量导入“Glamaholic”插件内的投影模板</source>
+                <target>「Glamaholic」プラグイン内の投影テンプレートを一括インポートする</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportPath" xml:space="preserve">
                 <source>“Glamaholic”插件配置文件</source>
+                <target>「Glamaholic」プラグイン設定ファイル</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSkipped" xml:space="preserve">
                 <source>查看跳过的装备和模板</source>
+                <target>スキップされた装備とテンプレートを確認する</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSkippedPreset" xml:space="preserve">
                 <source>忽略了模板“{presetName}”，其中所有的装备均无效。</source>
+                <target>テンプレート「{presetName}」は、すべての装備が無効であるため無視されました。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSummary" xml:space="preserve">
                 <source>读取了{totalCount}套模板，可导入{importCount}套，重复{duplicateCount}套，跳过{skippedCount}项。</source>
+                <target>{totalCount}セットのテンプレートを読み込みました。インポート可能：{importCount}セット、重複：{duplicateCount}セット、スキップ：{skippedCount}件。</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-MissingItemsText" xml:space="preserve">
                 <source>缺少以下装备</source>
