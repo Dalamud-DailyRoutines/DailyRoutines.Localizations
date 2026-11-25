@@ -9874,11 +9874,11 @@ UI: {0}
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeDescription" xml:space="preserve">
                 <source>优化副本“魔光键影”中的信息显示界面，支持显示奖励加成剩余的具体时间，显示持有的金碟点、金碟币与魔光键影宝箱数量，并显示相关成就的进度。</source>
-                <target>「魔光鍵影」の情報画面を改善します。ボーナスの残り時間、所持しているMGP・金蝶貨・宝箱の数、関連アチーブメントの進捗を表示します。</target>
+                <target>「キーバウンドブロウラー」の情報画面を改善します。ボーナスの残り時間、所持しているMGP・金蝶貨・宝箱の数、関連アチーブメントの進捗を表示します。</target>
             </trans-unit>
             <trans-unit id="OptimizedKTGHudGaugeTitle" xml:space="preserve">
                 <source>魔光键影信息界面优化</source>
-                <target>魔光鍵影の情報画面を最適化</target>
+                <target>キーバウンドブロウラーの情報画面を最適化</target>
             </trans-unit>
             <trans-unit id="OptimizedLetter-Button-Claim" xml:space="preserve">
                 <source>领取全部邮件附件</source>
