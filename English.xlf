@@ -1818,7 +1818,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoHideBannersDescription" xml:space="preserve">
                 <source>配置后，自动阻止弹出横幅与播放音效。</source>
-                <target>Automatically block pop-ups and their accompanying sound effects after configuration.</target>
+                <target>Automatically block pop-ups and their associated sound effects after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoHideBannersTitle" xml:space="preserve">
                 <source>自动隐藏横幅</source>
@@ -6725,7 +6725,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-ScaleVFX" xml:space="preserve">
                 <source>缩放特效</source>
-                <target>Also Scale Visual Effects</target>
+                <target>Scale Associated Visual Effects</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
                 <source>自身</source>
