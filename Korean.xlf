@@ -6685,25 +6685,20 @@ UI: {0}
                 <source>自定义命令别名</source>
                 <target>사용자 정의 명령어 별칭</target>
             </trans-unit>
-            <trans-unit id="CustomizeGameObject-CustomizeType" xml:space="preserve">
-                <source>匹配模式</source>
-                <target>대상 검색 모드</target>
+            <trans-unit id="CustomizeGameObjectScale-Duplicate" xml:space="preserve">
+                <source>规则已存在</source>
             </trans-unit>
-            <trans-unit id="CustomizeGameObject-NoTaretNotice" xml:space="preserve">
-                <source>当前无目标, 请选中任一有效目标</source>
-                <target>대상이 없습니다. 유효한 대상을 선택해주세요.</target>
-            </trans-unit>
-            <trans-unit id="CustomizeGameObject-ScaleVFX" xml:space="preserve">
+            <trans-unit id="CustomizeGameObjectScale-ScaleVFX" xml:space="preserve">
                 <source>缩放特效</source>
-                <target>VFX 확대</target>
             </trans-unit>
-            <trans-unit id="CustomizeGameObjectDescription" xml:space="preserve">
-                <source>按照预设, 自定义游戏内各类实体的缩放</source>
-                <target>각 오브젝트의 크기를 원하는 대로 조정할 수 있습니다.</target>
+            <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
+                <source>自身</source>
             </trans-unit>
-            <trans-unit id="CustomizeGameObjectTitle" xml:space="preserve">
-                <source>自定义游戏对象缩放</source>
-                <target>게임 오브젝트 스케일 조정</target>
+            <trans-unit id="CustomizeGameObjectScaleDescription" xml:space="preserve">
+                <source>配置后，根据规则自动调整对象的缩放。</source>
+            </trans-unit>
+            <trans-unit id="CustomizeGameObjectScaleTitle" xml:space="preserve">
+                <source>自定义对象缩放</source>
             </trans-unit>
             <trans-unit id="CustomizeInterfaceText-ReplaceMode" xml:space="preserve">
                 <source>替换模式</source>
