@@ -121,7 +121,7 @@ Validity Period: {2} day(s)</target>
             </trans-unit>
             <trans-unit id="AutoAcceptInvitationDescription" xml:space="preserve">
                 <source>配置完成后, 自动接受满足条件的玩家的组队邀请</source>
-                <target>Automatically accept party invitations from players who satisfy certain conditions after proper configurations.</target>
+                <target>Automatically accept party invitations from players who satisfy certain conditions after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoAcceptInvitationTitle" xml:space="preserve">
                 <source>自动接受组队邀请</source>
@@ -155,7 +155,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoAdjustNamePlateIconDescription" xml:space="preserve">
                 <source>配置完毕后, 自动调整所有名牌中目标标记的缩放与位置</source>
-                <target>Automatically adjust the scaling and positioning of signs above player names after proper configurations.</target>
+                <target>Automatically adjust the scaling and positioning of signs above player names after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoAdjustNamePlateIconTitle" xml:space="preserve">
                 <source>自动调整目标标记</source>
@@ -299,7 +299,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoBackupGameConfigDescription" xml:space="preserve">
                 <source>配置后，登录游戏时将自动同步游戏配置数据至 GitHub Gist，并支持自动冲突检测与云端恢复。</source>
-                <target>Automatically synchronize the game configuration to GitHub Gist while logging in after proper configurations. The feature comes with conflict detection and recovery from the cloud.</target>
+                <target>Automatically synchronize the game configuration to GitHub Gist while logging in after configuration. The feature comes with conflict detection and recovery from the cloud.</target>
             </trans-unit>
             <trans-unit id="AutoBackupGameConfigTitle" xml:space="preserve">
                 <source>自动备份游戏配置</source>
@@ -404,7 +404,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCancelMountCastDescription" xml:space="preserve">
                 <source>配置完毕后, 在满足特定条件时自动中断当前正在进行的坐骑咏唱</source>
-                <target>Automatically cancel mount cast in given scenarios after proper configurations.</target>
+                <target>Automatically cancel mount cast in given scenarios after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoCancelMountCastTitle" xml:space="preserve">
                 <source>自动中断坐骑咏唱</source>
@@ -484,7 +484,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoChangeBattleEffectLevelDescription" xml:space="preserve">
                 <source>配置完毕后, 自动根据当前区域类型及周围玩家数量调整战斗特效显示设置</source>
-                <target>Automatically adjust the visibility settings of battle effects based on the area and the number of players nearby after proper configurations.</target>
+                <target>Automatically adjust the visibility settings of battle effects based on the area and the number of players nearby after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoChangeBattleEffectLevelTitle" xml:space="preserve">
                 <source>自动调整战斗特效</source>
@@ -516,7 +516,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoChangeCharacterRaceSexDescription" xml:space="preserve">
                 <source>配置完成后, 自动将指定的种族与性别组合变更为另一种族与性别组合</source>
-                <target>Automatically apply a specified combination of race and gender on characters in certain combinations of race and gender after proper configurations.</target>
+                <target>Automatically apply a specified combination of race and gender on characters in certain combinations of race and gender after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoChangeCharacterRaceSexTitle" xml:space="preserve">
                 <source>自动变更角色种族性别</source>
@@ -524,7 +524,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoChangeKeyboardLayoutDescription" xml:space="preserve">
                 <source>配置完成后, 当游戏内文本输入框聚焦或失焦时, 自动切换至指定的键盘布局</source>
-                <target>Automatically switch to specified keyboard layouts while in-game text boxes gain or lose focus after proper configurations.</target>
+                <target>Automatically switch to specified keyboard layouts while in-game text boxes gain or lose focus after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoChangeKeyboardLayoutTitle" xml:space="preserve">
                 <source>自动切换键盘布局</source>
@@ -592,7 +592,7 @@ For example: Naoki YoshidaChocobo</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageDescription" xml:space="preserve">
                 <source>配置后，自动根据“进食”状态类型与剩余时间、区域、职业与设置顺序等选择并使用食物。</source>
-                <target>Automatically consume the specified food after proper configurations.</target>
+                <target>Automatically consume the specified food after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoCheckFoodUsageTitle" xml:space="preserve">
                 <source>自动检查自身食物状态</source>
@@ -1098,7 +1098,7 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             </trans-unit>
             <trans-unit id="AutoDisplayStatusFullTimeDescription" xml:space="preserve">
                 <source>配置完毕后, 始终显示完整的状态剩余时间, 并提高所有状态更新的精度</source>
-                <target>Always display detailed remaining time for status and shorten the interval between updates after proper configurations.</target>
+                <target>Always display detailed remaining time for status and shorten the interval between updates after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayStatusFullTimeTitle" xml:space="preserve">
                 <source>自动显示完整状态时间</source>
@@ -1520,7 +1520,7 @@ For example, if the farming duration is set to 120 minutes and the duration fluc
             </trans-unit>
             <trans-unit id="AutoFateDescription" xml:space="preserve">
                 <source>配置完成并点击开始后, 自动按照预设目标循环完成指定区域的临危受命 (FATE) 任务</source>
-                <target>Auto completely FATEs in specified areas according to presets made by the user after proper configurations and clicking start.</target>
+                <target>Auto completely FATEs in specified areas according to presets made by the user after configuration and clicking start.</target>
             </trans-unit>
             <trans-unit id="AutoFateStart-StartNotice" xml:space="preserve">
                 <source>已自动开始临危受命任务:
@@ -1584,7 +1584,7 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoFilterLogMessageDescription" xml:space="preserve">
                 <source>配置完毕后, 自动阻止对应的游戏内日志消息发送与显示</source>
-                <target>Automatically prevent log messages from being sent and displayed after proper configurations.</target>
+                <target>Automatically prevent log messages from being sent and displayed after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoFilterLogMessageTitle" xml:space="preserve">
                 <source>自动过滤日志消息</source>
@@ -1818,7 +1818,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoHideBannersDescription" xml:space="preserve">
                 <source>配置后，自动阻止弹出横幅与播放音效。</source>
-                <target>Automatically block pop-ups and their accompanying sound effects after proper configurations.</target>
+                <target>Automatically block pop-ups and their accompanying sound effects after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoHideBannersTitle" xml:space="preserve">
                 <source>自动隐藏横幅</source>
@@ -1866,7 +1866,7 @@ If it reaches 400,000 Skyward Points for a job, the automation process will proc
             </trans-unit>
             <trans-unit id="AutoHideGameObjectsDescription" xml:space="preserve">
                 <source>配置完毕后, 自动隐藏对应类型的游戏人物模型, 以期改善游戏帧率与提升其余对象模型的显示优先级</source>
-                <target>Automatically hide the models of specified objects after proper configurations, in order to improve the game performance and prioritize the rendering of important objects.</target>
+                <target>Automatically hide the models of specified objects after configuration, in order to improve the game performance and prioritize the rendering of important objects.</target>
             </trans-unit>
             <trans-unit id="AutoHideGameObjectsTitle" xml:space="preserve">
                 <source>自动隐藏对象模型</source>
@@ -2216,7 +2216,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeaveDutyDescription" xml:space="preserve">
                 <source>配置后，在副本任务完成时自动退出。</source>
-                <target>Automatically leave the duty upon completion after proper configurations.</target>
+                <target>Automatically leave the duty upon completion after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoLeaveDutyTitle" xml:space="preserve">
                 <source>自动退出副本</source>
@@ -2264,7 +2264,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoLeveQuestsDescription" xml:space="preserve">
                 <source>配置后，自动重复接取并提交指定的生产理符。</source>
-                <target>Automatically turn in levequest items repeatedly after proper configurations.</target>
+                <target>Automatically turn in levequest items repeatedly after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoLeveQuestsTitle" xml:space="preserve">
                 <source>自动提交生产理符</source>
@@ -2392,7 +2392,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMJIGatherDescription" xml:space="preserve">
                 <source>配置后，自动在开拓无人岛内循环采集所选的材料。</source>
-                <target>Automatically gathering all the specified materials in Island Sanctuary after proper configurations.</target>
+                <target>Automatically gathering all the specified materials in Island Sanctuary after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoMJIGatherTitle" xml:space="preserve">
                 <source>自动无人岛采集</source>
@@ -2763,7 +2763,7 @@ If the status was applied by a combo action, the actual duration would be the se
             </trans-unit>
             <trans-unit id="AutoMarksFinderDescription" xml:space="preserve">
                 <source>配置后，自动扫描所选区域内的 A 级恶名精英，并可根据记录数据快捷带领狩猎车。</source>
-                <target>Automatically scan for Notorious Monsters in the given zones after proper configurations, allowing to lead hunt trains based on the scan results.</target>
+                <target>Automatically scan for Notorious Monsters in the given zones after configuration, allowing to lead hunt trains based on the scan results.</target>
             </trans-unit>
             <trans-unit id="AutoMarksFinderTitle" xml:space="preserve">
                 <source>自动扫描恶名精英</source>
@@ -2963,7 +2963,7 @@ asvel ffxiv gearing supports importing melding plans from:
             </trans-unit>
             <trans-unit id="AutoMessageSchedulerDescription" xml:space="preserve">
                 <source>配置完毕后, 自动在指定的时间点以特定间隔发送特定的聊天消息或文本指令特定次数</source>
-                <target>Automatically send given texts after proper configurations including beginning time, intervals and repetition times.</target>
+                <target>Automatically send given texts after configuration including beginning time, intervals and repetition times.</target>
             </trans-unit>
             <trans-unit id="AutoMessageSchedulerTitle" xml:space="preserve">
                 <source>自动定时发送消息</source>
@@ -3281,7 +3281,7 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoNotifyMessagesDescription" xml:space="preserve">
                 <source>配置后，接收到已选消息类型的新消息或包含指定关键词新消息时, 自动发送通知提醒。</source>
-                <target>Automatically send a notification while receiving a message of a specified type or containing specified keywords after proper configurations</target>
+                <target>Automatically send a notification while receiving a message of a specified type or containing specified keywords after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyMessagesTitle" xml:space="preserve">
                 <source>自动通知新消息</source>
@@ -4144,7 +4144,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoReplyChatBotDescription" xml:space="preserve">
                 <source>配置完毕后, 自动使用指定的大语言模型与提示词回复指定频道的聊天消息</source>
-                <target>Automatically reply messages using the specified large language model with given prompts after proper configurations.</target>
+                <target>Automatically reply messages using the specified large language model with given prompts after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoReplyChatBotTitle" xml:space="preserve">
                 <source>自动回复聊天信息</source>
@@ -4764,7 +4764,7 @@ If not blank, it will only execute if the target name matches exactly.</target>
             </trans-unit>
             <trans-unit id="AutoSortItemsDescription" xml:space="preserve">
                 <source>配置后，在切换区域时自动依据规则整理背包与兵装库。</source>
-                <target>Automatically sort items in the inventory and gear in Armoury Chest while switching zones after proper configurations.</target>
+                <target>Automatically sort items in the inventory and gear in Armoury Chest while switching zones after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoSortItemsTitle" xml:space="preserve">
                 <source>自动整理物品</source>
@@ -5005,7 +5005,7 @@ Auto stance will be disabled in a trial or raid duty, since there are two tank r
             </trans-unit>
             <trans-unit id="AutoTimedLogoutDescription" xml:space="preserve">
                 <source>设定时间后, 自动在对应时间时登出角色/关闭游戏/关闭电脑</source>
-                <target>Automatically log out the character, exit the game and shut down the device at the given time after proper configurations.</target>
+                <target>Automatically log out the character, exit the game and shut down the device at the given time after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoTimedLogoutTitle" xml:space="preserve">
                 <source>自动定时登出</source>
@@ -5051,7 +5051,7 @@ You could add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayersDescription" xml:space="preserve">
                 <source>配置完毕后, 使用场景标记持续追踪当前有效的多个玩家的位置信息</source>
-                <target>Automatically track the given players by updating Waymarks at a high frequency after proper configurations.</target>
+                <target>Automatically track the given players by updating Waymarks at a high frequency after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoTrackPlayersTitle" xml:space="preserve">
                 <source>自动追踪玩家</source>
@@ -5087,7 +5087,7 @@ You could add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoTradeReviveCountDescription" xml:space="preserve">
                 <source>双人均配置完成后，一人自动引战高等级怪物尽快进入无法战斗状态，一人自动复活另一人，以快速累计相关成就进度</source>
-                <target>Automatically farm for revival achievements. One will pull high-level enemies as much as possible, the other will revive the puller after the puller dies. The module requires two players simultaneously and proper configurations before running it.</target>
+                <target>Automatically farm for revival achievements. One will pull high-level enemies as much as possible, the other will revive the puller after the puller dies. The module requires two players simultaneously and proper configuration before running it.</target>
             </trans-unit>
             <trans-unit id="AutoTradeReviveCountTitle" xml:space="preserve">
                 <source>自动互刷复活</source>
@@ -5219,7 +5219,7 @@ You could add a player to the list via the right-click menu.</target>
             </trans-unit>
             <trans-unit id="AutoUseMountActionDescription" xml:space="preserve">
                 <source>配置完毕后, 骑乘特定坐骑时, 自动重复使用指定的坐骑技能</source>
-                <target>Automatically execute mount actions while riding on specified mounts after proper configurations.</target>
+                <target>Automatically execute mount actions while riding on specified mounts after configuration.</target>
             </trans-unit>
             <trans-unit id="AutoUseMountActionTitle" xml:space="preserve">
                 <source>自动使用坐骑技能</source>
@@ -6649,7 +6649,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomActionCastRecastTimeDescription" xml:space="preserve">
                 <source>配置后，自动修改指定技能的咏唱或复唱时间。</source>
-                <target>Automatically adjust the cast or recast time of the specified actions after proper configurations.</target>
+                <target>Automatically adjust the cast or recast time of the specified actions after configuration.</target>
             </trans-unit>
             <trans-unit id="CustomActionCastRecastTimeTitle" xml:space="preserve">
                 <source>自定义技能咏唱复唱时间</source>
@@ -6713,7 +6713,7 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeCommandAliasDescription" xml:space="preserve">
                 <source>配置完成后, 为任意命令设定多个自定义命令别名</source>
-                <target>Apply custom aliases for in-game commands after proper configurations.</target>
+                <target>Apply custom aliases for in-game commands after configuration.</target>
             </trans-unit>
             <trans-unit id="CustomizeCommandAliasTitle" xml:space="preserve">
                 <source>自定义命令别名</source>
@@ -6727,9 +6727,11 @@ That is, to register on Duty Finder with these two duty selected, &quot;The Pool
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
                 <source>自身</source>
+                <target>Self</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScaleDescription" xml:space="preserve">
                 <source>配置后，根据规则自动调整对象的缩放。</source>
+                <target>Automatically scale the specified game objects after configuration.</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScaleTitle" xml:space="preserve">
                 <source>自定义对象缩放</source>
@@ -11297,7 +11299,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="SoundEffectThrottlerDescription" xml:space="preserve">
                 <source>配置完成后, 自动限制系统音效 (&lt;se&gt;) 的播放频率</source>
-                <target>Automatically limit the playback frequency of system sound effects (&lt;se.x&gt;) after proper configurations.</target>
+                <target>Automatically limit the playback frequency of system sound effects (&lt;se.x&gt;) after configuration.</target>
             </trans-unit>
             <trans-unit id="SoundEffectThrottlerTitle" xml:space="preserve">
                 <source>自动限制系统音效频率</source>
