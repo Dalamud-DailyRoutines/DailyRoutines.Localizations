@@ -11589,7 +11589,7 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportFailed" xml:space="preserve">
                 <source>导入失败，请检查文件路径、格式和读取权限。</source>
-                <target>Failed to import </target>
+                <target>Failed to import the Glamour Plates. Please consider checking the directory, format and read permissions.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportGlamaholic" xml:space="preserve">
                 <source>批量导入“Glamaholic”插件内的投影模板</source>
