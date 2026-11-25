@@ -3566,6 +3566,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
                 <source>点击任意颜色时，将自动在“试穿室”内预览。</source>
+                <target>いずれかの色をクリックすると、「試着室」で自動的にプレビューが表示されます。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>{count}种颜色</source>
@@ -3581,6 +3582,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
                 <source>打开或关闭“染剂图鉴”界面。</source>
+                <target>「染料カタログ」画面を開く、または閉じる。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
                 <source>预览染剂颜色</source>
