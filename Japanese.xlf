@@ -6722,18 +6722,23 @@ UI: {0}
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Duplicate" xml:space="preserve">
                 <source>规则已存在</source>
+                <target>ルールは既に存在します</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-ScaleVFX" xml:space="preserve">
                 <source>缩放特效</source>
+                <target>ズームエフェクト</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
                 <source>自身</source>
+                <target>自身</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScaleDescription" xml:space="preserve">
                 <source>配置后，根据规则自动调整对象的缩放。</source>
+                <target>設定後、ルールに基づいてオブジェクトの拡大・縮小が自動的に調整されます。</target>
             </trans-unit>
             <trans-unit id="CustomizeGameObjectScaleTitle" xml:space="preserve">
                 <source>自定义对象缩放</source>
+                <target>オブジェクトの拡大・縮小のカスタマイズ</target>
             </trans-unit>
             <trans-unit id="CustomizeInterfaceText-ReplaceMode" xml:space="preserve">
                 <source>替换模式</source>
