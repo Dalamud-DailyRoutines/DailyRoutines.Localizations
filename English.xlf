@@ -3564,6 +3564,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AutoTryOn-Tooltip" xml:space="preserve">
                 <source>点击任意颜色时，将自动在“试穿室”内预览。</source>
+                <target>Allow to preview a dye in Fitting Room by clicking it.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-AvailableColors" xml:space="preserve">
                 <source>{count}种颜色</source>
@@ -3579,6 +3580,7 @@ If it&apos;s below the threshold, the corresponding action would be enabled.</ta
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Command-Help" xml:space="preserve">
                 <source>打开或关闭“染剂图鉴”界面。</source>
+                <target>to access or hide Dye Log.</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-ContextMenu" xml:space="preserve">
                 <source>预览染剂颜色</source>
@@ -11583,15 +11585,18 @@ Parameter(s): {2}</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportDone" xml:space="preserve">
                 <source>导入了{count}套模板。</source>
+                <target>{count, plural, one {# Glamour Plate has} other {# Glamour Plates have}} been imported.</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportFailed" xml:space="preserve">
                 <source>导入失败，请检查文件路径、格式和读取权限。</source>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportGlamaholic" xml:space="preserve">
                 <source>批量导入“Glamaholic”插件内的投影模板</source>
+                <target>Batch Import From Glamaholic</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportPath" xml:space="preserve">
                 <source>“Glamaholic”插件配置文件</source>
+                <target>Glamaholic Configuration</target>
             </trans-unit>
             <trans-unit id="UnifiedGlamourManager-Preset-ImportSkipped" xml:space="preserve">
                 <source>查看跳过的装备和模板</source>
