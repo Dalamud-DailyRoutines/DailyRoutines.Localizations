@@ -6720,25 +6720,20 @@ UI: {0}
                 <source>自定义命令别名</source>
                 <target>カスタムコマンドエイリアス</target>
             </trans-unit>
-            <trans-unit id="CustomizeGameObject-CustomizeType" xml:space="preserve">
-                <source>匹配模式</source>
-                <target>対象検索モード</target>
+            <trans-unit id="CustomizeGameObjectScale-Duplicate" xml:space="preserve">
+                <source>规则已存在</source>
             </trans-unit>
-            <trans-unit id="CustomizeGameObject-NoTaretNotice" xml:space="preserve">
-                <source>当前无目标, 请选中任一有效目标</source>
-                <target>ターゲットがありません、有効なターゲットを選択してください</target>
-            </trans-unit>
-            <trans-unit id="CustomizeGameObject-ScaleVFX" xml:space="preserve">
+            <trans-unit id="CustomizeGameObjectScale-ScaleVFX" xml:space="preserve">
                 <source>缩放特效</source>
-                <target>VFXズーム</target>
             </trans-unit>
-            <trans-unit id="CustomizeGameObjectDescription" xml:space="preserve">
-                <source>按照预设, 自定义游戏内各类实体的缩放</source>
-                <target>各オブジェクトに対して、拡大/縮小の設定をカスタマイズする。</target>
+            <trans-unit id="CustomizeGameObjectScale-Self" xml:space="preserve">
+                <source>自身</source>
             </trans-unit>
-            <trans-unit id="CustomizeGameObjectTitle" xml:space="preserve">
-                <source>自定义游戏对象缩放</source>
-                <target>ゲーム内オブジェクトのスケーリング調整</target>
+            <trans-unit id="CustomizeGameObjectScaleDescription" xml:space="preserve">
+                <source>配置后，根据规则自动调整对象的缩放。</source>
+            </trans-unit>
+            <trans-unit id="CustomizeGameObjectScaleTitle" xml:space="preserve">
+                <source>自定义对象缩放</source>
             </trans-unit>
             <trans-unit id="CustomizeInterfaceText-ReplaceMode" xml:space="preserve">
                 <source>替换模式</source>
