@@ -8679,6 +8679,9 @@ XivGear (xivgear.app)</target>
                 <source>更多的消息过滤预设</source>
                 <target>更多的消息過濾預設</target>
             </trans-unit>
+            <trans-unit id="Mount" xml:space="preserve">
+                <source>坐骑</source>
+            </trans-unit>
             <trans-unit id="MoveDown" xml:space="preserve">
                 <source>下移</source>
                 <target>下移</target>
@@ -9853,6 +9856,9 @@ XivGear (xivgear.app)</target>
             <trans-unit id="Original" xml:space="preserve">
                 <source>原始</source>
                 <target>原始</target>
+            </trans-unit>
+            <trans-unit id="Ornament" xml:space="preserve">
+                <source>时尚配饰</source>
             </trans-unit>
             <trans-unit id="OrnamentActionCommand-CommandHelp" xml:space="preserve">
                 <source>&lt;技能 ID / 技能名称 / 技能名称拼音&gt; (部分包含, 大小写不敏感) 使用时尚配饰技能</source>
