@@ -7858,14 +7858,6 @@ If the option is enabled, the tray icon would persistently exist even when the g
                 <source>以上设置均可随时在主界面的“设置”中调整。</source>
                 <target>All the above settings can be adjusted later in the &quot;Settings&quot; tab in the main interface.</target>
             </trans-unit>
-            <trans-unit id="FirstSetupWindow-CompactMode" xml:space="preserve">
-                <source>紧凑模式</source>
-                <target>Compact View</target>
-            </trans-unit>
-            <trans-unit id="FirstSetupWindow-CompactMode-Help" xml:space="preserve">
-                <source>在主界面以更紧凑的卡片展示模块列表，同屏可浏览更多模块。</source>
-                <target>Provide compact module cards in the main interface in order to fit more modules at once.</target>
-            </trans-unit>
             <trans-unit id="FirstSetupWindow-DefaultEnableHelp" xml:space="preserve">
                 <source>“推荐模块”是由开发组筛选的，能改善绝大多数玩家的游玩体验，又不会过多改变游玩方式的模块，目的是让插件足够“开箱即用”。
 稍后可以随时禁用这些模块。</source>
