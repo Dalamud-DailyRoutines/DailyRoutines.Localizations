@@ -4666,7 +4666,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoShowChatLogInKeyboundBrawlerTitle" xml:space="preserve">
                 <source>自动魔光键影内显示“消息”界面</source>
-                <target>魔光鍵影でチャットログを自動表示</target>
+                <target>「キーバウンドブロウラー」でチャットログを自動表示</target>
             </trans-unit>
             <trans-unit id="AutoShowFrontlineKillCountDescription" xml:space="preserve">
                 <source>在纷争前线内击倒玩家时，自动在屏幕左侧强调显示击倒人数，以加强游玩正反馈。</source>
