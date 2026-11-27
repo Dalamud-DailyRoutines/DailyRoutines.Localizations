@@ -1320,11 +1320,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Custom-Macro" xml:space="preserve">
                 <source>进入区域时执行的宏指令</source>
-                <target>Macros To Be Executed</target>
+                <target>Accompanying Macro</target>
             </trans-unit>
             <trans-unit id="AutoFate-Custom-Minion" xml:space="preserve">
                 <source>进入区域时召唤的宠物</source>
-                <target>Minion To Be Summoned</target>
+                <target>Accompanying Minion</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-AnimaWeapon" xml:space="preserve">
                 <source>元灵武器</source>
@@ -1383,11 +1383,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-FateCount" xml:space="preserve">
                 <source>危命任务完成次数</source>
-                <target>FATE Run</target>
+                <target>Run Count</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-Custom-Description" xml:space="preserve">
                 <source>在选定的区域内循环完成危命任务, 可按区域设置危命次数、物品目标、宠物和宏, 各区域目标全部达成后继续在当前区域运行</source>
-                <target>The module will automatically farm FATEs in the designated zones. Number of runs, target items, minions to be summoned and macros to be executed could be customized as needed. The process will be continued in the last zone at the time after completing all the zone targets.</target>
+                <target>Automatically farm FATEs in the designated zones. Run counts, target items, accompanying minions and accompanying macros can be customized as needed. The automation process will continue in the last zone once all zone targets are complete.</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-Custom-Title" xml:space="preserve">
                 <source>自定义</source>
