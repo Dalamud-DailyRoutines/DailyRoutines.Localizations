@@ -1332,15 +1332,15 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-BozjaWeapon1" xml:space="preserve">
                 <source>义军武器+1</source>
-                <target>Resistance Weapon +1</target>
+                <target>Augmented Resistance Weapon</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-BozjaWeapon2" xml:space="preserve">
                 <source>义军武器·裁决+1</source>
-                <target>Resistance Weapon Law&apos;s Order +1</target>
+                <target>Augmented Law&apos;s Order Weapon</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-BuiltIn" xml:space="preserve">
                 <source>内置预设</source>
-                <target>Pre-made Preset</target>
+                <target>Built-in Preset</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-CopySuffix" xml:space="preserve">
                 <source>副本</source>
