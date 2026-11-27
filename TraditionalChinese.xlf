@@ -1085,22 +1085,20 @@
                 <target>自动显示藏宝图位置</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-DTR-Tooltip" xml:space="preserve">
-                <source>左键: 复制当前副本 ID
-右键: 打开当前副本 ID 对应的众包记录网站页面</source>
-                <target>左键: 复制当前副本 ID
-右键: 打开当前副本 ID 对应的众包记录网站页面</target>
+                <source>[左键] 复制副本区唯一标识符。
+[右键] 跳转副本区对应的“紧急遭遇战众包网”页面。</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayZoneServerID-Notification" xml:space="preserve">
+                <source>当前所在副本区为“{placeName}{zoneServerID}”。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-ServerID" xml:space="preserve">
-                <source>副本 ID</source>
-                <target>副本 ID</target>
+                <source>副本区</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDDescription" xml:space="preserve">
-                <source>进入特殊场景探索副本时, 自动在服务器信息栏显示当前所在的副本 ID, 并发送聊天消息提醒</source>
-                <target>进入特殊场景探索副本时, 自动在服务器信息栏显示当前所在的副本 ID, 并发送聊天消息提醒</target>
+                <source>追加“基本情报”界面条目，显示当前所在的特殊场景探索区域副本区唯一标识符，并在进入时发送通知提醒。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDTitle" xml:space="preserve">
-                <source>自动显示特殊场景探索副本 ID</source>
-                <target>自动显示特殊场景探索副本 ID</target>
+                <source>自动显示特殊场景探索副本区唯一标识符</source>
             </trans-unit>
             <trans-unit id="AutoDrawMotifs-DrawWhenOutOfCombat" xml:space="preserve">
                 <source>脱战后自动重新绘制</source>
@@ -3020,8 +3018,7 @@ XivGear (xivgear.app)</target>
                 <target>“随机任务：指导者”成就进度</target>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressDescription" xml:space="preserve">
-                <source>当以“随机任务：指导者”进入副本时，若尚有系列任一成就未完成，自动通知相关进度信息。</source>
-                <target>当以“随机任务：指导者”进入副本时，若尚有系列任一成就未完成，自动通知相关进度信息。</target>
+                <source>以“随机任务：指导者”参加副本任务时，若尚有系列内任一成就未完成，自动通知相关进度信息。</source>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressTitle" xml:space="preserve">
                 <source>自动通知“随机任务：指导者”成就进度</source>
