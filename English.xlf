@@ -1319,6 +1319,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-BlacklistHelp" xml:space="preserve">
                 <source>若将危命任务拉黑，则不会前往该危命任务。</source>
+                <target>All the blacklisted FATEs will be ignored.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Custom-Macro" xml:space="preserve">
                 <source>进入区域时执行的宏指令</source>
