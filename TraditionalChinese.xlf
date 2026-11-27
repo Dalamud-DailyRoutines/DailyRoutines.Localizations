@@ -34,12 +34,10 @@
                 <target>調整</target>
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectDescription" xml:space="preserve">
-                <source>为玩家检视界面新增按钮, 可点击其以一键打开当前检视玩家的冒险者铭牌</source>
-                <target>為玩家檢視界面新增按鈕, 可點擊其以一鍵打開當前檢視玩家的冒險者銘牌</target>
+                <source>为“检视”界面新增“查看冒险者铭牌”按钮，以一键查看该玩家的冒险者铭牌。</source>
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectTitle" xml:space="preserve">
-                <source>玩家检视界面打开冒险者铭牌</source>
-                <target>玩家檢視界面打開冒險者銘牌</target>
+                <source>“检视”界面跳转冒险者铭牌</source>
             </trans-unit>
             <trans-unit id="Alias" xml:space="preserve">
                 <source>别名</source>
@@ -973,17 +971,11 @@
                 <source>自动显示任务对象</source>
                 <target>自动显示任务对象</target>
             </trans-unit>
-            <trans-unit id="AutoDisplayMarkerInPartyList-HidePartyListIndexNumber" xml:space="preserve">
-                <source>隐藏小队列表的队员序号</source>
-                <target>隱藏小隊列表的隊員序號</target>
-            </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListDescription" xml:space="preserve">
-                <source>配置完毕后, 在任一队伍成员存在目标标记时, 同时将目标标记显示在小队列表界面对应角色上</source>
-                <target>配置完畢後, 在任一隊伍成員存在目標標記時, 同時將目標標記顯示在小隊列表界面對應角色上</target>
+                <source>在“小队列表”界面内队友条目上显示该队友的目标标记。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListTitle" xml:space="preserve">
-                <source>自动小队列表显示目标标记</source>
-                <target>自動小隊列表顯示目標標記</target>
+                <source>“小队列表”界面显示目标标记</source>
             </trans-unit>
             <trans-unit id="AutoDisplayMitigationInfoDescription" xml:space="preserve">
                 <source>当自身拥有减伤效果, 或目标拥有伤害降低效果时, 自动计算等效减伤值, 并在服务器信息栏显示效果一览</source>
@@ -1263,34 +1255,32 @@
                 <target>主動攻擊指令</target>
             </trans-unit>
             <trans-unit id="AutoFate-ActiveAttackCommandHelp" xml:space="preserve">
-                <source>若你使用的自动循环插件提供了可以主动攻击非进战状态目标的功能指令, 请填入此处, 否则请留空</source>
-                <target>若你使用的自動循環插件提供了可以主動攻擊非進戰狀態目標的功能指令, 請填入此處, 否則請留空</target>
+                <source>若使用的自动循环插件提供了可以主动攻击非进战状态目标的指令，请填入此处。否则请留空。</source>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange" xml:space="preserve">
                 <source>自动兑换</source>
                 <target>自動兌換</target>
             </trans-unit>
+            <trans-unit id="AutoFate-AutoExchange-GemsThreshold" xml:space="preserve">
+                <source>双色宝石上限</source>
+            </trans-unit>
+            <trans-unit id="AutoFate-AutoExchange-GemsThreshold-Help" xml:space="preserve">
+                <source>当持有的双色宝石数量多于设定上限时，自动前往设定区域与设定的非玩家对象交换设定物品。</source>
+            </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-PositionHelp" xml:space="preserve">
-                <source>请设定为待交换物品目标商人面前可交互位置</source>
-                <target>請設定為待交換物品目標商人面前可交互位置</target>
+                <source>请设定为目标非玩家对象面前的可交互位置。</source>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-ZoneHelp" xml:space="preserve">
-                <source>请设定为待交换物品目标商人所在区域</source>
-                <target>請設定為待交換物品目標商人所在區域</target>
+                <source>请设定为目标非玩家对象所在的区域。</source>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty" xml:space="preserve">
-                <source>自动进退副本体力阈值</source>
-                <target>自動進退副本體力閾值</target>
+                <source>体力百分比下限（%）</source>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty-Help" xml:space="preserve">
-                <source>当自身体力百分比低于设定阈值时, 自动进退副本一次, 以避免陷入无法战斗状态</source>
-                <target>當自身體力百分比低於設定閾值時, 自動進退副本一次, 以避免陷入無法戰鬥狀態</target>
+                <source>若自身体力百分比低于设定下限时，自动进退副本一次，以避免陷入无法战斗状态。</source>
             </trans-unit>
             <trans-unit id="AutoFate-BlacklistHelp" xml:space="preserve">
-                <source>若在此处被设为黑名单, 则不会前往对应的临危受命任务
-注: 强烈建议将特殊 FATE 设置为黑名单</source>
-                <target>若在此處被設為黑名單, 則不會前往對應的臨危受命任務
-註: 強烈建議將特殊 FATE 設置為黑名單</target>
+                <source>若将危命任务拉黑，则不会前往该危命任务。</source>
             </trans-unit>
             <trans-unit id="AutoFate-Custom-Macro" xml:space="preserve">
                 <source>进入区域时执行的宏指令</source>
@@ -1353,8 +1343,7 @@
                 <target>解除主動攻擊指令</target>
             </trans-unit>
             <trans-unit id="AutoFate-DeactiveAttackCommandHelp" xml:space="preserve">
-                <source>若你使用的自动循环插件提供了可以解除上方主动攻击状态的功能指令, 请填入此处, 否则请留空</source>
-                <target>若你使用的自動循環插件提供了可以解除上方主動攻擊狀態的功能指令, 請填入此處, 否則請留空</target>
+                <source>若使用的自动循环插件提供了可以解除主动攻击状态的指令，请填入此处。否则请留空。</source>
             </trans-unit>
             <trans-unit id="AutoFate-FateCount" xml:space="preserve">
                 <source>危命任务完成次数</source>
@@ -1369,8 +1358,7 @@
                 <target>自訂</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-Description" xml:space="preserve">
-                <source>在主区域内循环完成临危受命任务, 若主区域内不存在满足条件的临危受命任务, 则前往副区域, 在副区域完成至少 1 个后, 重新返回主区域</source>
-                <target>在主區域內循環完成臨危受命任務, 若主區域內不存在滿足條件的臨危受命任務, 則前往副區域, 在副區域完成至少 1 個後, 重新返回主區域</target>
+                <source>在主副区域间循环完成临危受命任务。若主区域内不存在满足条件的危命任务，则前往副区域；在副区域完成至少1个危命任务后, 重新返回主区域。</source>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-MainZone" xml:space="preserve">
                 <source>主区域</source>
@@ -1385,16 +1373,14 @@
                 <target>双色宝石</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Description" xml:space="preserve">
-                <source>在选定的多个区域内循环完成临危受命任务, 若选定区域完成度已满或不存在满足条件的临危受命任务, 则前往下一个完成度未满的区域, 直至全部区域完成度刷满</source>
-                <target>在選定的多個區域內循環完成臨危受命任務, 若選定區域完成度已滿或不存在滿足條件的臨危受命任務, 則前往下一個完成度未滿的區域, 直至全部區域完成度刷滿</target>
+                <source>在选定的多个区域内循环完成危命任务。若选定区域完成度已满或不存在满足条件的危命任务，则前往下一个完成度未满的区域，直至全部区域完成度刷满。</source>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Title" xml:space="preserve">
                 <source>危命任务完成度</source>
                 <target>危命任务完成度</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Description" xml:space="preserve">
-                <source>在选定区域内循环完成临危受命任务, 若区域内不存在满足条件的临危受命任务, 则在原地等待</source>
-                <target>在選定區域內循環完成臨危受命任務, 若區域內不存在滿足條件的臨危受命任務, 則在原地等待</target>
+                <source>在选定区域内循环完成危命任务。若区域内不存在满足条件的危命任务，则在原地等待。</source>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Title" xml:space="preserve">
                 <source>单区域</source>
@@ -1405,86 +1391,57 @@
                 <target>忽略远超等级的危命任务</target>
             </trans-unit>
             <trans-unit id="AutoFate-IgnoreFarLevelFatesHelp" xml:space="preserve">
-                <source>若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。</source>
-                <target>若危命任务等级超出当前玩家等级 8 级，则不会前往，避免无法完成或完成效率过低。</target>
+                <source>若危命任务等级超出当前玩家指定等级数，则不会前往，避免无法完成或完成效率过低。
+
+规则：
+   30级及以下危命任务：超出玩家等级6级时。
+   50级及以下危命任务：超出玩家等级3级时。
+   其他等级危命任务：超出玩家等级8级时。</source>
             </trans-unit>
             <trans-unit id="AutoFate-NextFate" xml:space="preserve">
                 <source>下一个危命任务</source>
                 <target>下一个危命任务</target>
             </trans-unit>
             <trans-unit id="AutoFate-Notification-Completed" xml:space="preserve">
-                <source>已自动完成危命任务“{0}”
-用时：{1}</source>
-                <target>已自动完成危命任务“{0}”
-用时：{1}</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config" xml:space="preserve">
-                <source>前置插件/模块配置</source>
-                <target>前置插件/模組配置</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config-AEAssist-Help" xml:space="preserve">
-                <source>启用 &quot;目标选择器&quot;, 设置为 &quot;FATE 模式&quot;, 使用非高难的 ACR</source>
-                <target>啟用 &quot;目標選擇器&quot;, 設置為 &quot;FATE 模式&quot;, 使用非高難的 ACR</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config-AutoSummonBuddyChocobo-Help" xml:space="preserve">
-                <source>启用 &quot;自动切换陆行鸟战术&quot;, 请非防护职业设定为 &quot;治疗战术&quot;</source>
-                <target>啟用 &quot;自動切換陸行鳥戰術&quot;, 請非防護職業設定為 &quot;治療戰術&quot;</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config-BossMod-Help" xml:space="preserve">
-                <source>启用 AI 功能, 打开 &quot;战斗中跟随&quot; 与 &quot;跟随目标&quot;, 将 &quot;跟随队伍成员&quot; 设置为自身, &quot;到目标最大距离&quot; 设置为 10 (远程职业) 或 2 (近战职业), 不要设置 &quot;自动循环预设&quot;</source>
-                <target>啟用 AI 功能, 打開 &quot;戰鬥中跟隨&quot; 與 &quot;跟隨目標&quot;, 將 &quot;跟隨隊伍成員&quot; 設置為自身, &quot;到目標最大距離&quot; 設置為 10 (遠程職業) 或 2 (近戰職業), 不要設置 &quot;自動循環預設&quot;</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config-RotationSolver-Help" xml:space="preserve">
-                <source>将目标选择设置为 &quot;手动&quot;</source>
-                <target>將目標選擇設置為 &quot;手動&quot;</target>
-            </trans-unit>
-            <trans-unit id="AutoFate-PluginPrerequisite-Config-WrathCombo-Help" xml:space="preserve">
-                <source>启用自动循环功能, 在对应职业页面将非高难的 &quot;多目标&quot; 循环加入自动循环, 将目标选择模式设置为 &quot;手动&quot;</source>
-                <target>啟用自動循環功能, 在對應職業頁面將非高難的 &quot;多目標&quot; 循環加入自動循環, 將目標選擇模式設置為 &quot;手動&quot;</target>
+                <source>自动完成了危命任务“{name}”。
+   用时：{duration}</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest" xml:space="preserve">
                 <source>定期休息</source>
                 <target>定期休息</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Duration" xml:space="preserve">
-                <source>休息时长 (分钟)</source>
-                <target>休息时长 (分钟)</target>
+                <source>休息时长（分钟）</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Enable-Help" xml:space="preserve">
-                <source>若连续工作已达设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</source>
-                <target>若连续工作已达设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</target>
+                <source>若连续完成危命任务达到了设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Interval" xml:space="preserve">
-                <source>工作时长 (分钟)</source>
-                <target>工作时长 (分钟)</target>
+                <source>工作时长（分钟）</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter" xml:space="preserve">
-                <source>时长抖动 (%)</source>
-                <target>时长抖动 (%)</target>
+                <source>时长抖动（%）</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter-Help" xml:space="preserve">
-                <source>工作时长与休息时长均按该百分比随机浮动，设定为 0 表示使用固定时长。
-
-如：工作时长设置为 120 分钟，抖动设为 10% 时，则最终可能会在最短工作 108 分钟、最长工作 132 分钟后进入休息状态。</source>
-                <target>工作时长与休息时长均按该百分比随机浮动，设定为 0 表示使用固定时长。
-
-如：工作时长设置为 120 分钟，抖动设为 10% 时，则最终可能会在最短工作 108 分钟、最长工作 132 分钟后进入休息状态。</target>
+                <source>工作时长与休息时长均按该百分比随机浮动，设定为0表示使用固定时长。
+示例：“工作时长”设置为120分钟，“时长抖动”设置为10%时，则会在连续完成危命任务最短108分钟、最长132分钟后开始休息。</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-End" xml:space="preserve">
                 <source>休息结束，继续刷取。</source>
                 <target>休息结束，继续刷取。</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-Start" xml:space="preserve">
-                <source>开始休息，持续 {0} 分钟，目标休息区域：{1}。</source>
-                <target>开始休息，持续 {0} 分钟，目标休息区域：{1}。</target>
+                <source>开始休息，将在“{zone}”持续挂机{minutes}分钟。</source>
+            </trans-unit>
+            <trans-unit id="AutoFate-Rest-UseRandomZone" xml:space="preserve">
+                <source>随机区域</source>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Zone" xml:space="preserve">
                 <source>休息区域</source>
                 <target>休息区域</target>
             </trans-unit>
             <trans-unit id="AutoFateDescription" xml:space="preserve">
-                <source>配置完成并点击开始后, 自动按照预设目标循环完成指定区域的临危受命 (FATE) 任务</source>
-                <target>配置完成並點擊開始後, 自動按照預設目標循環完成指定區域的臨危受命 (FATE) 任務</target>
+                <source>配置后，自动按照设定目标循环完成危命任务。</source>
             </trans-unit>
             <trans-unit id="AutoFateStart-StartNotice" xml:space="preserve">
                 <source>已自动开始临危受命任务:
@@ -1531,8 +1488,7 @@
                 <target>自動危命任務等級同步</target>
             </trans-unit>
             <trans-unit id="AutoFateTitle" xml:space="preserve">
-                <source>自动临危受命</source>
-                <target>自動臨危受命</target>
+                <source>自动完成危命任务</source>
             </trans-unit>
             <trans-unit id="AutoFilterLogMessage-MessageToFilter" xml:space="preserve">
                 <source>待过滤消息</source>
