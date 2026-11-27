@@ -1303,6 +1303,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-GemsThreshold-Help" xml:space="preserve">
                 <source>当持有的双色宝石数量多于设定上限时，自动前往设定区域与设定的非玩家对象交换设定物品。</source>
+                <target>Automatically navigate to the designated zone and exchange bicolor gemstones for the specified items at a Gemstone Trader if bicolor gemstones reach the cap.</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-PositionHelp" xml:space="preserve">
                 <source>请设定为目标非玩家对象面前的可交互位置。</source>
@@ -1477,6 +1478,7 @@ For example, if the farming duration is set to 120 minutes and the duration fluc
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-Start" xml:space="preserve">
                 <source>开始休息，将在“{zone}”持续挂机{minutes}分钟。</source>
+                <target>Now taking a break. The character will stand by in the zone &quot;{zone}&quot; for {minutes, plural, one {# minute} other {# minutes}}.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-UseRandomZone" xml:space="preserve">
                 <source>随机区域</source>
