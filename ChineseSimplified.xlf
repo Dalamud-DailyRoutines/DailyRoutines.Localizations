@@ -2248,16 +2248,13 @@
                 <source>取出未在套装内的装备</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
-                <source>取出兵装库内所有未在任一有效套装内的装备</source>
-            </trans-unit>
-            <trans-unit id="AutoMoveGearsNotInSet-MannualRetrieve" xml:space="preserve">
-                <source>手动取出</source>
+                <source>取出兵装库内所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
-                <source>从兵装库里取出了 {0} 件装备</source>
+                <source>从兵装库取出了{count}件装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>使用后, 自动从兵装库内取出所有未在任一有效套装内的装备</source>
+                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
