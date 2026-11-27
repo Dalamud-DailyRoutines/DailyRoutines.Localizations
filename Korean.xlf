@@ -1122,22 +1122,20 @@
                 <target>보물지도 위치 자동 표시</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-DTR-Tooltip" xml:space="preserve">
-                <source>左键: 复制当前副本 ID
-右键: 打开当前副本 ID 对应的众包记录网站页面</source>
-                <target>좌클릭: 현재 인스턴스 ID 복사
-우클릭: 현재 인스턴스 ID의 유저 기록 웹사이트 열기</target>
+                <source>[左键] 复制副本区唯一标识符。
+[右键] 跳转副本区对应的“紧急遭遇战众包网”页面。</source>
+            </trans-unit>
+            <trans-unit id="AutoDisplayZoneServerID-Notification" xml:space="preserve">
+                <source>当前所在副本区为“{placeName}{zoneServerID}”。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-ServerID" xml:space="preserve">
-                <source>副本 ID</source>
-                <target>임무 ID</target>
+                <source>副本区</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDDescription" xml:space="preserve">
-                <source>进入特殊场景探索副本时, 自动在服务器信息栏显示当前所在的副本 ID, 并发送聊天消息提醒</source>
-                <target>특수 필드 탐색에 진입할 때 서버 정보 표시줄에 현재 인스턴스 ID를 자동으로 표시하고, 채팅 메시지로 알림을 보냅니다.</target>
+                <source>追加“基本情报”界面条目，显示当前所在的特殊场景探索区域副本区唯一标识符，并在进入时发送通知提醒。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDTitle" xml:space="preserve">
-                <source>自动显示特殊场景探索副本 ID</source>
-                <target>특수 필드 탐색 인스턴스 ID 자동 표시</target>
+                <source>自动显示特殊场景探索副本区唯一标识符</source>
             </trans-unit>
             <trans-unit id="AutoDrawMotifs-DrawWhenOutOfCombat" xml:space="preserve">
                 <source>脱战后自动重新绘制</source>
@@ -3210,8 +3208,7 @@
                 <target>&quot;무작위 임무 : 멘토&quot; 업적 진도</target>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressDescription" xml:space="preserve">
-                <source>当以“随机任务：指导者”进入副本时，若尚有系列任一成就未完成，自动通知相关进度信息。</source>
-                <target>&quot;무작위 임무 : 멘토&quot;에 진입했을 때 관련 업적이 미달성인 경우, 진행도 정보를 알림으로 보냅니다.</target>
+                <source>以“随机任务：指导者”参加副本任务时，若尚有系列内任一成就未完成，自动通知相关进度信息。</source>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressTitle" xml:space="preserve">
                 <source>自动通知“随机任务：指导者”成就进度</source>
