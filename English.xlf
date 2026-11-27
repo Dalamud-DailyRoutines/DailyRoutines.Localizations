@@ -1348,7 +1348,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-PhantomWeapon1" xml:space="preserve">
                 <source>幻境武器</source>
-                <target>Phantom Weapon</target>
+                <target>Phantom Weapon Penumbrae</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-PhantomWeapon2" xml:space="preserve">
                 <source>幻境武器+2</source>
@@ -1368,7 +1368,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-YokaiWatchLegendary" xml:space="preserve">
                 <source>妖怪传奇徽章</source>
-                <target>Yo-kai Legendary Medal</target>
+                <target>Legendary Yo-kai Medal</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-ZodiacWeapon" xml:space="preserve">
                 <source>上古武器·魂晶</source>
