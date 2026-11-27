@@ -1406,14 +1406,14 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-Title" xml:space="preserve">
                 <source>双色宝石</source>
-                <target>Gemstones</target>
+                <target>Bicolor Gemstone</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Description" xml:space="preserve">
                 <source>在选定的多个区域内循环完成危命任务。若选定区域完成度已满或不存在满足条件的危命任务，则前往下一个完成度未满的区域，直至全部区域完成度刷满。</source>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Title" xml:space="preserve">
                 <source>危命任务完成度</source>
-                <target>FATE Completion</target>
+                <target>Shared FATE Rank</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Description" xml:space="preserve">
                 <source>在选定区域内循环完成危命任务。若区域内不存在满足条件的危命任务，则在原地等待。</source>
@@ -1444,7 +1444,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest" xml:space="preserve">
                 <source>定期休息</source>
-                <target>Periodical Break</target>
+                <target>Periodic Breaks</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Duration" xml:space="preserve">
                 <source>休息时长（分钟）</source>
@@ -1464,7 +1464,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-End" xml:space="preserve">
                 <source>休息结束，继续刷取。</source>
-                <target>The periodical break is over. Now resuming farming.</target>
+                <target>The periodic break is over. Now resuming farming.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-Start" xml:space="preserve">
                 <source>开始休息，将在“{zone}”持续挂机{minutes}分钟。</source>
