@@ -1442,6 +1442,8 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             <trans-unit id="AutoFate-Notification-Completed" xml:space="preserve">
                 <source>自动完成了危命任务“{name}”。
    用时：{duration}</source>
+                <target>The FATE &quot;{name}&quot; has been completed automatically.
+   Time Elapsed: {duration}</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest" xml:space="preserve">
                 <source>定期休息</source>
@@ -1453,6 +1455,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Enable-Help" xml:space="preserve">
                 <source>若连续完成危命任务达到了设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</source>
+                <target>The character will take breaks periodically in order to simulate human behaviour.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Interval" xml:space="preserve">
                 <source>工作时长（分钟）</source>
@@ -1465,6 +1468,8 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             <trans-unit id="AutoFate-Rest-Jitter-Help" xml:space="preserve">
                 <source>工作时长与休息时长均按该百分比随机浮动，设定为0表示使用固定时长。
 示例：“工作时长”设置为120分钟，“时长抖动”设置为10%时，则会在连续完成危命任务最短108分钟、最长132分钟后开始休息。</source>
+                <target>Both the farming and break durations will vary randomly based on the given value. Set to 0 for fixed durations.
+For example, if the farming duration is set to 120 minutes and the duration fluctuation is set to 10%, the character will take a break after a minimum of 108 minutes and a maximum of 132 minutes of farming.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-End" xml:space="preserve">
                 <source>休息结束，继续刷取。</source>
