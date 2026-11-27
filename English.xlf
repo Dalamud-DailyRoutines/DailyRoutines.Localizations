@@ -1412,6 +1412,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Description" xml:space="preserve">
                 <source>在选定的多个区域内循环完成危命任务。若选定区域完成度已满或不存在满足条件的危命任务，则前往下一个完成度未满的区域，直至全部区域完成度刷满。</source>
+                <target>Automatically farm FATEs in the designated zones. If the character has achieved the maximum Shared FATE Rank or there&apos;s no FATE available, the character will navigate to another designated zone. The process will be terminated after the character achieves the max Shared FATE Rank in all the designated zones.</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Title" xml:space="preserve">
                 <source>危命任务完成度</source>
