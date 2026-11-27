@@ -1188,13 +1188,14 @@
                 <source>用军票交换物品</source>
                 <target>用军票交换物品</target>
             </trans-unit>
+            <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
+                <source>不提交高品质装备</source>
+            </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
-                <source>跳过镶嵌魔晶石的装备</source>
-                <target>跳過鑲嵌魔晶石的裝備</target>
+                <source>不提交镶嵌有魔晶石的装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
-                <source>跳过绝境战相关装备</source>
-                <target>跳過絕境戰相關裝備</target>
+                <source>不提交绝境战装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
@@ -2796,20 +2797,13 @@ XivGear (xivgear.app)</target>
                 <target>取出未在套裝內的裝備</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
-                <source>取出兵装库内所有未在任一有效套装内的装备</source>
-                <target>取出兵裝庫內所有未在任一有效套裝內的裝備</target>
-            </trans-unit>
-            <trans-unit id="AutoMoveGearsNotInSet-MannualRetrieve" xml:space="preserve">
-                <source>手动取出</source>
-                <target>手動取出</target>
+                <source>取出兵装库内所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
-                <source>从兵装库里取出了 {0} 件装备</source>
-                <target>從兵裝庫裡取出了 {0} 件裝備</target>
+                <source>从兵装库取出了{count}件装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>使用后, 自动从兵装库内取出所有未在任一有效套装内的装备</source>
-                <target>使用後, 自動從兵裝庫內取出所有未在任一有效套裝內的裝備</target>
+                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
