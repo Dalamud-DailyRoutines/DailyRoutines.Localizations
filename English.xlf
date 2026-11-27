@@ -1291,6 +1291,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-ActiveAttackCommandHelp" xml:space="preserve">
                 <source>若使用的自动循环插件提供了可以主动攻击非进战状态目标的指令，请填入此处。否则请留空。</source>
+                <target>If your auto-combat plugin provides a command to enable attacking enemies outside of combat, please enter it here. Otherwise, please leave it blank.</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange" xml:space="preserve">
                 <source>自动兑换</source>
@@ -1443,7 +1444,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest" xml:space="preserve">
                 <source>定期休息</source>
-                <target>Break</target>
+                <target>Periodical Break</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Duration" xml:space="preserve">
                 <source>休息时长（分钟）</source>
@@ -1463,7 +1464,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-End" xml:space="preserve">
                 <source>休息结束，继续刷取。</source>
-                <target>The break is over. Now resuming farming.</target>
+                <target>The periodical break is over. Now resuming farming.</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-Start" xml:space="preserve">
                 <source>开始休息，将在“{zone}”持续挂机{minutes}分钟。</source>
