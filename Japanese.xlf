@@ -1128,18 +1128,24 @@
             <trans-unit id="AutoDisplayZoneServerID-DTR-Tooltip" xml:space="preserve">
                 <source>[左键] 复制副本区唯一标识符。
 [右键] 跳转副本区对应的“紧急遭遇战众包网”页面。</source>
+                <target>[左クリック] インスタンスエリアの一意の識別子をコピーします。
+[右クリック] インスタンスエリアに対応する「緊急遭遇戦クラウドソーシングサイト」のページへ移動します。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-Notification" xml:space="preserve">
                 <source>当前所在副本区为“{placeName}{zoneServerID}”。</source>
+                <target>現在のインスタンスエリアは「{placeName}{zoneServerID}」です。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-ServerID" xml:space="preserve">
                 <source>副本区</source>
+                <target>インスタンスエリア</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDDescription" xml:space="preserve">
                 <source>追加“基本情报”界面条目，显示当前所在的特殊场景探索区域副本区唯一标识符，并在进入时发送通知提醒。</source>
+                <target>「基本情報」画面に項目を追加し、現在滞在中の特殊な探索エリア（ダンジョン等）の固有識別子を表示するようにしました。また、当該エリアへの進入時には通知が表示されます。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDTitle" xml:space="preserve">
                 <source>自动显示特殊场景探索副本区唯一标识符</source>
+                <target>特殊シーン探索ダンジョンエリアの固有識別子を自動表示する</target>
             </trans-unit>
             <trans-unit id="AutoDrawMotifs-DrawWhenOutOfCombat" xml:space="preserve">
                 <source>脱战后自动重新绘制</source>
@@ -3027,6 +3033,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
                 <source>在“兵装库”界面新增按钮与添加“/pdr {command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
+                <target>「アーマリーチェスト」画面にボタンを追加し、コマンド「/pdr {command}」を実装しました。これにより、アーマリーチェスト内にある、どのセットにも登録されていない装備をすべて取り出すことができます。</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
@@ -3246,6 +3253,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressDescription" xml:space="preserve">
                 <source>以“随机任务：指导者”参加副本任务时，若尚有系列内任一成就未完成，自动通知相关进度信息。</source>
+                <target>「コンテンツルーレット：メンター」でコンテンツに参加した際、そのシリーズ内で未達成の実績がある場合は、該当する進捗状況が自動的に通知されます。</target>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressTitle" xml:space="preserve">
                 <source>自动通知“随机任务：指导者”成就进度</source>
@@ -7774,6 +7782,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
                 <source>准备使用跨界传送前往{worldName}。</source>
+                <target>{worldName}へのワールド間移動の準備をしています。</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
                 <source>替换原生“跨界传送”界面</source>
