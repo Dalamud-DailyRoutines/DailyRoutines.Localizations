@@ -10634,10 +10634,6 @@ URL: https://uptime.ff14.xin/</target>
                 <source>消息</source>
                 <target>메시지</target>
             </trans-unit>
-            <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
-                <source>复制了“{text}”到剪贴板。</source>
-                <target>&quot;{text}&quot;를 클립보드에 복사했습니다.</target>
-            </trans-unit>
             <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
                 <source>水平偏移</source>
                 <target>수평 오프셋</target>
