@@ -35,9 +35,11 @@
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectDescription" xml:space="preserve">
                 <source>为“检视”界面新增“查看冒险者铭牌”按钮，以一键查看该玩家的冒险者铭牌。</source>
+                <target>「確認」画面に「アドベンチャラープレートを確認」ボタンを追加し、ワンクリックでそのプレイヤーのアドベンチャラープレートを確認できるようにしました。</target>
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectTitle" xml:space="preserve">
                 <source>“检视”界面跳转冒险者铭牌</source>
+                <target>「確認」画面からアドベンチャラープレートへ遷移</target>
             </trans-unit>
             <trans-unit id="Alias" xml:space="preserve">
                 <source>别名</source>
@@ -1001,9 +1003,11 @@
             </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListDescription" xml:space="preserve">
                 <source>在“小队列表”界面内队友条目上显示该队友的目标标记。</source>
+                <target>「パーティリスト」内のメンバー項目に、そのメンバーのターゲットマーカーを表示します。</target>
             </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListTitle" xml:space="preserve">
                 <source>“小队列表”界面显示目标标记</source>
+                <target>「パーティリスト」にターゲットマーカーを表示する</target>
             </trans-unit>
             <trans-unit id="AutoDisplayMitigationInfoDescription" xml:space="preserve">
                 <source>当自身拥有减伤效果, 或目标拥有伤害降低效果时, 自动计算等效减伤值, 并在服务器信息栏显示效果一览</source>
@@ -1227,9 +1231,11 @@
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
                 <source>不提交高品质装备</source>
+                <target>HQ装備を提出しない</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
                 <source>不提交镶嵌有魔晶石的装备</source>
+                <target>マテリアを装着した装備は納品しない</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
                 <source>不提交绝境战装备</source>
