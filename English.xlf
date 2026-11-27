@@ -1471,6 +1471,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-UseRandomZone" xml:space="preserve">
                 <source>随机区域</source>
+                <target>Random Zone</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Zone" xml:space="preserve">
                 <source>休息区域</source>
@@ -4804,7 +4805,7 @@ If not blank, it will only execute if the target name matches exactly.</target>
             </trans-unit>
             <trans-unit id="AutoSplitStacksDescription" xml:space="preserve">
                 <source>允许以右键物品/预设的形式快速拆分一组物品为指定数量</source>
-                <target>Allow to split items into groups containing a specified number of items via an option in the right-click menu or premade presets.</target>
+                <target>Allow to split items into groups containing a specified number of items via an option in the right-click menu or custom presets.</target>
             </trans-unit>
             <trans-unit id="AutoSplitStacksTitle" xml:space="preserve">
                 <source>自动拆分物品</source>
