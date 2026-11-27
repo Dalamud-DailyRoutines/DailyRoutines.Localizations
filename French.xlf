@@ -2813,7 +2813,7 @@ Temps restant : {0} seconde(s)</target>
                 <source>从兵装库取出了{count}件装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
+                <source>在“兵装库”界面新增按钮与添加“/pdr {command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
@@ -7428,12 +7428,10 @@ Si activé, l’icône restera affichée même lorsque la fenêtre du jeu est ac
                 <target>Voulez-vous vraiment retourner sur le serveur d’origine ({worldText}) ?</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
-                <source>准备使用跨界传送前往{0}。</source>
-                <target>Prêt à utiliser le voyage inter-mondes pour aller sur {0}.</target>
+                <source>准备使用跨界传送前往{worldName}。</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
-                <source>替换游戏原生的“跨界传送”界面</source>
-                <target>Remplacer l’interface native « Voyage inter-mondes » du jeu</target>
+                <source>替换原生“跨界传送”界面</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-SkipTravelBackConfirm" xml:space="preserve">
                 <source>跳过返回原始服务器确认</source>
