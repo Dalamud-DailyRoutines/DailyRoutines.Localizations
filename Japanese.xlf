@@ -3028,8 +3028,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <target>アーマリーチェストから{count}個の装備を取り出しました。</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
-                <target>「アーマリーチェスト」画面にボタンおよび「{command}」コマンドを追加し、セットに含まれていないすべての装備を兵装庫から取り出せるようにしました。</target>
+                <source>在“兵装库”界面新增按钮与添加“/pdr {command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
@@ -7777,12 +7776,10 @@ UI: {0}
                 <target>ホームワールド（{worldText}）へ移動しますか？</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
-                <source>准备使用跨界传送前往{0}。</source>
-                <target>{0} へワールドテレポを実行します</target>
+                <source>准备使用跨界传送前往{worldName}。</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
-                <source>替换游戏原生的“跨界传送”界面</source>
-                <target>ゲームデフォルトの「ワールド間移動」UIを置き換える</target>
+                <source>替换原生“跨界传送”界面</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-SkipTravelBackConfirm" xml:space="preserve">
                 <source>跳过返回原始服务器确认</source>
