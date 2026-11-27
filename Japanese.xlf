@@ -3025,9 +3025,11 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
                 <source>从兵装库取出了{count}件装备。</source>
+                <target>アーマリーチェストから{count}個の装備を取り出しました。</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
                 <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
+                <target>「アーマリーチェスト」画面にボタンおよび「{command}」コマンドを追加し、セットに含まれていないすべての装備を兵装庫から取り出せるようにしました。</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
