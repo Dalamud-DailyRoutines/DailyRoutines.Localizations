@@ -1239,6 +1239,7 @@
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
                 <source>不提交绝境战装备</source>
+                <target>絶レイドの装備を納品しない</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
@@ -1300,6 +1301,7 @@
             </trans-unit>
             <trans-unit id="AutoFate-ActiveAttackCommandHelp" xml:space="preserve">
                 <source>若使用的自动循环插件提供了可以主动攻击非进战状态目标的指令，请填入此处。否则请留空。</source>
+                <target>使用している自動ループ用プラグインに、非戦闘状態のターゲットに対して能動的に攻撃を行うコマンドがある場合は、ここに記入してください。ない場合は空欄のままにしてください。</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange" xml:space="preserve">
                 <source>自动兑换</source>
@@ -1307,18 +1309,23 @@
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-GemsThreshold" xml:space="preserve">
                 <source>双色宝石上限</source>
+                <target>バイカラージェム上限</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-GemsThreshold-Help" xml:space="preserve">
                 <source>当持有的双色宝石数量多于设定上限时，自动前往设定区域与设定的非玩家对象交换设定物品。</source>
+                <target>所持している「バイカラージェム」の数が設定上限を超えた場合、自動的に指定エリアへ移動し、指定されたNPCと対象アイテムを交換します。</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-PositionHelp" xml:space="preserve">
                 <source>请设定为目标非玩家对象面前的可交互位置。</source>
+                <target>対象のNPCの目の前にある、インタラクション可能な位置に設定してください。</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-ZoneHelp" xml:space="preserve">
                 <source>请设定为目标非玩家对象所在的区域。</source>
+                <target>ターゲットとなるNPCが存在するエリアに設定してください。</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty" xml:space="preserve">
                 <source>体力百分比下限（%）</source>
+                <target>体力パーセンテージ下限（%）</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty-Help" xml:space="preserve">
                 <source>若自身体力百分比低于设定下限时，自动进退副本一次，以避免陷入无法战斗状态。</source>
