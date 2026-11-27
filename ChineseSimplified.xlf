@@ -2421,7 +2421,7 @@
                 <source>“随机任务：指导者”成就进度</source>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressDescription" xml:space="preserve">
-                <source>当以“随机任务：指导者”进入副本时，若尚有系列任一成就未完成，自动通知相关进度信息。</source>
+                <source>以“随机任务：指导者”参加副本任务时，若尚有系列内任一成就未完成，自动通知相关进度信息。</source>
             </trans-unit>
             <trans-unit id="AutoNotifyMentorRouletteProgressTitle" xml:space="preserve">
                 <source>自动通知“随机任务：指导者”成就进度</source>
