@@ -1329,9 +1329,11 @@
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty-Help" xml:space="preserve">
                 <source>若自身体力百分比低于设定下限时，自动进退副本一次，以避免陷入无法战斗状态。</source>
+                <target>自身のHP割合が設定した下限を下回った場合、戦闘不能状態に陥ることを避けるため、自動的にダンジョンから一度退出・再入場を行います。</target>
             </trans-unit>
             <trans-unit id="AutoFate-BlacklistHelp" xml:space="preserve">
                 <source>若将危命任务拉黑，则不会前往该危命任务。</source>
+                <target>F.A.T.E.をブラックリストに登録すると、そのF.A.T.E.には向かわなくなります。</target>
             </trans-unit>
             <trans-unit id="AutoFate-Custom-Macro" xml:space="preserve">
                 <source>进入区域时执行的宏指令</source>
@@ -1395,6 +1397,7 @@
             </trans-unit>
             <trans-unit id="AutoFate-DeactiveAttackCommandHelp" xml:space="preserve">
                 <source>若使用的自动循环插件提供了可以解除主动攻击状态的指令，请填入此处。否则请留空。</source>
+                <target>使用している自動ループプラグインに、アクティブ攻撃状態を解除するコマンドが用意されている場合は、ここに記入してください。そうでない場合は、空欄のままにしてください。</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateCount" xml:space="preserve">
                 <source>危命任务完成次数</source>
@@ -1410,6 +1413,7 @@
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-Description" xml:space="preserve">
                 <source>在主副区域间循环完成临危受命任务。若主区域内不存在满足条件的危命任务，则前往副区域；在副区域完成至少1个危命任务后, 重新返回主区域。</source>
+                <target>メインエリアとサブエリアを巡回し、F.A.T.E.（フェイト）を攻略します。メインエリアに条件を満たすF.A.T.E.がない場合はサブエリアへ移動し、そこで少なくとも1つのF.A.T.E.を完了させた後、再びメインエリアに戻ります。</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-MainZone" xml:space="preserve">
                 <source>主区域</source>
@@ -1425,6 +1429,7 @@
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Description" xml:space="preserve">
                 <source>在选定的多个区域内循环完成危命任务。若选定区域完成度已满或不存在满足条件的危命任务，则前往下一个完成度未满的区域，直至全部区域完成度刷满。</source>
+                <target>選択した複数のエリアを巡回し、F.A.T.E.を完了させます。選択したエリアの達成度が上限に達している場合、あるいは条件を満たすF.A.T.E.が存在しない場合は、次の未完了エリアへ移動します。これを繰り返し、すべてのエリアの達成度を上限まで満たします。</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MultiZone-Title" xml:space="preserve">
                 <source>危命任务完成度</source>
@@ -1432,6 +1437,7 @@
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Description" xml:space="preserve">
                 <source>在选定区域内循环完成危命任务。若区域内不存在满足条件的危命任务，则在原地等待。</source>
+                <target>指定されたエリア内で、F.A.T.E.を繰り返し完了させます。エリア内に条件を満たすF.A.T.E.が存在しない場合は、その場で待機します。</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Title" xml:space="preserve">
                 <source>单区域</source>
@@ -1448,6 +1454,7 @@
    30级及以下危命任务：超出玩家等级6级时。
    50级及以下危命任务：超出玩家等级3级时。
    其他等级危命任务：超出玩家等级8级时。</source>
+                <target>F.A.T.E.（フェイト）のレベルが、プレイヤーが指定したレベルを一定以上上回っている場合、そのF.A.T.E.には向かいません。これは、攻略が不可能になることや、攻略効率が著しく低下することを避けるためです。ルール： レベル30以下のF.A.T.E.：プレイヤーのレベルを6以上上回っている場合。 レベル50以下のF.A.T.E.：プレイヤーのレベルを3以上上回っている場合。 その他のレベルのF.A.T.E.：プレイヤーのレベルを8以上上回っている場合。</target>
             </trans-unit>
             <trans-unit id="AutoFate-NextFate" xml:space="preserve">
                 <source>下一个危命任务</source>
