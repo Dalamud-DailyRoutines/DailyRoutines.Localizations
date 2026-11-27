@@ -10168,10 +10168,6 @@ Exemple : pendant le combat contre le boss Doga dans la mission « Tour de Zot �
                 <source>消息</source>
                 <target>Messages</target>
             </trans-unit>
-            <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
-                <source>复制了“{text}”到剪贴板。</source>
-                <target>« {text} » copié dans le presse-papiers.</target>
-            </trans-unit>
             <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
                 <source>水平偏移</source>
                 <target>Décalage horizontal</target>
