@@ -1398,11 +1398,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-MainZone" xml:space="preserve">
                 <source>主区域</source>
-                <target>Preferred Zone</target>
+                <target>Default Zone</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-SubZone" xml:space="preserve">
                 <source>副区域</source>
-                <target>Alternative Zone</target>
+                <target>Fallback Zone</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-MainSubZone-Title" xml:space="preserve">
                 <source>双色宝石</source>
