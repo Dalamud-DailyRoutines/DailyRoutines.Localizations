@@ -1489,10 +1489,13 @@
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter" xml:space="preserve">
                 <source>时长抖动（%）</source>
+                <target>通信の遅延時間（Ping値）（%）</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter-Help" xml:space="preserve">
                 <source>工作时长与休息时长均按该百分比随机浮动，设定为0表示使用固定时长。
 示例：“工作时长”设置为120分钟，“时长抖动”设置为10%时，则会在连续完成危命任务最短108分钟、最长132分钟后开始休息。</source>
+                <target>作業時間と休憩時間は、いずれもこの割合に基づいてランダムに変動します。0に設定した場合は、固定の時間となります。
+例：「作業時間」を120分、「時間変動率」を10%に設定した場合、F.A.T.E.（フェイト）を連続して完了した後、最短108分～最長132分の時点で休憩が開始されます。</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-End" xml:space="preserve">
                 <source>休息结束，继续刷取。</source>
@@ -1500,9 +1503,11 @@
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Notification-Start" xml:space="preserve">
                 <source>开始休息，将在“{zone}”持续挂机{minutes}分钟。</source>
+                <target>休憩を開始します。「{zone}」にて{minutes}分間、放置（オートプレイ）を行います。</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-UseRandomZone" xml:space="preserve">
                 <source>随机区域</source>
+                <target>ランダムエリア</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Zone" xml:space="preserve">
                 <source>休息区域</source>
@@ -1510,6 +1515,7 @@
             </trans-unit>
             <trans-unit id="AutoFateDescription" xml:space="preserve">
                 <source>配置后，自动按照设定目标循环完成危命任务。</source>
+                <target>配置すると、設定した目標に従って、F.A.T.E.（フェイト）を自動的に繰り返し遂行します。</target>
             </trans-unit>
             <trans-unit id="AutoFateStart-StartNotice" xml:space="preserve">
                 <source>已自动开始临危受命任务:
@@ -1557,6 +1563,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoFateTitle" xml:space="preserve">
                 <source>自动完成危命任务</source>
+                <target>F.A.T.E.を自動完了する</target>
             </trans-unit>
             <trans-unit id="AutoFilterLogMessage-MessageToFilter" xml:space="preserve">
                 <source>待过滤消息</source>
@@ -3014,6 +3021,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
                 <source>取出兵装库内所有未在套装内的装备。</source>
+                <target>アーマリーチェスト内にある、セットに含まれていない装備をすべて取り出す。</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
                 <source>从兵装库取出了{count}件装备。</source>
