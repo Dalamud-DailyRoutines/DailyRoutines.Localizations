@@ -1454,7 +1454,12 @@
    30级及以下危命任务：超出玩家等级6级时。
    50级及以下危命任务：超出玩家等级3级时。
    其他等级危命任务：超出玩家等级8级时。</source>
-                <target>F.A.T.E.（フェイト）のレベルが、プレイヤーが指定したレベルを一定以上上回っている場合、そのF.A.T.E.には向かいません。これは、攻略が不可能になることや、攻略効率が著しく低下することを避けるためです。ルール： レベル30以下のF.A.T.E.：プレイヤーのレベルを6以上上回っている場合。 レベル50以下のF.A.T.E.：プレイヤーのレベルを3以上上回っている場合。 その他のレベルのF.A.T.E.：プレイヤーのレベルを8以上上回っている場合。</target>
+                <target>F.A.T.E.のレベルが、プレイヤーが指定したレベル基準を上回る場合、そのF.A.T.E.には向かいません。これは、攻略が不可能になる事態や、攻略効率が著しく低下する事態を避けるためです。
+
+ルール：
+レベル30以下のF.A.T.E.：プレイヤーのレベルを6以上上回る場合。 
+レベル50以下のF.A.T.E.：プレイヤーのレベルを3以上上回る場合。 
+その他のレベルのF.A.T.E.：プレイヤーのレベルを8以上上回る場合。</target>
             </trans-unit>
             <trans-unit id="AutoFate-NextFate" xml:space="preserve">
                 <source>下一个危命任务</source>
@@ -1463,6 +1468,8 @@
             <trans-unit id="AutoFate-Notification-Completed" xml:space="preserve">
                 <source>自动完成了危命任务“{name}”。
    用时：{duration}</source>
+                <target>F.A.T.E.「{name}」を自動完了しました。 
+ 所要時間：{duration}</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest" xml:space="preserve">
                 <source>定期休息</source>
@@ -1470,12 +1477,15 @@
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Duration" xml:space="preserve">
                 <source>休息时长（分钟）</source>
+                <target>休憩時間（分）</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Enable-Help" xml:space="preserve">
                 <source>若连续完成危命任务达到了设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</source>
+                <target>「F.A.T.E.」を連続して一定時間完了すると、通常のプレイヤーのプレイスタイルを模倣するため、自動的に市街地へ移動し、ランダムな時間放置（待機）状態となります。</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Interval" xml:space="preserve">
                 <source>工作时长（分钟）</source>
+                <target>稼働時間（分）</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter" xml:space="preserve">
                 <source>时长抖动（%）</source>
