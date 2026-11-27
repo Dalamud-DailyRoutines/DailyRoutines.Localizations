@@ -1419,6 +1419,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Description" xml:space="preserve">
                 <source>在选定区域内循环完成危命任务。若区域内不存在满足条件的危命任务，则在原地等待。</source>
+                <target>Automatically farm FATEs in the designated zone. If there&apos;s no FATE available, the character will stand by in place.</target>
             </trans-unit>
             <trans-unit id="AutoFate-FateMode-SingZone-Title" xml:space="preserve">
                 <source>单区域</source>
@@ -1435,6 +1436,12 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
    30级及以下危命任务：超出玩家等级6级时。
    50级及以下危命任务：超出玩家等级3级时。
    其他等级危命任务：超出玩家等级8级时。</source>
+                <target>Ignore all the FATEs with a recommended level that far exceeds the character level in order to prevent hard combat.
+
+Detailed Logic:
+   FATEs of lvl 30 or below: Ignored when the recommended level exceeds the character level by 6.
+   FATEs of lvl 50 or below: Ignored when exceeding the character level by 3.
+   Other FATEs: Ignored when exceeding the character level by 8.</target>
             </trans-unit>
             <trans-unit id="AutoFate-NextFate" xml:space="preserve">
                 <source>下一个危命任务</source>
