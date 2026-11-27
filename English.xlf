@@ -1344,7 +1344,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-CopySuffix" xml:space="preserve">
                 <source>副本</source>
-                <target>Duty</target>
+                <target>Copy</target>
             </trans-unit>
             <trans-unit id="AutoFate-CustomPreset-PhantomWeapon1" xml:space="preserve">
                 <source>幻境武器</source>
@@ -1376,7 +1376,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-DeactiveAttackCommand" xml:space="preserve">
                 <source>解除主动攻击指令</source>
-                <target>Command to stop active attacks</target>
+                <target>Command To Disable Active Engagement</target>
             </trans-unit>
             <trans-unit id="AutoFate-DeactiveAttackCommandHelp" xml:space="preserve">
                 <source>若使用的自动循环插件提供了可以解除主动攻击状态的指令，请填入此处。否则请留空。</source>
