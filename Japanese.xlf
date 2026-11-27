@@ -7786,6 +7786,7 @@ UI: {0}
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
                 <source>替换原生“跨界传送”界面</source>
+                <target>標準の「ワールド間テレポ」画面を置き換える</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-SkipTravelBackConfirm" xml:space="preserve">
                 <source>跳过返回原始服务器确认</source>
