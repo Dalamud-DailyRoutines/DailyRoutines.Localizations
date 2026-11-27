@@ -10723,10 +10723,6 @@ Enable the option to turn the fake panel into a real three-button panel.</target
                 <source>消息</source>
                 <target>Message</target>
             </trans-unit>
-            <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
-                <source>复制了“{text}”到剪贴板。</source>
-                <target>&quot;{text}&quot; has been copied to the clipboard.</target>
-            </trans-unit>
             <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
                 <source>水平偏移</source>
                 <target>Horizontal Offset</target>
