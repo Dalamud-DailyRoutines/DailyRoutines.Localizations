@@ -10723,10 +10723,6 @@ UI: {0}
                 <source>消息</source>
                 <target>メッセージ</target>
             </trans-unit>
-            <trans-unit id="QuickChatPanel-Notification-Copied" xml:space="preserve">
-                <source>复制了“{text}”到剪贴板。</source>
-                <target>「{text}」をクリップボードにコピーしました。</target>
-            </trans-unit>
             <trans-unit id="QuickChatPanel-Offset-X" xml:space="preserve">
                 <source>水平偏移</source>
                 <target>水平オフセット</target>
