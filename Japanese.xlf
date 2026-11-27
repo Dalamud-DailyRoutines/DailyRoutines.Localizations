@@ -1225,13 +1225,14 @@
                 <source>用军票交换物品</source>
                 <target>軍票でアイテムを交換</target>
             </trans-unit>
+            <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
+                <source>不提交高品质装备</source>
+            </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
-                <source>跳过镶嵌魔晶石的装备</source>
-                <target>マテリアが装着されている装備をスキップ</target>
+                <source>不提交镶嵌有魔晶石的装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
-                <source>跳过绝境战相关装备</source>
-                <target>絶コンテンツ関連装備をスキップ</target>
+                <source>不提交绝境战装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
@@ -2982,20 +2983,13 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
                 <target>ギアセットに含まれていない装備を取り出す</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
-                <source>取出兵装库内所有未在任一有效套装内的装备</source>
-                <target>有効なギアセットにも含まれていないアーマリーチェスト内すべての装備を取り出す</target>
-            </trans-unit>
-            <trans-unit id="AutoMoveGearsNotInSet-MannualRetrieve" xml:space="preserve">
-                <source>手动取出</source>
-                <target>手動で取り出す</target>
+                <source>取出兵装库内所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
-                <source>从兵装库里取出了 {0} 件装备</source>
-                <target>アーマリーチェストから {0} 個の装備を取り出しました</target>
+                <source>从兵装库取出了{count}件装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>使用后, 自动从兵装库内取出所有未在任一有效套装内的装备</source>
-                <target>自動的にアーマリーチェストから有効なギアセットにも含まれていない装備をすべて取り出す</target>
+                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
