@@ -1456,9 +1456,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Interval" xml:space="preserve">
                 <source>工作时长（分钟）</source>
+                <target>Farming Duration (minutes)</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter" xml:space="preserve">
                 <source>时长抖动（%）</source>
+                <target>Duration Fluctuation</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Jitter-Help" xml:space="preserve">
                 <source>工作时长与休息时长均按该百分比随机浮动，设定为0表示使用固定时长。
