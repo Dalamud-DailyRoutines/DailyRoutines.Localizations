@@ -2991,7 +2991,7 @@
                 <source>从兵装库取出了{count}件装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
-                <source>在“兵装库”界面新增按钮与添加“{command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
+                <source>在“兵装库”界面新增按钮与添加“/pdr {command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
@@ -7694,12 +7694,10 @@ UI: {0}
                 <target>确定要回到原始服务器（{worldText}）吗？</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
-                <source>准备使用跨界传送前往{0}。</source>
-                <target>서버 초월 텔레포를 사용해 {0}으로 이동합니다.</target>
+                <source>准备使用跨界传送前往{worldName}。</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
-                <source>替换游戏原生的“跨界传送”界面</source>
-                <target>게임 기본 &quot;서버 텔레포&quot; 화면을 교체합니다.</target>
+                <source>替换原生“跨界传送”界面</source>
             </trans-unit>
             <trans-unit id="FastWorldTravel-SkipTravelBackConfirm" xml:space="preserve">
                 <source>跳过返回原始服务器确认</source>
