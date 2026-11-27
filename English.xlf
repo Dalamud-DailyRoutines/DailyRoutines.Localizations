@@ -1449,6 +1449,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Duration" xml:space="preserve">
                 <source>休息时长（分钟）</source>
+                <target>Break Duration (minutes)</target>
             </trans-unit>
             <trans-unit id="AutoFate-Rest-Enable-Help" xml:space="preserve">
                 <source>若连续完成危命任务达到了设定时长，则自动前往城区挂机随机时长，以模拟正常玩家作息。</source>
@@ -1480,6 +1481,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFateDescription" xml:space="preserve">
                 <source>配置后，自动按照设定目标循环完成危命任务。</source>
+                <target>Automatically farm FATEs to achieve the specified goals.</target>
             </trans-unit>
             <trans-unit id="AutoFateStart-StartNotice" xml:space="preserve">
                 <source>已自动开始临危受命任务:
