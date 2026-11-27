@@ -917,11 +917,14 @@
             <trans-unit id="AutoExpertDelivery-OpenShopAndExchange" xml:space="preserve">
                 <source>用军票交换物品</source>
             </trans-unit>
+            <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
+                <source>不提交高品质装备</source>
+            </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
-                <source>跳过镶嵌魔晶石的装备</source>
+                <source>不提交镶嵌有魔晶石的装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
-                <source>跳过绝境战相关装备</source>
+                <source>不提交绝境战装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
