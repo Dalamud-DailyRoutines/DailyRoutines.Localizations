@@ -1299,6 +1299,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-GemsThreshold" xml:space="preserve">
                 <source>双色宝石上限</source>
+                <target>Bicolor Gemstone Cap</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-GemsThreshold-Help" xml:space="preserve">
                 <source>当持有的双色宝石数量多于设定上限时，自动前往设定区域与设定的非玩家对象交换设定物品。</source>
@@ -1492,7 +1493,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFateStartTitle" xml:space="preserve">
                 <source>自动开始临危受命任务</source>
-                <target>Auto Initiate FATE</target>
+                <target>Auto Initiate FATEs</target>
             </trans-unit>
             <trans-unit id="AutoFateSync-AutoTankStance" xml:space="preserve">
                 <source>当自身为防护职业时自动开启盾姿</source>
@@ -1522,10 +1523,11 @@ However, Level Sync will take over immediately after dismounting within that ran
             </trans-unit>
             <trans-unit id="AutoFateSyncTitle" xml:space="preserve">
                 <source>自动危命任务等级同步</source>
-                <target>Auto FATE Sync</target>
+                <target>Auto Level Sync In FATE</target>
             </trans-unit>
             <trans-unit id="AutoFateTitle" xml:space="preserve">
                 <source>自动完成危命任务</source>
+                <target>Auto Farm FATEs</target>
             </trans-unit>
             <trans-unit id="AutoFilterLogMessage-MessageToFilter" xml:space="preserve">
                 <source>待过滤消息</source>
