@@ -26,10 +26,10 @@
                 <source>调整</source>
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectDescription" xml:space="preserve">
-                <source>为玩家检视界面新增按钮, 可点击其以一键打开当前检视玩家的冒险者铭牌</source>
+                <source>为“检视”界面新增“查看冒险者铭牌”按钮，以一键查看该玩家的冒险者铭牌。</source>
             </trans-unit>
             <trans-unit id="AdventurerPlateThroughInspectTitle" xml:space="preserve">
-                <source>玩家检视界面打开冒险者铭牌</source>
+                <source>“检视”界面跳转冒险者铭牌</source>
             </trans-unit>
             <trans-unit id="Alias" xml:space="preserve">
                 <source>别名</source>
@@ -747,14 +747,11 @@
             <trans-unit id="AutoDisplayMTQObjectTitle" xml:space="preserve">
                 <source>自动显示任务对象</source>
             </trans-unit>
-            <trans-unit id="AutoDisplayMarkerInPartyList-HidePartyListIndexNumber" xml:space="preserve">
-                <source>隐藏小队列表的队员序号</source>
-            </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListDescription" xml:space="preserve">
-                <source>配置完毕后, 在任一队伍成员存在目标标记时, 同时将目标标记显示在小队列表界面对应角色上</source>
+                <source>在“小队列表”界面内队友条目上显示该队友的目标标记。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayMarkerInPartyListTitle" xml:space="preserve">
-                <source>自动小队列表显示目标标记</source>
+                <source>“小队列表”界面显示目标标记</source>
             </trans-unit>
             <trans-unit id="AutoDisplayMitigationInfoDescription" xml:space="preserve">
                 <source>当自身拥有减伤效果, 或目标拥有伤害降低效果时, 自动计算等效减伤值, 并在服务器信息栏显示效果一览</source>
