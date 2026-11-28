@@ -7742,20 +7742,20 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravel-AddDtrEntry" xml:space="preserve">
                 <source>在服务器信息栏添加快捷跨界传送菜单入口</source>
-                <target>World Visit shortcut in Server Info Bar</target>
+                <target>World Visit Shortcut In Server Info Bar</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-AutoLeaveParty" xml:space="preserve">
                 <source>自动退出非跨服小队</source>
-                <target>Auto leave non-cross-world party</target>
+                <target>Auto Leave In-world Party</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-AutoLeavePartyHelp" xml:space="preserve">
                 <source>执行跨服时, 自动退出非跨服小队</source>
-                <target>Automatically leave non-cross-world party before registering on World Visit.</target>
+                <target>Automatically leave the current in-world party before visiting another world.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-CommandHelp" xml:space="preserve">
                 <source>切换快捷跨界传送菜单的显示状态
 /pdr worldtravel &lt;服务器名&gt; (不区分大小写/部分匹配)</source>
-                <target>to access or hide the World Visit interface.
+                <target>to access or hide the Better World Visit interface.
 /pdr worldtravel &lt;world name&gt; (case insensitive and partial match)</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-DtrEntryTooltip" xml:space="preserve">
@@ -7766,7 +7766,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-CrossDCTravel" xml:space="preserve">
                 <source>超域旅行功能仅在国服可用，请等待后续更新中对其他地区的支持。</source>
-                <target>The feature is only available on the China data center. It would be available to users on other data centers in the future.</target>
+                <target>The feature is only available on China data center at the moment. We&apos;re planning to bring it to users on other data centers in the future.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelBackConfirm" xml:space="preserve">
                 <source>确定要回到原始服务器（{worldText}）吗？</source>
