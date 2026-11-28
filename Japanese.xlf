@@ -7588,25 +7588,20 @@ UI: {0}
                 <source>修改时间</source>
                 <target>変更日時</target>
             </trans-unit>
+            <trans-unit id="FastSetWeatherTime-Addon-Title" xml:space="preserve">
+                <source>天气&amp;时间</source>
+            </trans-unit>
             <trans-unit id="FastSetWeatherTime-CommandHelp" xml:space="preserve">
-                <source>打开快捷天气时间设置界面</source>
-                <target>クイック天候・時刻設定画面を開く</target>
+                <source>打开或关闭“天气&amp;时间”界面。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTime-Notification-Cleard" xml:space="preserve">
-                <source>已移除当前区域天气与时间设置</source>
-                <target>現在のエリアの天候・時刻設定を解除しました</target>
+                <source>移除了当前区域的天气与时间设置。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTime-Notification-Saved" xml:space="preserve">
-                <source>已保存当前区域天气与时间设置</source>
-                <target>現在のエリアの天候と時間の設定を保存しました</target>
-            </trans-unit>
-            <trans-unit id="FastSetWeatherTime-OperationHelp-ClickNaviMap" xml:space="preserve">
-                <source>单击导向地图界面天气图标</source>
-                <target>マップ画面の天候アイコンをクリックしてください</target>
+                <source>保存了当前区域的天气与时间设置。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTimeDescription" xml:space="preserve">
-                <source>提供游戏原生风格的快捷天气时间设置界面, 并允许保存为区域设置自动应用, 通过交互导向地图界面天气或使用 /pdr {0} 打开</source>
-                <target>ゲーム本来のデザインに合わせた天候・時刻のクイック設定画面を提供します。 設定をエリアごとに保存し、自動的に適用することが可能です。 ナビマップ上の天候アイコンをクリックするか、コマンド /pdr {0} を入力して開きます。</target>
+                <source>新增“天气&amp;时间”用以调节与保存区域内的天气与时间显示，可通过交互“导向地图”界面天气组件或使用“/pdr {command}”指令打开。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTimeTitle" xml:space="preserve">
                 <source>快捷天气时间设置</source>
