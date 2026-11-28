@@ -1329,14 +1329,22 @@
             <trans-unit id="AutoGlamourDresserTitle" xml:space="preserve">
                 <source>自动管理投影台</source>
             </trans-unit>
+            <trans-unit id="AutoGuardChatMessage-CommandHelp" xml:space="preserve">
+                <source>开启或关闭聊天消息发送防护。</source>
+            </trans-unit>
+            <trans-unit id="AutoGuardChatMessage-Disabled" xml:space="preserve">
+                <source>关闭了聊天消息发送防护。
+※发送“/pdr {command}”即可再次开启。</source>
+            </trans-unit>
             <trans-unit id="AutoGuardChatMessage-Notification" xml:space="preserve">
-                <source>已屏蔽非指令聊天信息发送</source>
+                <source>开启了聊天消息发送防护，仅能发送文本指令。
+※发送“/pdr {command}”即可解除。</source>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageDescription" xml:space="preserve">
-                <source>仅允许发送以半角斜杠开头的命令消息, 自动阻止发送其他所有一般聊天信息, 避免误触或意外发送全角指令等</source>
+                <source>使用“/pdr {command}”开启或关闭聊天消息发送防护。防护开启时，仅允许发送文本指令，阻止其他聊天消息，避免误发。</source>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageTitle" xml:space="preserve">
-                <source>自动屏蔽非指令聊天信息发送</source>
+                <source>聊天消息发送防护</source>
             </trans-unit>
             <trans-unit id="AutoGuardFishingStateDescription" xml:space="preserve">
                 <source>钓鱼期间, 除非手动使用技能 &quot;{0}&quot; 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作</source>
