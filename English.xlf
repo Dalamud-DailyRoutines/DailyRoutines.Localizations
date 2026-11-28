@@ -1127,18 +1127,24 @@ Blacklist: Skip cutscenes only if the current area is not blacklisted</target>
             <trans-unit id="AutoDisplayZoneServerID-DTR-Tooltip" xml:space="preserve">
                 <source>[左键] 复制副本区唯一标识符。
 [右键] 跳转副本区对应的“紧急遭遇战众包网”页面。</source>
+                <target>[Left Click] Copy Instance ID
+[Right Click] Inquire History On ce-crowdsource.atmoomen.top</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-Notification" xml:space="preserve">
                 <source>当前所在副本区为“{placeName}{zoneServerID}”。</source>
+                <target>The current instance is &quot;{placeName}{zoneServerID}&quot;.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerID-ServerID" xml:space="preserve">
                 <source>副本区</source>
+                <target>Instance ID</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDDescription" xml:space="preserve">
                 <source>追加“基本情报”界面条目，显示当前所在的特殊场景探索区域副本区唯一标识符，并在进入时发送通知提醒。</source>
+                <target>Provide the instance ID of the current Field Operation duty in Server Info Bar. Automatically send a notification indicating the instance ID after joining a Field Operation duty.</target>
             </trans-unit>
             <trans-unit id="AutoDisplayZoneServerIDTitle" xml:space="preserve">
                 <source>自动显示特殊场景探索副本区唯一标识符</source>
+                <target>Explicit Instance ID For Field Operations</target>
             </trans-unit>
             <trans-unit id="AutoDrawMotifs-DrawWhenOutOfCombat" xml:space="preserve">
                 <source>脱战后自动重新绘制</source>
