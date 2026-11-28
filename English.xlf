@@ -3085,11 +3085,11 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoNotifyChaoticRaidBonus-Notification" xml:space="preserve">
                 <source>“{dataCenter}”大区现已进入诛灭战限时奖励时段，成功挑战即可获得额外奖励！</source>
-                <target>The bonus for Chaotic Alliance Raid is available in the data center {dataCenter}.</target>
+                <target>The bonus for Chaotic Alliance Raid is available on the data center {dataCenter}.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyChaoticRaidBonusDescription" xml:space="preserve">
                 <source>配置后，当所在或所选大区进入诛灭战限时奖励时段时，自动发送通知提醒。</source>
-                <target>Automatically send a notification if the bonus for Chaotic Alliance Raid is available in the current data center or in a monitored data center.</target>
+                <target>Automatically send a notification if the bonus for Chaotic Alliance Raid is available on the current or any monitored data center.</target>
             </trans-unit>
             <trans-unit id="AutoNotifyChaoticRaidBonusTitle" xml:space="preserve">
                 <source>自动通知诛灭战限时奖励提升</source>
@@ -7770,7 +7770,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelBackConfirm" xml:space="preserve">
                 <source>确定要回到原始服务器（{worldText}）吗？</source>
-                <target>确定要回到原始服务器（{worldText}）吗？</target>
+                <target>Return to Home World ({worldText})?</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
                 <source>准备使用跨界传送前往{worldName}。</source>
