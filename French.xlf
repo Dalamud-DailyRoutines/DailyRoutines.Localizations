@@ -958,12 +958,10 @@ Liste noire : ignorer les cinématiques uniquement si la zone actuelle n’est p
                 <target>Affichage des incantations masquées</target>
             </trans-unit>
             <trans-unit id="AutoDisplayIDInformationDescription" xml:space="preserve">
-                <source>自动外显诸如物品、天气、状态、技能等的 ID 信息</source>
-                <target>Affiche automatiquement les ID des objets, météos, effets, actions, etc.</target>
+                <source>自动外显物品、天气、状态、技能、地图与区域唯一标识符信息。</source>
             </trans-unit>
             <trans-unit id="AutoDisplayIDInformationTitle" xml:space="preserve">
-                <source>自动显示 ID 信息</source>
-                <target>Affichage automatique des ID</target>
+                <source>自动显示唯一标识符信息</source>
             </trans-unit>
             <trans-unit id="AutoDisplayMSQProgressDescription" xml:space="preserve">
                 <source>若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比</source>
