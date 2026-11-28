@@ -3017,20 +3017,23 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Button" xml:space="preserve">
                 <source>取出未在套装内的装备</source>
-                <target>Retrieve Gear Not In Set</target>
+                <target>Retrieve Gear Not Assigned</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
                 <source>取出兵装库内所有未在套装内的装备。</source>
+                <target>to retrieve all gear not assigned to a gear set.</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Notification" xml:space="preserve">
                 <source>从兵装库取出了{count}件装备。</source>
+                <target>{count, plural, one {# piece of gear has} other {# pieces of gear have}} been retrieved from Armoury.</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetDescription" xml:space="preserve">
                 <source>在“兵装库”界面新增按钮与添加“/pdr {command}”指令，用以从兵装库内取出所有未在套装内的装备。</source>
+                <target>Provide a button in the Armoury interface to retrieve all gear not assigned to a gear set. The feature also comes with a command &quot;/pdr {command}&quot; for the same purpose.</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
-                <target>Auto Retrieve Gear Not In Set</target>
+                <target>Retrieve Gear Not Assigned To Set</target>
             </trans-unit>
             <trans-unit id="AutoMovePetCenterDescription" xml:space="preserve">
                 <source>自身在副本内召唤召唤物/副本开始时, 自动将召唤物移动至场地中心</source>
