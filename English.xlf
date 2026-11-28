@@ -7774,7 +7774,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
                 <source>准备使用跨界传送前往{worldName}。</source>
-                <target>Now proceeding to visit World {worldName}.</target>
+                <target>Now visiting World {worldName}.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
                 <source>替换原生“跨界传送”界面</source>
@@ -7786,7 +7786,7 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravelDescription" xml:space="preserve">
                 <source>提供更直观、简洁的“跨界传送”界面，新增“/pdr {command}”指令以快捷跨界，支持在利姆萨·罗敏萨下层甲板、格里达尼亚新街与乌尔达哈现世回廊区域内的任意位置发起跨界传送，且支持在其他任一非副本区域内直接开始跨界传送。</source>
-                <target>Provide a better World Visit system which allows to initiate a World Visit request anywhere in the three major settlements and to initiate an automated World Visit process anywhere except in duty. The feature comes with a clean &amp; accessible interface and a command &quot;/pdr {command}&quot; to initiate World Visit.</target>
+                <target>Provide a better World Visit system, allowing to initiate a World Visit request anywhere in the three major settlements and initiate an automated World Visit process anywhere except in duty. The feature comes with an improved interface and a command &quot;/pdr {command}&quot; to initiate a World Visit request or process.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravelTitle" xml:space="preserve">
                 <source>快捷跨界传送</source>
