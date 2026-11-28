@@ -4303,13 +4303,15 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Complete" xml:space="preserve">
                 <source>完成了雇员金币平分。</source>
-                <target>リテイナー間での金貨の均等分配が完了しました。</target>
+                <target>リテイナー間でのギルの均等分配が完了しました。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-NoNeedToShare" xml:space="preserve">
                 <source>当前各雇员持有的金币无需平分。</source>
+                <target>現在各リテイナーが保有しているギルは、均等に分ける必要はありません。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-PlayerGilFull" xml:space="preserve">
                 <source>持有的金币达到了上限，无法继续平分。</source>
+                <target>所持ギルが上限に達したため、これ以上均等に分けることはできません。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Title" xml:space="preserve">
                 <source>自动平均雇员金币</source>
@@ -4369,6 +4371,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ConductAbortBehavior" xml:space="preserve">
                 <source>采取了“{behavior}”用以处理意外情况。</source>
+                <target>予期せぬ事態に対処するため、「{behavior}」という措置を講じました。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted" xml:space="preserve">
                 <source>以此为基础创建新配置</source>
@@ -4376,6 +4379,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-DetectAbortCondition" xml:space="preserve">
                 <source>修改{retainer}出售的“{item}”价格时遇到意外情况“{abortCondition}”。</source>
+                <target>{retainer}が出品している「{item}」の価格を変更する際、予期せぬ状況「{abortCondition}」が発生しました。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ManualAdjustPrice-AllSame" xml:space="preserve">
                 <source>修改同类物品价格</source>
@@ -4391,6 +4395,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-OpenUniversalis" xml:space="preserve">
                 <source>在“Universalis”上查看</source>
+                <target>「Universalis」で見る</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PercentageReduction" xml:space="preserve">
                 <source>单次降价幅度</source>
@@ -4398,6 +4403,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceAdjustSuccessfully" xml:space="preserve">
                 <source>将{retainer}出售的“{item}”价格由{origPrice}调整为{currentPrice}（{priceMargin}/{priceMarginPercentage}）。</source>
+                <target>{retainer}が出品している「{item}」の価格を、{origPrice}から{currentPrice}に変更しました（{priceMargin}/{priceMarginPercentage}）。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceExpected" xml:space="preserve">
                 <source>预期价格</source>
@@ -4461,6 +4467,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemID" xml:space="preserve">
                 <source>物品唯一标识符</source>
+                <target>アイテムID</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemType" xml:space="preserve">
                 <source>物品类型</source>
