@@ -1786,20 +1786,27 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoGuardChatMessage-CommandHelp" xml:space="preserve">
                 <source>开启或关闭聊天消息发送防护。</source>
+                <target>チャットメッセージ送信保護の有効・無効を切り替えます。</target>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessage-Disabled" xml:space="preserve">
                 <source>关闭了聊天消息发送防护。
 ※发送“/pdr {command}”即可再次开启。</source>
+                <target>チャットメッセージ送信保護を無効にしました。
+※「/pdr {command}」と入力すると、再度有効にできます。</target>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessage-Notification" xml:space="preserve">
                 <source>开启了聊天消息发送防护，仅能发送文本指令。
 ※发送“/pdr {command}”即可解除。</source>
+                <target>チャット送信保護が有効になっています。テキストコマンドのみ送信可能です。
+※「/pdr {command}」を送信すると解除されます。</target>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageDescription" xml:space="preserve">
                 <source>使用“/pdr {command}”开启或关闭聊天消息发送防护。防护开启时，仅允许发送文本指令，阻止其他聊天消息，避免误发。</source>
+                <target>「/pdr {command}」を使用して、チャットメッセージ送信保護の有効・無効を切り替えます。保護が有効な間はテキストコマンドの送信のみが許可され、その他のチャットメッセージはブロックされるため、誤送信を防ぐことができます。</target>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageTitle" xml:space="preserve">
                 <source>聊天消息发送防护</source>
+                <target>チャットメッセージ送信保護</target>
             </trans-unit>
             <trans-unit id="AutoGuardFishingStateDescription" xml:space="preserve">
                 <source>钓鱼期间, 除非手动使用技能 &quot;{0}&quot; 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作</source>
@@ -3586,6 +3593,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
                 <source>没有符合条件的染剂颜色。</source>
+                <target>条件に一致する染料の色はありません。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
@@ -3645,6 +3653,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
                 <source>当前没有可供染色预览的装备。</source>
+                <target>現在、染色プレビュー可能な装備はありません。</target>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
@@ -4238,6 +4247,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortBehavior-SellToVendor" xml:space="preserve">
                 <source>委托雇员出售物品</source>
+                <target>リテイナーに物品の販売を委託する</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortCondition-AboveExpected" xml:space="preserve">
                 <source>高于预期值</source>
@@ -4293,6 +4303,7 @@ F.A.T.E.範囲内で騎乗解除すると、自動的にレベルシンクしま
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Complete" xml:space="preserve">
                 <source>完成了雇员金币平分。</source>
+                <target>リテイナー間での金貨の均等分配が完了しました。</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-NoNeedToShare" xml:space="preserve">
                 <source>当前各雇员持有的金币无需平分。</source>
