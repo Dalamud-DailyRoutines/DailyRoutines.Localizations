@@ -5532,6 +5532,8 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
                 <source>[左键] 打开帧数限制界面。
 [右键] 打开帧数监测界面。</source>
+                <target>[左クリック] フレームレート制限画面を開く。
+[右クリック] フレームレート監視画面を開く。</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
                 <source>快速设置</source>
@@ -5543,33 +5545,43 @@ ID/アライアンスに入る際、タンクが自分一人しかいないた�
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-FrameTime" xml:space="preserve">
                 <source>帧耗时：{ms}毫秒</source>
+                <target>フレーム処理時間：{ms}ミリ秒</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-Limit" xml:space="preserve">
                 <source>上限：{fps}帧</source>
+                <target>上限：{fps}フレーム</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-OpenAddon" xml:space="preserve">
                 <source>打开帧数限制界面</source>
+                <target>フレームレート制限画面を開く</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-Pin" xml:space="preserve">
                 <source>固定窗口</source>
+                <target>固定ウィンドウ</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-Unlimited" xml:space="preserve">
                 <source>无上限</source>
+                <target>上限なし</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Overlay-Unpin" xml:space="preserve">
                 <source>取消固定</source>
+                <target>取消固定</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Stat-Avg" xml:space="preserve">
                 <source>平均</source>
+                <target>平均</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Stat-Max" xml:space="preserve">
                 <source>最高</source>
+                <target>最高</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Stat-Min" xml:space="preserve">
                 <source>最低</source>
+                <target>最低</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-Stat-OnePercentLow" xml:space="preserve">
                 <source>1%低帧</source>
+                <target>1%低フレームレート</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
                 <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
