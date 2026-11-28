@@ -1313,6 +1313,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty" xml:space="preserve">
                 <source>体力百分比下限（%）</source>
+                <target>Critical HP Threshold (%)</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty-Help" xml:space="preserve">
                 <source>若自身体力百分比低于设定下限时，自动进退副本一次，以避免陷入无法战斗状态。</source>
