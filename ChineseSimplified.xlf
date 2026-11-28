@@ -2812,14 +2812,29 @@
             <trans-unit id="AutoRefreshMarketSearchResultTitle" xml:space="preserve">
                 <source>自动刷新市场搜索结果</source>
             </trans-unit>
+            <trans-unit id="AutoRefreshPartyFinder-AutoRefresh" xml:space="preserve">
+                <source>自动刷新</source>
+            </trans-unit>
+            <trans-unit id="AutoRefreshPartyFinder-AutoRefreshTooltip" xml:space="preserve">
+                <source>开启或暂停自动刷新队员招募列表。</source>
+            </trans-unit>
+            <trans-unit id="AutoRefreshPartyFinder-Format" xml:space="preserve">
+                <source>{interval}秒</source>
+            </trans-unit>
+            <trans-unit id="AutoRefreshPartyFinder-IntervalPrompt" xml:space="preserve">
+                <source>请设定自动刷新间隔（秒）。</source>
+            </trans-unit>
             <trans-unit id="AutoRefreshPartyFinder-OnlyInactive" xml:space="preserve">
-                <source>仅未操作状态下</source>
+                <source>仅空闲时</source>
+            </trans-unit>
+            <trans-unit id="AutoRefreshPartyFinder-OnlyInactiveTooltip" xml:space="preserve">
+                <source>操作队员招募列表时会重置刷新计时，以避免打断浏览。</source>
             </trans-unit>
             <trans-unit id="AutoRefreshPartyFinderDescription" xml:space="preserve">
-                <source>打开队员招募后, 每经过固定间隔时间时, 自动刷新一次招募板</source>
+                <source>打开“队员招募”界面后，定期自动刷新列表。</source>
             </trans-unit>
             <trans-unit id="AutoRefreshPartyFinderTitle" xml:space="preserve">
-                <source>自动刷新招募板</source>
+                <source>自动刷新队员招募列表</source>
             </trans-unit>
             <trans-unit id="AutoRefuseTrade-ExtraCommands" xml:space="preserve">
                 <source>额外文本指令 (一行一条)</source>
