@@ -1307,9 +1307,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-PositionHelp" xml:space="preserve">
                 <source>请设定为目标非玩家对象面前的可交互位置。</source>
+                <target>Please set it to a precise position from which a Gemstone Trader is within interaction range.</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoExchange-ZoneHelp" xml:space="preserve">
                 <source>请设定为目标非玩家对象所在的区域。</source>
+                <target>Please set it to a zone in which a Gemstone Trader is located.</target>
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty" xml:space="preserve">
                 <source>体力百分比下限（%）</source>
@@ -1317,6 +1319,7 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoFate-AutoJoinExitDuty-Help" xml:space="preserve">
                 <source>若自身体力百分比低于设定下限时，自动进退副本一次，以避免陷入无法战斗状态。</source>
+                <target>Automatically join and leave a duty with Unrestricted Party enabled in order to restore the character to full condition if the character&apos;s HP is below the critical threshold.</target>
             </trans-unit>
             <trans-unit id="AutoFate-BlacklistHelp" xml:space="preserve">
                 <source>若将危命任务拉黑，则不会前往该危命任务。</source>
