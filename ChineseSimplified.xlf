@@ -2665,7 +2665,7 @@
                 <source>预览染剂颜色</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
-                <source>没有符合条件的染剂颜色</source>
+                <source>没有符合条件的染剂颜色。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
@@ -2710,7 +2710,7 @@
                 <source>试穿染色2</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
-                <source>当前没有可供染色预览的装备</source>
+                <source>当前没有可供染色预览的装备。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
@@ -4111,14 +4111,44 @@
                 <source>当前帧数</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
-                <source>[左键] 打开帧数限制界面
-[右键] 打开帧数监测界面</source>
+                <source>[左键] 打开帧数限制界面。
+[右键] 打开帧数监测界面。</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
                 <source>快速设置</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
                 <source>最高帧数</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-FrameTime" xml:space="preserve">
+                <source>帧耗时：{ms}毫秒</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Limit" xml:space="preserve">
+                <source>上限：{fps}帧</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-OpenAddon" xml:space="preserve">
+                <source>打开帧数限制界面</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Pin" xml:space="preserve">
+                <source>固定窗口</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Unlimited" xml:space="preserve">
+                <source>无上限</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Unpin" xml:space="preserve">
+                <source>取消固定</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Avg" xml:space="preserve">
+                <source>平均</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Max" xml:space="preserve">
+                <source>最高</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Min" xml:space="preserve">
+                <source>最低</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-OnePercentLow" xml:space="preserve">
+                <source>1%低帧</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
                 <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
@@ -4131,15 +4161,6 @@
             </trans-unit>
             <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
                 <source>取消了帧数限制。</source>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
-                <source>平均帧数</source>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
-                <source>最高帧数</source>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
-                <source>最低帧数</source>
             </trans-unit>
             <trans-unit id="BetterFateProgressUI-LeftFateAmount" xml:space="preserve">
                 <source>剩余 {0} 次</source>
