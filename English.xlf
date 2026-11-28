@@ -1212,11 +1212,11 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-Notification-Message" xml:space="preserve">
                 <source>军票数量即将超出上限，停止了自动筹备稀有品。</source>
-                <target>The auto delivery has been terminated since it almost reaches the Company Seal cap.</target>
+                <target>The delivery process has been terminated since Grand Company Seals are about to reach the cap.</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-Notification-Title" xml:space="preserve">
                 <source>自动提交停止</source>
-                <target>The auto delivery has been terminated.</target>
+                <target>The delivery process has been terminated.</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-OpenShop" xml:space="preserve">
                 <source>打开军票交换所</source>
@@ -1228,24 +1228,26 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
                 <source>不提交高品质装备</source>
+                <target>Skip HQ Gear</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
                 <source>不提交镶嵌有魔晶石的装备</source>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
                 <source>不提交绝境战装备</source>
+                <target>Skip Ultimate Raid Rewards</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
-                <target>Batch Delivery</target>
+                <target>Batch Deliver</target>
             </trans-unit>
             <trans-unit id="AutoExpertDeliveryDescription" xml:space="preserve">
                 <source>允许在“筹备任务”界面中批量提交稀有品，并支持修改打开界面时的默认分页。</source>
-                <target>Allow to expert deliver items in batch and set a default tab for the Expert Delivery interface.</target>
+                <target>Provide a better Expert Delivery interface, allowing to deliver items in batch and set a default tab for the interface.</target>
             </trans-unit>
             <trans-unit id="AutoExpertDeliveryTitle" xml:space="preserve">
                 <source>自动筹备稀有品</source>
-                <target>Auto Expert Delivery</target>
+                <target>Better Expert Delivery</target>
             </trans-unit>
             <trans-unit id="AutoFCWSDeliverDescription" xml:space="preserve">
                 <source>打开提供素材界面, 并点击开始后, 自动交纳当前所有可用素材</source>
