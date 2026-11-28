@@ -7774,9 +7774,11 @@ If the option is enabled, the tray icon would persistently exist even when the g
             </trans-unit>
             <trans-unit id="FastWorldTravel-Notification-TravelingTo" xml:space="preserve">
                 <source>准备使用跨界传送前往{worldName}。</source>
+                <target>Now proceeding to visit World {worldName}.</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-ReplaceOrigAddon" xml:space="preserve">
                 <source>替换原生“跨界传送”界面</source>
+                <target>Replace Vanilla World Visit</target>
             </trans-unit>
             <trans-unit id="FastWorldTravel-SkipTravelBackConfirm" xml:space="preserve">
                 <source>跳过返回原始服务器确认</source>
