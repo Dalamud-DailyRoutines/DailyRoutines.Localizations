@@ -3154,7 +3154,7 @@
                 <source>收回至雇员</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortBehavior-SellToVendor" xml:space="preserve">
-                <source>出售至系统商店</source>
+                <source>委托雇员出售物品</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortCondition-AboveExpected" xml:space="preserve">
                 <source>高于预期值</source>
@@ -3189,10 +3189,6 @@
             <trans-unit id="AutoRetainerWork-Collect-Title" xml:space="preserve">
                 <source>自动收取雇员</source>
             </trans-unit>
-            <trans-unit id="AutoRetainerWork-Dispatch-Description" xml:space="preserve">
-                <source>打开雇员窗口的雇员登记市场变更列表, (如下图所示)
-点击开始后, 自动将所有雇员的登记市场改为当前城市</source>
-            </trans-unit>
             <trans-unit id="AutoRetainerWork-Dispatch-Title" xml:space="preserve">
                 <source>自动变更雇员登记市场</source>
             </trans-unit>
@@ -3200,13 +3196,13 @@
                 <source>自动道具合并递交</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Complete" xml:space="preserve">
-                <source>雇员金币平分已完成</source>
+                <source>完成了雇员金币平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-NoNeedToShare" xml:space="preserve">
-                <source>当前雇员金币无需平分</source>
+                <source>当前各雇员持有的金币无需平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-PlayerGilFull" xml:space="preserve">
-                <source>玩家金币已满, 无法进行平分</source>
+                <source>持有的金币达到了上限，无法继续平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Title" xml:space="preserve">
                 <source>自动平均雇员金币</source>
@@ -3251,15 +3247,13 @@
                 <source>通用物品配置</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ConductAbortBehavior" xml:space="preserve">
-                <source>执行设定逻辑: {0}</source>
+                <source>采取了“{behavior}”用以处理意外情况。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted" xml:space="preserve">
                 <source>以此为基础创建新配置</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-DetectAbortCondition" xml:space="preserve">
-                <source>检测到意外情况: {2}
-物品: {0}
-雇员: {1}</source>
+                <source>修改{retainer}出售的“{item}”价格时遇到意外情况“{abortCondition}”。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ManualAdjustPrice-AllSame" xml:space="preserve">
                 <source>修改同类物品价格</source>
@@ -3271,17 +3265,13 @@
                 <source>获取收购价格</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-OpenUniversalis" xml:space="preserve">
-                <source>打开 Universalis</source>
+                <source>在“Universalis”上查看</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PercentageReduction" xml:space="preserve">
                 <source>单次降价幅度</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceAdjustSuccessfully" xml:space="preserve">
-                <source>物品价格修改成功
-物品: {0}
-雇员: {1}
-原价: {2}
-现价: {3} ({4} / {5})</source>
+                <source>将{retainer}出售的“{item}”价格由{origPrice}调整为{currentPrice}（{priceMargin}/{priceMarginPercentage}）。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceExpected" xml:space="preserve">
                 <source>预期价格</source>
@@ -3329,7 +3319,7 @@
                 <source>自动刷新雇员状态</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemID" xml:space="preserve">
-                <source>物品 ID</source>
+                <source>物品唯一标识符</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemType" xml:space="preserve">
                 <source>物品类型</source>
