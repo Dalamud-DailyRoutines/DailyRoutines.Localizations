@@ -7195,25 +7195,20 @@ XivGear (xivgear.app)</target>
                 <source>修改时间</source>
                 <target>修改時間</target>
             </trans-unit>
+            <trans-unit id="FastSetWeatherTime-Addon-Title" xml:space="preserve">
+                <source>天气&amp;时间</source>
+            </trans-unit>
             <trans-unit id="FastSetWeatherTime-CommandHelp" xml:space="preserve">
-                <source>打开快捷天气时间设置界面</source>
-                <target>打開快捷天氣時間設定界面</target>
+                <source>打开或关闭“天气&amp;时间”界面。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTime-Notification-Cleard" xml:space="preserve">
-                <source>已移除当前区域天气与时间设置</source>
-                <target>已移除當前區域天氣與時間設定</target>
+                <source>移除了当前区域的天气与时间设置。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTime-Notification-Saved" xml:space="preserve">
-                <source>已保存当前区域天气与时间设置</source>
-                <target>已保存当前区域天气与时间设置</target>
-            </trans-unit>
-            <trans-unit id="FastSetWeatherTime-OperationHelp-ClickNaviMap" xml:space="preserve">
-                <source>单击导向地图界面天气图标</source>
-                <target>單擊導向地圖界面天氣圖示</target>
+                <source>保存了当前区域的天气与时间设置。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTimeDescription" xml:space="preserve">
-                <source>提供游戏原生风格的快捷天气时间设置界面, 并允许保存为区域设置自动应用, 通过交互导向地图界面天气或使用 /pdr {0} 打开</source>
-                <target>提供遊戲原生風格的快捷天氣時間設定界面, 並允許保存為區域設置自動應用, 透過交互導向地圖界面天氣或使用 /pdr {0} 打開</target>
+                <source>新增“天气&amp;时间”用以调节与保存区域内的天气与时间显示，可通过交互“导向地图”界面天气组件或使用“/pdr {command}”指令打开。</source>
             </trans-unit>
             <trans-unit id="FastSetWeatherTimeTitle" xml:space="preserve">
                 <source>快捷天气时间设置</source>
