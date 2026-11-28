@@ -1228,14 +1228,15 @@ Commands will be executed as a macro, meaning one command per line, with a maxim
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipHQItems" xml:space="preserve">
                 <source>不提交高品质装备</source>
-                <target>Skip HQ Gear</target>
+                <target>Exclude HQ Gear From Delivery</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipMaterias" xml:space="preserve">
                 <source>不提交镶嵌有魔晶石的装备</source>
+                <target>Exclude Gear With Materia From Delivery</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-SkipUltimateWeapons" xml:space="preserve">
                 <source>不提交绝境战装备</source>
-                <target>Skip Ultimate Raid Rewards</target>
+                <target>Exclude Ultimate Raid Rewards From Delivery</target>
             </trans-unit>
             <trans-unit id="AutoExpertDelivery-StartBatch" xml:space="preserve">
                 <source>批量提交</source>
@@ -3016,7 +3017,7 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-Button" xml:space="preserve">
                 <source>取出未在套装内的装备</source>
-                <target>Retrieve Gears Not In Sets</target>
+                <target>Retrieve Gear Not In Set</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSet-CommandHelp" xml:space="preserve">
                 <source>取出兵装库内所有未在套装内的装备。</source>
@@ -3029,7 +3030,7 @@ Remaining Time: {0} second(s)</target>
             </trans-unit>
             <trans-unit id="AutoMoveGearsNotInSetTitle" xml:space="preserve">
                 <source>自动取出未在套装内装备</source>
-                <target>Auto Retrieve Gears Not In Sets</target>
+                <target>Auto Retrieve Gear Not In Set</target>
             </trans-unit>
             <trans-unit id="AutoMovePetCenterDescription" xml:space="preserve">
                 <source>自身在副本内召唤召唤物/副本开始时, 自动将召唤物移动至场地中心</source>
