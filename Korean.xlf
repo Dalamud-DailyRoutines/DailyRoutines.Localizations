@@ -1744,17 +1744,22 @@
                 <source>自动管理投影台</source>
                 <target>프로젝션 화면 자동 관리</target>
             </trans-unit>
+            <trans-unit id="AutoGuardChatMessage-CommandHelp" xml:space="preserve">
+                <source>开启或关闭聊天消息发送防护。</source>
+            </trans-unit>
+            <trans-unit id="AutoGuardChatMessage-Disabled" xml:space="preserve">
+                <source>关闭了聊天消息发送防护。
+※发送“/pdr {command}”即可再次开启。</source>
+            </trans-unit>
             <trans-unit id="AutoGuardChatMessage-Notification" xml:space="preserve">
-                <source>已屏蔽非指令聊天信息发送</source>
-                <target>명령어가 아닌 채팅 메시지 전송을 차단합니다.</target>
+                <source>开启了聊天消息发送防护，仅能发送文本指令。
+※发送“/pdr {command}”即可解除。</source>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageDescription" xml:space="preserve">
-                <source>仅允许发送以半角斜杠开头的命令消息, 自动阻止发送其他所有一般聊天信息, 避免误触或意外发送全角指令等</source>
-                <target>반각 슬래시(/)로 시작하는 명령어 메시지만 전송할 수 있으며, 그 외의 모든 일반 채팅 메시지는 자동으로 차단됩니다. 명령어 오입력이나 전각 문자 사용으로 인한 채팅 실수를 방지할 수 있습니다.</target>
+                <source>使用“/pdr {command}”开启或关闭聊天消息发送防护。防护开启时，仅允许发送文本指令，阻止其他聊天消息，避免误发。</source>
             </trans-unit>
             <trans-unit id="AutoGuardChatMessageTitle" xml:space="preserve">
-                <source>自动屏蔽非指令聊天信息发送</source>
-                <target>명령어 외 채팅 메시지 전송 자동 차단</target>
+                <source>聊天消息发送防护</source>
             </trans-unit>
             <trans-unit id="AutoGuardFishingStateDescription" xml:space="preserve">
                 <source>钓鱼期间, 除非手动使用技能 &quot;{0}&quot; 或在按住打断热键的状态下操作游戏以打断, 否则自动屏蔽所有会中断钓鱼的行为, 以防止意外误操作</source>
@@ -3528,7 +3533,7 @@
                 <source>预览染剂颜色</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-EmptyResult" xml:space="preserve">
-                <source>没有符合条件的染剂颜色</source>
+                <source>没有符合条件的染剂颜色。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-Filter-Housing" xml:space="preserve">
                 <source>可染家具</source>
@@ -3573,7 +3578,7 @@
                 <source>试穿染色2</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDye-TryOnNoEquip" xml:space="preserve">
-                <source>当前没有可供染色预览的装备</source>
+                <source>当前没有可供染色预览的装备。</source>
             </trans-unit>
             <trans-unit id="AutoPreviewColorsInDyeDescription" xml:space="preserve">
                 <source>悬浮染剂时自动在“道具帮助”旁预览其包含的颜色。新增“染剂图鉴”界面，可在其中筛选色系、搜索染剂、比较相近色、实时试穿与查看复制具体色值，支持通过打断热键、右键菜单或“/pdr {command}”文本指令打开。</source>
@@ -4152,8 +4157,7 @@
                 <target>집사 소지품으로 회수</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortBehavior-SellToVendor" xml:space="preserve">
-                <source>出售至系统商店</source>
-                <target>상점에 판매</target>
+                <source>委托雇员出售物品</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-AbortCondition-AboveExpected" xml:space="preserve">
                 <source>高于预期值</source>
@@ -4199,12 +4203,6 @@
                 <source>自动收取雇员</source>
                 <target>집사 수행 아이템 회수</target>
             </trans-unit>
-            <trans-unit id="AutoRetainerWork-Dispatch-Description" xml:space="preserve">
-                <source>打开雇员窗口的雇员登记市场变更列表, (如下图所示)
-点击开始后, 自动将所有雇员的登记市场改为当前城市</source>
-                <target>집사의 장터 등록 변경 목록을 아래와 같이 열고,
-&apos;시작&apos;을 클릭하면 모든 집사의 등록 장터가 현재 도시로 자동 변경됩니다.</target>
-            </trans-unit>
             <trans-unit id="AutoRetainerWork-Dispatch-Title" xml:space="preserve">
                 <source>自动变更雇员登记市场</source>
                 <target>집사 등록 장터 자동 변경</target>
@@ -4214,16 +4212,13 @@
                 <target>아이템 자동 일괄 위임</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Complete" xml:space="preserve">
-                <source>雇员金币平分已完成</source>
-                <target>집사 길 균등 분배 완료</target>
+                <source>完成了雇员金币平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-NoNeedToShare" xml:space="preserve">
-                <source>当前雇员金币无需平分</source>
-                <target>현재 집사 길 균등 분배 불필요</target>
+                <source>当前各雇员持有的金币无需平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-PlayerGilFull" xml:space="preserve">
-                <source>玩家金币已满, 无法进行平分</source>
-                <target>플레이어 소지금이 가득 차서 균등 분배를 진행할 수 없습니다.</target>
+                <source>持有的金币达到了上限，无法继续平分。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-GilsShare-Title" xml:space="preserve">
                 <source>自动平均雇员金币</source>
@@ -4282,20 +4277,14 @@
                 <target>아이템 일반 설정</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ConductAbortBehavior" xml:space="preserve">
-                <source>执行设定逻辑: {0}</source>
-                <target>설정된 로직 실행 중: {0}</target>
+                <source>采取了“{behavior}”用以处理意外情况。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted" xml:space="preserve">
                 <source>以此为基础创建新配置</source>
                 <target>이를 기반으로 새 설정 만들기</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-DetectAbortCondition" xml:space="preserve">
-                <source>检测到意外情况: {2}
-物品: {0}
-雇员: {1}</source>
-                <target>예기치 못한 상황이 감지되었습니다: {2}
-아이템: {0}
-집사: {1}</target>
+                <source>修改{retainer}出售的“{item}”价格时遇到意外情况“{abortCondition}”。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-ManualAdjustPrice-AllSame" xml:space="preserve">
                 <source>修改同类物品价格</source>
@@ -4310,24 +4299,14 @@
                 <target>매입 가격 가져오기</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-OpenUniversalis" xml:space="preserve">
-                <source>打开 Universalis</source>
-                <target>Universalis 열기</target>
+                <source>在“Universalis”上查看</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PercentageReduction" xml:space="preserve">
                 <source>单次降价幅度</source>
                 <target>1회당 할인율</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceAdjustSuccessfully" xml:space="preserve">
-                <source>物品价格修改成功
-物品: {0}
-雇员: {1}
-原价: {2}
-现价: {3} ({4} / {5})</source>
-                <target>아이템 출품가 변경 성공
-아이템: {0}
-집사: {1}
-기존 가격: {2}
-새 가격: {3} ({4} / {5})</target>
+                <source>将{retainer}出售的“{item}”价格由{origPrice}调整为{currentPrice}（{priceMargin}/{priceMarginPercentage}）。</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-PriceAdjust-PriceExpected" xml:space="preserve">
                 <source>预期价格</source>
@@ -4390,8 +4369,7 @@
                 <target>집사 상황 자동 갱신</target>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemID" xml:space="preserve">
-                <source>物品 ID</source>
-                <target>아이템 ID</target>
+                <source>物品唯一标识符</source>
             </trans-unit>
             <trans-unit id="AutoRetainerWork-SortOrder-ItemType" xml:space="preserve">
                 <source>物品类型</source>
@@ -5456,10 +5434,8 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
                 <target>현재 FPS</target>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-DTR-Tooltip" xml:space="preserve">
-                <source>[左键] 打开帧数限制界面
-[右键] 打开帧数监测界面</source>
-                <target>[좌클릭] 프레임 수 제한 화면 열기
-[우클릭] 프레임 수 모니터링 화면 열기</target>
+                <source>[左键] 打开帧数限制界面。
+[右键] 打开帧数监测界面。</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitation-FastSetFPSLimitation" xml:space="preserve">
                 <source>快速设置</source>
@@ -5468,6 +5444,36 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterFPSLimitation-MaxFPS" xml:space="preserve">
                 <source>最高帧数</source>
                 <target>최고 프레임</target>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-FrameTime" xml:space="preserve">
+                <source>帧耗时：{ms}毫秒</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Limit" xml:space="preserve">
+                <source>上限：{fps}帧</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-OpenAddon" xml:space="preserve">
+                <source>打开帧数限制界面</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Pin" xml:space="preserve">
+                <source>固定窗口</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Unlimited" xml:space="preserve">
+                <source>无上限</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Overlay-Unpin" xml:space="preserve">
+                <source>取消固定</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Avg" xml:space="preserve">
+                <source>平均</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Max" xml:space="preserve">
+                <source>最高</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-Min" xml:space="preserve">
+                <source>最低</source>
+            </trans-unit>
+            <trans-unit id="BetterFPSLimitation-Stat-OnePercentLow" xml:space="preserve">
+                <source>1%低帧</source>
             </trans-unit>
             <trans-unit id="BetterFPSLimitationDescription" xml:space="preserve">
                 <source>支持以任意值限制游戏帧率，并在服务器信息栏实时显示当前帧数，且提供原生界面快捷限制帧率。</source>
@@ -5484,18 +5490,6 @@ ID/연합 레이드 진입 시, 탱커가 자신 한 명뿐이면 자동으로 �
             <trans-unit id="BetterFPSLimitationTitle-Notification-Unset" xml:space="preserve">
                 <source>取消了帧数限制。</source>
                 <target>프레임 리밋 해제</target>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Avg" xml:space="preserve">
-                <source>平均帧数</source>
-                <target>평균 프레임</target>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Max" xml:space="preserve">
-                <source>最高帧数</source>
-                <target>최고 프레임</target>
-            </trans-unit>
-            <trans-unit id="BetterFPSLimitationTitle-Stat-Min" xml:space="preserve">
-                <source>最低帧数</source>
-                <target>최저 프레임</target>
             </trans-unit>
             <trans-unit id="BetterFateProgressUI-LeftFateAmount" xml:space="preserve">
                 <source>剩余 {0} 次</source>
